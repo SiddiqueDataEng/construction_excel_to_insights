@@ -1,0 +1,12 @@
+row_no,item_code,description,unit,opening_stock,received,issued,balance,remarks,_source_file,_folder,_project
+Project: SATTI_MALL   Month: September 2007,,,,,,,,,inventory\SATTI_MALL_Inventory_Sep2007.xlsx,inventory,SATTI_MALL
+1,GENERATOR 25KVA,25KVA Genset,nos,182.4,499.1,11.6,669.9,,inventory\SATTI_MALL_Inventory_Sep2007.xlsx,inventory,SATTI_MALL
+2,MRB-IMP,White Marble Imp.,sft,38.8,,143.1,336.6,,inventory\SATTI_MALL_Inventory_Sep2007.xlsx,inventory,SATTI_MALL
+3,"A.WIN 4""",ALU-WIN4,nos,146.3,270.3,306.6,110.0,,inventory\SATTI_MALL_Inventory_Sep2007.xlsx,inventory,SATTI_MALL
+4,WIRE_3029,CopWire3,mtr,2.4,385.1,247.2,140.3,,inventory\SATTI_MALL_Inventory_Sep2007.xlsx,inventory,SATTI_MALL
+5,STL-RB12,REBAR-12MM,kg,67.3,76.4,38.6,105.0,Reorder,inventory\SATTI_MALL_Inventory_Sep2007.xlsx,inventory,SATTI_MALL
+6,CEMENT BAG 50KG,CEM-OPC50,bag,70.8,385.0,342.7,113.0,Reorder,inventory\SATTI_MALL_Inventory_Sep2007.xlsx,inventory,SATTI_MALL
+7,"TILE 12X12""",TIL-CER12,sft,114.6,338.4,402.4,50.6,Surplus,inventory\SATTI_MALL_Inventory_Sep2007.xlsx,inventory,SATTI_MALL
+8,BRICKS_A,Red Brick A-Grade,1000,50.2,73.6,107.9,15.9,,inventory\SATTI_MALL_Inventory_Sep2007.xlsx,inventory,SATTI_MALL
+9,SAN-WC,WC-STD,nos,104.1,305.3,,52.8,,inventory\SATTI_MALL_Inventory_Sep2007.xlsx,inventory,SATTI_MALL
+Store Keeper:,,Site Engr:,,,,,,,inventory\SATTI_MALL_Inventory_Sep2007.xlsx,inventory,SATTI_MALL

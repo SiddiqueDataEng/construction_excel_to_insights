@@ -1,0 +1,14 @@
+row_no,name,trade,qty,rate,total,deductions,net,_source_file,_folder,_project
+Month: July 2012,,,,,,,,labour_wages\SATTI_PLAZA_Labour_Jul2012.xlsx,labour_wages,SATTI_PLAZA
+1,Zahid Chaudhry,Security Guard,22,700.0,15400.0,7700,7700,labour_wages\SATTI_PLAZA_Labour_Jul2012.xlsx,labour_wages,SATTI_PLAZA
+2,Hamid Raza,Site Engineer,22,,55000.0,16500,38500,labour_wages\SATTI_PLAZA_Labour_Jul2012.xlsx,labour_wages,SATTI_PLAZA
+3,Kamran Chaudhry,Supervisor,19,1800.0,34200.0,0,"34,200/-",labour_wages\SATTI_PLAZA_Labour_Jul2012.xlsx,labour_wages,SATTI_PLAZA
+4,Muhammad Sheikh,Supervisor,23,1800.0,41400.0,0,41400,labour_wages\SATTI_PLAZA_Labour_Jul2012.xlsx,labour_wages,SATTI_PLAZA
+5,Farooq Qureshi,Security Guard,24,700.0,16800.0,0,16800,labour_wages\SATTI_PLAZA_Labour_Jul2012.xlsx,labour_wages,SATTI_PLAZA
+6,Asif Ansari,Supervisor,24,1800.0,43200.0,0,43200,labour_wages\SATTI_PLAZA_Labour_Jul2012.xlsx,labour_wages,SATTI_PLAZA
+7,Zahid Raza,Helper,16,600.0,,0/-,9600,labour_wages\SATTI_PLAZA_Labour_Jul2012.xlsx,labour_wages,SATTI_PLAZA
+8,Usman Qureshi,Painter,16,850.0,13600.0,4080,9520,labour_wages\SATTI_PLAZA_Labour_Jul2012.xlsx,labour_wages,SATTI_PLAZA
+9,Hamid Ansari,Helper,25/-,600.0,15000.0,0,15000,labour_wages\SATTI_PLAZA_Labour_Jul2012.xlsx,labour_wages,SATTI_PLAZA
+10,Usman Malik,Supervisor,25,1800.0,45000.0,0,45000,labour_wages\SATTI_PLAZA_Labour_Jul2012.xlsx,labour_wages,SATTI_PLAZA
+,,,,,,,,labour_wages\SATTI_PLAZA_Labour_Jul2012.xlsx,labour_wages,SATTI_PLAZA
+Prepared by:,,,Checked by:,,,Approved:,,labour_wages\SATTI_PLAZA_Labour_Jul2012.xlsx,labour_wages,SATTI_PLAZA

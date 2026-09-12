@@ -1,0 +1,13 @@
+row_no,name,trade,qty,rate,amount,advance,total,_source_file,_folder,_project
+Month: July 2011,,,,,,,,labour_wages\SATTI_PLAZA_Labour_Jul2011.xlsx,labour_wages,SATTI_PLAZA
+1,Usman Malik,Supervisor,21,1800.0,37800.0,0.0,37800.0,labour_wages\SATTI_PLAZA_Labour_Jul2011.xlsx,labour_wages,SATTI_PLAZA
+2,Kamran Qureshi,Plumber,TBD,1100.0,17600.0,0.0,17600.0,labour_wages\SATTI_PLAZA_Labour_Jul2011.xlsx,labour_wages,SATTI_PLAZA
+3,Sajid Khan,Carpenter,28,1000.0,28000.0,0.0,28000.0,labour_wages\SATTI_PLAZA_Labour_Jul2011.xlsx,labour_wages,SATTI_PLAZA
+4,Tariq Butt,Electrician,23,1200.0,27600.0,8280.0,19320.0,labour_wages\SATTI_PLAZA_Labour_Jul2011.xlsx,labour_wages,SATTI_PLAZA
+5,Arif Raza,Helper,22,600.0,13200.0,6600.0,6600.0,labour_wages\SATTI_PLAZA_Labour_Jul2011.xlsx,labour_wages,SATTI_PLAZA
+6,Muhammad Malik,Carpenter,25,1000.0,25000.0,0.0,25000.0,labour_wages\SATTI_PLAZA_Labour_Jul2011.xlsx,labour_wages,SATTI_PLAZA
+7,Muhammad Raza,Mason,17,900.0,15300.0,0.0,15300.0,labour_wages\SATTI_PLAZA_Labour_Jul2011.xlsx,labour_wages,SATTI_PLAZA
+8,Farooq Mirza,Site Engineer,27,2500.0,67500.0,,67500.0,labour_wages\SATTI_PLAZA_Labour_Jul2011.xlsx,labour_wages,SATTI_PLAZA
+9,Bilal Sheikh,Welder,21,1100.0,,11550.0,,labour_wages\SATTI_PLAZA_Labour_Jul2011.xlsx,labour_wages,SATTI_PLAZA
+,,,,,,,,labour_wages\SATTI_PLAZA_Labour_Jul2011.xlsx,labour_wages,SATTI_PLAZA
+Prepared by:,,,Checked by:,,,,,labour_wages\SATTI_PLAZA_Labour_Jul2011.xlsx,labour_wages,SATTI_PLAZA

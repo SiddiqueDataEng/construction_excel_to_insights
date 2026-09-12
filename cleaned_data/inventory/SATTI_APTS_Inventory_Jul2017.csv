@@ -1,0 +1,19 @@
+row_no,item_code,description,unit,opening_stock,credit,debit,closing_stock,nan,_source_file,_folder,_project
+Project: SATTI_APTS   Month: July 2017,,,,,,,,,inventory\SATTI_APTS_Inventory_Jul2017.xlsx,inventory,SATTI_APTS
+1,CEM-OPC-50,OPC 50 KG,bag,147.1,50.8,,185.0,,inventory\SATTI_APTS_Inventory_Jul2017.xlsx,inventory,SATTI_APTS
+2,COPPER WIRE 7/.029,7/0.029 Copper Wire,mtr,39.3,,72.0,10.0,OK,inventory\SATTI_APTS_Inventory_Jul2017.xlsx,inventory,SATTI_APTS
+3,TIL-CER-12,TILE-12X12,sft,59.4,225.0,152.0,132.8,Surplus,inventory\SATTI_APTS_Inventory_Jul2017.xlsx,inventory,SATTI_APTS
+4,GI_PIPE_1INCH,GI PIPE 1IN,rft,132.7,156.4,132.0,157.1,Reorder,inventory\SATTI_APTS_Inventory_Jul2017.xlsx,inventory,SATTI_APTS
+5,MAR-W-IMP,Imported White Marble,sft,156.6,371.0,97.0,430.6,,inventory\SATTI_APTS_Inventory_Jul2017.xlsx,inventory,SATTI_APTS
+6,CNC-M20,M20 Ready Mix Concrete,cft,83.4,342.2,398.0,27.7,Surplus,inventory\SATTI_APTS_Inventory_Jul2017.xlsx,inventory,SATTI_APTS
+7,WHITE OIL PAINT 4L,Enamel Wh.,tin,123.2,8.6,118.0,13.8,OK,inventory\SATTI_APTS_Inventory_Jul2017.xlsx,inventory,SATTI_APTS
+8,WIR-CP3,wire_3029,mtr,24.7,267.8,122.1,170.4,Surplus,inventory\SATTI_APTS_Inventory_Jul2017.xlsx,inventory,SATTI_APTS
+9,SHEESHA 6MM,Clear Glass 6,sft,34.1,391.1,355.3,69.9,Reorder,inventory\SATTI_APTS_Inventory_Jul2017.xlsx,inventory,SATTI_APTS
+10,"C.AGG 3/4""",Coarse Aggregate 3/4 inch,cft,149.2,5.6,88.0,66.8,Reorder,inventory\SATTI_APTS_Inventory_Jul2017.xlsx,inventory,SATTI_APTS
+11,SAN-WC,toilet_std,nos,125.5,25.0,30.2,119.9,Reorder,inventory\SATTI_APTS_Inventory_Jul2017.xlsx,inventory,SATTI_APTS
+12,STEEL BAR 16,rebar 5/8 inch,kg,147.0,127.0,52.4,222.0,Reorder,inventory\SATTI_APTS_Inventory_Jul2017.xlsx,inventory,SATTI_APTS
+13,SAND (FINE),River Sand,cft,66.2,498.0,499.0,65.1,,inventory\SATTI_APTS_Inventory_Jul2017.xlsx,inventory,SATTI_APTS
+14,PLYWOOD 12MM MR,12mm MR Plywood Sheet,sht,57.6,14.3,56.9,15.0,Reorder,inventory\SATTI_APTS_Inventory_Jul2017.xlsx,inventory,SATTI_APTS
+15,BRICK-CLA,Class A Brick,1000,190.9,200.0,382.6,7.9,,inventory\SATTI_APTS_Inventory_Jul2017.xlsx,inventory,SATTI_APTS
+16,"A.WIN 4""",al_window_4,nos,101.0,218.0,307.0,11.8,Reorder,inventory\SATTI_APTS_Inventory_Jul2017.xlsx,inventory,SATTI_APTS
+Store Keeper:,,Site Engr:,,,,,,,inventory\SATTI_APTS_Inventory_Jul2017.xlsx,inventory,SATTI_APTS

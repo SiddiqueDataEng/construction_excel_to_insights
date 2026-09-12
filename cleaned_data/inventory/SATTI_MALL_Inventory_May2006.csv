@@ -1,0 +1,18 @@
+row_no,item_code,description,unit,opening_stock,received,issued,balance,remarks,_source_file,_folder,_project
+Project: SATTI_MALL   Month: May 2006,,,,,,,,,inventory\SATTI_MALL_Inventory_May2006.xlsx,inventory,SATTI_MALL
+1,WIR-COP-3,wire_3029,mtr,167.4,207.0,28.5,346.0,,inventory\SATTI_MALL_Inventory_May2006.xlsx,inventory,SATTI_MALL
+2,ARMD-CBL-95,95mm² Armoured Cable,mtr,96.7,119.4,142.0,74.0,OK,inventory\SATTI_MALL_Inventory_May2006.xlsx,inventory,SATTI_MALL
+3,STL-RB-12,Steel Bar 12,kg,163.0,279.2,156.5,285.5,,inventory\SATTI_MALL_Inventory_May2006.xlsx,inventory,SATTI_MALL
+4,COPPER WIRE 7/.029,WIRE-7/029,mtr,54.2,400.4,178.4,276.2,Surplus,inventory\SATTI_MALL_Inventory_May2006.xlsx,inventory,SATTI_MALL
+5,ALM-WIN-4,4ft Aluminum Window,nos,57.0,293.9,313.1,37.8,,inventory\SATTI_MALL_Inventory_May2006.xlsx,inventory,SATTI_MALL
+6,PIP-GI-1,PIP-GI1,rft,,394.2,281.0,233.8,Surplus,inventory\SATTI_MALL_Inventory_May2006.xlsx,inventory,SATTI_MALL
+7,MRB-IMP,Marble Wht,sft,146.3,119.3,98.7,166.9,,inventory\SATTI_MALL_Inventory_May2006.xlsx,inventory,SATTI_MALL
+8,GI_PIPE_2INCH,gi_pipe_2inch,rft,2.5,196.0,31.2,167.2,Surplus,inventory\SATTI_MALL_Inventory_May2006.xlsx,inventory,SATTI_MALL
+9,PAI-OIL,PAI-OIL,tin,144.5,171.3,131.9,183.9,Reorder,inventory\SATTI_MALL_Inventory_May2006.xlsx,inventory,SATTI_MALL
+10,GENERATOR 25KVA,Generator 25KVA,nos,180.0,381.0,471.5,89.5,,inventory\SATTI_MALL_Inventory_May2006.xlsx,inventory,SATTI_MALL
+11,GLS-CLR-6,Sheesha 6mm,sft,143.1,299.7,272.4,170.4,Reorder,inventory\SATTI_MALL_Inventory_May2006.xlsx,inventory,SATTI_MALL
+12,CEM-OPC-50,OPC Cement 50kg Bag,bag,39.9,428.1,68.0,400.0,Reorder,inventory\SATTI_MALL_Inventory_May2006.xlsx,inventory,SATTI_MALL
+13,BRICK-CLA,BRK-A,1000,160.1,120.5,185.0,95.9,OK,inventory\SATTI_MALL_Inventory_May2006.xlsx,inventory,SATTI_MALL
+14,PLYWD-12,PLY-MR12,sht,120.1,235.2,2.5,352.8,,inventory\SATTI_MALL_Inventory_May2006.xlsx,inventory,SATTI_MALL
+15,W.C. STD.,W.C. Std.,nos,154.0,459.3,549.6,64.2,,inventory\SATTI_MALL_Inventory_May2006.xlsx,inventory,SATTI_MALL
+Store Keeper:,,Site Engr:,,,,,,,inventory\SATTI_MALL_Inventory_May2006.xlsx,inventory,SATTI_MALL

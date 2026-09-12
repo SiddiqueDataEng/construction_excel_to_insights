@@ -1,0 +1,22 @@
+row_no,item_code,description,unit,opening_stock,credit,debit,closing_stock,,_source_file,_folder,_project
+Project: SATTI_APTS   Month: November 2017,,,,,,,,,inventory\SATTI_APTS_Inventory_Nov2017.xlsx,inventory,SATTI_APTS
+1,GALVPIPE-1,GalvPipe-1,rft,51.3,497.4,322.0,,,inventory\SATTI_APTS_Inventory_Nov2017.xlsx,inventory,SATTI_APTS
+2,CBL-ARM-95,arm_cable_95,mtr,142.3,61.0,93.4,109.9,OK,inventory\SATTI_APTS_Inventory_Nov2017.xlsx,inventory,SATTI_APTS
+3,FLOOR_TILE_12,TILE-12X12,sft,176.5,479.0,267.9,387.3,OK,inventory\SATTI_APTS_Inventory_Nov2017.xlsx,inventory,SATTI_APTS
+4,REBAR 1/2 INCH,rebar 1/2 inch,kg,1.6,278.3,242.0,37.9,Surplus,inventory\SATTI_APTS_Inventory_Nov2017.xlsx,inventory,SATTI_APTS
+5,WIRE-7/029,Copper Wire 7/.029,mtr,137.8,74.6,189.2,23.2,OK,inventory\SATTI_APTS_Inventory_Nov2017.xlsx,inventory,SATTI_APTS
+6,PIP-GI2,GalvPipe-2,rft,107.3,,82.6,26.0,,inventory\SATTI_APTS_Inventory_Nov2017.xlsx,inventory,SATTI_APTS
+7,COMMODE STANDARD,toilet_std,nos,145.5,340.8,404.5,82.0,Surplus,inventory\SATTI_APTS_Inventory_Nov2017.xlsx,inventory,SATTI_APTS
+8,COPWIRE3,WIR-CP3,mtr,95.9,134.4,64.7,166.0,Reorder,inventory\SATTI_APTS_Inventory_Nov2017.xlsx,inventory,SATTI_APTS
+9,AGG-CRS-34,Bajri 3/4,cft,64.5,172.3,186.4,50.4,Surplus,inventory\SATTI_APTS_Inventory_Nov2017.xlsx,inventory,SATTI_APTS
+10,PLY_MR_12MM,Plywood 12mm MR,sht,193.1,43.5,162.3,74.3,OK,inventory\SATTI_APTS_Inventory_Nov2017.xlsx,inventory,SATTI_APTS
+11,GLASS-6MM,6mm Clear Glass,sft,167.8,326.0,390.1,103.7,Surplus,inventory\SATTI_APTS_Inventory_Nov2017.xlsx,inventory,SATTI_APTS
+12,REBAR-16MM,16mm Steel Rebar,kg,153.5,389.3,236.6,306.2,OK,inventory\SATTI_APTS_Inventory_Nov2017.xlsx,inventory,SATTI_APTS
+13,GEN-25KVA,25 KVA Generator,nos,113.1,103.0,159.4,57.0,,inventory\SATTI_APTS_Inventory_Nov2017.xlsx,inventory,SATTI_APTS
+14,"A.WIN 4""",ALU-WIN4,nos,115.1,326.1,68.5,372.7,OK,inventory\SATTI_APTS_Inventory_Nov2017.xlsx,inventory,SATTI_APTS
+15,ENAMEL WH.,paint_oil_w,tin,33.5,190.8,124.1,100.2,,inventory\SATTI_APTS_Inventory_Nov2017.xlsx,inventory,SATTI_APTS
+16,MARBLE WHT,imp_marble_w,sft,,137.3,263.0,68.4,Reorder,inventory\SATTI_APTS_Inventory_Nov2017.xlsx,inventory,SATTI_APTS
+17,READY MIX M20,rmc_m20,cft,48.4,397.3,234.9,210.8,Reorder,inventory\SATTI_APTS_Inventory_Nov2017.xlsx,inventory,SATTI_APTS
+18,BRK-CLS-A,BRICK-CLA,1000,49.0,77.1,49.6,76.5,Surplus,inventory\SATTI_APTS_Inventory_Nov2017.xlsx,inventory,SATTI_APTS
+19,SND-RV,Reti (River),cft,27.2,314.6,256.1,85.7,,inventory\SATTI_APTS_Inventory_Nov2017.xlsx,inventory,SATTI_APTS
+Store Keeper:,,Site Engr:,,,,,,,inventory\SATTI_APTS_Inventory_Nov2017.xlsx,inventory,SATTI_APTS

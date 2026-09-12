@@ -1,0 +1,24 @@
+row_no,name,trade,qty,rate,total,deductions,net,_source_file,_folder,_project
+Month: October 2013,,,,,,,,labour_wages\SATTI_PLAZA_Labour_Oct2013.xlsx,labour_wages,SATTI_PLAZA
+1,Farooq Khan,Electrician,19,1200.0,22800.0,0,22800,labour_wages\SATTI_PLAZA_Labour_Oct2013.xlsx,labour_wages,SATTI_PLAZA
+2,Farooq Khan,Carpenter,20,1000.0,20000.0,0,20000,labour_wages\SATTI_PLAZA_Labour_Oct2013.xlsx,labour_wages,SATTI_PLAZA
+3,Javed Sheikh,Site Engineer,19,2500.0,47500.0,0,47500,labour_wages\SATTI_PLAZA_Labour_Oct2013.xlsx,labour_wages,SATTI_PLAZA
+4,Kamran Ansari,Carpenter,17,1000.0,17000.0,"PKR 8,500",8500,labour_wages\SATTI_PLAZA_Labour_Oct2013.xlsx,labour_wages,SATTI_PLAZA
+5,Rizwan Raza,Painter,14,850.0,11900.0,5950,5950,labour_wages\SATTI_PLAZA_Labour_Oct2013.xlsx,labour_wages,SATTI_PLAZA
+6,Asif Malik,Painter,20,850.0,17000.0,0,17000,labour_wages\SATTI_PLAZA_Labour_Oct2013.xlsx,labour_wages,SATTI_PLAZA
+7,Usman Chaudhry,Electrician,15/-,1200.0,18000.0,9000,9000,labour_wages\SATTI_PLAZA_Labour_Oct2013.xlsx,labour_wages,SATTI_PLAZA
+8,Javed Ansari,Plumber,28,1100.0,30800.0,"PKR 15,400",15400,labour_wages\SATTI_PLAZA_Labour_Oct2013.xlsx,labour_wages,SATTI_PLAZA
+9,Farooq Ali,Welder,22,1100.0,24200.0,0,TBD,labour_wages\SATTI_PLAZA_Labour_Oct2013.xlsx,labour_wages,SATTI_PLAZA
+10,Javed Ali,Welder,15,1100.0,16500.0,0,16500,labour_wages\SATTI_PLAZA_Labour_Oct2013.xlsx,labour_wages,SATTI_PLAZA
+11,Ahmad Sheikh,Security Guard,21,700.0,14700.0,0,14700,labour_wages\SATTI_PLAZA_Labour_Oct2013.xlsx,labour_wages,SATTI_PLAZA
+12,Hamid Qureshi,Electrician,24,1200.0,28800.0,0,28800,labour_wages\SATTI_PLAZA_Labour_Oct2013.xlsx,labour_wages,SATTI_PLAZA
+13,Hamid Sheikh,Helper,PKR 17,600.0,10200.0,0,10200,labour_wages\SATTI_PLAZA_Labour_Oct2013.xlsx,labour_wages,SATTI_PLAZA
+14,Hamid Qureshi,Security Guard,19,700.0,13300.0,6650,6650,labour_wages\SATTI_PLAZA_Labour_Oct2013.xlsx,labour_wages,SATTI_PLAZA
+15,Rizwan Raza,Plumber,22,1100.0,24200.0,0,24200,labour_wages\SATTI_PLAZA_Labour_Oct2013.xlsx,labour_wages,SATTI_PLAZA
+16,Nasir Sheikh,Helper,17,600.0,10200.0,5100,"PKR 5,100",labour_wages\SATTI_PLAZA_Labour_Oct2013.xlsx,labour_wages,SATTI_PLAZA
+17,Asif Ansari,Painter,23,850.0,19550.0,5865,13685,labour_wages\SATTI_PLAZA_Labour_Oct2013.xlsx,labour_wages,SATTI_PLAZA
+18,Usman Mirza,Electrician,20,1200.0,24000.0,12000,12000,labour_wages\SATTI_PLAZA_Labour_Oct2013.xlsx,labour_wages,SATTI_PLAZA
+19,Sajid Butt,Welder,22,1100.0,24200.0,7260,16940,labour_wages\SATTI_PLAZA_Labour_Oct2013.xlsx,labour_wages,SATTI_PLAZA
+20,Arif Sheikh,Site Engineer,22,2500.0,55000.0,27500,27500,labour_wages\SATTI_PLAZA_Labour_Oct2013.xlsx,labour_wages,SATTI_PLAZA
+,,,,,,,,labour_wages\SATTI_PLAZA_Labour_Oct2013.xlsx,labour_wages,SATTI_PLAZA
+Prepared by:,,,Checked by:,,,Approved:,,labour_wages\SATTI_PLAZA_Labour_Oct2013.xlsx,labour_wages,SATTI_PLAZA

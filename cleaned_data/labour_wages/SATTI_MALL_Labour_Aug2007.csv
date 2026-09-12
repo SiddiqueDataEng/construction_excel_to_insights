@@ -1,0 +1,21 @@
+row_no,name,trade,qty,rate,amount,advance,total,_source_file,_folder,_project
+Month: August 2007,,,,,,,,labour_wages\SATTI_MALL_Labour_Aug2007.xlsx,labour_wages,SATTI_MALL
+1,Asif Malik,Mason,22,900.0,19800.0,9900.0,9900.0,labour_wages\SATTI_MALL_Labour_Aug2007.xlsx,labour_wages,SATTI_MALL
+2,Nasir Chaudhry,Supervisor,17,1800.0,30600.0,0.0,,labour_wages\SATTI_MALL_Labour_Aug2007.xlsx,labour_wages,SATTI_MALL
+3,Javed Qureshi,Painter,16/-,,,4080.0,,labour_wages\SATTI_MALL_Labour_Aug2007.xlsx,labour_wages,SATTI_MALL
+4,Javed Butt,Carpenter,,,14000.0,0.0,14000.0,labour_wages\SATTI_MALL_Labour_Aug2007.xlsx,labour_wages,SATTI_MALL
+5,Bilal Raza,Welder,15,1100.0,16500.0,8250.0,8250.0,labour_wages\SATTI_MALL_Labour_Aug2007.xlsx,labour_wages,SATTI_MALL
+6,Ahmad Khan,Electrician,17,1200.0,20400.0,0.0,20400.0,labour_wages\SATTI_MALL_Labour_Aug2007.xlsx,labour_wages,SATTI_MALL
+7,Nasir Sheikh,Helper,17,600.0,10200.0,,10200.0,labour_wages\SATTI_MALL_Labour_Aug2007.xlsx,labour_wages,SATTI_MALL
+8,Ahmad Mirza,Carpenter,24,1000.0,24000.0,12000.0,12000.0,labour_wages\SATTI_MALL_Labour_Aug2007.xlsx,labour_wages,SATTI_MALL
+9,Asif Khan,Plumber,14,1100.0,15400.0,0.0,15400.0,labour_wages\SATTI_MALL_Labour_Aug2007.xlsx,labour_wages,SATTI_MALL
+10,Zahid Ali,Supervisor,16,1800.0,28800.0,0.0,28800.0,labour_wages\SATTI_MALL_Labour_Aug2007.xlsx,labour_wages,SATTI_MALL
+11,Zahid Ali,Mason,,900.0,20700.0,0.0,,labour_wages\SATTI_MALL_Labour_Aug2007.xlsx,labour_wages,SATTI_MALL
+12,Tariq Ansari,Carpenter,19,1000.0,19000.0,0.0,19000.0,labour_wages\SATTI_MALL_Labour_Aug2007.xlsx,labour_wages,SATTI_MALL
+13,Farooq Khan,Electrician,26,1200.0,31200.0,0.0,31200.0,labour_wages\SATTI_MALL_Labour_Aug2007.xlsx,labour_wages,SATTI_MALL
+,,,,,,,,labour_wages\SATTI_MALL_Labour_Aug2007.xlsx,labour_wages,SATTI_MALL
+14,Hamid Qureshi,Carpenter,16,1000.0,16000.0,0.0,16000.0,labour_wages\SATTI_MALL_Labour_Aug2007.xlsx,labour_wages,SATTI_MALL
+15,Usman Ansari,Painter,16,850.0,13600.0,0.0,13600.0,labour_wages\SATTI_MALL_Labour_Aug2007.xlsx,labour_wages,SATTI_MALL
+16,Muhammad Ansari,Welder,22,1100.0,24200.0,12100.0,12100.0,labour_wages\SATTI_MALL_Labour_Aug2007.xlsx,labour_wages,SATTI_MALL
+,,,,,,,,labour_wages\SATTI_MALL_Labour_Aug2007.xlsx,labour_wages,SATTI_MALL
+Prepared by:,,,Checked by:,,,,,labour_wages\SATTI_MALL_Labour_Aug2007.xlsx,labour_wages,SATTI_MALL

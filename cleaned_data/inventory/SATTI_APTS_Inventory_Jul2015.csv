@@ -1,0 +1,18 @@
+row_no,item_code,description,unit,opening_stock,received,issued,balance,remarks,_source_file,_folder,_project
+Project: SATTI_APTS   Month: July 2015,,,,,,,,,inventory\SATTI_APTS_Inventory_Jul2015.xlsx,inventory,SATTI_APTS
+1,RMC_M20,RMC-M20,cft,115.2,,219.5,33.1,,inventory\SATTI_APTS_Inventory_Jul2015.xlsx,inventory,SATTI_APTS
+2,WIRE_7029,Copper Wire 7/.029,mtr,181.2,403.1,201.0,383.3,,inventory\SATTI_APTS_Inventory_Jul2015.xlsx,inventory,SATTI_APTS
+3,GI PIPE 2IN,GI PIPE 2IN,rft,58.5,477.3,139.1,396.7,,inventory\SATTI_APTS_Inventory_Jul2015.xlsx,inventory,SATTI_APTS
+4,ARMD-CBL-95,95mm² Armoured Cable,mtr,15.7,332.8,321.7,26.8,Surplus,inventory\SATTI_APTS_Inventory_Jul2015.xlsx,inventory,SATTI_APTS
+5,ALUM WINDOW 4FT,ALM-W4,nos,94.8,271.9,39.5,327.0,OK,inventory\SATTI_APTS_Inventory_Jul2015.xlsx,inventory,SATTI_APTS
+6,WIRE_3029,WIRE-3/029,mtr,166.1,187.3,,203.8,,inventory\SATTI_APTS_Inventory_Jul2015.xlsx,inventory,SATTI_APTS
+7,COMMODE STANDARD,Standard WC/Commode,nos,102.7,262.9,,178.7,,inventory\SATTI_APTS_Inventory_Jul2015.xlsx,inventory,SATTI_APTS
+8,TIL-CER12,Ceramic Floor Tile 12x12,sft,120.7,215.7,6.8,329.6,Surplus,inventory\SATTI_APTS_Inventory_Jul2015.xlsx,inventory,SATTI_APTS
+9,SND-RVR,SAND-RIVER,cft,67.1,356.1,305.2,118.0,Surplus,inventory\SATTI_APTS_Inventory_Jul2015.xlsx,inventory,SATTI_APTS
+10,BRICKS_A,Class-A Red Brick,1000,189.5,476.1,143.3,522.3,,inventory\SATTI_APTS_Inventory_Jul2015.xlsx,inventory,SATTI_APTS
+11,REBAR-16MM,16mm Steel Rebar,kg,131.5,325.1,26.1,430.5,OK,inventory\SATTI_APTS_Inventory_Jul2015.xlsx,inventory,SATTI_APTS
+12,SHEESHA 6MM,GLS-CLR6,sft,21.4,127.7,70.3,78.8,,inventory\SATTI_APTS_Inventory_Jul2015.xlsx,inventory,SATTI_APTS
+13,MAR-W-IMP,MAR-W-IMP,sft,,374.0,309.5,182.8,Reorder,inventory\SATTI_APTS_Inventory_Jul2015.xlsx,inventory,SATTI_APTS
+14,GENERATOR 25KVA,GENSET-25,nos,45.0,397.8,392.6,50.2,Surplus,inventory\SATTI_APTS_Inventory_Jul2015.xlsx,inventory,SATTI_APTS
+15,GALVPIPE-1,"1"" GI Pipe",rft,64.1,204.0,183.2,84.9,Reorder,inventory\SATTI_APTS_Inventory_Jul2015.xlsx,inventory,SATTI_APTS
+Store Keeper:,,Site Engr:,,,,,,,inventory\SATTI_APTS_Inventory_Jul2015.xlsx,inventory,SATTI_APTS

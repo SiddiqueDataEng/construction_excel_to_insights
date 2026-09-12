@@ -1,0 +1,19 @@
+row_no,item_code,description,unit,opening_stock,received,issued,balance,remarks,_source_file,_folder,_project
+Project: SATTI_APTS   Month: July 2018,,,,,,,,,inventory\SATTI_APTS_Inventory_Jul2018.xlsx,inventory,SATTI_APTS
+1,PLYWD-12,PLY-MR12,sht,158.1,243.4,96.4,305.1,,inventory\SATTI_APTS_Inventory_Jul2018.xlsx,inventory,SATTI_APTS
+2,READY MIX M20,CNC-M20,cft,27.0,269.2,79.9,215.9,OK,inventory\SATTI_APTS_Inventory_Jul2018.xlsx,inventory,SATTI_APTS
+3,BRK-CLS-A,BRICK-CLA,1000,37.9,301.8,309.4,30.3,Surplus,inventory\SATTI_APTS_Inventory_Jul2018.xlsx,inventory,SATTI_APTS
+4,"TILE 12X12""",TIL-CER12,sft,62.7,356.1,304.5,114.3,Reorder,inventory\SATTI_APTS_Inventory_Jul2018.xlsx,inventory,SATTI_APTS
+5,AGG-CRS-34,AGG-CRS34,cft,141.0,427.0,506.1,61.7,Reorder,inventory\SATTI_APTS_Inventory_Jul2018.xlsx,inventory,SATTI_APTS
+6,REBAR 5/8 INCH,REBAR-16MM,kg,112.1,76.7,155.6,33.2,Surplus,inventory\SATTI_APTS_Inventory_Jul2018.xlsx,inventory,SATTI_APTS
+7,ENAMEL WH.,White Oil Paint 4L,tin,162.0,473.0,449.3,185.7,Surplus,inventory\SATTI_APTS_Inventory_Jul2018.xlsx,inventory,SATTI_APTS
+8,GENERATOR 25KVA,25 KVA Generator,nos,,63.1,10.0,70.4,OK,inventory\SATTI_APTS_Inventory_Jul2018.xlsx,inventory,SATTI_APTS
+9,SND-RV,Reti (River),cft,16.5,54.1,34.5,36.1,,inventory\SATTI_APTS_Inventory_Jul2018.xlsx,inventory,SATTI_APTS
+10,COPPER WIRE 3/.029,WIRE-3/029,mtr,90.3,132.1,139.9,82.5,Reorder,inventory\SATTI_APTS_Inventory_Jul2018.xlsx,inventory,SATTI_APTS
+11,CBL-ARM-95,95mm² Armoured Cable,mtr,104.2,398.6,345.7,157.0,Surplus,inventory\SATTI_APTS_Inventory_Jul2018.xlsx,inventory,SATTI_APTS
+12,WIR-CP7,CopWire7,mtr,193.3,343.6,77.5,459.4,,inventory\SATTI_APTS_Inventory_Jul2018.xlsx,inventory,SATTI_APTS
+13,GALVPIPE-1,"G.I.Pipe 1""",rft,102.6,390.2,264.7,228.1,OK,inventory\SATTI_APTS_Inventory_Jul2018.xlsx,inventory,SATTI_APTS
+14,MRB-IMP-W,MAR-W-IMP,sft,132.4,122.0,62.0,,OK,inventory\SATTI_APTS_Inventory_Jul2018.xlsx,inventory,SATTI_APTS
+15,"G.I.PIPE 2""","2"" GI Pipe",rft,39.1,254.1,257.6,36.0,,inventory\SATTI_APTS_Inventory_Jul2018.xlsx,inventory,SATTI_APTS
+16,CLEAR GLASS 6,Sheesha 6mm,sft,133.0,217.7,340.6,10.1,,inventory\SATTI_APTS_Inventory_Jul2018.xlsx,inventory,SATTI_APTS
+Store Keeper:,,Site Engr:,,,,,,,inventory\SATTI_APTS_Inventory_Jul2018.xlsx,inventory,SATTI_APTS

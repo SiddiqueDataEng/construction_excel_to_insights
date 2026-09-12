@@ -1,0 +1,18 @@
+row_no,item_code,description,unit,opening_stock,received,issued,balance,remarks,_source_file,_folder,_project
+Project: SATTI_APTS   Month: July 2016,,,,,,,,,inventory\SATTI_APTS_Inventory_Jul2016.xlsx,inventory,SATTI_APTS
+1,S.BAR 12MM,STL-RB12,kg,147.0,472.5,58.3,561.2,,inventory\SATTI_APTS_Inventory_Jul2016.xlsx,inventory,SATTI_APTS
+2,ALM-W4,ALM-W4,nos,147.0,216.9,112.0,251.4,Reorder,inventory\SATTI_APTS_Inventory_Jul2016.xlsx,inventory,SATTI_APTS
+3,GRAVEL-3/4,coarse agg,cft,174.5,,207.4,102.5,Reorder,inventory\SATTI_APTS_Inventory_Jul2016.xlsx,inventory,SATTI_APTS
+4,RED BRICK A-GRADE,BRICK-CLA,1000,88.0,175.5,235.5,27.8,Reorder,inventory\SATTI_APTS_Inventory_Jul2016.xlsx,inventory,SATTI_APTS
+5,MAR-W-IMP,Imported White Marble,sft,122.5,,42.3,368.2,OK,inventory\SATTI_APTS_Inventory_Jul2016.xlsx,inventory,SATTI_APTS
+6,PLYWD-12,PLYWD-12,sht,166.2,67.1,195.7,37.6,OK,inventory\SATTI_APTS_Inventory_Jul2016.xlsx,inventory,SATTI_APTS
+7,GEN-25KVA,gen_25kva,nos,,390.0,15.5,,,inventory\SATTI_APTS_Inventory_Jul2016.xlsx,inventory,SATTI_APTS
+8,PAI-OIL,Oil Paint (White) 4Ltr,tin,126.8,87.2,102.8,111.2,,inventory\SATTI_APTS_Inventory_Jul2016.xlsx,inventory,SATTI_APTS
+9,CBL-ARM95,arm_cable_95,mtr,69.4,116.0,71.0,114.2,OK,inventory\SATTI_APTS_Inventory_Jul2016.xlsx,inventory,SATTI_APTS
+10,CNC-RDY-M20,M20 Concrete,cft,158.6,391.7,168.1,382.0,Surplus,inventory\SATTI_APTS_Inventory_Jul2016.xlsx,inventory,SATTI_APTS
+11,OPC 50 KG,cem_opc_50,bag,37.6,205.1,48.9,193.8,Reorder,inventory\SATTI_APTS_Inventory_Jul2016.xlsx,inventory,SATTI_APTS
+12,TILE-12X12,Ceramic Floor Tile 12x12,sft,187.8,368.8,212.0,344.4,Reorder,inventory\SATTI_APTS_Inventory_Jul2016.xlsx,inventory,SATTI_APTS
+13,WIR-CP3,WIRE-3/029,mtr,49.8,281.0,126.9,204.0,Reorder,inventory\SATTI_APTS_Inventory_Jul2016.xlsx,inventory,SATTI_APTS
+14,SND-RVR,river_sand,cft,172.4,81.5,192.7,61.2,Reorder,inventory\SATTI_APTS_Inventory_Jul2016.xlsx,inventory,SATTI_APTS
+15,REBAR 5/8 INCH,S.Bar 16mm,kg,173.1,124.4,127.0,170.5,Reorder,inventory\SATTI_APTS_Inventory_Jul2016.xlsx,inventory,SATTI_APTS
+Store Keeper:,,Site Engr:,,,,,,,inventory\SATTI_APTS_Inventory_Jul2016.xlsx,inventory,SATTI_APTS

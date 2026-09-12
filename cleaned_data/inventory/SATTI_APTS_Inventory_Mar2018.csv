@@ -1,0 +1,18 @@
+row_no,item_code,description,unit,opening_stock,credit,debit,closing_stock,nan,_source_file,_folder,_project
+Project: SATTI_APTS   Month: March 2018,,,,,,,,,inventory\SATTI_APTS_Inventory_Mar2018.xlsx,inventory,SATTI_APTS
+1,PLY_MR_12MM,MR Ply 12,sht,53.4,374.2,1.0,426.5,Reorder,inventory\SATTI_APTS_Inventory_Mar2018.xlsx,inventory,SATTI_APTS
+2,M20 CONCRETE,rmc_m20,cft,113.9,50.0,83.0,81.2,Reorder,inventory\SATTI_APTS_Inventory_Mar2018.xlsx,inventory,SATTI_APTS
+3,ARMD-CBL-95,arm_cable_95,mtr,156.2,169.5,218.9,106.8,OK,inventory\SATTI_APTS_Inventory_Mar2018.xlsx,inventory,SATTI_APTS
+4,"C.AGG 3/4""",GRAVEL-3/4,cft,132.6,237.9,163.0,207.5,Surplus,inventory\SATTI_APTS_Inventory_Mar2018.xlsx,inventory,SATTI_APTS
+5,CEMENT-50,CEMENT-50,bag,145.1,131.7,219.7,57.1,,inventory\SATTI_APTS_Inventory_Mar2018.xlsx,inventory,SATTI_APTS
+6,CLEAR GLASS 6,6mm Clear Glass,sft,67.3,205.3,153.7,118.9,,inventory\SATTI_APTS_Inventory_Mar2018.xlsx,inventory,SATTI_APTS
+7,ALM-WIN-4,Alum Window 4ft,nos,81.0,474.7,133.9,421.8,,inventory\SATTI_APTS_Inventory_Mar2018.xlsx,inventory,SATTI_APTS
+8,GALVPIPE-1,"1"" GI Pipe",rft,22.0,474.9,319.7,177.2,Reorder,inventory\SATTI_APTS_Inventory_Mar2018.xlsx,inventory,SATTI_APTS
+9,SAN-WC-STD,W.C. Std.,nos,52.5,268.3,42.8,278.0,Reorder,inventory\SATTI_APTS_Inventory_Mar2018.xlsx,inventory,SATTI_APTS
+10,TILE-12X12,TILE-12X12,sft,130.0,365.6,241.6,253.6,OK,inventory\SATTI_APTS_Inventory_Mar2018.xlsx,inventory,SATTI_APTS
+11,GENSET-25,GEN-25K,nos,47.6,72.3,44.0,75.9,,inventory\SATTI_APTS_Inventory_Mar2018.xlsx,inventory,SATTI_APTS
+12,BRICK-CLA,Class A Brick,1000,149.4,151.0,146.4,154.0,,inventory\SATTI_APTS_Inventory_Mar2018.xlsx,inventory,SATTI_APTS
+13,SAND-RIVER,Sand (Fine),cft,128.1,388.3,212.0,304.4,Reorder,inventory\SATTI_APTS_Inventory_Mar2018.xlsx,inventory,SATTI_APTS
+14,WIRE-7/029,7/0.029 Copper Wire,mtr,93.0,125.8,176.5,42.3,Surplus,inventory\SATTI_APTS_Inventory_Mar2018.xlsx,inventory,SATTI_APTS
+15,WHITE MARBLE IMP.,Marble Wht,sft,161.9,410.3,140.5,431.7,,inventory\SATTI_APTS_Inventory_Mar2018.xlsx,inventory,SATTI_APTS
+Store Keeper:,,Site Engr:,,,,,,,inventory\SATTI_APTS_Inventory_Mar2018.xlsx,inventory,SATTI_APTS

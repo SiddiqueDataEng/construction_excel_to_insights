@@ -1,0 +1,15 @@
+row_no,item_code,description,unit,opening_stock,received,issued,balance,remarks,_source_file,_folder,_project
+Project: SATTI_MALL   Month: January 2008,,,,,,,,,inventory\SATTI_MALL_Inventory_Jan2008.xlsx,inventory,SATTI_MALL
+1,BRICKS_A,Red Brick A-Grade,1000,75.3,311.4,108.3,278.4,,inventory\SATTI_MALL_Inventory_Jan2008.xlsx,inventory,SATTI_MALL
+2,WHITE MARBLE IMP.,MRB-IMP,sft,140.0,192.0,60.4,271.6,Reorder,inventory\SATTI_MALL_Inventory_Jan2008.xlsx,inventory,SATTI_MALL
+3,TOILET_STD,Standard WC/Commode,nos,93.7,250.3,101.4,242.6,Reorder,inventory\SATTI_MALL_Inventory_Jan2008.xlsx,inventory,SATTI_MALL
+4,RIVER_SAND,river_sand,cft,167.2,466.8,588.3,45.7,,inventory\SATTI_MALL_Inventory_Jan2008.xlsx,inventory,SATTI_MALL
+5,GI_PIPE_2INCH,gi_pipe_2inch,rft,5.4,75.8,14.0,67.3,Surplus,inventory\SATTI_MALL_Inventory_Jan2008.xlsx,inventory,SATTI_MALL
+6,PLYWD-12,ply_mr_12mm,sht,108.4,318.9,23.8,403.5,Reorder,inventory\SATTI_MALL_Inventory_Jan2008.xlsx,inventory,SATTI_MALL
+7,TIL-CER-12,"Tile 12x12""",sft,158.2,210.4,115.7,252.9,,inventory\SATTI_MALL_Inventory_Jan2008.xlsx,inventory,SATTI_MALL
+8,RMC_M20,M20 Ready Mix Concrete,cft,169.0,374.5,251.3,291.8,,inventory\SATTI_MALL_Inventory_Jan2008.xlsx,inventory,SATTI_MALL
+9,CEMENT-50,OPC 50 KG,bag,,381.1,362.9,215.7,,inventory\SATTI_MALL_Inventory_Jan2008.xlsx,inventory,SATTI_MALL
+10,PIP-GI1,gi_pipe_1inch,rft,4.6,78.0,1.4,81.0,,inventory\SATTI_MALL_Inventory_Jan2008.xlsx,inventory,SATTI_MALL
+11,S.BAR 12MM,S.Bar 12mm,kg,120.0,316.0,145.7,,,inventory\SATTI_MALL_Inventory_Jan2008.xlsx,inventory,SATTI_MALL
+12,GENERATOR 25KVA,Generator 25KVA,nos,129.0,423.7,433.2,119.0,Surplus,inventory\SATTI_MALL_Inventory_Jan2008.xlsx,inventory,SATTI_MALL
+Store Keeper:,,Site Engr:,,,,,,,inventory\SATTI_MALL_Inventory_Jan2008.xlsx,inventory,SATTI_MALL

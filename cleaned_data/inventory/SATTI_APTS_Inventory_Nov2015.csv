@@ -1,0 +1,20 @@
+row_no,item_code,description,unit,opening_stock,received,issued,closing_stock,remarks,_source_file,_folder,_project
+Project: SATTI_APTS   Month: November 2015,,,,,,,,,inventory\SATTI_APTS_Inventory_Nov2015.xlsx,inventory,SATTI_APTS
+1,GEN-25KVA,25 KVA Generator,nos,161.8,88.8,32.8,217.8,,inventory\SATTI_APTS_Inventory_Nov2015.xlsx,inventory,SATTI_APTS
+2,GLS-CLR6,Sheesha 6mm,sft,,319.0,446.4,60.6,,inventory\SATTI_APTS_Inventory_Nov2015.xlsx,inventory,SATTI_APTS
+3,ALM-WIN-4,ALU-WIN4,nos,1.7,390.4,309.2,82.9,,inventory\SATTI_APTS_Inventory_Nov2015.xlsx,inventory,SATTI_APTS
+4,S.BAR 12MM,STL-RB12,kg,48.0,212.0,131.3,128.7,Surplus,inventory\SATTI_APTS_Inventory_Nov2015.xlsx,inventory,SATTI_APTS
+5,MRB-IMP-W,MAR-W-IMP,sft,20.0,122.3,53.4,89.0,,inventory\SATTI_APTS_Inventory_Nov2015.xlsx,inventory,SATTI_APTS
+6,PLY-MR12,PLYWD-12,sht,159.2,86.9,190.0,56.4,Surplus,inventory\SATTI_APTS_Inventory_Nov2015.xlsx,inventory,SATTI_APTS
+7,"C.AGG 3/4""","C.Agg 3/4""",cft,82.2,207.7,2.6,287.3,Surplus,inventory\SATTI_APTS_Inventory_Nov2015.xlsx,inventory,SATTI_APTS
+8,SAND (FINE),Reti (River),cft,120.0,232.9,180.1,,,inventory\SATTI_APTS_Inventory_Nov2015.xlsx,inventory,SATTI_APTS
+9,WIR-CP3,3/0.029 Copper Wire,mtr,51.4,358.6,320.0,90.0,Reorder,inventory\SATTI_APTS_Inventory_Nov2015.xlsx,inventory,SATTI_APTS
+10,PAI-OIL-W,Enamel Wh.,tin,,419.0,177.4,376.0,,inventory\SATTI_APTS_Inventory_Nov2015.xlsx,inventory,SATTI_APTS
+11,STEEL BAR 16,16mm Steel Rebar,kg,124.4,399.3,159.2,364.5,Surplus,inventory\SATTI_APTS_Inventory_Nov2015.xlsx,inventory,SATTI_APTS
+12,"CER.TILE 12""",Ceramic Floor Tile 12x12,sft,120.0,226.8,172.9,173.9,,inventory\SATTI_APTS_Inventory_Nov2015.xlsx,inventory,SATTI_APTS
+13,BRK-A,Class A Brick,1000,48.1,177.2,24.0,201.3,,inventory\SATTI_APTS_Inventory_Nov2015.xlsx,inventory,SATTI_APTS
+14,CNC-RDY-M20,RMC-M20,cft,72.7,103.7,17.4,159.0,,inventory\SATTI_APTS_Inventory_Nov2015.xlsx,inventory,SATTI_APTS
+15,CEM-OPC50,CEM-OPC50,bag,137.5,463.8,458.0,143.5,Surplus,inventory\SATTI_APTS_Inventory_Nov2015.xlsx,inventory,SATTI_APTS
+16,WIR-CP7,Copper Wire 7/.029,mtr,84.9,363.8,0.4,448.3,,inventory\SATTI_APTS_Inventory_Nov2015.xlsx,inventory,SATTI_APTS
+17,SAN-WC,W.C. Std.,nos,134.2,187.3,95.0,226.5,OK,inventory\SATTI_APTS_Inventory_Nov2015.xlsx,inventory,SATTI_APTS
+Store Keeper:,,Site Engr:,,,,,,,inventory\SATTI_APTS_Inventory_Nov2015.xlsx,inventory,SATTI_APTS

@@ -1,0 +1,20 @@
+row_no,item_code,description,unit,opening_stock,received,issued,balance,remarks,_source_file,_folder,_project
+Project: SATTI_APTS   Month: March 2016,,,,,,,,,inventory\SATTI_APTS_Inventory_Mar2016.xlsx,inventory,SATTI_APTS
+1,SAND (FINE),Sand (Fine),cft,,47.1,41.3,34.8,OK,inventory\SATTI_APTS_Inventory_Mar2016.xlsx,inventory,SATTI_APTS
+2,COARSE AGG,Coarse Aggregate 3/4 inch,cft,89.3,292.0,376.8,4.2,Surplus,inventory\SATTI_APTS_Inventory_Mar2016.xlsx,inventory,SATTI_APTS
+3,BRICKS_A,bricks_a,1000,104.1,126.0,132.7,97.4,Reorder,inventory\SATTI_APTS_Inventory_Mar2016.xlsx,inventory,SATTI_APTS
+4,CNC-M20,M20 Ready Mix Concrete,cft,98.1,55.2,83.7,69.6,,inventory\SATTI_APTS_Inventory_Mar2016.xlsx,inventory,SATTI_APTS
+5,AL_WINDOW_4,"A.Win 4""",nos,20.4,470.2,474.9,15.7,Reorder,inventory\SATTI_APTS_Inventory_Mar2016.xlsx,inventory,SATTI_APTS
+6,GLS-CLR6,6mm Clear Glass,sft,198.6,100.1,28.1,270.6,OK,inventory\SATTI_APTS_Inventory_Mar2016.xlsx,inventory,SATTI_APTS
+7,REBAR 1/2 INCH,12mm Steel Rebar,kg,83.7,152.5,97.0,139.2,OK,inventory\SATTI_APTS_Inventory_Mar2016.xlsx,inventory,SATTI_APTS
+8,GALVPIPE-1,GalvPipe-1,rft,118.0,290.4,,169.0,OK,inventory\SATTI_APTS_Inventory_Mar2016.xlsx,inventory,SATTI_APTS
+9,GEN-25KVA,25KVA Genset,nos,15.4,495.6,177.9,333.1,OK,inventory\SATTI_APTS_Inventory_Mar2016.xlsx,inventory,SATTI_APTS
+10,WIR-COP-3,WIR-CP3,mtr,15.4,307.0,169.9,152.5,,inventory\SATTI_APTS_Inventory_Mar2016.xlsx,inventory,SATTI_APTS
+11,CBL-ARM95,Armoured Cable 95,mtr,134.5,300.7,326.3,108.9,Surplus,inventory\SATTI_APTS_Inventory_Mar2016.xlsx,inventory,SATTI_APTS
+12,MRB-IMP,Marble Wht,sft,119.5,293.0,312.9,99.6,,inventory\SATTI_APTS_Inventory_Mar2016.xlsx,inventory,SATTI_APTS
+13,STL-RB16,REBAR-16MM,kg,155.4,446.0,63.7,537.7,Reorder,inventory\SATTI_APTS_Inventory_Mar2016.xlsx,inventory,SATTI_APTS
+14,SAN-WC-STD,W.C. Std.,nos,147.8,490.7,605.7,,,inventory\SATTI_APTS_Inventory_Mar2016.xlsx,inventory,SATTI_APTS
+15,CEM-OPC50,cem_opc_50,bag,37.6,405.5,53.8,389.3,,inventory\SATTI_APTS_Inventory_Mar2016.xlsx,inventory,SATTI_APTS
+16,"TILE 12X12""",floor_tile_12,sft,50.3,117.0,52.5,114.7,Surplus,inventory\SATTI_APTS_Inventory_Mar2016.xlsx,inventory,SATTI_APTS
+17,MR PLY 12,ply_mr_12mm,sht,147.4,387.6,332.6,202.4,,inventory\SATTI_APTS_Inventory_Mar2016.xlsx,inventory,SATTI_APTS
+Store Keeper:,,Site Engr:,,,,,,,inventory\SATTI_APTS_Inventory_Mar2016.xlsx,inventory,SATTI_APTS

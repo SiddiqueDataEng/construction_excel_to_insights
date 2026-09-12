@@ -1,0 +1,14 @@
+row_no,name,trade,qty,rate,total,deductions,net,_source_file,_folder,_project
+Month: February 2008,,,,,,,,labour_wages\SATTI_MALL_Labour_Feb2008.xlsx,labour_wages,SATTI_MALL
+1,Tariq Raza,Welder,22,1100.0,24200.0,0/-,24200,labour_wages\SATTI_MALL_Labour_Feb2008.xlsx,labour_wages,SATTI_MALL
+2,Farooq Malik,Electrician,17,1200.0,20400.0,0,20400,labour_wages\SATTI_MALL_Labour_Feb2008.xlsx,labour_wages,SATTI_MALL
+3,Zahid Ansari,Welder,27,1100.0,,0,29700,labour_wages\SATTI_MALL_Labour_Feb2008.xlsx,labour_wages,SATTI_MALL
+4,Arif Sheikh,Mason,16,900.0,14400.0,4320,10080,labour_wages\SATTI_MALL_Labour_Feb2008.xlsx,labour_wages,SATTI_MALL
+5,Javed Khan,Supervisor,27,1800.0,48600.0,PKR 0,48600,labour_wages\SATTI_MALL_Labour_Feb2008.xlsx,labour_wages,SATTI_MALL
+6,Javed Mirza,Electrician,23,1200.0,,8280,19320,labour_wages\SATTI_MALL_Labour_Feb2008.xlsx,labour_wages,SATTI_MALL
+7,Kamran Khan,Carpenter,28,1000.0,28000.0,0,28000,labour_wages\SATTI_MALL_Labour_Feb2008.xlsx,labour_wages,SATTI_MALL
+8,Kamran Mirza,Welder,22,,24200.0,,24200,labour_wages\SATTI_MALL_Labour_Feb2008.xlsx,labour_wages,SATTI_MALL
+9,Usman Malik,Welder,24,1100.0,26400.0,0/-,"26,400/-",labour_wages\SATTI_MALL_Labour_Feb2008.xlsx,labour_wages,SATTI_MALL
+10,Muhammad Khan,Security Guard,28,700.0,19600.0,5880,13720,labour_wages\SATTI_MALL_Labour_Feb2008.xlsx,labour_wages,SATTI_MALL
+,,,,,,,,labour_wages\SATTI_MALL_Labour_Feb2008.xlsx,labour_wages,SATTI_MALL
+Prepared by:,,,Checked by:,,,Approved:,,labour_wages\SATTI_MALL_Labour_Feb2008.xlsx,labour_wages,SATTI_MALL

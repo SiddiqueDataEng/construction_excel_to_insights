@@ -1,0 +1,32 @@
+row_no,name,trade,qty,rate,amount,advance,total,_source_file,_folder,_project
+Month: December 2017,,,,,,,,labour_wages\SATTI_APTS_Labour_Dec2017.xlsx,labour_wages,SATTI_APTS
+1,Farooq Malik,Plumber,28,1100.0,30800.0,9240.0,21560.0,labour_wages\SATTI_APTS_Labour_Dec2017.xlsx,labour_wages,SATTI_APTS
+2,Rizwan Ansari,Plumber,19,1100.0,20900.0,0.0,20900.0,labour_wages\SATTI_APTS_Labour_Dec2017.xlsx,labour_wages,SATTI_APTS
+3,Kamran Sheikh,Welder,18,1100.0,19800.0,0.0,19800.0,labour_wages\SATTI_APTS_Labour_Dec2017.xlsx,labour_wages,SATTI_APTS
+4,Hamid Chaudhry,Helper,21,600.0,12600.0,0.0,12600.0,labour_wages\SATTI_APTS_Labour_Dec2017.xlsx,labour_wages,SATTI_APTS
+5,Muhammad Qureshi,Carpenter,19,1000.0,19000.0,,19000.0,labour_wages\SATTI_APTS_Labour_Dec2017.xlsx,labour_wages,SATTI_APTS
+6,Nasir Ansari,Site Engineer,26,2500.0,65000.0,0.0,65000.0,labour_wages\SATTI_APTS_Labour_Dec2017.xlsx,labour_wages,SATTI_APTS
+7,Muhammad Ansari,Site Engineer,14/-,2500.0,35000.0,0.0,35000.0,labour_wages\SATTI_APTS_Labour_Dec2017.xlsx,labour_wages,SATTI_APTS
+8,Zahid Butt,Plumber,,1100.0,22000.0,0.0,22000.0,labour_wages\SATTI_APTS_Labour_Dec2017.xlsx,labour_wages,SATTI_APTS
+9,Sajid Butt,Carpenter,22,1000.0,22000.0,6600.0,,labour_wages\SATTI_APTS_Labour_Dec2017.xlsx,labour_wages,SATTI_APTS
+10,Muhammad Ali,Carpenter,27,1000.0,27000.0,0.0,,labour_wages\SATTI_APTS_Labour_Dec2017.xlsx,labour_wages,SATTI_APTS
+11,Asif Chaudhry,Mason,19,900.0,17100.0,0.0,17100.0,labour_wages\SATTI_APTS_Labour_Dec2017.xlsx,labour_wages,SATTI_APTS
+12,Ahmad Raza,Electrician,27,1200.0,32400.0,0.0,32400.0,labour_wages\SATTI_APTS_Labour_Dec2017.xlsx,labour_wages,SATTI_APTS
+13,Javed Ali,Plumber,16,1100.0,17600.0,8800.0,8800.0,labour_wages\SATTI_APTS_Labour_Dec2017.xlsx,labour_wages,SATTI_APTS
+14,Arif Qureshi,Site Engineer,22,2500.0,55000.0,16500.0,38500.0,labour_wages\SATTI_APTS_Labour_Dec2017.xlsx,labour_wages,SATTI_APTS
+15,Sajid Qureshi,Carpenter,,1000.0,22000.0,6600.0,15400.0,labour_wages\SATTI_APTS_Labour_Dec2017.xlsx,labour_wages,SATTI_APTS
+16,Sajid Malik,Helper,23,600.0,13800.0,4140.0,9660.0,labour_wages\SATTI_APTS_Labour_Dec2017.xlsx,labour_wages,SATTI_APTS
+17,Farooq Butt,Supervisor,27,1800.0,48600.0,24300.0,24300.0,labour_wages\SATTI_APTS_Labour_Dec2017.xlsx,labour_wages,SATTI_APTS
+,,,,,,,,labour_wages\SATTI_APTS_Labour_Dec2017.xlsx,labour_wages,SATTI_APTS
+18,Bilal Raza,Carpenter,21,1000.0,21000.0,6300.0,14700.0,labour_wages\SATTI_APTS_Labour_Dec2017.xlsx,labour_wages,SATTI_APTS
+,,,,,,,,labour_wages\SATTI_APTS_Labour_Dec2017.xlsx,labour_wages,SATTI_APTS
+19,Asif Ali,Carpenter,19,1000.0,19000.0,0.0,19000.0,labour_wages\SATTI_APTS_Labour_Dec2017.xlsx,labour_wages,SATTI_APTS
+20,Sajid Mirza,Site Engineer,21,2500.0,52500.0,0.0,,labour_wages\SATTI_APTS_Labour_Dec2017.xlsx,labour_wages,SATTI_APTS
+21,Asif Khan,Helper,16,600.0,9600.0,4800.0,4800.0,labour_wages\SATTI_APTS_Labour_Dec2017.xlsx,labour_wages,SATTI_APTS
+22,Farooq Ansari,Supervisor,19,1800.0,34200.0,17100.0,17100.0,labour_wages\SATTI_APTS_Labour_Dec2017.xlsx,labour_wages,SATTI_APTS
+23,Usman Mirza,Mason,24,900.0,21600.0,10800.0,10800.0,labour_wages\SATTI_APTS_Labour_Dec2017.xlsx,labour_wages,SATTI_APTS
+24,Arif Raza,Carpenter,16,,16000.0,0.0,16000.0,labour_wages\SATTI_APTS_Labour_Dec2017.xlsx,labour_wages,SATTI_APTS
+,,,,,,,,labour_wages\SATTI_APTS_Labour_Dec2017.xlsx,labour_wages,SATTI_APTS
+25,Ahmad Butt,Plumber,TBD,1100.0,22000.0,11000.0,11000.0,labour_wages\SATTI_APTS_Labour_Dec2017.xlsx,labour_wages,SATTI_APTS
+,,,,,,,,labour_wages\SATTI_APTS_Labour_Dec2017.xlsx,labour_wages,SATTI_APTS
+Prepared by:,,,Checked by:,,,,,labour_wages\SATTI_APTS_Labour_Dec2017.xlsx,labour_wages,SATTI_APTS

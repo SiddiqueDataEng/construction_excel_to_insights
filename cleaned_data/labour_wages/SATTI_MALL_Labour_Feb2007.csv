@@ -1,0 +1,32 @@
+row_no,name,trade,qty,rate,amount,advance,total,_source_file,_folder,_project
+Month: February 2007,,,,,,,,labour_wages\SATTI_MALL_Labour_Feb2007.xlsx,labour_wages,SATTI_MALL
+1,Nasir Chaudhry,Helper,24,,14400.0,0.0,14400.0,labour_wages\SATTI_MALL_Labour_Feb2007.xlsx,labour_wages,SATTI_MALL
+2,Bilal Ansari,Painter,18,850.0,15300.0,0.0,15300.0,labour_wages\SATTI_MALL_Labour_Feb2007.xlsx,labour_wages,SATTI_MALL
+3,Rizwan Ali,Carpenter,24,1000.0,24000.0,7200.0,16800.0,labour_wages\SATTI_MALL_Labour_Feb2007.xlsx,labour_wages,SATTI_MALL
+4,Arif Chaudhry,Painter,23,850.0,,9775.0,9775.0,labour_wages\SATTI_MALL_Labour_Feb2007.xlsx,labour_wages,SATTI_MALL
+,,,,,,,,labour_wages\SATTI_MALL_Labour_Feb2007.xlsx,labour_wages,SATTI_MALL
+5,Hamid Chaudhry,Helper,18,600.0,10800.0,0.0,10800.0,labour_wages\SATTI_MALL_Labour_Feb2007.xlsx,labour_wages,SATTI_MALL
+6,Farooq Malik,Electrician,27,1200.0,32400.0,0.0,32400.0,labour_wages\SATTI_MALL_Labour_Feb2007.xlsx,labour_wages,SATTI_MALL
+7,Muhammad Butt,Site Engineer,25,2500.0,62500.0,0.0,62500.0,labour_wages\SATTI_MALL_Labour_Feb2007.xlsx,labour_wages,SATTI_MALL
+8,Tariq Ansari,Helper,,600.0,16800.0,0.0,16800.0,labour_wages\SATTI_MALL_Labour_Feb2007.xlsx,labour_wages,SATTI_MALL
+9,Nasir Mirza,Security Guard,28,700.0,19600.0,5880.0,,labour_wages\SATTI_MALL_Labour_Feb2007.xlsx,labour_wages,SATTI_MALL
+10,Usman Ansari,Carpenter,14,1000.0,14000.0,0.0,,labour_wages\SATTI_MALL_Labour_Feb2007.xlsx,labour_wages,SATTI_MALL
+11,Farooq Raza,Site Engineer,18,2500.0,45000.0,0.0,45000.0,labour_wages\SATTI_MALL_Labour_Feb2007.xlsx,labour_wages,SATTI_MALL
+12,Muhammad Malik,Welder,26,1100.0,28600.0,0.0,28600.0,labour_wages\SATTI_MALL_Labour_Feb2007.xlsx,labour_wages,SATTI_MALL
+13,Muhammad Malik,Site Engineer,28,2500.0,70000.0,21000.0,49000.0,labour_wages\SATTI_MALL_Labour_Feb2007.xlsx,labour_wages,SATTI_MALL
+14,Rizwan Mirza,Site Engineer,25,2500.0,62500.0,0.0,62500.0,labour_wages\SATTI_MALL_Labour_Feb2007.xlsx,labour_wages,SATTI_MALL
+15,Javed Sheikh,Plumber,25,1100.0,27500.0,,13750.0,labour_wages\SATTI_MALL_Labour_Feb2007.xlsx,labour_wages,SATTI_MALL
+16,Zahid Chaudhry,Electrician,15,1200.0,18000.0,0.0,18000.0,labour_wages\SATTI_MALL_Labour_Feb2007.xlsx,labour_wages,SATTI_MALL
+17,Muhammad Sheikh,Plumber,27,1100.0,29700.0,14850.0,14850.0,labour_wages\SATTI_MALL_Labour_Feb2007.xlsx,labour_wages,SATTI_MALL
+,,,,,,,,labour_wages\SATTI_MALL_Labour_Feb2007.xlsx,labour_wages,SATTI_MALL
+18,Arif Ansari,Welder,17,1100.0,18700.0,0.0,18700.0,labour_wages\SATTI_MALL_Labour_Feb2007.xlsx,labour_wages,SATTI_MALL
+19,Sajid Raza,Mason,19,900.0,17100.0,0.0,17100.0,labour_wages\SATTI_MALL_Labour_Feb2007.xlsx,labour_wages,SATTI_MALL
+20,Kamran Khan,Helper,TBD,600.0,12000.0,3600.0,8400.0,labour_wages\SATTI_MALL_Labour_Feb2007.xlsx,labour_wages,SATTI_MALL
+,,,,,,,,labour_wages\SATTI_MALL_Labour_Feb2007.xlsx,labour_wages,SATTI_MALL
+21,Farooq Malik,Plumber,21,1100.0,23100.0,6930.0,16170.0,labour_wages\SATTI_MALL_Labour_Feb2007.xlsx,labour_wages,SATTI_MALL
+22,Arif Raza,Electrician,16,1200.0,19200.0,0.0,19200.0,labour_wages\SATTI_MALL_Labour_Feb2007.xlsx,labour_wages,SATTI_MALL
+23,Asif Qureshi,Welder,25,,,0.0,27500.0,labour_wages\SATTI_MALL_Labour_Feb2007.xlsx,labour_wages,SATTI_MALL
+24,Usman Raza,Site Engineer,21,2500.0,52500.0,0.0,52500.0,labour_wages\SATTI_MALL_Labour_Feb2007.xlsx,labour_wages,SATTI_MALL
+25,Usman Butt,Helper,15,600.0,9000.0,0.0,9000.0,labour_wages\SATTI_MALL_Labour_Feb2007.xlsx,labour_wages,SATTI_MALL
+,,,,,,,,labour_wages\SATTI_MALL_Labour_Feb2007.xlsx,labour_wages,SATTI_MALL
+Prepared by:,,,Checked by:,,,,,labour_wages\SATTI_MALL_Labour_Feb2007.xlsx,labour_wages,SATTI_MALL

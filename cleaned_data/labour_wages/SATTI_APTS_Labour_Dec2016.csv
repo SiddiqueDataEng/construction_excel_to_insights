@@ -1,0 +1,25 @@
+row_no,name,trade,qty,rate,amount,advance,total,_source_file,_folder,_project
+Month: December 2016,,,,,,,,labour_wages\SATTI_APTS_Labour_Dec2016.xlsx,labour_wages,SATTI_APTS
+1,Kamran Qureshi,Welder,14,1100.0,15400.0,7700.0,7700.0,labour_wages\SATTI_APTS_Labour_Dec2016.xlsx,labour_wages,SATTI_APTS
+,,,,,,,,labour_wages\SATTI_APTS_Labour_Dec2016.xlsx,labour_wages,SATTI_APTS
+2,Hamid Khan,Plumber,17,1100.0,18700.0,9350.0,9350.0,labour_wages\SATTI_APTS_Labour_Dec2016.xlsx,labour_wages,SATTI_APTS
+3,Usman Chaudhry,Electrician,22,1200.0,26400.0,0.0,26400.0,labour_wages\SATTI_APTS_Labour_Dec2016.xlsx,labour_wages,SATTI_APTS
+4,Bilal Ansari,Carpenter,19,1000.0,19000.0,0.0,19000.0,labour_wages\SATTI_APTS_Labour_Dec2016.xlsx,labour_wages,SATTI_APTS
+5,Arif Mirza,Welder,17,1100.0,18700.0,0.0,18700.0,labour_wages\SATTI_APTS_Labour_Dec2016.xlsx,labour_wages,SATTI_APTS
+6,Javed Malik,Plumber,28,1100.0,30800.0,15400.0,15400.0,labour_wages\SATTI_APTS_Labour_Dec2016.xlsx,labour_wages,SATTI_APTS
+7,Tariq Chaudhry,Site Engineer,PKR 14,2500.0,35000.0,0.0,35000.0,labour_wages\SATTI_APTS_Labour_Dec2016.xlsx,labour_wages,SATTI_APTS
+8,Kamran Raza,Welder,23,1100.0,25300.0,0.0,25300.0,labour_wages\SATTI_APTS_Labour_Dec2016.xlsx,labour_wages,SATTI_APTS
+9,Muhammad Ansari,Helper,28,600.0,16800.0,0.0,16800.0,labour_wages\SATTI_APTS_Labour_Dec2016.xlsx,labour_wages,SATTI_APTS
+10,Usman Ansari,Electrician,15,1200.0,18000.0,0.0,18000.0,labour_wages\SATTI_APTS_Labour_Dec2016.xlsx,labour_wages,SATTI_APTS
+11,Arif Khan,Carpenter,26,1000.0,26000.0,0.0,26000.0,labour_wages\SATTI_APTS_Labour_Dec2016.xlsx,labour_wages,SATTI_APTS
+12,Bilal Ali,Mason,,900.0,25200.0,7560.0,17640.0,labour_wages\SATTI_APTS_Labour_Dec2016.xlsx,labour_wages,SATTI_APTS
+13,Tariq Malik,Mason,25,900.0,,11250.0,11250.0,labour_wages\SATTI_APTS_Labour_Dec2016.xlsx,labour_wages,SATTI_APTS
+,,,,,,,,labour_wages\SATTI_APTS_Labour_Dec2016.xlsx,labour_wages,SATTI_APTS
+14,Rizwan Qureshi,Supervisor,20,1800.0,36000.0,0.0,36000.0,labour_wages\SATTI_APTS_Labour_Dec2016.xlsx,labour_wages,SATTI_APTS
+15,Tariq Raza,Plumber,PKR 26,1100.0,28600.0,0.0,28600.0,labour_wages\SATTI_APTS_Labour_Dec2016.xlsx,labour_wages,SATTI_APTS
+,,,,,,,,labour_wages\SATTI_APTS_Labour_Dec2016.xlsx,labour_wages,SATTI_APTS
+16,Arif Khan,Security Guard,27,700.0,18900.0,5670.0,13230.0,labour_wages\SATTI_APTS_Labour_Dec2016.xlsx,labour_wages,SATTI_APTS
+17,Muhammad Ansari,Painter,21,850.0,17850.0,5355.0,12495.0,labour_wages\SATTI_APTS_Labour_Dec2016.xlsx,labour_wages,SATTI_APTS
+18,Arif Sheikh,Welder,16,1100.0,17600.0,8800.0,8800.0,labour_wages\SATTI_APTS_Labour_Dec2016.xlsx,labour_wages,SATTI_APTS
+,,,,,,,,labour_wages\SATTI_APTS_Labour_Dec2016.xlsx,labour_wages,SATTI_APTS
+Prepared by:,,,Checked by:,,,,,labour_wages\SATTI_APTS_Labour_Dec2016.xlsx,labour_wages,SATTI_APTS

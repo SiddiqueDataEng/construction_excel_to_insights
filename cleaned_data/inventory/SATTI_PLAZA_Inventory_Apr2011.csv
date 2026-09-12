@@ -1,0 +1,18 @@
+row_no,item_code,description,unit,opening_stock,credit,debit,closing_stock,,_source_file,_folder,_project
+Project: SATTI_PLAZA   Month: April 2011,,,,,,,,,inventory\SATTI_PLAZA_Inventory_Apr2011.xlsx,inventory,SATTI_PLAZA
+1,PLY-MR-12,PLY-MR12,sht,168.0,329.1,437.4,59.7,Reorder,inventory\SATTI_PLAZA_Inventory_Apr2011.xlsx,inventory,SATTI_PLAZA
+2,GLS-CLR-6,GLASS-6MM,sft,25.4,46.8,34.5,37.7,Reorder,inventory\SATTI_PLAZA_Inventory_Apr2011.xlsx,inventory,SATTI_PLAZA
+3,GENSET-25,GENSET-25,nos,196.0,269.0,48.7,416.4,,inventory\SATTI_PLAZA_Inventory_Apr2011.xlsx,inventory,SATTI_PLAZA
+4,SAN-WC,W.C. Std.,nos,158.7,425.4,115.9,468.2,,inventory\SATTI_PLAZA_Inventory_Apr2011.xlsx,inventory,SATTI_PLAZA
+5,GALVPIPE-2,"2"" GI Pipe",rft,116.6,219.0,292.9,42.7,Reorder,inventory\SATTI_PLAZA_Inventory_Apr2011.xlsx,inventory,SATTI_PLAZA
+6,BRICKS_A,BRICK-CLA,1000,71.4,256.2,86.3,241.3,OK,inventory\SATTI_PLAZA_Inventory_Apr2011.xlsx,inventory,SATTI_PLAZA
+7,RETI (RIVER),Sand (Fine),cft,171.0,476.9,527.8,120.3,OK,inventory\SATTI_PLAZA_Inventory_Apr2011.xlsx,inventory,SATTI_PLAZA
+8,ARM_CABLE_95,AC-95sq,mtr,41.7,59.5,58.9,42.3,OK,inventory\SATTI_PLAZA_Inventory_Apr2011.xlsx,inventory,SATTI_PLAZA
+9,PAI-OIL,Oil Paint (White) 4Ltr,tin,101.8,481.0,451.0,132.0,,inventory\SATTI_PLAZA_Inventory_Apr2011.xlsx,inventory,SATTI_PLAZA
+10,"A.WIN 4""","A.Win 4""",nos,60.9,81.8,117.2,25.5,Reorder,inventory\SATTI_PLAZA_Inventory_Apr2011.xlsx,inventory,SATTI_PLAZA
+11,REBAR-12MM,S.Bar 12mm,kg,147.8,269.0,242.9,173.7,Reorder,inventory\SATTI_PLAZA_Inventory_Apr2011.xlsx,inventory,SATTI_PLAZA
+12,READY MIX M20,rmc_m20,cft,50.9,88.3,17.0,122.2,Surplus,inventory\SATTI_PLAZA_Inventory_Apr2011.xlsx,inventory,SATTI_PLAZA
+13,COPWIRE7,7/0.029 Copper Wire,mtr,84.9,221.0,103.0,202.9,Surplus,inventory\SATTI_PLAZA_Inventory_Apr2011.xlsx,inventory,SATTI_PLAZA
+14,STL-RB-16,S.Bar 16mm,kg,166.8,143.3,309.6,0.5,Surplus,inventory\SATTI_PLAZA_Inventory_Apr2011.xlsx,inventory,SATTI_PLAZA
+15,TIL-CER-12,"Tile 12x12""",sft,118.2,408.6,107.0,419.7,,inventory\SATTI_PLAZA_Inventory_Apr2011.xlsx,inventory,SATTI_PLAZA
+Store Keeper:,,Site Engr:,,,,,,,inventory\SATTI_PLAZA_Inventory_Apr2011.xlsx,inventory,SATTI_PLAZA

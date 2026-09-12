@@ -1,0 +1,12 @@
+row_no,item_code,description,unit,opening_stock,credit,debit,closing_stock,nan,_source_file,_folder,_project
+Project: SATTI_PLAZA   Month: December 2011,,,,,,,,,inventory\SATTI_PLAZA_Inventory_Dec2011.xlsx,inventory,SATTI_PLAZA
+1,COPPER WIRE 7/.029,CopWire7,mtr,15.5,228.1,11.0,232.6,Reorder,inventory\SATTI_PLAZA_Inventory_Dec2011.xlsx,inventory,SATTI_PLAZA
+2,PIP-GI-2,"G.I.Pipe 2""",rft,128.5,325.8,1.0,453.3,,inventory\SATTI_PLAZA_Inventory_Dec2011.xlsx,inventory,SATTI_PLAZA
+3,WC-STD,SAN-WC,nos,141.0,,,142.6,Reorder,inventory\SATTI_PLAZA_Inventory_Dec2011.xlsx,inventory,SATTI_PLAZA
+4,"A.WIN 4""",ALU-WIN4,nos,182.0,,62.5,129.0,OK,inventory\SATTI_PLAZA_Inventory_Dec2011.xlsx,inventory,SATTI_PLAZA
+5,ARMOURED CABLE 95,Armoured Cable 95,mtr,7.3,157.5,42.0,122.6,Surplus,inventory\SATTI_PLAZA_Inventory_Dec2011.xlsx,inventory,SATTI_PLAZA
+6,CEM-OPC50,CEM-OPC50,bag,169.8,259.7,55.0,374.2,,inventory\SATTI_PLAZA_Inventory_Dec2011.xlsx,inventory,SATTI_PLAZA
+7,PLY_MR_12MM,PLY-MR12,sht,9.0,188.9,129.9,68.0,,inventory\SATTI_PLAZA_Inventory_Dec2011.xlsx,inventory,SATTI_PLAZA
+8,STL-RB16,REBAR-16MM,kg,,104.5,121.7,89.6,,inventory\SATTI_PLAZA_Inventory_Dec2011.xlsx,inventory,SATTI_PLAZA
+9,STL-RB12,STL-RB12,kg,146.6,127.1,227.8,45.9,,inventory\SATTI_PLAZA_Inventory_Dec2011.xlsx,inventory,SATTI_PLAZA
+Store Keeper:,,Site Engr:,,,,,,,inventory\SATTI_PLAZA_Inventory_Dec2011.xlsx,inventory,SATTI_PLAZA

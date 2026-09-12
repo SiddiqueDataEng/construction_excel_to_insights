@@ -1,0 +1,31 @@
+row_no,name,trade,qty,rate,amount,advance,total,_source_file,_folder,_project
+Month: June 2015,,,,,,,,labour_wages\SATTI_APTS_Labour_Jun2015.xlsx,labour_wages,SATTI_APTS
+1,Asif Butt,Helper,14,600.0,8400.0,0.0,8400.0,labour_wages\SATTI_APTS_Labour_Jun2015.xlsx,labour_wages,SATTI_APTS
+2,Sajid Mirza,Supervisor,16,1800.0,28800.0,14400.0,14400.0,labour_wages\SATTI_APTS_Labour_Jun2015.xlsx,labour_wages,SATTI_APTS
+3,Nasir Sheikh,Security Guard,24,700.0,16800.0,,16800.0,labour_wages\SATTI_APTS_Labour_Jun2015.xlsx,labour_wages,SATTI_APTS
+4,Asif Chaudhry,Helper,25,600.0,15000.0,0.0,15000.0,labour_wages\SATTI_APTS_Labour_Jun2015.xlsx,labour_wages,SATTI_APTS
+5,Tariq Sheikh,Supervisor,24,1800.0,43200.0,21600.0,21600.0,labour_wages\SATTI_APTS_Labour_Jun2015.xlsx,labour_wages,SATTI_APTS
+6,Arif Butt,Security Guard,25,700.0,17500.0,0.0,17500.0,labour_wages\SATTI_APTS_Labour_Jun2015.xlsx,labour_wages,SATTI_APTS
+,,,,,,,,labour_wages\SATTI_APTS_Labour_Jun2015.xlsx,labour_wages,SATTI_APTS
+7,Arif Khan,Plumber,16,1100.0,17600.0,5280.0,12320.0,labour_wages\SATTI_APTS_Labour_Jun2015.xlsx,labour_wages,SATTI_APTS
+8,Hamid Qureshi,Supervisor,17,1800.0,30600.0,9180.0,21420.0,labour_wages\SATTI_APTS_Labour_Jun2015.xlsx,labour_wages,SATTI_APTS
+9,Kamran Butt,Carpenter,19,1000.0,19000.0,5700.0,13300.0,labour_wages\SATTI_APTS_Labour_Jun2015.xlsx,labour_wages,SATTI_APTS
+10,Farooq Sheikh,Welder,24,1100.0,26400.0,0.0,26400.0,labour_wages\SATTI_APTS_Labour_Jun2015.xlsx,labour_wages,SATTI_APTS
+11,Tariq Butt,Painter,18,850.0,15300.0,4590.0,10710.0,labour_wages\SATTI_APTS_Labour_Jun2015.xlsx,labour_wages,SATTI_APTS
+12,Zahid Mirza,Plumber,16,,17600.0,0.0,17600.0,labour_wages\SATTI_APTS_Labour_Jun2015.xlsx,labour_wages,SATTI_APTS
+13,Nasir Mirza,Mason,26,900.0,23400.0,11700.0,11700.0,labour_wages\SATTI_APTS_Labour_Jun2015.xlsx,labour_wages,SATTI_APTS
+14,Asif Ansari,Plumber,27,1100.0,29700.0,0.0,29700.0,labour_wages\SATTI_APTS_Labour_Jun2015.xlsx,labour_wages,SATTI_APTS
+15,Usman Malik,Welder,28,1100.0,30800.0,15400.0,15400.0,labour_wages\SATTI_APTS_Labour_Jun2015.xlsx,labour_wages,SATTI_APTS
+,,,,,,,,labour_wages\SATTI_APTS_Labour_Jun2015.xlsx,labour_wages,SATTI_APTS
+16,Tariq Mirza,Carpenter,17,1000.0,17000.0,8500.0,8500.0,labour_wages\SATTI_APTS_Labour_Jun2015.xlsx,labour_wages,SATTI_APTS
+17,Farooq Chaudhry,Welder,26,1100.0,,0.0,28600.0,labour_wages\SATTI_APTS_Labour_Jun2015.xlsx,labour_wages,SATTI_APTS
+18,Tariq Butt,Welder,15,,16500.0,8250.0,8250.0,labour_wages\SATTI_APTS_Labour_Jun2015.xlsx,labour_wages,SATTI_APTS
+,,,,,,,,labour_wages\SATTI_APTS_Labour_Jun2015.xlsx,labour_wages,SATTI_APTS
+19,Muhammad Mirza,Carpenter,22,1000.0,22000.0,0.0,22000.0,labour_wages\SATTI_APTS_Labour_Jun2015.xlsx,labour_wages,SATTI_APTS
+20,Hamid Raza,Electrician,15,1200.0,18000.0,0.0,18000.0,labour_wages\SATTI_APTS_Labour_Jun2015.xlsx,labour_wages,SATTI_APTS
+21,Usman Ansari,Electrician,28,1200.0,33600.0,10080.0,23520.0,labour_wages\SATTI_APTS_Labour_Jun2015.xlsx,labour_wages,SATTI_APTS
+22,Kamran Chaudhry,Supervisor,27,1800.0,48600.0,14580.0,34020.0,labour_wages\SATTI_APTS_Labour_Jun2015.xlsx,labour_wages,SATTI_APTS
+23,Tariq Mirza,Painter,20,850.0,17000.0,0.0,17000.0,labour_wages\SATTI_APTS_Labour_Jun2015.xlsx,labour_wages,SATTI_APTS
+24,Hamid Qureshi,Carpenter,15,1000.0,15000.0,4500.0,10500.0,labour_wages\SATTI_APTS_Labour_Jun2015.xlsx,labour_wages,SATTI_APTS
+,,,,,,,,labour_wages\SATTI_APTS_Labour_Jun2015.xlsx,labour_wages,SATTI_APTS
+Prepared by:,,,Checked by:,,,,,labour_wages\SATTI_APTS_Labour_Jun2015.xlsx,labour_wages,SATTI_APTS

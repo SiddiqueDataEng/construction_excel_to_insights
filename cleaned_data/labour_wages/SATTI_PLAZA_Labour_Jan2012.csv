@@ -1,0 +1,28 @@
+row_no,name,trade,qty,rate,total,deductions,net,_source_file,_folder,_project
+Month: January 2012,,,,,,,,labour_wages\SATTI_PLAZA_Labour_Jan2012.xlsx,labour_wages,SATTI_PLAZA
+1,Javed Sheikh,Mason,15,900.0,13500.0,6750,6750,labour_wages\SATTI_PLAZA_Labour_Jan2012.xlsx,labour_wages,SATTI_PLAZA
+2,Rizwan Butt,Plumber,28,1100.0,30800.0,PKR 0,30800,labour_wages\SATTI_PLAZA_Labour_Jan2012.xlsx,labour_wages,SATTI_PLAZA
+3,Muhammad Ali,Mason,16,900.0,14400.0,7200,"PKR 7,200",labour_wages\SATTI_PLAZA_Labour_Jan2012.xlsx,labour_wages,SATTI_PLAZA
+4,Usman Khan,Helper,18,,10800.0,3240,7560,labour_wages\SATTI_PLAZA_Labour_Jan2012.xlsx,labour_wages,SATTI_PLAZA
+5,Rizwan Ansari,Helper,20,,12000.0,0,,labour_wages\SATTI_PLAZA_Labour_Jan2012.xlsx,labour_wages,SATTI_PLAZA
+6,Nasir Chaudhry,Supervisor,21,1800.0,37800.0,0,37800,labour_wages\SATTI_PLAZA_Labour_Jan2012.xlsx,labour_wages,SATTI_PLAZA
+7,Farooq Ali,Supervisor,20,1800.0,36000.0,10800,25200,labour_wages\SATTI_PLAZA_Labour_Jan2012.xlsx,labour_wages,SATTI_PLAZA
+,,,,,,,Sub-total,labour_wages\SATTI_PLAZA_Labour_Jan2012.xlsx,labour_wages,SATTI_PLAZA
+8,Arif Ansari,Supervisor,14,1800.0,25200.0,0,25200,labour_wages\SATTI_PLAZA_Labour_Jan2012.xlsx,labour_wages,SATTI_PLAZA
+9,Sajid Mirza,Plumber,19,1100.0,20900.0,10450,10450,labour_wages\SATTI_PLAZA_Labour_Jan2012.xlsx,labour_wages,SATTI_PLAZA
+10,Javed Butt,Carpenter,26,1000.0,26000.0,0,26000,labour_wages\SATTI_PLAZA_Labour_Jan2012.xlsx,labour_wages,SATTI_PLAZA
+11,Asif Ansari,Site Engineer,26,2500.0,65000.0,32500,32500,labour_wages\SATTI_PLAZA_Labour_Jan2012.xlsx,labour_wages,SATTI_PLAZA
+12,Muhammad Khan,Mason,27,900.0,24300.0,0,24300,labour_wages\SATTI_PLAZA_Labour_Jan2012.xlsx,labour_wages,SATTI_PLAZA
+13,Farooq Chaudhry,Helper,28,600.0,16800.0,0,"16,800/-",labour_wages\SATTI_PLAZA_Labour_Jan2012.xlsx,labour_wages,SATTI_PLAZA
+14,Ahmad Ali,Supervisor,26,1800.0,46800.0,0,46800,labour_wages\SATTI_PLAZA_Labour_Jan2012.xlsx,labour_wages,SATTI_PLAZA
+15,Arif Ansari,Site Engineer,17,2500.0,42500.0,0,,labour_wages\SATTI_PLAZA_Labour_Jan2012.xlsx,labour_wages,SATTI_PLAZA
+16,Farooq Chaudhry,Helper,23,600.0,13800.0,0,13800,labour_wages\SATTI_PLAZA_Labour_Jan2012.xlsx,labour_wages,SATTI_PLAZA
+17,Usman Ansari,Site Engineer,27,2500.0,67500.0,0,67500,labour_wages\SATTI_PLAZA_Labour_Jan2012.xlsx,labour_wages,SATTI_PLAZA
+18,Bilal Ansari,Supervisor,22,1800.0,39600.0,0,39600,labour_wages\SATTI_PLAZA_Labour_Jan2012.xlsx,labour_wages,SATTI_PLAZA
+19,Sajid Ali,Security Guard,15,700.0,10500.0,0,10500,labour_wages\SATTI_PLAZA_Labour_Jan2012.xlsx,labour_wages,SATTI_PLAZA
+20,Bilal Malik,Carpenter,20/-,1000.0,20000.0,0/-,20000,labour_wages\SATTI_PLAZA_Labour_Jan2012.xlsx,labour_wages,SATTI_PLAZA
+21,Zahid Ansari,Site Engineer,18,2500.0,45000.0,13500,31500,labour_wages\SATTI_PLAZA_Labour_Jan2012.xlsx,labour_wages,SATTI_PLAZA
+22,Arif Khan,Mason,19,900.0,17100.0,5130,11970,labour_wages\SATTI_PLAZA_Labour_Jan2012.xlsx,labour_wages,SATTI_PLAZA
+23,Zahid Khan,Plumber,21,1100.0,23100.0,0,23100,labour_wages\SATTI_PLAZA_Labour_Jan2012.xlsx,labour_wages,SATTI_PLAZA
+,,,,,,,,labour_wages\SATTI_PLAZA_Labour_Jan2012.xlsx,labour_wages,SATTI_PLAZA
+Prepared by:,,,Checked by:,,,Approved:,,labour_wages\SATTI_PLAZA_Labour_Jan2012.xlsx,labour_wages,SATTI_PLAZA

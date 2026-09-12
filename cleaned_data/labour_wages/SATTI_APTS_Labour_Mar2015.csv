@@ -1,0 +1,17 @@
+row_no,name,trade,qty,rate,amount,advance,total,_source_file,_folder,_project
+Month: March 2015,,,,,,,,labour_wages\SATTI_APTS_Labour_Mar2015.xlsx,labour_wages,SATTI_APTS
+1,Arif Sheikh,Helper,16,600.0,9600.0,4800.0,4800.0,labour_wages\SATTI_APTS_Labour_Mar2015.xlsx,labour_wages,SATTI_APTS
+,,,,,,,,labour_wages\SATTI_APTS_Labour_Mar2015.xlsx,labour_wages,SATTI_APTS
+2,Hamid Malik,Mason,PKR 23,900.0,20700.0,6210.0,14490.0,labour_wages\SATTI_APTS_Labour_Mar2015.xlsx,labour_wages,SATTI_APTS
+3,Kamran Mirza,Supervisor,24,1800.0,43200.0,0.0,43200.0,labour_wages\SATTI_APTS_Labour_Mar2015.xlsx,labour_wages,SATTI_APTS
+4,Farooq Butt,Plumber,18,1100.0,19800.0,0.0,19800.0,labour_wages\SATTI_APTS_Labour_Mar2015.xlsx,labour_wages,SATTI_APTS
+5,Muhammad Sheikh,Painter,28,850.0,,0.0,23800.0,labour_wages\SATTI_APTS_Labour_Mar2015.xlsx,labour_wages,SATTI_APTS
+6,Farooq Sheikh,Mason,16,900.0,14400.0,4320.0,10080.0,labour_wages\SATTI_APTS_Labour_Mar2015.xlsx,labour_wages,SATTI_APTS
+7,Ahmad Raza,Supervisor,20,1800.0,36000.0,0.0,,labour_wages\SATTI_APTS_Labour_Mar2015.xlsx,labour_wages,SATTI_APTS
+8,Javed Mirza,Helper,16,600.0,9600.0,0.0,9600.0,labour_wages\SATTI_APTS_Labour_Mar2015.xlsx,labour_wages,SATTI_APTS
+9,Muhammad Mirza,Painter,21,850.0,17850.0,0.0,17850.0,labour_wages\SATTI_APTS_Labour_Mar2015.xlsx,labour_wages,SATTI_APTS
+10,Muhammad Sheikh,Painter,18,850.0,15300.0,0.0,15300.0,labour_wages\SATTI_APTS_Labour_Mar2015.xlsx,labour_wages,SATTI_APTS
+11,Usman Raza,Mason,PKR 18,900.0,,0.0,16200.0,labour_wages\SATTI_APTS_Labour_Mar2015.xlsx,labour_wages,SATTI_APTS
+12,Rizwan Khan,Mason,23,900.0,20700.0,0.0,,labour_wages\SATTI_APTS_Labour_Mar2015.xlsx,labour_wages,SATTI_APTS
+,,,,,,,,labour_wages\SATTI_APTS_Labour_Mar2015.xlsx,labour_wages,SATTI_APTS
+Prepared by:,,,Checked by:,,,,,labour_wages\SATTI_APTS_Labour_Mar2015.xlsx,labour_wages,SATTI_APTS

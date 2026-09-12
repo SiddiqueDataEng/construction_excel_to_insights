@@ -1,0 +1,22 @@
+row_no,item_code,description,unit,opening_stock,credit,debit,closing_stock,nan,_source_file,_folder,_project
+Project: SATTI_PLAZA   Month: April 2014,,,,,,,,,inventory\SATTI_PLAZA_Inventory_Apr2014.xlsx,inventory,SATTI_PLAZA
+1,RED BRICK A-GRADE,Class A Brick,1000,172.7,459.3,128.5,503.5,,inventory\SATTI_PLAZA_Inventory_Apr2014.xlsx,inventory,SATTI_PLAZA
+2,STL-RB-16,REBAR-16MM,kg,114.1,236.0,32.0,318.1,Surplus,inventory\SATTI_PLAZA_Inventory_Apr2014.xlsx,inventory,SATTI_PLAZA
+3,CEMENT BAG 50KG,CEMENT-50,bag,135.8,120.0,39.8,216.0,OK,inventory\SATTI_PLAZA_Inventory_Apr2014.xlsx,inventory,SATTI_PLAZA
+4,"CER.TILE 12""","Cer.Tile 12""",sft,73.0,389.3,65.6,396.7,OK,inventory\SATTI_PLAZA_Inventory_Apr2014.xlsx,inventory,SATTI_PLAZA
+5,BAJRI 3/4,"C.Agg 3/4""",cft,25.7,1.3,21.9,5.0,Surplus,inventory\SATTI_PLAZA_Inventory_Apr2014.xlsx,inventory,SATTI_PLAZA
+6,PIP-GI-1,GI PIPE 1IN,rft,133.0,188.0,5.6,316.2,OK,inventory\SATTI_PLAZA_Inventory_Apr2014.xlsx,inventory,SATTI_PLAZA
+7,STL-RB-12,rebar 1/2 inch,kg,190.9,101.5,16.7,275.7,Surplus,inventory\SATTI_PLAZA_Inventory_Apr2014.xlsx,inventory,SATTI_PLAZA
+8,SAN-WC,Commode Standard,nos,119.7,381.0,449.0,51.7,,inventory\SATTI_PLAZA_Inventory_Apr2014.xlsx,inventory,SATTI_PLAZA
+9,COPWIRE7,CopWire7,mtr,47.0,276.5,168.6,154.9,,inventory\SATTI_PLAZA_Inventory_Apr2014.xlsx,inventory,SATTI_PLAZA
+10,GEN_25KVA,GEN-25K,nos,67.2,475.9,35.0,508.1,,inventory\SATTI_PLAZA_Inventory_Apr2014.xlsx,inventory,SATTI_PLAZA
+11,CBL-ARM95,95mm² Armoured Cable,mtr,184.7,353.0,340.6,197.2,,inventory\SATTI_PLAZA_Inventory_Apr2014.xlsx,inventory,SATTI_PLAZA
+12,GLS-CLR-6,6mm_glass,sft,157.8,41.2,196.0,3.0,,inventory\SATTI_PLAZA_Inventory_Apr2014.xlsx,inventory,SATTI_PLAZA
+13,RETI (RIVER),Sand (Fine),cft,196.3,384.6,491.9,89.0,,inventory\SATTI_PLAZA_Inventory_Apr2014.xlsx,inventory,SATTI_PLAZA
+14,ALU-WIN4,"A.Win 4""",nos,109.7,106.0,168.2,47.5,,inventory\SATTI_PLAZA_Inventory_Apr2014.xlsx,inventory,SATTI_PLAZA
+15,PAINT_OIL_W,OIL-PAINT-W,tin,195.7,47.3,142.0,101.0,Surplus,inventory\SATTI_PLAZA_Inventory_Apr2014.xlsx,inventory,SATTI_PLAZA
+16,MARBLE WHT,MAR-W-IMP,sft,129.5,378.7,52.8,455.0,Surplus,inventory\SATTI_PLAZA_Inventory_Apr2014.xlsx,inventory,SATTI_PLAZA
+17,WIR-CP3,wire_3029,mtr,106.2,405.2,110.8,400.6,Reorder,inventory\SATTI_PLAZA_Inventory_Apr2014.xlsx,inventory,SATTI_PLAZA
+18,GALVPIPE-2,GalvPipe-2,rft,79.3,388.0,299.0,,Surplus,inventory\SATTI_PLAZA_Inventory_Apr2014.xlsx,inventory,SATTI_PLAZA
+19,M20 CONCRETE,rmc_m20,cft,103.0,284.9,266.8,121.1,Reorder,inventory\SATTI_PLAZA_Inventory_Apr2014.xlsx,inventory,SATTI_PLAZA
+Store Keeper:,,Site Engr:,,,,,,,inventory\SATTI_PLAZA_Inventory_Apr2014.xlsx,inventory,SATTI_PLAZA

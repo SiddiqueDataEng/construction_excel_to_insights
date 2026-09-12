@@ -1,0 +1,16 @@
+row_no,name,trade,qty,rate,amount,advance,total,_source_file,_folder,_project
+Month: September 2017,,,,,,,,labour_wages\SATTI_APTS_Labour_Sep2017.xlsx,labour_wages,SATTI_APTS
+1,Rizwan Sheikh,Helper,25,600.0,15000.0,4500.0,10500.0,labour_wages\SATTI_APTS_Labour_Sep2017.xlsx,labour_wages,SATTI_APTS
+2,Sajid Malik,Security Guard,22,700.0,15400.0,0.0,15400.0,labour_wages\SATTI_APTS_Labour_Sep2017.xlsx,labour_wages,SATTI_APTS
+3,Sajid Sheikh,Site Engineer,24,2500.0,60000.0,,42000.0,labour_wages\SATTI_APTS_Labour_Sep2017.xlsx,labour_wages,SATTI_APTS
+4,Farooq Malik,Plumber,24,1100.0,26400.0,0.0,26400.0,labour_wages\SATTI_APTS_Labour_Sep2017.xlsx,labour_wages,SATTI_APTS
+5,Javed Malik,Plumber,17,1100.0,,9350.0,9350.0,labour_wages\SATTI_APTS_Labour_Sep2017.xlsx,labour_wages,SATTI_APTS
+6,Rizwan Malik,Security Guard,21,700.0,14700.0,7350.0,7350.0,labour_wages\SATTI_APTS_Labour_Sep2017.xlsx,labour_wages,SATTI_APTS
+7,Usman Khan,Helper,17,600.0,10200.0,0.0,10200.0,labour_wages\SATTI_APTS_Labour_Sep2017.xlsx,labour_wages,SATTI_APTS
+8,Bilal Malik,Mason,20,900.0,18000.0,5400.0,,labour_wages\SATTI_APTS_Labour_Sep2017.xlsx,labour_wages,SATTI_APTS
+9,Farooq Khan,Mason,27,900.0,24300.0,0.0,24300.0,labour_wages\SATTI_APTS_Labour_Sep2017.xlsx,labour_wages,SATTI_APTS
+10,Bilal Khan,Security Guard,14,700.0,9800.0,0.0,9800.0,labour_wages\SATTI_APTS_Labour_Sep2017.xlsx,labour_wages,SATTI_APTS
+11,Hamid Ansari,Carpenter,28,1000.0,28000.0,14000.0,14000.0,labour_wages\SATTI_APTS_Labour_Sep2017.xlsx,labour_wages,SATTI_APTS
+12,Sajid Qureshi,Plumber,PKR 22,,24200.0,12100.0,12100.0,labour_wages\SATTI_APTS_Labour_Sep2017.xlsx,labour_wages,SATTI_APTS
+,,,,,,,,labour_wages\SATTI_APTS_Labour_Sep2017.xlsx,labour_wages,SATTI_APTS
+Prepared by:,,,Checked by:,,,,,labour_wages\SATTI_APTS_Labour_Sep2017.xlsx,labour_wages,SATTI_APTS

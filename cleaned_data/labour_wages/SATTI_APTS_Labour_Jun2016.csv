@@ -1,0 +1,21 @@
+row_no,name,trade,qty,rate,amount,advance,total,_source_file,_folder,_project
+Month: June 2016,,,,,,,,labour_wages\SATTI_APTS_Labour_Jun2016.xlsx,labour_wages,SATTI_APTS
+1,Sajid Ali,Painter,23,850.0,19550.0,0.0,19550.0,labour_wages\SATTI_APTS_Labour_Jun2016.xlsx,labour_wages,SATTI_APTS
+2,Nasir Butt,Electrician,16,1200.0,19200.0,5760.0,13440.0,labour_wages\SATTI_APTS_Labour_Jun2016.xlsx,labour_wages,SATTI_APTS
+3,Tariq Chaudhry,Helper,24,600.0,14400.0,0.0,14400.0,labour_wages\SATTI_APTS_Labour_Jun2016.xlsx,labour_wages,SATTI_APTS
+4,Farooq Khan,Security Guard,25,700.0,,0.0,17500.0,labour_wages\SATTI_APTS_Labour_Jun2016.xlsx,labour_wages,SATTI_APTS
+5,Hamid Sheikh,Painter,15/-,850.0,12750.0,0.0,12750.0,labour_wages\SATTI_APTS_Labour_Jun2016.xlsx,labour_wages,SATTI_APTS
+6,Farooq Chaudhry,Painter,18,850.0,15300.0,0.0,15300.0,labour_wages\SATTI_APTS_Labour_Jun2016.xlsx,labour_wages,SATTI_APTS
+7,Kamran Malik,Plumber,22,1100.0,24200.0,0.0,,labour_wages\SATTI_APTS_Labour_Jun2016.xlsx,labour_wages,SATTI_APTS
+8,Javed Malik,Carpenter,21,1000.0,21000.0,6300.0,14700.0,labour_wages\SATTI_APTS_Labour_Jun2016.xlsx,labour_wages,SATTI_APTS
+9,Ahmad Butt,Security Guard,PKR 14,700.0,9800.0,4900.0,4900.0,labour_wages\SATTI_APTS_Labour_Jun2016.xlsx,labour_wages,SATTI_APTS
+10,Javed Qureshi,Painter,19,850.0,16150.0,8075.0,8075.0,labour_wages\SATTI_APTS_Labour_Jun2016.xlsx,labour_wages,SATTI_APTS
+11,Nasir Chaudhry,Supervisor,18/-,1800.0,32400.0,0.0,32400.0,labour_wages\SATTI_APTS_Labour_Jun2016.xlsx,labour_wages,SATTI_APTS
+12,Zahid Ali,Mason,26,900.0,23400.0,0.0,,labour_wages\SATTI_APTS_Labour_Jun2016.xlsx,labour_wages,SATTI_APTS
+13,Farooq Ali,Helper,14,600.0,8400.0,0.0,8400.0,labour_wages\SATTI_APTS_Labour_Jun2016.xlsx,labour_wages,SATTI_APTS
+14,Rizwan Sheikh,Helper,23/-,600.0,13800.0,0.0,,labour_wages\SATTI_APTS_Labour_Jun2016.xlsx,labour_wages,SATTI_APTS
+15,Muhammad Khan,Welder,26,1100.0,28600.0,0.0,,labour_wages\SATTI_APTS_Labour_Jun2016.xlsx,labour_wages,SATTI_APTS
+16,Javed Raza,Security Guard,25,700.0,17500.0,0.0,17500.0,labour_wages\SATTI_APTS_Labour_Jun2016.xlsx,labour_wages,SATTI_APTS
+17,Muhammad Butt,Plumber,18,1100.0,,0.0,19800.0,labour_wages\SATTI_APTS_Labour_Jun2016.xlsx,labour_wages,SATTI_APTS
+,,,,,,,,labour_wages\SATTI_APTS_Labour_Jun2016.xlsx,labour_wages,SATTI_APTS
+Prepared by:,,,Checked by:,,,,,labour_wages\SATTI_APTS_Labour_Jun2016.xlsx,labour_wages,SATTI_APTS

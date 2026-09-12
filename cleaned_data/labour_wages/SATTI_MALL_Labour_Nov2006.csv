@@ -1,0 +1,26 @@
+row_no,name,trade,qty,rate,amount,advance,total,_source_file,_folder,_project
+Month: November 2006,,,,,,,,labour_wages\SATTI_MALL_Labour_Nov2006.xlsx,labour_wages,SATTI_MALL
+1,Farooq Malik,Plumber,25,1100.0,27500.0,0.0,27500.0,labour_wages\SATTI_MALL_Labour_Nov2006.xlsx,labour_wages,SATTI_MALL
+2,Rizwan Ali,Painter,27,850.0,22950.0,0.0,22950.0,labour_wages\SATTI_MALL_Labour_Nov2006.xlsx,labour_wages,SATTI_MALL
+3,Javed Qureshi,Site Engineer,27,2500.0,67500.0,20250.0,47250.0,labour_wages\SATTI_MALL_Labour_Nov2006.xlsx,labour_wages,SATTI_MALL
+4,Zahid Chaudhry,Helper,23,600.0,13800.0,0.0,13800.0,labour_wages\SATTI_MALL_Labour_Nov2006.xlsx,labour_wages,SATTI_MALL
+5,Bilal Qureshi,Welder,19,1100.0,20900.0,0.0,20900.0,labour_wages\SATTI_MALL_Labour_Nov2006.xlsx,labour_wages,SATTI_MALL
+6,Ahmad Mirza,Supervisor,19,1800.0,34200.0,0.0,34200.0,labour_wages\SATTI_MALL_Labour_Nov2006.xlsx,labour_wages,SATTI_MALL
+7,Javed Khan,Security Guard,19,700.0,13300.0,0.0,13300.0,labour_wages\SATTI_MALL_Labour_Nov2006.xlsx,labour_wages,SATTI_MALL
+8,Bilal Raza,Carpenter,25/-,1000.0,,7500.0,17500.0,labour_wages\SATTI_MALL_Labour_Nov2006.xlsx,labour_wages,SATTI_MALL
+9,Bilal Khan,Electrician,27,1200.0,32400.0,9720.0,,labour_wages\SATTI_MALL_Labour_Nov2006.xlsx,labour_wages,SATTI_MALL
+,,,,,,,,labour_wages\SATTI_MALL_Labour_Nov2006.xlsx,labour_wages,SATTI_MALL
+10,Usman Sheikh,Welder,24,1100.0,26400.0,7920.0,18480.0,labour_wages\SATTI_MALL_Labour_Nov2006.xlsx,labour_wages,SATTI_MALL
+11,Bilal Mirza,Welder,15,1100.0,16500.0,0.0,16500.0,labour_wages\SATTI_MALL_Labour_Nov2006.xlsx,labour_wages,SATTI_MALL
+12,Arif Butt,Security Guard,16,700.0,11200.0,3360.0,7840.0,labour_wages\SATTI_MALL_Labour_Nov2006.xlsx,labour_wages,SATTI_MALL
+13,Ahmad Sheikh,Security Guard,15,700.0,10500.0,,10500.0,labour_wages\SATTI_MALL_Labour_Nov2006.xlsx,labour_wages,SATTI_MALL
+14,Rizwan Butt,Mason,15,900.0,13500.0,6750.0,6750.0,labour_wages\SATTI_MALL_Labour_Nov2006.xlsx,labour_wages,SATTI_MALL
+,,,,,,,,labour_wages\SATTI_MALL_Labour_Nov2006.xlsx,labour_wages,SATTI_MALL
+15,Bilal Qureshi,Supervisor,18,1800.0,32400.0,16200.0,16200.0,labour_wages\SATTI_MALL_Labour_Nov2006.xlsx,labour_wages,SATTI_MALL
+16,Farooq Raza,Welder,18,1100.0,19800.0,5940.0,13860.0,labour_wages\SATTI_MALL_Labour_Nov2006.xlsx,labour_wages,SATTI_MALL
+17,Ahmad Ansari,Security Guard,23,700.0,16100.0,,11270.0,labour_wages\SATTI_MALL_Labour_Nov2006.xlsx,labour_wages,SATTI_MALL
+18,Usman Malik,Security Guard,16,700.0,11200.0,0.0,11200.0,labour_wages\SATTI_MALL_Labour_Nov2006.xlsx,labour_wages,SATTI_MALL
+19,Usman Mirza,Site Engineer,26,2500.0,65000.0,32500.0,32500.0,labour_wages\SATTI_MALL_Labour_Nov2006.xlsx,labour_wages,SATTI_MALL
+20,Farooq Chaudhry,Helper,16,600.0,9600.0,4800.0,4800.0,labour_wages\SATTI_MALL_Labour_Nov2006.xlsx,labour_wages,SATTI_MALL
+,,,,,,,,labour_wages\SATTI_MALL_Labour_Nov2006.xlsx,labour_wages,SATTI_MALL
+Prepared by:,,,Checked by:,,,,,labour_wages\SATTI_MALL_Labour_Nov2006.xlsx,labour_wages,SATTI_MALL

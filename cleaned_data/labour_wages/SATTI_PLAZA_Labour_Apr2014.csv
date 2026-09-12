@@ -1,0 +1,16 @@
+row_no,name,trade,qty,rate,amount,advance,total,_source_file,_folder,_project
+Month: April 2014,,,,,,,,labour_wages\SATTI_PLAZA_Labour_Apr2014.xlsx,labour_wages,SATTI_PLAZA
+1,Kamran Butt,Plumber,26,1100.0,28600.0,,20020.0,labour_wages\SATTI_PLAZA_Labour_Apr2014.xlsx,labour_wages,SATTI_PLAZA
+2,Arif Ansari,Welder,26,1100.0,28600.0,0.0,28600.0,labour_wages\SATTI_PLAZA_Labour_Apr2014.xlsx,labour_wages,SATTI_PLAZA
+3,Javed Sheikh,Painter,21,850.0,17850.0,0.0,17850.0,labour_wages\SATTI_PLAZA_Labour_Apr2014.xlsx,labour_wages,SATTI_PLAZA
+4,Kamran Butt,Supervisor,PKR 26,1800.0,46800.0,0.0,46800.0,labour_wages\SATTI_PLAZA_Labour_Apr2014.xlsx,labour_wages,SATTI_PLAZA
+5,Kamran Qureshi,Welder,19,,20900.0,10450.0,10450.0,labour_wages\SATTI_PLAZA_Labour_Apr2014.xlsx,labour_wages,SATTI_PLAZA
+6,Bilal Butt,Painter,25,850.0,21250.0,6375.0,14875.0,labour_wages\SATTI_PLAZA_Labour_Apr2014.xlsx,labour_wages,SATTI_PLAZA
+7,Zahid Raza,Plumber,18,1100.0,19800.0,9900.0,9900.0,labour_wages\SATTI_PLAZA_Labour_Apr2014.xlsx,labour_wages,SATTI_PLAZA
+8,Tariq Ali,Supervisor,16,1800.0,28800.0,,,labour_wages\SATTI_PLAZA_Labour_Apr2014.xlsx,labour_wages,SATTI_PLAZA
+9,Bilal Mirza,Helper,21,600.0,12600.0,0.0,12600.0,labour_wages\SATTI_PLAZA_Labour_Apr2014.xlsx,labour_wages,SATTI_PLAZA
+10,Asif Ali,Painter,27,850.0,22950.0,,22950.0,labour_wages\SATTI_PLAZA_Labour_Apr2014.xlsx,labour_wages,SATTI_PLAZA
+11,Kamran Chaudhry,Carpenter,18,1000.0,18000.0,9000.0,9000.0,labour_wages\SATTI_PLAZA_Labour_Apr2014.xlsx,labour_wages,SATTI_PLAZA
+12,Ahmad Mirza,Mason,28,900.0,25200.0,12600.0,12600.0,labour_wages\SATTI_PLAZA_Labour_Apr2014.xlsx,labour_wages,SATTI_PLAZA
+,,,,,,,,labour_wages\SATTI_PLAZA_Labour_Apr2014.xlsx,labour_wages,SATTI_PLAZA
+Prepared by:,,,Checked by:,,,,,labour_wages\SATTI_PLAZA_Labour_Apr2014.xlsx,labour_wages,SATTI_PLAZA

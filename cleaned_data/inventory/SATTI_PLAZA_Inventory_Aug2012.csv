@@ -1,0 +1,20 @@
+row_no,item_code,description,unit,opening_stock,credit,debit,closing_stock,nan,_source_file,_folder,_project
+Project: SATTI_PLAZA   Month: August 2012,,,,,,,,,inventory\SATTI_PLAZA_Inventory_Aug2012.xlsx,inventory,SATTI_PLAZA
+1,PIP-GI1,gi_pipe_1inch,rft,112.4,440.9,472.1,81.0,,inventory\SATTI_PLAZA_Inventory_Aug2012.xlsx,inventory,SATTI_PLAZA
+2,STEEL BAR 16,16mm Steel Rebar,kg,49.3,72.2,116.0,5.5,Reorder,inventory\SATTI_PLAZA_Inventory_Aug2012.xlsx,inventory,SATTI_PLAZA
+3,CEM-OPC50,OPC Cement 50kg Bag,bag,41.9,98.7,59.8,80.8,,inventory\SATTI_PLAZA_Inventory_Aug2012.xlsx,inventory,SATTI_PLAZA
+4,COPWIRE7,Copper Wire 7/.029,mtr,11.8,162.0,83.5,90.3,OK,inventory\SATTI_PLAZA_Inventory_Aug2012.xlsx,inventory,SATTI_PLAZA
+5,CBL-ARM-95,arm_cable_95,mtr,136.4,463.1,489.7,109.8,OK,inventory\SATTI_PLAZA_Inventory_Aug2012.xlsx,inventory,SATTI_PLAZA
+6,IMP_MARBLE_W,imp_marble_w,sft,160.6,44.1,18.8,185.9,OK,inventory\SATTI_PLAZA_Inventory_Aug2012.xlsx,inventory,SATTI_PLAZA
+7,RMC_M20,M20 Ready Mix Concrete,cft,154.5,303.8,444.4,13.9,Surplus,inventory\SATTI_PLAZA_Inventory_Aug2012.xlsx,inventory,SATTI_PLAZA
+8,STL-RB-12,STL-RB12,kg,110.8,482.0,22.2,570.6,Surplus,inventory\SATTI_PLAZA_Inventory_Aug2012.xlsx,inventory,SATTI_PLAZA
+9,COARSE AGG,GRAVEL-3/4,cft,33.9,321.0,42.2,312.0,Reorder,inventory\SATTI_PLAZA_Inventory_Aug2012.xlsx,inventory,SATTI_PLAZA
+10,WIR-COP-3,Copper Wire 3/.029,mtr,119.4,216.7,222.5,113.6,OK,inventory\SATTI_PLAZA_Inventory_Aug2012.xlsx,inventory,SATTI_PLAZA
+11,PLY-MR12,ply_mr_12mm,sht,99.4,155.9,19.2,236.1,Surplus,inventory\SATTI_PLAZA_Inventory_Aug2012.xlsx,inventory,SATTI_PLAZA
+12,6MM_GLASS,Sheesha 6mm,sft,122.7,260.3,350.4,32.6,,inventory\SATTI_PLAZA_Inventory_Aug2012.xlsx,inventory,SATTI_PLAZA
+13,TIL-CER-12,Ceramic Floor Tile 12x12,sft,73.8,295.4,232.1,137.1,Surplus,inventory\SATTI_PLAZA_Inventory_Aug2012.xlsx,inventory,SATTI_PLAZA
+14,GI PIPE 2IN,gi_pipe_2inch,rft,59.2,72.8,130.7,1.3,OK,inventory\SATTI_PLAZA_Inventory_Aug2012.xlsx,inventory,SATTI_PLAZA
+15,ALU-WIN4,Alum Window 4ft,nos,73.4,129.5,177.0,25.6,Reorder,inventory\SATTI_PLAZA_Inventory_Aug2012.xlsx,inventory,SATTI_PLAZA
+16,GEN-25K,25 KVA Generator,nos,197.4,189.0,250.5,135.9,,inventory\SATTI_PLAZA_Inventory_Aug2012.xlsx,inventory,SATTI_PLAZA
+17,SAN-WC-STD,Standard WC/Commode,nos,0.7,319.1,259.9,59.9,,inventory\SATTI_PLAZA_Inventory_Aug2012.xlsx,inventory,SATTI_PLAZA
+Store Keeper:,,Site Engr:,,,,,,,inventory\SATTI_PLAZA_Inventory_Aug2012.xlsx,inventory,SATTI_PLAZA

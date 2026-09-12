@@ -1,0 +1,15 @@
+row_no,item_code,description,unit,opening_stock,received,issued,balance,remarks,_source_file,_folder,_project
+Project: SATTI_APTS   Month: November 2016,,,,,,,,,inventory\SATTI_APTS_Inventory_Nov2016.xlsx,inventory,SATTI_APTS
+1,GLS-CLR-6,GLASS-6MM,sft,124.2,454.1,46.7,531.6,Surplus,inventory\SATTI_APTS_Inventory_Nov2016.xlsx,inventory,SATTI_APTS
+2,REBAR 1/2 INCH,rebar 1/2 inch,kg,166.0,209.4,273.2,102.1,,inventory\SATTI_APTS_Inventory_Nov2016.xlsx,inventory,SATTI_APTS
+3,COMMODE STANDARD,Commode Standard,nos,132.4,130.4,233.1,29.7,Reorder,inventory\SATTI_APTS_Inventory_Nov2016.xlsx,inventory,SATTI_APTS
+4,BRICKS_A,Class A Brick,1000,115.1,163.8,246.3,33.0,Reorder,inventory\SATTI_APTS_Inventory_Nov2016.xlsx,inventory,SATTI_APTS
+5,READY MIX M20,rmc_m20,cft,115.3,474.2,285.6,303.9,OK,inventory\SATTI_APTS_Inventory_Nov2016.xlsx,inventory,SATTI_APTS
+6,WHITE OIL PAINT 4L,Oil Paint (White) 4Ltr,tin,94.3,351.5,262.1,183.7,OK,inventory\SATTI_APTS_Inventory_Nov2016.xlsx,inventory,SATTI_APTS
+7,AC-95SQ,CBL-ARM95,mtr,107.8,,542.9,0.5,,inventory\SATTI_APTS_Inventory_Nov2016.xlsx,inventory,SATTI_APTS
+8,PLY-MR-12,ply_mr_12mm,sht,82.3,377.9,238.1,222.1,,inventory\SATTI_APTS_Inventory_Nov2016.xlsx,inventory,SATTI_APTS
+9,MRB-IMP,MAR-W-IMP,sft,102.0,110.4,153.2,59.6,,inventory\SATTI_APTS_Inventory_Nov2016.xlsx,inventory,SATTI_APTS
+10,GI_PIPE_1INCH,GI PIPE 1IN,rft,17.0,403.3,272.4,147.7,OK,inventory\SATTI_APTS_Inventory_Nov2016.xlsx,inventory,SATTI_APTS
+11,WIRE_3029,Copper Wire 3/.029,mtr,92.0,262.1,268.7,85.3,OK,inventory\SATTI_APTS_Inventory_Nov2016.xlsx,inventory,SATTI_APTS
+12,ALM-W4,ALU-WIN4,nos,60.8,140.6,126.7,74.7,OK,inventory\SATTI_APTS_Inventory_Nov2016.xlsx,inventory,SATTI_APTS
+Store Keeper:,,Site Engr:,,,,,,,inventory\SATTI_APTS_Inventory_Nov2016.xlsx,inventory,SATTI_APTS

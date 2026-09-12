@@ -1,0 +1,20 @@
+row_no,item_code,description,unit,opening_stock,received,issued,balance,remarks,_source_file,_folder,_project
+Project: SATTI_PLAZA   Month: April 2013,,,,,,,,,inventory\SATTI_PLAZA_Inventory_Apr2013.xlsx,inventory,SATTI_PLAZA
+1,COPWIRE3,3/0.029 Copper Wire,mtr,57.0,188.4,108.0,137.2,,inventory\SATTI_PLAZA_Inventory_Apr2013.xlsx,inventory,SATTI_PLAZA
+2,REBAR-12MM,STL-RB12,kg,136.0,349.6,50.6,434.5,Surplus,inventory\SATTI_PLAZA_Inventory_Apr2013.xlsx,inventory,SATTI_PLAZA
+3,GLASS-6MM,GLS-CLR6,sft,132.0,324.0,346.3,109.6,Reorder,inventory\SATTI_PLAZA_Inventory_Apr2013.xlsx,inventory,SATTI_PLAZA
+4,AGG-CRS-34,Bajri 3/4,cft,,398.6,331.8,199.2,,inventory\SATTI_PLAZA_Inventory_Apr2013.xlsx,inventory,SATTI_PLAZA
+5,"G.I.PIPE 2""","2"" GI Pipe",rft,77.3,413.0,,180.1,,inventory\SATTI_PLAZA_Inventory_Apr2013.xlsx,inventory,SATTI_PLAZA
+6,IMP_MARBLE_W,MRB-IMP,sft,14.3,69.0,68.2,15.1,Surplus,inventory\SATTI_PLAZA_Inventory_Apr2013.xlsx,inventory,SATTI_PLAZA
+7,GENSET-25,GEN-25K,nos,121.3,96.3,8.7,208.9,OK,inventory\SATTI_PLAZA_Inventory_Apr2013.xlsx,inventory,SATTI_PLAZA
+8,FLOOR_TILE_12,floor_tile_12,sft,181.6,74.3,62.3,193.6,,inventory\SATTI_PLAZA_Inventory_Apr2013.xlsx,inventory,SATTI_PLAZA
+9,RETI (RIVER),river_sand,cft,41.7,485.4,397.9,129.2,Surplus,inventory\SATTI_PLAZA_Inventory_Apr2013.xlsx,inventory,SATTI_PLAZA
+10,RED BRICK A-GRADE,Class-A Red Brick,1000,176.5,170.0,73.0,273.9,,inventory\SATTI_PLAZA_Inventory_Apr2013.xlsx,inventory,SATTI_PLAZA
+11,CEMENT-50,CEM-OPC50,bag,140.1,196.5,61.9,274.7,,inventory\SATTI_PLAZA_Inventory_Apr2013.xlsx,inventory,SATTI_PLAZA
+12,PLYWOOD 12MM MR,PLY-MR12,sht,198.7,158.0,123.2,233.5,Surplus,inventory\SATTI_PLAZA_Inventory_Apr2013.xlsx,inventory,SATTI_PLAZA
+13,REBAR 5/8 INCH,Steel Bar 16,kg,93.9,205.4,,141.0,,inventory\SATTI_PLAZA_Inventory_Apr2013.xlsx,inventory,SATTI_PLAZA
+14,WIRE-7/029,7/0.029 Copper Wire,mtr,4.0,203.4,28.7,179.0,Reorder,inventory\SATTI_PLAZA_Inventory_Apr2013.xlsx,inventory,SATTI_PLAZA
+15,OIL-PAINT-W,Oil Paint (White) 4Ltr,tin,28.6,336.1,316.0,48.7,OK,inventory\SATTI_PLAZA_Inventory_Apr2013.xlsx,inventory,SATTI_PLAZA
+16,PIP-GI1,GalvPipe-1,rft,63.9,10.9,33.0,41.8,,inventory\SATTI_PLAZA_Inventory_Apr2013.xlsx,inventory,SATTI_PLAZA
+17,SAN-WC-STD,WC-STD,nos,87.0,391.3,,301.0,Surplus,inventory\SATTI_PLAZA_Inventory_Apr2013.xlsx,inventory,SATTI_PLAZA
+Store Keeper:,,Site Engr:,,,,,,,inventory\SATTI_PLAZA_Inventory_Apr2013.xlsx,inventory,SATTI_PLAZA

@@ -1,0 +1,17 @@
+row_no,name,trade,qty,rate,total,deductions,net,_source_file,_folder,_project
+Month: March 2017,,,,,,,,labour_wages\SATTI_APTS_Labour_Mar2017.xlsx,labour_wages,SATTI_APTS
+1,Sajid Chaudhry,Welder,15,1100.0,16500.0,4950,11550,labour_wages\SATTI_APTS_Labour_Mar2017.xlsx,labour_wages,SATTI_APTS
+2,Nasir Butt,Plumber,24,1100.0,26400.0,0,26400,labour_wages\SATTI_APTS_Labour_Mar2017.xlsx,labour_wages,SATTI_APTS
+3,Sajid Qureshi,Plumber,23,1100.0,25300.0,0,25300,labour_wages\SATTI_APTS_Labour_Mar2017.xlsx,labour_wages,SATTI_APTS
+4,Javed Chaudhry,Mason,28,900.0,25200.0,12600,12600,labour_wages\SATTI_APTS_Labour_Mar2017.xlsx,labour_wages,SATTI_APTS
+5,Tariq Chaudhry,Site Engineer,24,,60000.0,0,60000,labour_wages\SATTI_APTS_Labour_Mar2017.xlsx,labour_wages,SATTI_APTS
+6,Arif Ali,Helper,18,600.0,10800.0,3240,7560,labour_wages\SATTI_APTS_Labour_Mar2017.xlsx,labour_wages,SATTI_APTS
+7,Usman Sheikh,Plumber,18,1100.0,19800.0,5940,13860,labour_wages\SATTI_APTS_Labour_Mar2017.xlsx,labour_wages,SATTI_APTS
+8,Rizwan Sheikh,Painter,14,850.0,11900.0,0,"11,900/-",labour_wages\SATTI_APTS_Labour_Mar2017.xlsx,labour_wages,SATTI_APTS
+9,Hamid Sheikh,Supervisor,PKR 14,1800.0,25200.0,7560,17640,labour_wages\SATTI_APTS_Labour_Mar2017.xlsx,labour_wages,SATTI_APTS
+10,Javed Ali,Supervisor,20,1800.0,36000.0,0,36000,labour_wages\SATTI_APTS_Labour_Mar2017.xlsx,labour_wages,SATTI_APTS
+11,Bilal Ansari,Welder,15,1100.0,16500.0,PKR 0,16500,labour_wages\SATTI_APTS_Labour_Mar2017.xlsx,labour_wages,SATTI_APTS
+,,,,,,,Sub-total,labour_wages\SATTI_APTS_Labour_Mar2017.xlsx,labour_wages,SATTI_APTS
+12,Asif Raza,Carpenter,25,1000.0,25000.0,"PKR 12,500",12500,labour_wages\SATTI_APTS_Labour_Mar2017.xlsx,labour_wages,SATTI_APTS
+,,,,,,,,labour_wages\SATTI_APTS_Labour_Mar2017.xlsx,labour_wages,SATTI_APTS
+Prepared by:,,,Checked by:,,,Approved:,,labour_wages\SATTI_APTS_Labour_Mar2017.xlsx,labour_wages,SATTI_APTS

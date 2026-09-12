@@ -1,0 +1,18 @@
+row_no,name,trade,qty,rate,amount,advance,total,_source_file,_folder,_project
+Month: October 2012,,,,,,,,labour_wages\SATTI_PLAZA_Labour_Oct2012.xlsx,labour_wages,SATTI_PLAZA
+1,Usman Mirza,Carpenter,23,1000.0,,11500.0,11500.0,labour_wages\SATTI_PLAZA_Labour_Oct2012.xlsx,labour_wages,SATTI_PLAZA
+2,Asif Malik,Carpenter,23,1000.0,23000.0,0.0,23000.0,labour_wages\SATTI_PLAZA_Labour_Oct2012.xlsx,labour_wages,SATTI_PLAZA
+3,Ahmad Ansari,Mason,28,,25200.0,12600.0,12600.0,labour_wages\SATTI_PLAZA_Labour_Oct2012.xlsx,labour_wages,SATTI_PLAZA
+4,Hamid Qureshi,Supervisor,22,1800.0,39600.0,0.0,39600.0,labour_wages\SATTI_PLAZA_Labour_Oct2012.xlsx,labour_wages,SATTI_PLAZA
+5,Usman Raza,Carpenter,15,1000.0,15000.0,0.0,15000.0,labour_wages\SATTI_PLAZA_Labour_Oct2012.xlsx,labour_wages,SATTI_PLAZA
+6,Javed Ali,Painter,16,850.0,13600.0,6800.0,6800.0,labour_wages\SATTI_PLAZA_Labour_Oct2012.xlsx,labour_wages,SATTI_PLAZA
+7,Zahid Khan,Welder,15,1100.0,16500.0,8250.0,8250.0,labour_wages\SATTI_PLAZA_Labour_Oct2012.xlsx,labour_wages,SATTI_PLAZA
+8,Ahmad Chaudhry,Electrician,23,1200.0,,8280.0,19320.0,labour_wages\SATTI_PLAZA_Labour_Oct2012.xlsx,labour_wages,SATTI_PLAZA
+9,Rizwan Malik,Electrician,17,1200.0,20400.0,0.0,20400.0,labour_wages\SATTI_PLAZA_Labour_Oct2012.xlsx,labour_wages,SATTI_PLAZA
+10,Bilal Butt,Mason,20,900.0,18000.0,0.0,18000.0,labour_wages\SATTI_PLAZA_Labour_Oct2012.xlsx,labour_wages,SATTI_PLAZA
+11,Zahid Malik,Plumber,28,1100.0,30800.0,0.0,30800.0,labour_wages\SATTI_PLAZA_Labour_Oct2012.xlsx,labour_wages,SATTI_PLAZA
+12,Bilal Ali,Carpenter,20,1000.0,20000.0,6000.0,14000.0,labour_wages\SATTI_PLAZA_Labour_Oct2012.xlsx,labour_wages,SATTI_PLAZA
+13,Javed Qureshi,Electrician,26,1200.0,31200.0,9360.0,21840.0,labour_wages\SATTI_PLAZA_Labour_Oct2012.xlsx,labour_wages,SATTI_PLAZA
+14,Bilal Qureshi,Mason,22,900.0,19800.0,0.0,19800.0,labour_wages\SATTI_PLAZA_Labour_Oct2012.xlsx,labour_wages,SATTI_PLAZA
+,,,,,,,,labour_wages\SATTI_PLAZA_Labour_Oct2012.xlsx,labour_wages,SATTI_PLAZA
+Prepared by:,,,Checked by:,,,,,labour_wages\SATTI_PLAZA_Labour_Oct2012.xlsx,labour_wages,SATTI_PLAZA

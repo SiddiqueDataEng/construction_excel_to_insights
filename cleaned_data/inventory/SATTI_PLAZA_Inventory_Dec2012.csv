@@ -1,0 +1,23 @@
+row_no,item_code,description,unit,opening_stock,received,issued,closing_stock,remarks,_source_file,_folder,_project
+Project: SATTI_PLAZA   Month: December 2012,,,,,,,,,inventory\SATTI_PLAZA_Inventory_Dec2012.xlsx,inventory,SATTI_PLAZA
+1,AC-95SQ,arm_cable_95,mtr,118.4,461.8,4.4,575.8,Reorder,inventory\SATTI_PLAZA_Inventory_Dec2012.xlsx,inventory,SATTI_PLAZA
+2,COPWIRE7,7/0.029 Copper Wire,mtr,119.8,232.2,84.6,267.0,Reorder,inventory\SATTI_PLAZA_Inventory_Dec2012.xlsx,inventory,SATTI_PLAZA
+3,GLASS-6MM,Sheesha 6mm,sft,188.6,121.3,23.9,286.0,,inventory\SATTI_PLAZA_Inventory_Dec2012.xlsx,inventory,SATTI_PLAZA
+4,BRICK-CLA,BRICK-CLA,1000,93.9,205.0,135.7,,,inventory\SATTI_PLAZA_Inventory_Dec2012.xlsx,inventory,SATTI_PLAZA
+5,GI_PIPE_2INCH,PIP-GI2,rft,4.5,111.0,39.8,76.0,OK,inventory\SATTI_PLAZA_Inventory_Dec2012.xlsx,inventory,SATTI_PLAZA
+6,RIVER_SAND,River Sand,cft,133.5,48.7,150.1,32.1,OK,inventory\SATTI_PLAZA_Inventory_Dec2012.xlsx,inventory,SATTI_PLAZA
+7,"CER.TILE 12""",floor_tile_12,sft,115.1,159.5,91.1,183.5,,inventory\SATTI_PLAZA_Inventory_Dec2012.xlsx,inventory,SATTI_PLAZA
+8,STL-RB-16,Steel Bar 16,kg,152.0,93.3,219.4,25.8,,inventory\SATTI_PLAZA_Inventory_Dec2012.xlsx,inventory,SATTI_PLAZA
+9,OIL-PAINT-W,PAI-OIL,tin,104.0,400.5,216.5,288.0,OK,inventory\SATTI_PLAZA_Inventory_Dec2012.xlsx,inventory,SATTI_PLAZA
+10,WC-STD,WC-STD,nos,88.8,21.6,44.1,66.3,,inventory\SATTI_PLAZA_Inventory_Dec2012.xlsx,inventory,SATTI_PLAZA
+11,GENERATOR 25KVA,Generator 25KVA,nos,11.7,,121.0,69.6,OK,inventory\SATTI_PLAZA_Inventory_Dec2012.xlsx,inventory,SATTI_PLAZA
+12,READY MIX M20,RMC-M20,cft,53.9,,237.6,46.2,,inventory\SATTI_PLAZA_Inventory_Dec2012.xlsx,inventory,SATTI_PLAZA
+13,STL-RB12,STL-RB12,kg,148.8,450.0,104.0,495.0,OK,inventory\SATTI_PLAZA_Inventory_Dec2012.xlsx,inventory,SATTI_PLAZA
+14,GALVPIPE-1,GI PIPE 1IN,rft,68.4,471.1,214.9,324.6,,inventory\SATTI_PLAZA_Inventory_Dec2012.xlsx,inventory,SATTI_PLAZA
+15,CEMENT BAG 50KG,CEM-OPC50,bag,,,169.8,278.5,OK,inventory\SATTI_PLAZA_Inventory_Dec2012.xlsx,inventory,SATTI_PLAZA
+16,PLY-MR12,MR Ply 12,sht,,337.8,145.0,352.2,OK,inventory\SATTI_PLAZA_Inventory_Dec2012.xlsx,inventory,SATTI_PLAZA
+17,MRB-IMP,Imported White Marble,sft,55.9,,71.5,440.2,,inventory\SATTI_PLAZA_Inventory_Dec2012.xlsx,inventory,SATTI_PLAZA
+18,AGG-CRS-34,Bajri 3/4,cft,59.1,78.5,19.1,118.5,OK,inventory\SATTI_PLAZA_Inventory_Dec2012.xlsx,inventory,SATTI_PLAZA
+19,ALU-WIN4,"A.Win 4""",nos,48.1,88.0,55.3,81.0,OK,inventory\SATTI_PLAZA_Inventory_Dec2012.xlsx,inventory,SATTI_PLAZA
+20,WIRE-3/029,3/0.029 Copper Wire,mtr,,61.0,58.8,196.0,Reorder,inventory\SATTI_PLAZA_Inventory_Dec2012.xlsx,inventory,SATTI_PLAZA
+Store Keeper:,,Site Engr:,,,,,,,inventory\SATTI_PLAZA_Inventory_Dec2012.xlsx,inventory,SATTI_PLAZA

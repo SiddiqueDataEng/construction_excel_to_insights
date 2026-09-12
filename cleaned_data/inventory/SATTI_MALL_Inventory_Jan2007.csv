@@ -1,0 +1,13 @@
+row_no,item_code,description,unit,opening_stock,received,issued,balance,remarks,_source_file,_folder,_project
+Project: SATTI_MALL   Month: January 2007,,,,,,,,,inventory\SATTI_MALL_Inventory_Jan2007.xlsx,inventory,SATTI_MALL
+1,CNC-RDY-M20,CNC-M20,cft,173.7,460.8,204.4,430.1,Surplus,inventory\SATTI_MALL_Inventory_Jan2007.xlsx,inventory,SATTI_MALL
+2,AL_WINDOW_4,"A.Win 4""",nos,37.4,82.7,,63.2,Reorder,inventory\SATTI_MALL_Inventory_Jan2007.xlsx,inventory,SATTI_MALL
+3,PIP-GI-1,PIP-GI1,rft,47.7,91.2,80.0,59.0,OK,inventory\SATTI_MALL_Inventory_Jan2007.xlsx,inventory,SATTI_MALL
+4,AGG-CRS34,coarse agg,cft,55.8,69.0,120.2,4.8,,inventory\SATTI_MALL_Inventory_Jan2007.xlsx,inventory,SATTI_MALL
+5,AC-95SQ,Armoured Cable 95,mtr,66.3,160.5,19.1,207.7,Surplus,inventory\SATTI_MALL_Inventory_Jan2007.xlsx,inventory,SATTI_MALL
+6,COPWIRE3,wire_3029,mtr,121.9,35.0,86.3,70.3,Reorder,inventory\SATTI_MALL_Inventory_Jan2007.xlsx,inventory,SATTI_MALL
+7,SAN-WC,W.C. Std.,nos,30.9,386.7,180.6,237.0,Surplus,inventory\SATTI_MALL_Inventory_Jan2007.xlsx,inventory,SATTI_MALL
+8,MRB-IMP,Imported White Marble,sft,83.0,363.0,312.0,133.8,,inventory\SATTI_MALL_Inventory_Jan2007.xlsx,inventory,SATTI_MALL
+9,25KVA GENSET,25 KVA Generator,nos,41.5,180.8,52.9,169.4,Reorder,inventory\SATTI_MALL_Inventory_Jan2007.xlsx,inventory,SATTI_MALL
+10,OIL-PAINT-W,Oil Paint (White) 4Ltr,tin,145.6,18.8,77.7,86.7,,inventory\SATTI_MALL_Inventory_Jan2007.xlsx,inventory,SATTI_MALL
+Store Keeper:,,Site Engr:,,,,,,,inventory\SATTI_MALL_Inventory_Jan2007.xlsx,inventory,SATTI_MALL

@@ -1,0 +1,17 @@
+row_no,item_code,description,unit,opening_stock,received,issued,balance,remarks,_source_file,_folder,_project
+Project: SATTI_MALL   Month: September 2006,,,,,,,,,inventory\SATTI_MALL_Inventory_Sep2006.xlsx,inventory,SATTI_MALL
+1,GEN-25KVA,GEN-25K,nos,146.2,443.5,52.0,538.0,,inventory\SATTI_MALL_Inventory_Sep2006.xlsx,inventory,SATTI_MALL
+2,TIL-CER12,floor_tile_12,sft,8.8,59.1,11.0,56.7,,inventory\SATTI_MALL_Inventory_Sep2006.xlsx,inventory,SATTI_MALL
+3,REBAR-16MM,STL-RB16,kg,137.7,383.7,239.9,281.5,,inventory\SATTI_MALL_Inventory_Sep2006.xlsx,inventory,SATTI_MALL
+4,PLY-MR12,Plywood 12mm MR,sht,8.0,311.6,170.6,149.3,Surplus,inventory\SATTI_MALL_Inventory_Sep2006.xlsx,inventory,SATTI_MALL
+5,AC-95SQ,ARMD-CBL-95,mtr,51.6,137.0,118.7,69.6,,inventory\SATTI_MALL_Inventory_Sep2006.xlsx,inventory,SATTI_MALL
+6,GI PIPE 1IN,GI PIPE 1IN,rft,45.0,45.3,50.3,40.0,Reorder,inventory\SATTI_MALL_Inventory_Sep2006.xlsx,inventory,SATTI_MALL
+7,BRICK-CLA,BRICK-CLA,1000,152.4,199.1,142.8,208.7,Surplus,inventory\SATTI_MALL_Inventory_Sep2006.xlsx,inventory,SATTI_MALL
+8,STL-RB-12,REBAR-12MM,kg,139.9,189.9,77.4,252.4,,inventory\SATTI_MALL_Inventory_Sep2006.xlsx,inventory,SATTI_MALL
+9,CLEAR GLASS 6,6mm Clear Glass,sft,59.3,431.8,76.0,,,inventory\SATTI_MALL_Inventory_Sep2006.xlsx,inventory,SATTI_MALL
+10,OIL-PAINT-W,Oil Paint (White) 4Ltr,tin,14.0,477.4,334.7,156.9,Surplus,inventory\SATTI_MALL_Inventory_Sep2006.xlsx,inventory,SATTI_MALL
+11,SAN-WC-STD,WC-STD,nos,85.0,173.4,113.5,144.0,OK,inventory\SATTI_MALL_Inventory_Sep2006.xlsx,inventory,SATTI_MALL
+12,RMC-M20,Ready Mix M20,cft,113.4,28.3,53.2,88.5,Reorder,inventory\SATTI_MALL_Inventory_Sep2006.xlsx,inventory,SATTI_MALL
+13,WHITE MARBLE IMP.,imp_marble_w,sft,10.9,361.0,45.8,326.4,,inventory\SATTI_MALL_Inventory_Sep2006.xlsx,inventory,SATTI_MALL
+14,CEMENT BAG 50KG,cem_opc_50,bag,187.3,423.8,247.3,363.8,OK,inventory\SATTI_MALL_Inventory_Sep2006.xlsx,inventory,SATTI_MALL
+Store Keeper:,,Site Engr:,,,,,,,inventory\SATTI_MALL_Inventory_Sep2006.xlsx,inventory,SATTI_MALL

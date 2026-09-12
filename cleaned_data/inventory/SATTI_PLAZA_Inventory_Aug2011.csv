@@ -1,0 +1,12 @@
+row_no,item_code,description,unit,opening_stock,received,issued,balance,remarks,_source_file,_folder,_project
+Project: SATTI_PLAZA   Month: August 2011,,,,,,,,,inventory\SATTI_PLAZA_Inventory_Aug2011.xlsx,inventory,SATTI_PLAZA
+1,STL-RB12,STL-RB12,kg,26.7,349.5,83.0,293.4,Surplus,inventory\SATTI_PLAZA_Inventory_Aug2011.xlsx,inventory,SATTI_PLAZA
+2,COARSE AGG,AGG-CRS34,cft,178.0,244.1,260.6,162.0,OK,inventory\SATTI_PLAZA_Inventory_Aug2011.xlsx,inventory,SATTI_PLAZA
+3,PLYWD-12,Plywood 12mm MR,sht,24.1,146.9,105.5,65.5,Surplus,inventory\SATTI_PLAZA_Inventory_Aug2011.xlsx,inventory,SATTI_PLAZA
+4,"CER.TILE 12""",TILE-12X12,sft,28.0,404.5,351.9,80.6,OK,inventory\SATTI_PLAZA_Inventory_Aug2011.xlsx,inventory,SATTI_PLAZA
+5,GI_PIPE_2INCH,GI PIPE 2IN,rft,147.0,321.4,418.6,49.8,Surplus,inventory\SATTI_PLAZA_Inventory_Aug2011.xlsx,inventory,SATTI_PLAZA
+6,WHITE MARBLE IMP.,MAR-W-IMP,sft,162.4,149.3,14.0,297.7,Reorder,inventory\SATTI_PLAZA_Inventory_Aug2011.xlsx,inventory,SATTI_PLAZA
+7,CEM-OPC50,cem_opc_50,bag,160.3,171.6,241.8,90.1,Reorder,inventory\SATTI_PLAZA_Inventory_Aug2011.xlsx,inventory,SATTI_PLAZA
+8,GENSET-25,Generator 25KVA,nos,79.9,70.3,80.1,70.1,OK,inventory\SATTI_PLAZA_Inventory_Aug2011.xlsx,inventory,SATTI_PLAZA
+9,RMC-M20,RMC-M20,cft,75.6,369.5,37.3,407.8,,inventory\SATTI_PLAZA_Inventory_Aug2011.xlsx,inventory,SATTI_PLAZA
+Store Keeper:,,Site Engr:,,,,,,,inventory\SATTI_PLAZA_Inventory_Aug2011.xlsx,inventory,SATTI_PLAZA

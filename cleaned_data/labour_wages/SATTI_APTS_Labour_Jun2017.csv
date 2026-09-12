@@ -1,0 +1,16 @@
+row_no,name,trade,qty,rate,total,deductions,net,_source_file,_folder,_project
+Month: June 2017,,,,,,,,labour_wages\SATTI_APTS_Labour_Jun2017.xlsx,labour_wages,SATTI_APTS
+1,Muhammad Butt,Electrician,16,1200.0,19200.0,9600,"PKR 9,600",labour_wages\SATTI_APTS_Labour_Jun2017.xlsx,labour_wages,SATTI_APTS
+2,Javed Sheikh,Site Engineer,15,2500.0,37500.0,11250,"26,250/-",labour_wages\SATTI_APTS_Labour_Jun2017.xlsx,labour_wages,SATTI_APTS
+3,Arif Sheikh,Supervisor,20,1800.0,36000.0,18000,,labour_wages\SATTI_APTS_Labour_Jun2017.xlsx,labour_wages,SATTI_APTS
+4,Arif Chaudhry,Supervisor,24,1800.0,43200.0,21600,TBD,labour_wages\SATTI_APTS_Labour_Jun2017.xlsx,labour_wages,SATTI_APTS
+5,Nasir Khan,Plumber,17,1100.0,18700.0,0,18700,labour_wages\SATTI_APTS_Labour_Jun2017.xlsx,labour_wages,SATTI_APTS
+,,,,,,,Sub-total,labour_wages\SATTI_APTS_Labour_Jun2017.xlsx,labour_wages,SATTI_APTS
+6,Nasir Malik,Security Guard,22,700.0,15400.0,0,15400,labour_wages\SATTI_APTS_Labour_Jun2017.xlsx,labour_wages,SATTI_APTS
+7,Arif Raza,Supervisor,21/-,1800.0,37800.0,0,37800,labour_wages\SATTI_APTS_Labour_Jun2017.xlsx,labour_wages,SATTI_APTS
+8,Asif Mirza,Electrician,27,1200.0,32400.0,,32400,labour_wages\SATTI_APTS_Labour_Jun2017.xlsx,labour_wages,SATTI_APTS
+9,Arif Sheikh,Plumber,27,1100.0,29700.0,0,29700,labour_wages\SATTI_APTS_Labour_Jun2017.xlsx,labour_wages,SATTI_APTS
+10,Javed Sheikh,Welder,21,1100.0,23100.0,11550,11550,labour_wages\SATTI_APTS_Labour_Jun2017.xlsx,labour_wages,SATTI_APTS
+11,Usman Butt,Plumber,23,1100.0,25300.0,"PKR 12,650","12,650/-",labour_wages\SATTI_APTS_Labour_Jun2017.xlsx,labour_wages,SATTI_APTS
+,,,,,,,,labour_wages\SATTI_APTS_Labour_Jun2017.xlsx,labour_wages,SATTI_APTS
+Prepared by:,,,Checked by:,,,Approved:,,labour_wages\SATTI_APTS_Labour_Jun2017.xlsx,labour_wages,SATTI_APTS

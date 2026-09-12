@@ -1,0 +1,18 @@
+row_no,item_code,description,unit,opening_stock,received,issued,balance,remarks,_source_file,_folder,_project
+Project: SATTI_PLAZA   Month: December 2013,,,,,,,,,inventory\SATTI_PLAZA_Inventory_Dec2013.xlsx,inventory,SATTI_PLAZA
+1,CBL-ARM-95,Armoured Cable 95,mtr,18.7,182.9,187.1,14.5,,inventory\SATTI_PLAZA_Inventory_Dec2013.xlsx,inventory,SATTI_PLAZA
+2,COPPER WIRE 7/.029,Copper Wire 7/.029,mtr,71.2,,229.0,210.2,Reorder,inventory\SATTI_PLAZA_Inventory_Dec2013.xlsx,inventory,SATTI_PLAZA
+3,REBAR-16MM,Steel Bar 16,kg,41.5,94.8,48.6,87.7,OK,inventory\SATTI_PLAZA_Inventory_Dec2013.xlsx,inventory,SATTI_PLAZA
+4,CEM-OPC50,CEMENT-50,bag,190.4,493.7,,,Surplus,inventory\SATTI_PLAZA_Inventory_Dec2013.xlsx,inventory,SATTI_PLAZA
+5,CNC-RDY-M20,Ready Mix M20,cft,181.0,350.2,178.1,353.2,Surplus,inventory\SATTI_PLAZA_Inventory_Dec2013.xlsx,inventory,SATTI_PLAZA
+6,25KVA GENSET,Generator 25KVA,nos,173.8,,154.0,22.0,Surplus,inventory\SATTI_PLAZA_Inventory_Dec2013.xlsx,inventory,SATTI_PLAZA
+7,"G.I.PIPE 2""","G.I.Pipe 2""",rft,118.5,405.6,116.3,407.8,OK,inventory\SATTI_PLAZA_Inventory_Dec2013.xlsx,inventory,SATTI_PLAZA
+8,FLOOR_TILE_12,TILE-12X12,sft,189.0,213.2,389.2,12.7,,inventory\SATTI_PLAZA_Inventory_Dec2013.xlsx,inventory,SATTI_PLAZA
+9,MR PLY 12,Plywood 12mm MR,sht,25.0,361.0,3.1,382.9,OK,inventory\SATTI_PLAZA_Inventory_Dec2013.xlsx,inventory,SATTI_PLAZA
+10,ALUM WINDOW 4FT,Alum Window 4ft,nos,91.2,373.4,351.1,113.5,Surplus,inventory\SATTI_PLAZA_Inventory_Dec2013.xlsx,inventory,SATTI_PLAZA
+11,"G.I.PIPE 1""",PIP-GI1,rft,0.2,301.3,3.0,298.9,Reorder,inventory\SATTI_PLAZA_Inventory_Dec2013.xlsx,inventory,SATTI_PLAZA
+12,MAR-W-IMP,Marble Wht,sft,58.0,108.3,112.8,53.6,Surplus,inventory\SATTI_PLAZA_Inventory_Dec2013.xlsx,inventory,SATTI_PLAZA
+13,BRK-CLS-A,Red Brick A-Grade,1000,166.8,391.9,504.7,54.0,Surplus,inventory\SATTI_PLAZA_Inventory_Dec2013.xlsx,inventory,SATTI_PLAZA
+14,TOILET_STD,Commode Standard,nos,70.0,199.0,207.3,62.1,,inventory\SATTI_PLAZA_Inventory_Dec2013.xlsx,inventory,SATTI_PLAZA
+15,SND-RV,SAND-RIVER,cft,155.8,,100.7,63.1,OK,inventory\SATTI_PLAZA_Inventory_Dec2013.xlsx,inventory,SATTI_PLAZA
+Store Keeper:,,Site Engr:,,,,,,,inventory\SATTI_PLAZA_Inventory_Dec2013.xlsx,inventory,SATTI_PLAZA

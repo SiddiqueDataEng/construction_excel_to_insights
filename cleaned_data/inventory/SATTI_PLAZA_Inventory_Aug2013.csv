@@ -1,0 +1,11 @@
+row_no,item_code,description,unit,opening_stock,received,issued,balance,remarks,_source_file,_folder,_project
+Project: SATTI_PLAZA   Month: August 2013,,,,,,,,,inventory\SATTI_PLAZA_Inventory_Aug2013.xlsx,inventory,SATTI_PLAZA
+1,MARBLE WHT,White Marble Imp.,sft,2.4,98.6,63.6,37.4,Surplus,inventory\SATTI_PLAZA_Inventory_Aug2013.xlsx,inventory,SATTI_PLAZA
+2,WIR-COP-7,7/0.029 Copper Wire,mtr,198.0,441.6,528.0,111.6,,inventory\SATTI_PLAZA_Inventory_Aug2013.xlsx,inventory,SATTI_PLAZA
+3,PLYWD-12,PLY-MR12,sht,77.5,126.6,196.9,7.2,Surplus,inventory\SATTI_PLAZA_Inventory_Aug2013.xlsx,inventory,SATTI_PLAZA
+4,CEMENT BAG 50KG,OPC Cement 50kg Bag,bag,189.4,254.8,416.9,27.3,,inventory\SATTI_PLAZA_Inventory_Aug2013.xlsx,inventory,SATTI_PLAZA
+5,"CER.TILE 12""",Ceramic Floor Tile 12x12,sft,170.4,320.1,124.2,366.3,,inventory\SATTI_PLAZA_Inventory_Aug2013.xlsx,inventory,SATTI_PLAZA
+6,GI PIPE 2IN,"G.I.Pipe 2""",rft,56.0,357.6,21.5,392.1,,inventory\SATTI_PLAZA_Inventory_Aug2013.xlsx,inventory,SATTI_PLAZA
+7,PIP-GI1,GI PIPE 1IN,rft,10.0,326.5,299.5,37.0,Surplus,inventory\SATTI_PLAZA_Inventory_Aug2013.xlsx,inventory,SATTI_PLAZA
+8,AL_WINDOW_4,"A.Win 4""",nos,138.2,354.2,29.6,462.8,,inventory\SATTI_PLAZA_Inventory_Aug2013.xlsx,inventory,SATTI_PLAZA
+Store Keeper:,,Site Engr:,,,,,,,inventory\SATTI_PLAZA_Inventory_Aug2013.xlsx,inventory,SATTI_PLAZA

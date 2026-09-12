@@ -1,0 +1,27 @@
+row_no,name,trade,qty,rate,amount,advance,total,_source_file,_folder,_project
+Month: April 2013,,,,,,,,labour_wages\SATTI_PLAZA_Labour_Apr2013.xlsx,labour_wages,SATTI_PLAZA
+1,Sajid Ali,Mason,28,900.0,25200.0,7560.0,17640.0,labour_wages\SATTI_PLAZA_Labour_Apr2013.xlsx,labour_wages,SATTI_PLAZA
+2,Ahmad Malik,Helper,20,600.0,12000.0,0.0,12000.0,labour_wages\SATTI_PLAZA_Labour_Apr2013.xlsx,labour_wages,SATTI_PLAZA
+3,Asif Butt,Carpenter,22,1000.0,22000.0,0.0,22000.0,labour_wages\SATTI_PLAZA_Labour_Apr2013.xlsx,labour_wages,SATTI_PLAZA
+4,Kamran Butt,Electrician,PKR 22,1200.0,,7920.0,18480.0,labour_wages\SATTI_PLAZA_Labour_Apr2013.xlsx,labour_wages,SATTI_PLAZA
+5,Bilal Chaudhry,Helper,22,600.0,13200.0,,9240.0,labour_wages\SATTI_PLAZA_Labour_Apr2013.xlsx,labour_wages,SATTI_PLAZA
+6,Bilal Sheikh,Mason,28,900.0,25200.0,0.0,25200.0,labour_wages\SATTI_PLAZA_Labour_Apr2013.xlsx,labour_wages,SATTI_PLAZA
+7,Usman Malik,Site Engineer,22/-,,55000.0,0.0,55000.0,labour_wages\SATTI_PLAZA_Labour_Apr2013.xlsx,labour_wages,SATTI_PLAZA
+8,Farooq Mirza,Security Guard,24,700.0,16800.0,5040.0,11760.0,labour_wages\SATTI_PLAZA_Labour_Apr2013.xlsx,labour_wages,SATTI_PLAZA
+9,Arif Raza,Plumber,16,1100.0,17600.0,0.0,17600.0,labour_wages\SATTI_PLAZA_Labour_Apr2013.xlsx,labour_wages,SATTI_PLAZA
+10,Sajid Khan,Painter,15,850.0,12750.0,0.0,12750.0,labour_wages\SATTI_PLAZA_Labour_Apr2013.xlsx,labour_wages,SATTI_PLAZA
+11,Bilal Mirza,Welder,20,1100.0,22000.0,6600.0,15400.0,labour_wages\SATTI_PLAZA_Labour_Apr2013.xlsx,labour_wages,SATTI_PLAZA
+12,Bilal Butt,Carpenter,25,1000.0,25000.0,0.0,25000.0,labour_wages\SATTI_PLAZA_Labour_Apr2013.xlsx,labour_wages,SATTI_PLAZA
+13,Usman Sheikh,Electrician,14,1200.0,16800.0,0.0,16800.0,labour_wages\SATTI_PLAZA_Labour_Apr2013.xlsx,labour_wages,SATTI_PLAZA
+14,Zahid Chaudhry,Welder,19,1100.0,,0.0,,labour_wages\SATTI_PLAZA_Labour_Apr2013.xlsx,labour_wages,SATTI_PLAZA
+15,Kamran Ali,Painter,28,850.0,23800.0,0.0,23800.0,labour_wages\SATTI_PLAZA_Labour_Apr2013.xlsx,labour_wages,SATTI_PLAZA
+16,Javed Malik,Carpenter,24,1000.0,24000.0,0.0,24000.0,labour_wages\SATTI_PLAZA_Labour_Apr2013.xlsx,labour_wages,SATTI_PLAZA
+17,Rizwan Butt,Supervisor,25,1800.0,45000.0,22500.0,,labour_wages\SATTI_PLAZA_Labour_Apr2013.xlsx,labour_wages,SATTI_PLAZA
+18,Sajid Butt,Helper,20/-,600.0,12000.0,0.0,12000.0,labour_wages\SATTI_PLAZA_Labour_Apr2013.xlsx,labour_wages,SATTI_PLAZA
+19,Bilal Ansari,Mason,19,,17100.0,0.0,17100.0,labour_wages\SATTI_PLAZA_Labour_Apr2013.xlsx,labour_wages,SATTI_PLAZA
+,,,,,,,,labour_wages\SATTI_PLAZA_Labour_Apr2013.xlsx,labour_wages,SATTI_PLAZA
+20,Arif Qureshi,Welder,27/-,1100.0,29700.0,0.0,29700.0,labour_wages\SATTI_PLAZA_Labour_Apr2013.xlsx,labour_wages,SATTI_PLAZA
+21,Tariq Ansari,Plumber,25,1100.0,27500.0,13750.0,13750.0,labour_wages\SATTI_PLAZA_Labour_Apr2013.xlsx,labour_wages,SATTI_PLAZA
+22,Muhammad Sheikh,Supervisor,23,1800.0,41400.0,0.0,41400.0,labour_wages\SATTI_PLAZA_Labour_Apr2013.xlsx,labour_wages,SATTI_PLAZA
+,,,,,,,,labour_wages\SATTI_PLAZA_Labour_Apr2013.xlsx,labour_wages,SATTI_PLAZA
+Prepared by:,,,Checked by:,,,,,labour_wages\SATTI_PLAZA_Labour_Apr2013.xlsx,labour_wages,SATTI_PLAZA

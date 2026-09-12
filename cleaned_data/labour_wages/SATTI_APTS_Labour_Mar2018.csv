@@ -1,0 +1,22 @@
+row_no,name,trade,qty,rate,amount,advance,total,_source_file,_folder,_project
+Month: March 2018,,,,,,,,labour_wages\SATTI_APTS_Labour_Mar2018.xlsx,labour_wages,SATTI_APTS
+1,Nasir Butt,Security Guard,22,700.0,15400.0,0.0,15400.0,labour_wages\SATTI_APTS_Labour_Mar2018.xlsx,labour_wages,SATTI_APTS
+2,Nasir Malik,Supervisor,25/-,1800.0,45000.0,13500.0,31500.0,labour_wages\SATTI_APTS_Labour_Mar2018.xlsx,labour_wages,SATTI_APTS
+3,Sajid Chaudhry,Plumber,21,1100.0,23100.0,0.0,23100.0,labour_wages\SATTI_APTS_Labour_Mar2018.xlsx,labour_wages,SATTI_APTS
+4,Tariq Ali,Plumber,16,1100.0,17600.0,8800.0,8800.0,labour_wages\SATTI_APTS_Labour_Mar2018.xlsx,labour_wages,SATTI_APTS
+5,Sajid Qureshi,Electrician,20,1200.0,24000.0,7200.0,16800.0,labour_wages\SATTI_APTS_Labour_Mar2018.xlsx,labour_wages,SATTI_APTS
+6,Zahid Qureshi,Security Guard,17,700.0,11900.0,3570.0,8330.0,labour_wages\SATTI_APTS_Labour_Mar2018.xlsx,labour_wages,SATTI_APTS
+7,Hamid Qureshi,Helper,15/-,600.0,,0.0,9000.0,labour_wages\SATTI_APTS_Labour_Mar2018.xlsx,labour_wages,SATTI_APTS
+8,Farooq Butt,Mason,,900.0,12600.0,3780.0,8820.0,labour_wages\SATTI_APTS_Labour_Mar2018.xlsx,labour_wages,SATTI_APTS
+9,Kamran Ansari,Helper,14,600.0,8400.0,0.0,8400.0,labour_wages\SATTI_APTS_Labour_Mar2018.xlsx,labour_wages,SATTI_APTS
+10,Sajid Chaudhry,Electrician,28,1200.0,33600.0,10080.0,23520.0,labour_wages\SATTI_APTS_Labour_Mar2018.xlsx,labour_wages,SATTI_APTS
+11,Hamid Malik,Electrician,15,1200.0,18000.0,5400.0,12600.0,labour_wages\SATTI_APTS_Labour_Mar2018.xlsx,labour_wages,SATTI_APTS
+12,Javed Malik,Mason,20,900.0,18000.0,0.0,18000.0,labour_wages\SATTI_APTS_Labour_Mar2018.xlsx,labour_wages,SATTI_APTS
+13,Javed Qureshi,Welder,26,1100.0,28600.0,0.0,28600.0,labour_wages\SATTI_APTS_Labour_Mar2018.xlsx,labour_wages,SATTI_APTS
+14,Ahmad Ali,Mason,23,900.0,20700.0,0.0,20700.0,labour_wages\SATTI_APTS_Labour_Mar2018.xlsx,labour_wages,SATTI_APTS
+15,Kamran Ansari,Plumber,25,1100.0,27500.0,8250.0,19250.0,labour_wages\SATTI_APTS_Labour_Mar2018.xlsx,labour_wages,SATTI_APTS
+16,Zahid Chaudhry,Supervisor,24,1800.0,43200.0,0.0,43200.0,labour_wages\SATTI_APTS_Labour_Mar2018.xlsx,labour_wages,SATTI_APTS
+17,Usman Butt,Supervisor,21,1800.0,37800.0,11340.0,26460.0,labour_wages\SATTI_APTS_Labour_Mar2018.xlsx,labour_wages,SATTI_APTS
+18,Arif Sheikh,Security Guard,PKR 27,700.0,18900.0,0.0,18900.0,labour_wages\SATTI_APTS_Labour_Mar2018.xlsx,labour_wages,SATTI_APTS
+,,,,,,,,labour_wages\SATTI_APTS_Labour_Mar2018.xlsx,labour_wages,SATTI_APTS
+Prepared by:,,,Checked by:,,,,,labour_wages\SATTI_APTS_Labour_Mar2018.xlsx,labour_wages,SATTI_APTS

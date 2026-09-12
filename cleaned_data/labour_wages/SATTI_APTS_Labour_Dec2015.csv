@@ -1,0 +1,24 @@
+row_no,name,trade,qty,rate,amount,advance,total,_source_file,_folder,_project
+Month: December 2015,,,,,,,,labour_wages\SATTI_APTS_Labour_Dec2015.xlsx,labour_wages,SATTI_APTS
+1,Arif Ansari,Welder,25,1100.0,27500.0,0.0,27500.0,labour_wages\SATTI_APTS_Labour_Dec2015.xlsx,labour_wages,SATTI_APTS
+2,Zahid Chaudhry,Painter,22/-,850.0,18700.0,0.0,18700.0,labour_wages\SATTI_APTS_Labour_Dec2015.xlsx,labour_wages,SATTI_APTS
+3,Hamid Butt,Helper,28,600.0,16800.0,8400.0,8400.0,labour_wages\SATTI_APTS_Labour_Dec2015.xlsx,labour_wages,SATTI_APTS
+4,Javed Mirza,Plumber,21,1100.0,23100.0,0.0,23100.0,labour_wages\SATTI_APTS_Labour_Dec2015.xlsx,labour_wages,SATTI_APTS
+5,Asif Khan,Site Engineer,21,2500.0,52500.0,26250.0,26250.0,labour_wages\SATTI_APTS_Labour_Dec2015.xlsx,labour_wages,SATTI_APTS
+6,Javed Malik,Security Guard,18,700.0,12600.0,0.0,12600.0,labour_wages\SATTI_APTS_Labour_Dec2015.xlsx,labour_wages,SATTI_APTS
+7,Rizwan Malik,Site Engineer,25,2500.0,62500.0,0.0,62500.0,labour_wages\SATTI_APTS_Labour_Dec2015.xlsx,labour_wages,SATTI_APTS
+8,Arif Ansari,Painter,27,850.0,22950.0,0.0,22950.0,labour_wages\SATTI_APTS_Labour_Dec2015.xlsx,labour_wages,SATTI_APTS
+9,Muhammad Mirza,Welder,25,1100.0,27500.0,0.0,,labour_wages\SATTI_APTS_Labour_Dec2015.xlsx,labour_wages,SATTI_APTS
+10,Arif Raza,Helper,19/-,600.0,11400.0,0.0,11400.0,labour_wages\SATTI_APTS_Labour_Dec2015.xlsx,labour_wages,SATTI_APTS
+11,Rizwan Butt,Painter,16,,13600.0,0.0,13600.0,labour_wages\SATTI_APTS_Labour_Dec2015.xlsx,labour_wages,SATTI_APTS
+12,Bilal Chaudhry,Painter,24,850.0,20400.0,0.0,20400.0,labour_wages\SATTI_APTS_Labour_Dec2015.xlsx,labour_wages,SATTI_APTS
+13,Ahmad Sheikh,Helper,16,600.0,9600.0,0.0,9600.0,labour_wages\SATTI_APTS_Labour_Dec2015.xlsx,labour_wages,SATTI_APTS
+14,Hamid Sheikh,Helper,16,600.0,9600.0,0.0,9600.0,labour_wages\SATTI_APTS_Labour_Dec2015.xlsx,labour_wages,SATTI_APTS
+15,Asif Ansari,Painter,23,850.0,19550.0,,19550.0,labour_wages\SATTI_APTS_Labour_Dec2015.xlsx,labour_wages,SATTI_APTS
+16,Ahmad Ansari,Mason,28,900.0,25200.0,12600.0,12600.0,labour_wages\SATTI_APTS_Labour_Dec2015.xlsx,labour_wages,SATTI_APTS
+17,Arif Butt,Security Guard,22,700.0,15400.0,0.0,15400.0,labour_wages\SATTI_APTS_Labour_Dec2015.xlsx,labour_wages,SATTI_APTS
+18,Zahid Mirza,Welder,26,1100.0,28600.0,8580.0,20020.0,labour_wages\SATTI_APTS_Labour_Dec2015.xlsx,labour_wages,SATTI_APTS
+19,Rizwan Chaudhry,Welder,14/-,1100.0,15400.0,0.0,15400.0,labour_wages\SATTI_APTS_Labour_Dec2015.xlsx,labour_wages,SATTI_APTS
+20,Hamid Ali,Site Engineer,15,2500.0,37500.0,0.0,37500.0,labour_wages\SATTI_APTS_Labour_Dec2015.xlsx,labour_wages,SATTI_APTS
+,,,,,,,,labour_wages\SATTI_APTS_Labour_Dec2015.xlsx,labour_wages,SATTI_APTS
+Prepared by:,,,Checked by:,,,,,labour_wages\SATTI_APTS_Labour_Dec2015.xlsx,labour_wages,SATTI_APTS

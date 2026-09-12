@@ -1,0 +1,17 @@
+row_no,name,trade,qty,rate,total,deductions,net,_source_file,_folder,_project
+Month: May 2007,,,,,,,,labour_wages\SATTI_MALL_Labour_May2007.xlsx,labour_wages,SATTI_MALL
+1,Bilal Ansari,Electrician,17,1200.0,20400.0,0,20400,labour_wages\SATTI_MALL_Labour_May2007.xlsx,labour_wages,SATTI_MALL
+2,Muhammad Khan,Welder,20,1100.0,22000.0,11000,11000,labour_wages\SATTI_MALL_Labour_May2007.xlsx,labour_wages,SATTI_MALL
+3,Arif Khan,Carpenter,15,1000.0,15000.0,0,15000,labour_wages\SATTI_MALL_Labour_May2007.xlsx,labour_wages,SATTI_MALL
+4,Ahmad Khan,Painter,17,850.0,14450.0,TBD,14450,labour_wages\SATTI_MALL_Labour_May2007.xlsx,labour_wages,SATTI_MALL
+5,Tariq Ali,Helper,24,600.0,14400.0,0,14400,labour_wages\SATTI_MALL_Labour_May2007.xlsx,labour_wages,SATTI_MALL
+6,Hamid Mirza,Security Guard,19,700.0,13300.0,0,13300,labour_wages\SATTI_MALL_Labour_May2007.xlsx,labour_wages,SATTI_MALL
+7,Muhammad Khan,Security Guard,TBD,700.0,19600.0,0,19600,labour_wages\SATTI_MALL_Labour_May2007.xlsx,labour_wages,SATTI_MALL
+8,Rizwan Chaudhry,Site Engineer,PKR 25,,62500.0,0,62500,labour_wages\SATTI_MALL_Labour_May2007.xlsx,labour_wages,SATTI_MALL
+9,Zahid Mirza,Painter,28,850.0,23800.0,0/-,23800,labour_wages\SATTI_MALL_Labour_May2007.xlsx,labour_wages,SATTI_MALL
+10,Nasir Khan,Electrician,23,1200.0,27600.0,0,27600,labour_wages\SATTI_MALL_Labour_May2007.xlsx,labour_wages,SATTI_MALL
+11,Javed Qureshi,Supervisor,24,1800.0,,21600,21600,labour_wages\SATTI_MALL_Labour_May2007.xlsx,labour_wages,SATTI_MALL
+12,Usman Ansari,Carpenter,PKR 17,1000.0,17000.0,PKR 0,17000,labour_wages\SATTI_MALL_Labour_May2007.xlsx,labour_wages,SATTI_MALL
+13,Nasir Mirza,Carpenter,18,1000.0,18000.0,0,18000,labour_wages\SATTI_MALL_Labour_May2007.xlsx,labour_wages,SATTI_MALL
+,,,,,,,,labour_wages\SATTI_MALL_Labour_May2007.xlsx,labour_wages,SATTI_MALL
+Prepared by:,,,Checked by:,,,Approved:,,labour_wages\SATTI_MALL_Labour_May2007.xlsx,labour_wages,SATTI_MALL

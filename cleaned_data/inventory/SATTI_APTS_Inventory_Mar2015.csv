@@ -1,0 +1,19 @@
+row_no,item_code,description,unit,opening_stock,credit,debit,closing_stock,nan,_source_file,_folder,_project
+Project: SATTI_APTS   Month: March 2015,,,,,,,,,inventory\SATTI_APTS_Inventory_Mar2015.xlsx,inventory,SATTI_APTS
+1,STEEL BAR 12,REBAR-12MM,kg,173.5,176.0,32.4,316.6,,inventory\SATTI_APTS_Inventory_Mar2015.xlsx,inventory,SATTI_APTS
+2,PLY-MR-12,ply_mr_12mm,sht,,21.8,67.5,,Surplus,inventory\SATTI_APTS_Inventory_Mar2015.xlsx,inventory,SATTI_APTS
+3,READY MIX M20,RMC-M20,cft,127.9,496.2,391.0,233.0,,inventory\SATTI_APTS_Inventory_Mar2015.xlsx,inventory,SATTI_APTS
+4,CEM-OPC50,CEMENT-50,bag,126.7,32.0,80.4,78.2,,inventory\SATTI_APTS_Inventory_Mar2015.xlsx,inventory,SATTI_APTS
+5,WIRE_3029,CopWire3,mtr,68.9,497.7,91.8,474.8,,inventory\SATTI_APTS_Inventory_Mar2015.xlsx,inventory,SATTI_APTS
+6,STL-RB16,16mm Steel Rebar,kg,3.0,476.1,305.9,,Surplus,inventory\SATTI_APTS_Inventory_Mar2015.xlsx,inventory,SATTI_APTS
+7,"CER.TILE 12""",TIL-CER12,sft,51.9,402.5,205.0,249.4,,inventory\SATTI_APTS_Inventory_Mar2015.xlsx,inventory,SATTI_APTS
+8,GI PIPE 2IN,"G.I.Pipe 2""",rft,176.8,345.2,421.1,100.9,Reorder,inventory\SATTI_APTS_Inventory_Mar2015.xlsx,inventory,SATTI_APTS
+9,SHEESHA 6MM,Clear Glass 6,sft,51.1,360.2,223.2,188.1,Reorder,inventory\SATTI_APTS_Inventory_Mar2015.xlsx,inventory,SATTI_APTS
+10,GI PIPE 1IN,GalvPipe-1,rft,13.1,190.4,87.3,116.2,,inventory\SATTI_APTS_Inventory_Mar2015.xlsx,inventory,SATTI_APTS
+11,SAND (FINE),SAND-RIVER,cft,101.3,393.3,277.7,216.9,Surplus,inventory\SATTI_APTS_Inventory_Mar2015.xlsx,inventory,SATTI_APTS
+12,COMMODE STANDARD,Commode Standard,nos,43.2,489.3,442.0,90.6,Surplus,inventory\SATTI_APTS_Inventory_Mar2015.xlsx,inventory,SATTI_APTS
+13,RED BRICK A-GRADE,Class A Brick,1000,0.9,253.9,155.2,99.6,,inventory\SATTI_APTS_Inventory_Mar2015.xlsx,inventory,SATTI_APTS
+14,"C.AGG 3/4""","C.Agg 3/4""",cft,50.4,121.9,168.1,4.2,Reorder,inventory\SATTI_APTS_Inventory_Mar2015.xlsx,inventory,SATTI_APTS
+15,AC-95SQ,ARMD-CBL-95,mtr,64.0,,93.1,0.5,,inventory\SATTI_APTS_Inventory_Mar2015.xlsx,inventory,SATTI_APTS
+16,PAI-OIL,OIL-PAINT-W,tin,,493.0,318.2,209.1,Surplus,inventory\SATTI_APTS_Inventory_Mar2015.xlsx,inventory,SATTI_APTS
+Store Keeper:,,Site Engr:,,,,,,,inventory\SATTI_APTS_Inventory_Mar2015.xlsx,inventory,SATTI_APTS
