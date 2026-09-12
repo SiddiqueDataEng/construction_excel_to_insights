@@ -1,0 +1,17 @@
+date,description,doc_no,credit,debit,balance,_source_file,_folder,_project
+2006-07-01,Photocopies,PC-044,,5425.0,5897.0,petty_cash\SATTI_MALL_PettyCash_Jul2006.xlsx,petty_cash,SATTI_MALL
+2006-07-02,Tea & Refreshment,PC-967,,812.0,5085.0,petty_cash\SATTI_MALL_PettyCash_Jul2006.xlsx,petty_cash,SATTI_MALL
+2006-07-03,Phone Balance,PC-372,13948.0,,19033.0,petty_cash\SATTI_MALL_PettyCash_Jul2006.xlsx,petty_cash,SATTI_MALL
+2006-07-04,Tea & Refreshment,PC-398,,3972.0,15061.0,petty_cash\SATTI_MALL_PettyCash_Jul2006.xlsx,petty_cash,SATTI_MALL
+2006-07-05,Garbage Removal,PC-425,,14728.0,333.0,petty_cash\SATTI_MALL_PettyCash_Jul2006.xlsx,petty_cash,SATTI_MALL
+2006-07-06,Tea & Refreshment,PC-398,3597.0,,3930.0,petty_cash\SATTI_MALL_PettyCash_Jul2006.xlsx,petty_cash,SATTI_MALL
+2006-07-07,Newspaper,PC-096,4906.0,,8836.0,petty_cash\SATTI_MALL_PettyCash_Jul2006.xlsx,petty_cash,SATTI_MALL
+2006-07-08,Small Tool Purchase,PC-084,9720.0,,18556.0,petty_cash\SATTI_MALL_PettyCash_Jul2006.xlsx,petty_cash,SATTI_MALL
+2006-07-09,Misc Stationery,PC-896,,9747.0,8809.0,petty_cash\SATTI_MALL_PettyCash_Jul2006.xlsx,petty_cash,SATTI_MALL
+2006-07-10,Site Cleaning,PC-366,,1077.0,7732.0,petty_cash\SATTI_MALL_PettyCash_Jul2006.xlsx,petty_cash,SATTI_MALL
+2006-07-11,Photocopies,PC-061,,10866.0,-3134.0,petty_cash\SATTI_MALL_PettyCash_Jul2006.xlsx,petty_cash,SATTI_MALL
+2006-07-12,Site Cleaning,PC-615,,12277.0,-15411.0,petty_cash\SATTI_MALL_PettyCash_Jul2006.xlsx,petty_cash,SATTI_MALL
+2006-07-13,Security Tip,PC-108,,14947.0,-30358.0,petty_cash\SATTI_MALL_PettyCash_Jul2006.xlsx,petty_cash,SATTI_MALL
+2006-07-14,Emergency Repair,PC-415,,1795.0,-32153.0,petty_cash\SATTI_MALL_PettyCash_Jul2006.xlsx,petty_cash,SATTI_MALL
+2006-07-15,Courier Charges,PC-067,,5288.0,-37441.0,petty_cash\SATTI_MALL_PettyCash_Jul2006.xlsx,petty_cash,SATTI_MALL
+Closing Balance:,,,,,0.0,petty_cash\SATTI_MALL_PettyCash_Jul2006.xlsx,petty_cash,SATTI_MALL

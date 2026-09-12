@@ -1,0 +1,20 @@
+date,description,doc_no,credit,debit,balance,_source_file,_folder,_project
+2013-10-01,Postage,PC-104,,5822.0,24489.0,petty_cash\SATTI_PLAZA_PettyCash_Oct2013.xlsx,petty_cash,SATTI_PLAZA
+2013-10-02,Security Tip,PC-370,,7123.0,17366.0,petty_cash\SATTI_PLAZA_PettyCash_Oct2013.xlsx,petty_cash,SATTI_PLAZA
+2013-10-03,Courier Charges,PC-774,6639.0,,24005.0,petty_cash\SATTI_PLAZA_PettyCash_Oct2013.xlsx,petty_cash,SATTI_PLAZA
+2013-10-04,Misc Stationery,PC-145,,14796.0,9209.0,petty_cash\SATTI_PLAZA_PettyCash_Oct2013.xlsx,petty_cash,SATTI_PLAZA
+2013-10-05,Petrol,PC-976,8542.0,,17751.0,petty_cash\SATTI_PLAZA_PettyCash_Oct2013.xlsx,petty_cash,SATTI_PLAZA
+2013-10-06,Rickshaw Fare,PC-207,,10659.0,7092.0,petty_cash\SATTI_PLAZA_PettyCash_Oct2013.xlsx,petty_cash,SATTI_PLAZA
+2013-10-07,Newspaper,PC-846,,5702.0,1390.0,petty_cash\SATTI_PLAZA_PettyCash_Oct2013.xlsx,petty_cash,SATTI_PLAZA
+2013-10-08,Newspaper,PC-650,,4598.0,-3208.0,petty_cash\SATTI_PLAZA_PettyCash_Oct2013.xlsx,petty_cash,SATTI_PLAZA
+2013-10-09,Phone Balance,PC-571,,14080.0,-17288.0,petty_cash\SATTI_PLAZA_PettyCash_Oct2013.xlsx,petty_cash,SATTI_PLAZA
+2013-10-10,Security Tip,PC-512,,1544.0,-18832.0,petty_cash\SATTI_PLAZA_PettyCash_Oct2013.xlsx,petty_cash,SATTI_PLAZA
+2013-10-11,Emergency Repair,PC-314,,5175.0,-24007.0,petty_cash\SATTI_PLAZA_PettyCash_Oct2013.xlsx,petty_cash,SATTI_PLAZA
+2013-10-12,Phone Balance,PC-751,,5440.0,,petty_cash\SATTI_PLAZA_PettyCash_Oct2013.xlsx,petty_cash,SATTI_PLAZA
+2013-10-13,Phone Balance,PC-727,,10940.0,-40387.0,petty_cash\SATTI_PLAZA_PettyCash_Oct2013.xlsx,petty_cash,SATTI_PLAZA
+2013-10-14,Water Supply,PC-110,,2327.0,-42714.0,petty_cash\SATTI_PLAZA_PettyCash_Oct2013.xlsx,petty_cash,SATTI_PLAZA
+2013-10-15,Tea & Refreshment,PC-166,,4342.0,-47056.0,petty_cash\SATTI_PLAZA_PettyCash_Oct2013.xlsx,petty_cash,SATTI_PLAZA
+2013-10-16,Phone Balance,PC-397,,13731.0,-60787.0,petty_cash\SATTI_PLAZA_PettyCash_Oct2013.xlsx,petty_cash,SATTI_PLAZA
+2013-10-17,Newspaper,PC-284,,650.0,-61437.0,petty_cash\SATTI_PLAZA_PettyCash_Oct2013.xlsx,petty_cash,SATTI_PLAZA
+2013-10-18,Courier Charges,PC-168,,5625.0,-67062.0,petty_cash\SATTI_PLAZA_PettyCash_Oct2013.xlsx,petty_cash,SATTI_PLAZA
+Closing Balance:,,,,,0.0,petty_cash\SATTI_PLAZA_PettyCash_Oct2013.xlsx,petty_cash,SATTI_PLAZA

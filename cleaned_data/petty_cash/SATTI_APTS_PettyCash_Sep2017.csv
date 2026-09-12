@@ -1,0 +1,11 @@
+date,description,doc_no,credit,debit,balance,_source_file,_folder,_project
+2017-09-01,Courier Charges,PC-772,5979.0,,52231.0,petty_cash\SATTI_APTS_PettyCash_Sep2017.xlsx,petty_cash,SATTI_APTS
+2017-09-02,Newspaper,PC-668,,3807.0,48424.0,petty_cash\SATTI_APTS_PettyCash_Sep2017.xlsx,petty_cash,SATTI_APTS
+2017-09-03,Tea & Refreshment,PC-431,,12222.0,,petty_cash\SATTI_APTS_PettyCash_Sep2017.xlsx,petty_cash,SATTI_APTS
+2017-09-04,Phone Balance,PC-212,,5355.0,30847.0,petty_cash\SATTI_APTS_PettyCash_Sep2017.xlsx,petty_cash,SATTI_APTS
+2017-09-05,Rickshaw Fare,PC-171,,9381.0,21466.0,petty_cash\SATTI_APTS_PettyCash_Sep2017.xlsx,petty_cash,SATTI_APTS
+2017-09-06,Garbage Removal,PC-009,12029.0,,33495.0,petty_cash\SATTI_APTS_PettyCash_Sep2017.xlsx,petty_cash,SATTI_APTS
+2017-09-07,Misc Stationery,PC-019,,2558.0,30937.0,petty_cash\SATTI_APTS_PettyCash_Sep2017.xlsx,petty_cash,SATTI_APTS
+2017-09-08,Rickshaw Fare,PC-886,,10700.0,20237.0,petty_cash\SATTI_APTS_PettyCash_Sep2017.xlsx,petty_cash,SATTI_APTS
+2017-09-09,Water Supply,PC-235,,2084.0,18153.0,petty_cash\SATTI_APTS_PettyCash_Sep2017.xlsx,petty_cash,SATTI_APTS
+Closing Balance:,,,,,18153.0,petty_cash\SATTI_APTS_PettyCash_Sep2017.xlsx,petty_cash,SATTI_APTS

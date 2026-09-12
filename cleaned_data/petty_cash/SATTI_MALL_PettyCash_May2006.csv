@@ -1,0 +1,19 @@
+date,description,doc_no,credit,debit,balance,_source_file,_folder,_project
+2006-05-01,Postage,PC-126,,11073.0,5607.0,petty_cash\SATTI_MALL_PettyCash_May2006.xlsx,petty_cash,SATTI_MALL
+2006-05-02,Emergency Repair,PC-347,2826.0,,8433.0,petty_cash\SATTI_MALL_PettyCash_May2006.xlsx,petty_cash,SATTI_MALL
+2006-05-03,Water Supply,PC-321,,10273.0,-1840.0,petty_cash\SATTI_MALL_PettyCash_May2006.xlsx,petty_cash,SATTI_MALL
+2006-05-04,Courier Charges,PC-654,,13908.0,-15748.0,petty_cash\SATTI_MALL_PettyCash_May2006.xlsx,petty_cash,SATTI_MALL
+2006-05-05,Site Cleaning,PC-534,,4680.0,-20428.0,petty_cash\SATTI_MALL_PettyCash_May2006.xlsx,petty_cash,SATTI_MALL
+2006-05-06,Water Supply,PC-733,8248.0,,-12180.0,petty_cash\SATTI_MALL_PettyCash_May2006.xlsx,petty_cash,SATTI_MALL
+2006-05-07,Water Supply,PC-001,,4844.0,,petty_cash\SATTI_MALL_PettyCash_May2006.xlsx,petty_cash,SATTI_MALL
+2006-05-08,Misc Stationery,PC-809,,12848.0,-29872.0,petty_cash\SATTI_MALL_PettyCash_May2006.xlsx,petty_cash,SATTI_MALL
+2006-05-09,Security Tip,PC-302,,1215.0,-31087.0,petty_cash\SATTI_MALL_PettyCash_May2006.xlsx,petty_cash,SATTI_MALL
+2006-05-10,Site Cleaning,PC-573,,1571.0,-32658.0,petty_cash\SATTI_MALL_PettyCash_May2006.xlsx,petty_cash,SATTI_MALL
+2006-05-11,Postage,PC-582,,9047.0,,petty_cash\SATTI_MALL_PettyCash_May2006.xlsx,petty_cash,SATTI_MALL
+2006-05-12,Site Cleaning,PC-038,,11809.0,-53514.0,petty_cash\SATTI_MALL_PettyCash_May2006.xlsx,petty_cash,SATTI_MALL
+2006-05-13,Postage,PC-228,,11147.0,-64661.0,petty_cash\SATTI_MALL_PettyCash_May2006.xlsx,petty_cash,SATTI_MALL
+2006-05-14,Emergency Repair,PC-677,,7625.0,-72286.0,petty_cash\SATTI_MALL_PettyCash_May2006.xlsx,petty_cash,SATTI_MALL
+2006-05-15,Photocopies,PC-612,4806.0,,,petty_cash\SATTI_MALL_PettyCash_May2006.xlsx,petty_cash,SATTI_MALL
+2006-05-16,Small Tool Purchase,PC-929,,14382.0,-81862.0,petty_cash\SATTI_MALL_PettyCash_May2006.xlsx,petty_cash,SATTI_MALL
+2006-05-17,Garbage Removal,PC-934,,456.0,-82318.0,petty_cash\SATTI_MALL_PettyCash_May2006.xlsx,petty_cash,SATTI_MALL
+Closing Balance:,,,,,,petty_cash\SATTI_MALL_PettyCash_May2006.xlsx,petty_cash,SATTI_MALL

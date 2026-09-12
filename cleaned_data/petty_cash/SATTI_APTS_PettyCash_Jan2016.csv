@@ -1,0 +1,17 @@
+date,description,doc_no,credit,debit,balance,_source_file,_folder,_project
+2016-01-01,Emergency Repair,PC-254,,7509.0,33040.0,petty_cash\SATTI_APTS_PettyCash_Jan2016.xlsx,petty_cash,SATTI_APTS
+2016-01-02,Garbage Removal,PC-162,11683.0,,44723.0,petty_cash\SATTI_APTS_PettyCash_Jan2016.xlsx,petty_cash,SATTI_APTS
+2016-01-03,Emergency Repair,PC-376,,1618.0,43105.0,petty_cash\SATTI_APTS_PettyCash_Jan2016.xlsx,petty_cash,SATTI_APTS
+2016-01-04,Photocopies,PC-222,,1671.0,41434.0,petty_cash\SATTI_APTS_PettyCash_Jan2016.xlsx,petty_cash,SATTI_APTS
+2016-01-05,Newspaper,PC-223,,9630.0,31804.0,petty_cash\SATTI_APTS_PettyCash_Jan2016.xlsx,petty_cash,SATTI_APTS
+2016-01-06,Photocopies,PC-497,,,28978.0,petty_cash\SATTI_APTS_PettyCash_Jan2016.xlsx,petty_cash,SATTI_APTS
+2016-01-07,Photocopies,PC-036,,6511.0,22467.0,petty_cash\SATTI_APTS_PettyCash_Jan2016.xlsx,petty_cash,SATTI_APTS
+2016-01-08,Misc Stationery,PC-101,,13484.0,8983.0,petty_cash\SATTI_APTS_PettyCash_Jan2016.xlsx,petty_cash,SATTI_APTS
+2016-01-09,Water Supply,PC-706,,13580.0,-4597.0,petty_cash\SATTI_APTS_PettyCash_Jan2016.xlsx,petty_cash,SATTI_APTS
+2016-01-10,Emergency Repair,PC-767,8811.0,,4214.0,petty_cash\SATTI_APTS_PettyCash_Jan2016.xlsx,petty_cash,SATTI_APTS
+2016-01-11,Misc Stationery,PC-841,,,-10186.0,petty_cash\SATTI_APTS_PettyCash_Jan2016.xlsx,petty_cash,SATTI_APTS
+2016-01-12,Misc Stationery,PC-803,,3729.0,-13915.0,petty_cash\SATTI_APTS_PettyCash_Jan2016.xlsx,petty_cash,SATTI_APTS
+2016-01-13,Site Cleaning,PC-292,13715.0,,-200.0,petty_cash\SATTI_APTS_PettyCash_Jan2016.xlsx,petty_cash,SATTI_APTS
+2016-01-14,Newspaper,PC-060,7085.0,,6885.0,petty_cash\SATTI_APTS_PettyCash_Jan2016.xlsx,petty_cash,SATTI_APTS
+2016-01-15,Photocopies,PC-928,2281.0,,9166.0,petty_cash\SATTI_APTS_PettyCash_Jan2016.xlsx,petty_cash,SATTI_APTS
+Closing Balance:,,,,,9166.0,petty_cash\SATTI_APTS_PettyCash_Jan2016.xlsx,petty_cash,SATTI_APTS

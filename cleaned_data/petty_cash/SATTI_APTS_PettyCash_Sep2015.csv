@@ -1,0 +1,12 @@
+date,description,doc_no,credit,debit,balance,_source_file,_folder,_project
+2015-09-01,Phone Balance,PC-159,,3466.0,39615.0,petty_cash\SATTI_APTS_PettyCash_Sep2015.xlsx,petty_cash,SATTI_APTS
+2015-09-02,Site Cleaning,PC-654,11732.0,,51347.0,petty_cash\SATTI_APTS_PettyCash_Sep2015.xlsx,petty_cash,SATTI_APTS
+2015-09-03,Photocopies,PC-622,,9170.0,42177.0,petty_cash\SATTI_APTS_PettyCash_Sep2015.xlsx,petty_cash,SATTI_APTS
+2015-09-04,Garbage Removal,PC-313,,10072.0,32105.0,petty_cash\SATTI_APTS_PettyCash_Sep2015.xlsx,petty_cash,SATTI_APTS
+2015-09-05,Petrol,PC-694,,7021.0,25084.0,petty_cash\SATTI_APTS_PettyCash_Sep2015.xlsx,petty_cash,SATTI_APTS
+2015-09-06,Small Tool Purchase,PC-480,1006.0,,26090.0,petty_cash\SATTI_APTS_PettyCash_Sep2015.xlsx,petty_cash,SATTI_APTS
+2015-09-07,Petrol,PC-469,,11323.0,14767.0,petty_cash\SATTI_APTS_PettyCash_Sep2015.xlsx,petty_cash,SATTI_APTS
+2015-09-08,Rickshaw Fare,PC-311,,7686.0,7081.0,petty_cash\SATTI_APTS_PettyCash_Sep2015.xlsx,petty_cash,SATTI_APTS
+2015-09-09,Misc Stationery,PC-442,,10380.0,-3299.0,petty_cash\SATTI_APTS_PettyCash_Sep2015.xlsx,petty_cash,SATTI_APTS
+2015-09-10,Small Tool Purchase,PC-419,,,-8077.0,petty_cash\SATTI_APTS_PettyCash_Sep2015.xlsx,petty_cash,SATTI_APTS
+Closing Balance:,,,,,0.0,petty_cash\SATTI_APTS_PettyCash_Sep2015.xlsx,petty_cash,SATTI_APTS

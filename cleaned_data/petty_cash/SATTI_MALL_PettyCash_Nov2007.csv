@@ -1,0 +1,20 @@
+date,description,doc_no,credit,debit,balance,_source_file,_folder,_project
+2007-11-01,Small Tool Purchase,PC-993,,11015.0,28246.0,petty_cash\SATTI_MALL_PettyCash_Nov2007.xlsx,petty_cash,SATTI_MALL
+2007-11-02,Phone Balance,PC-219,,11578.0,16668.0,petty_cash\SATTI_MALL_PettyCash_Nov2007.xlsx,petty_cash,SATTI_MALL
+2007-11-03,Security Tip,PC-299,,10240.0,6428.0,petty_cash\SATTI_MALL_PettyCash_Nov2007.xlsx,petty_cash,SATTI_MALL
+2007-11-04,Misc Stationery,PC-121,,9292.0,-2864.0,petty_cash\SATTI_MALL_PettyCash_Nov2007.xlsx,petty_cash,SATTI_MALL
+2007-11-05,Emergency Repair,PC-400,,11920.0,-14784.0,petty_cash\SATTI_MALL_PettyCash_Nov2007.xlsx,petty_cash,SATTI_MALL
+2007-11-06,Water Supply,PC-532,,6535.0,-21319.0,petty_cash\SATTI_MALL_PettyCash_Nov2007.xlsx,petty_cash,SATTI_MALL
+2007-11-07,Rickshaw Fare,PC-911,,4064.0,-25383.0,petty_cash\SATTI_MALL_PettyCash_Nov2007.xlsx,petty_cash,SATTI_MALL
+2007-11-08,Postage,PC-221,,,,petty_cash\SATTI_MALL_PettyCash_Nov2007.xlsx,petty_cash,SATTI_MALL
+2007-11-09,Garbage Removal,PC-381,,7025.0,-47356.0,petty_cash\SATTI_MALL_PettyCash_Nov2007.xlsx,petty_cash,SATTI_MALL
+2007-11-10,Postage,PC-800,,6465.0,-53821.0,petty_cash\SATTI_MALL_PettyCash_Nov2007.xlsx,petty_cash,SATTI_MALL
+2007-11-11,Tea & Refreshment,PC-921,,13699.0,-67520.0,petty_cash\SATTI_MALL_PettyCash_Nov2007.xlsx,petty_cash,SATTI_MALL
+2007-11-12,Misc Stationery,PC-022,,5840.0,,petty_cash\SATTI_MALL_PettyCash_Nov2007.xlsx,petty_cash,SATTI_MALL
+2007-11-13,Petrol,PC-362,,12775.0,-86135.0,petty_cash\SATTI_MALL_PettyCash_Nov2007.xlsx,petty_cash,SATTI_MALL
+2007-11-14,Postage,PC-121,9039.0,,-77096.0,petty_cash\SATTI_MALL_PettyCash_Nov2007.xlsx,petty_cash,SATTI_MALL
+2007-11-15,Newspaper,PC-475,,12104.0,-89200.0,petty_cash\SATTI_MALL_PettyCash_Nov2007.xlsx,petty_cash,SATTI_MALL
+2007-11-16,Postage,PC-366,14625.0,,-74575.0,petty_cash\SATTI_MALL_PettyCash_Nov2007.xlsx,petty_cash,SATTI_MALL
+2007-11-17,Photocopies,PC-206,,525.0,-75100.0,petty_cash\SATTI_MALL_PettyCash_Nov2007.xlsx,petty_cash,SATTI_MALL
+2007-11-18,Water Supply,PC-875,,11419.0,-86519.0,petty_cash\SATTI_MALL_PettyCash_Nov2007.xlsx,petty_cash,SATTI_MALL
+Closing Balance:,,,,,0.0,petty_cash\SATTI_MALL_PettyCash_Nov2007.xlsx,petty_cash,SATTI_MALL

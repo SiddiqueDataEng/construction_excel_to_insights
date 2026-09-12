@@ -1,0 +1,19 @@
+date,description,doc_no,credit,debit,balance,_source_file,_folder,_project
+2013-02-01,Misc Stationery,PC-834,,590.0,48109.0,petty_cash\SATTI_PLAZA_PettyCash_Feb2013.xlsx,petty_cash,SATTI_PLAZA
+2013-02-02,Small Tool Purchase,PC-975,,6379.0,41730.0,petty_cash\SATTI_PLAZA_PettyCash_Feb2013.xlsx,petty_cash,SATTI_PLAZA
+2013-02-03,Small Tool Purchase,PC-157,,2109.0,39621.0,petty_cash\SATTI_PLAZA_PettyCash_Feb2013.xlsx,petty_cash,SATTI_PLAZA
+2013-02-04,Photocopies,PC-531,,6827.0,32794.0,petty_cash\SATTI_PLAZA_PettyCash_Feb2013.xlsx,petty_cash,SATTI_PLAZA
+2013-02-05,Phone Balance,PC-657,,7165.0,,petty_cash\SATTI_PLAZA_PettyCash_Feb2013.xlsx,petty_cash,SATTI_PLAZA
+2013-02-06,Postage,PC-490,8605.0,,34234.0,petty_cash\SATTI_PLAZA_PettyCash_Feb2013.xlsx,petty_cash,SATTI_PLAZA
+2013-02-07,Rickshaw Fare,PC-193,,14447.0,19787.0,petty_cash\SATTI_PLAZA_PettyCash_Feb2013.xlsx,petty_cash,SATTI_PLAZA
+2013-02-08,Rickshaw Fare,PC-133,,3233.0,16554.0,petty_cash\SATTI_PLAZA_PettyCash_Feb2013.xlsx,petty_cash,SATTI_PLAZA
+2013-02-09,Rickshaw Fare,PC-864,,12111.0,4443.0,petty_cash\SATTI_PLAZA_PettyCash_Feb2013.xlsx,petty_cash,SATTI_PLAZA
+2013-02-10,Misc Stationery,PC-345,,3149.0,1294.0,petty_cash\SATTI_PLAZA_PettyCash_Feb2013.xlsx,petty_cash,SATTI_PLAZA
+2013-02-11,Water Supply,PC-484,,2171.0,-877.0,petty_cash\SATTI_PLAZA_PettyCash_Feb2013.xlsx,petty_cash,SATTI_PLAZA
+2013-02-12,Postage,PC-984,,10249.0,-11126.0,petty_cash\SATTI_PLAZA_PettyCash_Feb2013.xlsx,petty_cash,SATTI_PLAZA
+2013-02-13,Courier Charges,PC-501,,2131.0,-13257.0,petty_cash\SATTI_PLAZA_PettyCash_Feb2013.xlsx,petty_cash,SATTI_PLAZA
+2013-02-14,Garbage Removal,PC-777,,11511.0,-24768.0,petty_cash\SATTI_PLAZA_PettyCash_Feb2013.xlsx,petty_cash,SATTI_PLAZA
+2013-02-15,Security Tip,PC-465,,13612.0,-38380.0,petty_cash\SATTI_PLAZA_PettyCash_Feb2013.xlsx,petty_cash,SATTI_PLAZA
+2013-02-16,Misc Stationery,PC-513,,12999.0,-51379.0,petty_cash\SATTI_PLAZA_PettyCash_Feb2013.xlsx,petty_cash,SATTI_PLAZA
+2013-02-17,Courier Charges,PC-546,,9176.0,-60555.0,petty_cash\SATTI_PLAZA_PettyCash_Feb2013.xlsx,petty_cash,SATTI_PLAZA
+Closing Balance:,,,,,0.0,petty_cash\SATTI_PLAZA_PettyCash_Feb2013.xlsx,petty_cash,SATTI_PLAZA

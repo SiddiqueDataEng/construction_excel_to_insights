@@ -1,0 +1,11 @@
+date,description,doc_no,credit,debit,balance,_source_file,_folder,_project
+2016-05-01,Newspaper,PC-083,,4607.0,2913.0,petty_cash\SATTI_APTS_PettyCash_May2016.xlsx,petty_cash,SATTI_APTS
+2016-05-02,Courier Charges,PC-103,1124.0,,4037.0,petty_cash\SATTI_APTS_PettyCash_May2016.xlsx,petty_cash,SATTI_APTS
+2016-05-03,Phone Balance,PC-815,,10541.0,-6504.0,petty_cash\SATTI_APTS_PettyCash_May2016.xlsx,petty_cash,SATTI_APTS
+2016-05-04,Site Cleaning,PC-133,,8850.0,-15354.0,petty_cash\SATTI_APTS_PettyCash_May2016.xlsx,petty_cash,SATTI_APTS
+2016-05-05,Photocopies,PC-810,777.0,,-14577.0,petty_cash\SATTI_APTS_PettyCash_May2016.xlsx,petty_cash,SATTI_APTS
+2016-05-06,Security Tip,PC-971,13513.0,,-1064.0,petty_cash\SATTI_APTS_PettyCash_May2016.xlsx,petty_cash,SATTI_APTS
+2016-05-07,Small Tool Purchase,PC-005,,10049.0,-11113.0,petty_cash\SATTI_APTS_PettyCash_May2016.xlsx,petty_cash,SATTI_APTS
+2016-05-08,Security Tip,PC-167,,6891.0,-18004.0,petty_cash\SATTI_APTS_PettyCash_May2016.xlsx,petty_cash,SATTI_APTS
+2016-05-09,Tea & Refreshment,PC-633,,10982.0,-28986.0,petty_cash\SATTI_APTS_PettyCash_May2016.xlsx,petty_cash,SATTI_APTS
+Closing Balance:,,,,,,petty_cash\SATTI_APTS_PettyCash_May2016.xlsx,petty_cash,SATTI_APTS

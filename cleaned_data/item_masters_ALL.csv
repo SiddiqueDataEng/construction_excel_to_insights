@@ -1,0 +1,81 @@
+part_number,description,unit,rate,rate_2,rate_3,trade,active,_source_file,_folder,_project,item_code
+REBAR-12MM,STL-RB12,kg,130.0,110.0,150.0,Civil,,item_masters\Consolidated_Items_OLD.xlsx,item_masters,SATTI_MALL,
+Steel Bar 16,16mm Steel Rebar,kg,140.0,119.0,161.0,Electrical,Y,item_masters\Consolidated_Items_OLD.xlsx,item_masters,SATTI_MALL,
+Cement Bag 50Kg,CEM-OPC50,bag,950.0,808.0,,Structural,Active,item_masters\Consolidated_Items_OLD.xlsx,item_masters,SATTI_MALL,
+Red Brick A-Grade,bricks_a,1000,14000.0,11900.0,16100.0,Electrical,Discontinued,item_masters\Consolidated_Items_OLD.xlsx,item_masters,SATTI_MALL,
+"C.Agg 3/4""",Coarse Aggregate 3/4 inch,cft,55.0,47.0,63.0,Electrical,1,item_masters\Consolidated_Items_OLD.xlsx,item_masters,SATTI_MALL,
+river_sand,River Sand,cft,35.0,30.0,40.0,Electrical,N,item_masters\Consolidated_Items_OLD.xlsx,item_masters,SATTI_MALL,
+PIP-GI1,"1"" GI Pipe",rft,180.0,153.0,207.0,Finishing,N,item_masters\Consolidated_Items_OLD.xlsx,item_masters,SATTI_MALL,
+gi_pipe_2inch,gi_pipe_2inch,rft,310.0,264.0,356.0,Finishing,No,item_masters\Consolidated_Items_OLD.xlsx,item_masters,SATTI_MALL,
+WIRE-7/029,7/0.029 Copper Wire,mtr,95.0,81.0,109.0,Civil,,item_masters\Consolidated_Items_OLD.xlsx,item_masters,SATTI_MALL,
+Copper Wire 3/.029,CopWire3,mtr,55.0,47.0,63.0,Plumbing,1,item_masters\Consolidated_Items_OLD.xlsx,item_masters,SATTI_MALL,
+ply_mr_12mm,Plywood 12mm MR,sht,2200.0,1870.0,2530.0,,Active,item_masters\Consolidated_Items_OLD.xlsx,item_masters,SATTI_MALL,
+paint_oil_w,Enamel Wh.,tin,1800.0,1530.0,,Structural,No,item_masters\Consolidated_Items_OLD.xlsx,item_masters,SATTI_MALL,
+TIL-CER12,"Cer.Tile 12""",sft,85.0,72.0,98.0,Finishing,Discontinued,item_masters\Consolidated_Items_OLD.xlsx,item_masters,SATTI_MALL,
+SAN-WC,toilet_std,nos,12500.0,,14375.0,Structural,Yes,item_masters\Consolidated_Items_OLD.xlsx,item_masters,SATTI_MALL,
+6mm_glass,6mm Clear Glass,sft,220.0,187.0,253.0,Finishing,Active,item_masters\Consolidated_Items_OLD.xlsx,item_masters,SATTI_MALL,
+ALU-WIN4,4ft Aluminum Window,nos,14500.0,12325.0,16675.0,,Y,item_masters\Consolidated_Items_OLD.xlsx,item_masters,SATTI_MALL,
+25KVA Genset,25KVA Genset,nos,950000.0,,1092500.0,Structural,Y,item_masters\Consolidated_Items_OLD.xlsx,item_masters,SATTI_MALL,
+AC-95sq,95mm² Armoured Cable,mtr,850.0,722.0,977.0,Finishing,Yes,item_masters\Consolidated_Items_OLD.xlsx,item_masters,SATTI_MALL,
+Marble Wht,Imported White Marble,sft,680.0,578.0,782.0,,Active,item_masters\Consolidated_Items_OLD.xlsx,item_masters,SATTI_MALL,
+rmc_m20,M20 Ready Mix Concrete,cft,420.0,357.0,483.0,Civil,1,item_masters\Consolidated_Items_OLD.xlsx,item_masters,SATTI_MALL,
+,S.Bar 12mm,kg,130.0,110.0,150.0,Plumbing,,item_masters\ItemMaster_Mall_Legacy.xlsx,item_masters,SATTI_MALL,STL-RB-12
+,16mm Steel Rebar,kg,140.0,119.0,161.0,Electrical,Discontinued,item_masters\ItemMaster_Mall_Legacy.xlsx,item_masters,SATTI_MALL,STL-RB-16
+,OPC Cement 50kg Bag,bag,950.0,808.0,1092.0,Civil,Y,item_masters\ItemMaster_Mall_Legacy.xlsx,item_masters,SATTI_MALL,CEM-OPC-50
+,Class-A Red Brick,1000,14000.0,11900.0,16100.0,Structural,Yes,item_masters\ItemMaster_Mall_Legacy.xlsx,item_masters,SATTI_MALL,BRK-CLS-A
+,coarse agg,cft,55.0,47.0,,Electrical,No,item_masters\ItemMaster_Mall_Legacy.xlsx,item_masters,SATTI_MALL,AGG-CRS-34
+,Reti (River),cft,35.0,30.0,40.0,Electrical,1,item_masters\ItemMaster_Mall_Legacy.xlsx,item_masters,SATTI_MALL,SND-RVR
+,"1"" GI Pipe",rft,180.0,153.0,207.0,,Yes,item_masters\ItemMaster_Mall_Legacy.xlsx,item_masters,SATTI_MALL,PIP-GI-1
+,PIP-GI2,rft,310.0,,,Civil,N,item_masters\ItemMaster_Mall_Legacy.xlsx,item_masters,SATTI_MALL,PIP-GI-2
+,WIR-CP7,mtr,95.0,81.0,109.0,Finishing,Active,item_masters\ItemMaster_Mall_Legacy.xlsx,item_masters,SATTI_MALL,WIR-COP-7
+,3/0.029 Copper Wire,mtr,55.0,47.0,63.0,Plumbing,1,item_masters\ItemMaster_Mall_Legacy.xlsx,item_masters,SATTI_MALL,WIR-COP-3
+,12mm MR Plywood Sheet,sht,2200.0,1870.0,2530.0,Structural,No,item_masters\ItemMaster_Mall_Legacy.xlsx,item_masters,SATTI_MALL,PLY-MR-12
+,Oil Paint (White) 4Ltr,tin,1800.0,1530.0,2070.0,Structural,1,item_masters\ItemMaster_Mall_Legacy.xlsx,item_masters,SATTI_MALL,PAI-OIL-W
+,Ceramic Floor Tile 12x12,sft,85.0,72.0,98.0,Civil,1,item_masters\ItemMaster_Mall_Legacy.xlsx,item_masters,SATTI_MALL,TIL-CER-12
+,Standard WC/Commode,nos,12500.0,10625.0,14375.0,Plumbing,No,item_masters\ItemMaster_Mall_Legacy.xlsx,item_masters,SATTI_MALL,SAN-WC-STD
+,6mm Clear Glass,sft,220.0,187.0,253.0,Plumbing,No,item_masters\ItemMaster_Mall_Legacy.xlsx,item_masters,SATTI_MALL,GLS-CLR-6
+,ALM-W4,nos,14500.0,12325.0,16675.0,,Yes,item_masters\ItemMaster_Mall_Legacy.xlsx,item_masters,SATTI_MALL,ALM-WIN-4
+,25 KVA Generator,nos,950000.0,807500.0,1092500.0,Structural,1,item_masters\ItemMaster_Mall_Legacy.xlsx,item_masters,SATTI_MALL,GEN-25KVA
+,95mm² Armoured Cable,mtr,850.0,722.0,977.0,Electrical,No,item_masters\ItemMaster_Mall_Legacy.xlsx,item_masters,SATTI_MALL,CBL-ARM-95
+,MAR-W-IMP,sft,680.0,578.0,782.0,Civil,,item_masters\ItemMaster_Mall_Legacy.xlsx,item_masters,SATTI_MALL,MRB-IMP-W
+,RMC-M20,cft,420.0,357.0,483.0,Electrical,No,item_masters\ItemMaster_Mall_Legacy.xlsx,item_masters,SATTI_MALL,CNC-RDY-M20
+S.Bar 12mm,STL-RB12,kg,130.0,110.0,150.0,Civil,No,item_masters\ItemMaster_Plaza_2011.xlsx,item_masters,SATTI_PLAZA,
+Steel Bar 16,16mm Steel Rebar,kg,140.0,119.0,161.0,Civil,Yes,item_masters\ItemMaster_Plaza_2011.xlsx,item_masters,SATTI_PLAZA,
+CEM-OPC50,OPC Cement 50kg Bag,bag,950.0,808.0,1092.0,Civil,N,item_masters\ItemMaster_Plaza_2011.xlsx,item_masters,SATTI_PLAZA,
+Red Brick A-Grade,Class A Brick,1000,14000.0,11900.0,16100.0,Finishing,Yes,item_masters\ItemMaster_Plaza_2011.xlsx,item_masters,SATTI_PLAZA,
+Bajri 3/4,coarse agg,cft,55.0,47.0,63.0,Plumbing,Active,item_masters\ItemMaster_Plaza_2011.xlsx,item_masters,SATTI_PLAZA,
+SND-RV,River Sand,cft,35.0,30.0,40.0,Finishing,Discontinued,item_masters\ItemMaster_Plaza_2011.xlsx,item_masters,SATTI_PLAZA,
+gi_pipe_1inch,"1"" GI Pipe",rft,180.0,153.0,,Finishing,1,item_masters\ItemMaster_Plaza_2011.xlsx,item_masters,SATTI_PLAZA,
+gi_pipe_2inch,gi_pipe_2inch,rft,310.0,264.0,356.0,Finishing,Y,item_masters\ItemMaster_Plaza_2011.xlsx,item_masters,SATTI_PLAZA,
+WIRE-7/029,7/0.029 Copper Wire,mtr,95.0,81.0,109.0,Civil,N,item_masters\ItemMaster_Plaza_2011.xlsx,item_masters,SATTI_PLAZA,
+CopWire3,3/0.029 Copper Wire,mtr,55.0,47.0,63.0,Plumbing,Yes,item_masters\ItemMaster_Plaza_2011.xlsx,item_masters,SATTI_PLAZA,
+PLYWD-12,12mm MR Plywood Sheet,sht,2200.0,1870.0,2530.0,Electrical,1,item_masters\ItemMaster_Plaza_2011.xlsx,item_masters,SATTI_PLAZA,
+Enamel Wh.,Oil Paint (White) 4Ltr,tin,1800.0,1530.0,2070.0,,No,item_masters\ItemMaster_Plaza_2011.xlsx,item_masters,SATTI_PLAZA,
+TIL-CER12,Ceramic Floor Tile 12x12,sft,85.0,72.0,98.0,Finishing,Y,item_masters\ItemMaster_Plaza_2011.xlsx,item_masters,SATTI_PLAZA,
+WC-STD,Standard WC/Commode,nos,,10625.0,14375.0,Finishing,,item_masters\ItemMaster_Plaza_2011.xlsx,item_masters,SATTI_PLAZA,
+GLASS-6MM,6mm Clear Glass,sft,220.0,187.0,253.0,Structural,,item_masters\ItemMaster_Plaza_2011.xlsx,item_masters,SATTI_PLAZA,
+ALU-WIN4,ALU-WIN4,nos,14500.0,12325.0,16675.0,Finishing,1,item_masters\ItemMaster_Plaza_2011.xlsx,item_masters,SATTI_PLAZA,
+Generator 25KVA,GEN-25K,nos,950000.0,807500.0,1092500.0,Electrical,Y,item_masters\ItemMaster_Plaza_2011.xlsx,item_masters,SATTI_PLAZA,
+arm_cable_95,arm_cable_95,mtr,850.0,722.0,977.0,,N,item_masters\ItemMaster_Plaza_2011.xlsx,item_masters,SATTI_PLAZA,
+White Marble Imp.,White Marble Imp.,sft,680.0,578.0,782.0,Plumbing,Discontinued,item_masters\ItemMaster_Plaza_2011.xlsx,item_masters,SATTI_PLAZA,
+RMC-M20,CNC-M20,cft,420.0,357.0,483.0,Electrical,No,item_masters\ItemMaster_Plaza_2011.xlsx,item_masters,SATTI_PLAZA,
+,12mm Steel Rebar,kg,130.0,110.0,150.0,,Y,item_masters\Material_Register_Apts.xlsx,item_masters,SATTI_MALL,STL-RB-12
+,16mm Steel Rebar,kg,140.0,119.0,161.0,,1,item_masters\Material_Register_Apts.xlsx,item_masters,SATTI_MALL,STL-RB-16
+,OPC Cement 50kg Bag,bag,950.0,808.0,1092.0,Plumbing,No,item_masters\Material_Register_Apts.xlsx,item_masters,SATTI_MALL,CEM-OPC-50
+,bricks_a,1000,14000.0,11900.0,16100.0,Electrical,Yes,item_masters\Material_Register_Apts.xlsx,item_masters,SATTI_MALL,BRK-CLS-A
+,GRAVEL-3/4,cft,55.0,47.0,,Electrical,1,item_masters\Material_Register_Apts.xlsx,item_masters,SATTI_MALL,AGG-CRS-34
+,River Sand,cft,35.0,30.0,40.0,Plumbing,Y,item_masters\Material_Register_Apts.xlsx,item_masters,SATTI_MALL,SND-RVR
+,"1"" GI Pipe",rft,180.0,153.0,207.0,,Active,item_masters\Material_Register_Apts.xlsx,item_masters,SATTI_MALL,PIP-GI-1
+,PIP-GI2,rft,310.0,264.0,356.0,Plumbing,1,item_masters\Material_Register_Apts.xlsx,item_masters,SATTI_MALL,PIP-GI-2
+,7/0.029 Copper Wire,mtr,,81.0,109.0,Civil,Active,item_masters\Material_Register_Apts.xlsx,item_masters,SATTI_MALL,WIR-COP-7
+,3/0.029 Copper Wire,mtr,55.0,47.0,63.0,,1,item_masters\Material_Register_Apts.xlsx,item_masters,SATTI_MALL,WIR-COP-3
+,12mm MR Plywood Sheet,sht,2200.0,1870.0,2530.0,Civil,N,item_masters\Material_Register_Apts.xlsx,item_masters,SATTI_MALL,PLY-MR-12
+,Oil Paint (White) 4Ltr,tin,1800.0,1530.0,2070.0,Structural,Active,item_masters\Material_Register_Apts.xlsx,item_masters,SATTI_MALL,PAI-OIL-W
+,TILE-12X12,sft,85.0,72.0,98.0,Civil,Active,item_masters\Material_Register_Apts.xlsx,item_masters,SATTI_MALL,TIL-CER-12
+,Commode Standard,nos,12500.0,10625.0,14375.0,Finishing,No,item_masters\Material_Register_Apts.xlsx,item_masters,SATTI_MALL,SAN-WC-STD
+,Sheesha 6mm,sft,220.0,187.0,253.0,Electrical,No,item_masters\Material_Register_Apts.xlsx,item_masters,SATTI_MALL,GLS-CLR-6
+,4ft Aluminum Window,nos,14500.0,12325.0,16675.0,Plumbing,Y,item_masters\Material_Register_Apts.xlsx,item_masters,SATTI_MALL,ALM-WIN-4
+,GEN-25K,nos,950000.0,807500.0,,Structural,Active,item_masters\Material_Register_Apts.xlsx,item_masters,SATTI_MALL,GEN-25KVA
+,95mm² Armoured Cable,mtr,850.0,722.0,977.0,,Active,item_masters\Material_Register_Apts.xlsx,item_masters,SATTI_MALL,CBL-ARM-95
+,Imported White Marble,sft,680.0,578.0,782.0,Electrical,Discontinued,item_masters\Material_Register_Apts.xlsx,item_masters,SATTI_MALL,MRB-IMP-W
+,M20 Ready Mix Concrete,cft,420.0,357.0,483.0,Electrical,N,item_masters\Material_Register_Apts.xlsx,item_masters,SATTI_MALL,CNC-RDY-M20

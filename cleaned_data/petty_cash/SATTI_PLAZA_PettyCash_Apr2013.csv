@@ -1,0 +1,12 @@
+date,description,doc_no,credit,debit,balance,_source_file,_folder,_project
+2013-04-01,Rickshaw Fare,PC-327,,1930.0,24515.0,petty_cash\SATTI_PLAZA_PettyCash_Apr2013.xlsx,petty_cash,SATTI_PLAZA
+2013-04-02,Newspaper,PC-755,,12470.0,12045.0,petty_cash\SATTI_PLAZA_PettyCash_Apr2013.xlsx,petty_cash,SATTI_PLAZA
+2013-04-03,Garbage Removal,PC-703,,8171.0,3874.0,petty_cash\SATTI_PLAZA_PettyCash_Apr2013.xlsx,petty_cash,SATTI_PLAZA
+2013-04-04,Water Supply,PC-694,,11727.0,-7853.0,petty_cash\SATTI_PLAZA_PettyCash_Apr2013.xlsx,petty_cash,SATTI_PLAZA
+2013-04-05,Emergency Repair,PC-327,13170.0,,,petty_cash\SATTI_PLAZA_PettyCash_Apr2013.xlsx,petty_cash,SATTI_PLAZA
+2013-04-06,Small Tool Purchase,PC-653,,11555.0,-6238.0,petty_cash\SATTI_PLAZA_PettyCash_Apr2013.xlsx,petty_cash,SATTI_PLAZA
+2013-04-07,Rickshaw Fare,PC-848,5553.0,,-685.0,petty_cash\SATTI_PLAZA_PettyCash_Apr2013.xlsx,petty_cash,SATTI_PLAZA
+2013-04-08,Newspaper,PC-578,,6831.0,-7516.0,petty_cash\SATTI_PLAZA_PettyCash_Apr2013.xlsx,petty_cash,SATTI_PLAZA
+2013-04-09,Petrol,PC-918,,4847.0,-12363.0,petty_cash\SATTI_PLAZA_PettyCash_Apr2013.xlsx,petty_cash,SATTI_PLAZA
+2013-04-10,Courier Charges,PC-787,,,-26823.0,petty_cash\SATTI_PLAZA_PettyCash_Apr2013.xlsx,petty_cash,SATTI_PLAZA
+Closing Balance:,,,,,0.0,petty_cash\SATTI_PLAZA_PettyCash_Apr2013.xlsx,petty_cash,SATTI_PLAZA

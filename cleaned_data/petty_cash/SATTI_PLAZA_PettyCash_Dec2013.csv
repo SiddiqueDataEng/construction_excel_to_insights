@@ -1,0 +1,15 @@
+date,description,doc_no,credit,debit,balance,_source_file,_folder,_project
+2013-12-01,Tea & Refreshment,PC-489,,9126.0,38072.0,petty_cash\SATTI_PLAZA_PettyCash_Dec2013.xlsx,petty_cash,SATTI_PLAZA
+2013-12-02,Emergency Repair,PC-970,,5476.0,32596.0,petty_cash\SATTI_PLAZA_PettyCash_Dec2013.xlsx,petty_cash,SATTI_PLAZA
+2013-12-03,Petrol,PC-503,,13983.0,,petty_cash\SATTI_PLAZA_PettyCash_Dec2013.xlsx,petty_cash,SATTI_PLAZA
+2013-12-04,Rickshaw Fare,PC-223,,4912.0,13701.0,petty_cash\SATTI_PLAZA_PettyCash_Dec2013.xlsx,petty_cash,SATTI_PLAZA
+2013-12-05,Emergency Repair,PC-137,,3064.0,10637.0,petty_cash\SATTI_PLAZA_PettyCash_Dec2013.xlsx,petty_cash,SATTI_PLAZA
+2013-12-06,Postage,PC-192,,11592.0,-955.0,petty_cash\SATTI_PLAZA_PettyCash_Dec2013.xlsx,petty_cash,SATTI_PLAZA
+2013-12-07,Tea & Refreshment,PC-502,2242.0,,1287.0,petty_cash\SATTI_PLAZA_PettyCash_Dec2013.xlsx,petty_cash,SATTI_PLAZA
+2013-12-08,Rickshaw Fare,PC-977,9495.0,,10782.0,petty_cash\SATTI_PLAZA_PettyCash_Dec2013.xlsx,petty_cash,SATTI_PLAZA
+2013-12-09,Emergency Repair,PC-949,,11852.0,-1070.0,petty_cash\SATTI_PLAZA_PettyCash_Dec2013.xlsx,petty_cash,SATTI_PLAZA
+2013-12-10,Phone Balance,PC-255,13559.0,,12489.0,petty_cash\SATTI_PLAZA_PettyCash_Dec2013.xlsx,petty_cash,SATTI_PLAZA
+2013-12-11,Misc Stationery,PC-068,8603.0,,21092.0,petty_cash\SATTI_PLAZA_PettyCash_Dec2013.xlsx,petty_cash,SATTI_PLAZA
+2013-12-12,Tea & Refreshment,PC-488,,14825.0,6267.0,petty_cash\SATTI_PLAZA_PettyCash_Dec2013.xlsx,petty_cash,SATTI_PLAZA
+2013-12-13,Misc Stationery,PC-108,,12478.0,-6211.0,petty_cash\SATTI_PLAZA_PettyCash_Dec2013.xlsx,petty_cash,SATTI_PLAZA
+Closing Balance:,,,,,0.0,petty_cash\SATTI_PLAZA_PettyCash_Dec2013.xlsx,petty_cash,SATTI_PLAZA

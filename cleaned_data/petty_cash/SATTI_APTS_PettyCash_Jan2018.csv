@@ -1,0 +1,18 @@
+date,description,doc_no,credit,debit,balance,_source_file,_folder,_project
+2018-01-01,Security Tip,PC-361,,1456.0,29389.0,petty_cash\SATTI_APTS_PettyCash_Jan2018.xlsx,petty_cash,SATTI_APTS
+2018-01-02,Photocopies,PC-721,,14928.0,14461.0,petty_cash\SATTI_APTS_PettyCash_Jan2018.xlsx,petty_cash,SATTI_APTS
+2018-01-03,Rickshaw Fare,PC-726,,5051.0,9410.0,petty_cash\SATTI_APTS_PettyCash_Jan2018.xlsx,petty_cash,SATTI_APTS
+2018-01-04,Rickshaw Fare,PC-576,,2139.0,7271.0,petty_cash\SATTI_APTS_PettyCash_Jan2018.xlsx,petty_cash,SATTI_APTS
+2018-01-05,Security Tip,PC-263,12816.0,,20087.0,petty_cash\SATTI_APTS_PettyCash_Jan2018.xlsx,petty_cash,SATTI_APTS
+2018-01-06,Security Tip,PC-405,,14804.0,5283.0,petty_cash\SATTI_APTS_PettyCash_Jan2018.xlsx,petty_cash,SATTI_APTS
+2018-01-07,Site Cleaning,PC-641,,12695.0,-7412.0,petty_cash\SATTI_APTS_PettyCash_Jan2018.xlsx,petty_cash,SATTI_APTS
+2018-01-08,Garbage Removal,PC-597,,703.0,-8115.0,petty_cash\SATTI_APTS_PettyCash_Jan2018.xlsx,petty_cash,SATTI_APTS
+2018-01-09,Phone Balance,PC-528,,6124.0,-14239.0,petty_cash\SATTI_APTS_PettyCash_Jan2018.xlsx,petty_cash,SATTI_APTS
+2018-01-10,Emergency Repair,PC-783,,14600.0,-28839.0,petty_cash\SATTI_APTS_PettyCash_Jan2018.xlsx,petty_cash,SATTI_APTS
+2018-01-11,Tea & Refreshment,PC-946,,5878.0,-34717.0,petty_cash\SATTI_APTS_PettyCash_Jan2018.xlsx,petty_cash,SATTI_APTS
+2018-01-12,Petrol,PC-393,7003.0,,-27714.0,petty_cash\SATTI_APTS_PettyCash_Jan2018.xlsx,petty_cash,SATTI_APTS
+2018-01-13,Small Tool Purchase,PC-505,,708.0,-28422.0,petty_cash\SATTI_APTS_PettyCash_Jan2018.xlsx,petty_cash,SATTI_APTS
+2018-01-14,Tea & Refreshment,PC-925,10100.0,,-18322.0,petty_cash\SATTI_APTS_PettyCash_Jan2018.xlsx,petty_cash,SATTI_APTS
+2018-01-15,Small Tool Purchase,PC-103,,,-26671.0,petty_cash\SATTI_APTS_PettyCash_Jan2018.xlsx,petty_cash,SATTI_APTS
+2018-01-16,Security Tip,PC-489,,6518.0,-33189.0,petty_cash\SATTI_APTS_PettyCash_Jan2018.xlsx,petty_cash,SATTI_APTS
+Closing Balance:,,,,,0.0,petty_cash\SATTI_APTS_PettyCash_Jan2018.xlsx,petty_cash,SATTI_APTS

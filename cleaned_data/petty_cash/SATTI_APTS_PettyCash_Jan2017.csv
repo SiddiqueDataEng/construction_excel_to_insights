@@ -1,0 +1,12 @@
+date,description,doc_no,credit,debit,balance,_source_file,_folder,_project
+2017-01-01,Petrol,PC-170,4506.0,,17220.0,petty_cash\SATTI_APTS_PettyCash_Jan2017.xlsx,petty_cash,SATTI_APTS
+2017-01-02,Small Tool Purchase,PC-024,,13740.0,3480.0,petty_cash\SATTI_APTS_PettyCash_Jan2017.xlsx,petty_cash,SATTI_APTS
+2017-01-03,Site Cleaning,PC-806,,1101.0,2379.0,petty_cash\SATTI_APTS_PettyCash_Jan2017.xlsx,petty_cash,SATTI_APTS
+2017-01-04,Emergency Repair,PC-284,,5178.0,-2799.0,petty_cash\SATTI_APTS_PettyCash_Jan2017.xlsx,petty_cash,SATTI_APTS
+2017-01-05,Site Cleaning,PC-039,,14189.0,-16988.0,petty_cash\SATTI_APTS_PettyCash_Jan2017.xlsx,petty_cash,SATTI_APTS
+2017-01-06,Emergency Repair,PC-793,,13913.0,-30901.0,petty_cash\SATTI_APTS_PettyCash_Jan2017.xlsx,petty_cash,SATTI_APTS
+2017-01-07,Emergency Repair,PC-768,,3930.0,-34831.0,petty_cash\SATTI_APTS_PettyCash_Jan2017.xlsx,petty_cash,SATTI_APTS
+2017-01-08,Photocopies,PC-175,,5088.0,-39919.0,petty_cash\SATTI_APTS_PettyCash_Jan2017.xlsx,petty_cash,SATTI_APTS
+2017-01-09,Emergency Repair,PC-607,,6406.0,-46325.0,petty_cash\SATTI_APTS_PettyCash_Jan2017.xlsx,petty_cash,SATTI_APTS
+2017-01-10,Photocopies,PC-873,,5004.0,-51329.0,petty_cash\SATTI_APTS_PettyCash_Jan2017.xlsx,petty_cash,SATTI_APTS
+Closing Balance:,,,,,0.0,petty_cash\SATTI_APTS_PettyCash_Jan2017.xlsx,petty_cash,SATTI_APTS

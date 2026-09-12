@@ -1,0 +1,13 @@
+date,description,doc_no,credit,debit,balance,_source_file,_folder,_project
+2011-12-01,Small Tool Purchase,PC-384,,12640.0,25878.0,petty_cash\SATTI_PLAZA_PettyCash_Dec2011.xlsx,petty_cash,SATTI_PLAZA
+2011-12-02,Site Cleaning,PC-619,,5750.0,20128.0,petty_cash\SATTI_PLAZA_PettyCash_Dec2011.xlsx,petty_cash,SATTI_PLAZA
+2011-12-03,Misc Stationery,PC-032,,11659.0,8469.0,petty_cash\SATTI_PLAZA_PettyCash_Dec2011.xlsx,petty_cash,SATTI_PLAZA
+2011-12-04,Garbage Removal,PC-846,,10872.0,-2403.0,petty_cash\SATTI_PLAZA_PettyCash_Dec2011.xlsx,petty_cash,SATTI_PLAZA
+2011-12-05,Water Supply,PC-667,,3000.0,-5403.0,petty_cash\SATTI_PLAZA_PettyCash_Dec2011.xlsx,petty_cash,SATTI_PLAZA
+2011-12-06,Phone Balance,PC-029,,4455.0,-9858.0,petty_cash\SATTI_PLAZA_PettyCash_Dec2011.xlsx,petty_cash,SATTI_PLAZA
+2011-12-07,Site Cleaning,PC-722,,839.0,-10697.0,petty_cash\SATTI_PLAZA_PettyCash_Dec2011.xlsx,petty_cash,SATTI_PLAZA
+2011-12-08,Photocopies,PC-758,,5453.0,-16150.0,petty_cash\SATTI_PLAZA_PettyCash_Dec2011.xlsx,petty_cash,SATTI_PLAZA
+2011-12-09,Phone Balance,PC-873,,518.0,-16668.0,petty_cash\SATTI_PLAZA_PettyCash_Dec2011.xlsx,petty_cash,SATTI_PLAZA
+2011-12-10,Tea & Refreshment,PC-481,,2863.0,-19531.0,petty_cash\SATTI_PLAZA_PettyCash_Dec2011.xlsx,petty_cash,SATTI_PLAZA
+2011-12-11,Photocopies,PC-461,14139.0,,-5392.0,petty_cash\SATTI_PLAZA_PettyCash_Dec2011.xlsx,petty_cash,SATTI_PLAZA
+Closing Balance:,,,,,0.0,petty_cash\SATTI_PLAZA_PettyCash_Dec2011.xlsx,petty_cash,SATTI_PLAZA

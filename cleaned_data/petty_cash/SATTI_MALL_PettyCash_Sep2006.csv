@@ -1,0 +1,14 @@
+date,description,doc_no,credit,debit,balance,_source_file,_folder,_project
+2006-09-01,Emergency Repair,PC-014,,13371.0,27000.0,petty_cash\SATTI_MALL_PettyCash_Sep2006.xlsx,petty_cash,SATTI_MALL
+2006-09-02,Small Tool Purchase,PC-719,,829.0,26171.0,petty_cash\SATTI_MALL_PettyCash_Sep2006.xlsx,petty_cash,SATTI_MALL
+2006-09-03,Emergency Repair,PC-566,764.0,,26935.0,petty_cash\SATTI_MALL_PettyCash_Sep2006.xlsx,petty_cash,SATTI_MALL
+2006-09-04,Garbage Removal,PC-361,,4351.0,22584.0,petty_cash\SATTI_MALL_PettyCash_Sep2006.xlsx,petty_cash,SATTI_MALL
+2006-09-05,Site Cleaning,PC-849,,12775.0,9809.0,petty_cash\SATTI_MALL_PettyCash_Sep2006.xlsx,petty_cash,SATTI_MALL
+2006-09-06,Site Cleaning,PC-408,,6960.0,2849.0,petty_cash\SATTI_MALL_PettyCash_Sep2006.xlsx,petty_cash,SATTI_MALL
+2006-09-07,Security Tip,PC-357,,8286.0,-5437.0,petty_cash\SATTI_MALL_PettyCash_Sep2006.xlsx,petty_cash,SATTI_MALL
+2006-09-08,Courier Charges,PC-313,14745.0,,9308.0,petty_cash\SATTI_MALL_PettyCash_Sep2006.xlsx,petty_cash,SATTI_MALL
+2006-09-09,Garbage Removal,PC-881,,5514.0,3794.0,petty_cash\SATTI_MALL_PettyCash_Sep2006.xlsx,petty_cash,SATTI_MALL
+2006-09-10,Emergency Repair,PC-643,,3020.0,774.0,petty_cash\SATTI_MALL_PettyCash_Sep2006.xlsx,petty_cash,SATTI_MALL
+2006-09-11,Postage,PC-826,,,-693.0,petty_cash\SATTI_MALL_PettyCash_Sep2006.xlsx,petty_cash,SATTI_MALL
+2006-09-12,Phone Balance,PC-143,,14514.0,-15207.0,petty_cash\SATTI_MALL_PettyCash_Sep2006.xlsx,petty_cash,SATTI_MALL
+Closing Balance:,,,,,0.0,petty_cash\SATTI_MALL_PettyCash_Sep2006.xlsx,petty_cash,SATTI_MALL

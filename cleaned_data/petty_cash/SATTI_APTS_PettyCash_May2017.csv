@@ -1,0 +1,13 @@
+date,description,doc_no,credit,debit,balance,_source_file,_folder,_project
+2017-05-01,Courier Charges,PC-319,,10245.0,37334.0,petty_cash\SATTI_APTS_PettyCash_May2017.xlsx,petty_cash,SATTI_APTS
+2017-05-02,Photocopies,PC-386,,7075.0,30259.0,petty_cash\SATTI_APTS_PettyCash_May2017.xlsx,petty_cash,SATTI_APTS
+2017-05-03,Phone Balance,PC-289,,410.0,29849.0,petty_cash\SATTI_APTS_PettyCash_May2017.xlsx,petty_cash,SATTI_APTS
+2017-05-04,Rickshaw Fare,PC-835,12409.0,,,petty_cash\SATTI_APTS_PettyCash_May2017.xlsx,petty_cash,SATTI_APTS
+2017-05-05,Petrol,PC-983,,13586.0,28672.0,petty_cash\SATTI_APTS_PettyCash_May2017.xlsx,petty_cash,SATTI_APTS
+2017-05-06,Phone Balance,PC-714,,9981.0,18691.0,petty_cash\SATTI_APTS_PettyCash_May2017.xlsx,petty_cash,SATTI_APTS
+2017-05-07,Tea & Refreshment,PC-448,8830.0,,27521.0,petty_cash\SATTI_APTS_PettyCash_May2017.xlsx,petty_cash,SATTI_APTS
+2017-05-08,Tea & Refreshment,PC-162,2682.0,,30203.0,petty_cash\SATTI_APTS_PettyCash_May2017.xlsx,petty_cash,SATTI_APTS
+2017-05-09,Phone Balance,PC-474,,9376.0,20827.0,petty_cash\SATTI_APTS_PettyCash_May2017.xlsx,petty_cash,SATTI_APTS
+2017-05-10,Emergency Repair,PC-573,4114.0,,24941.0,petty_cash\SATTI_APTS_PettyCash_May2017.xlsx,petty_cash,SATTI_APTS
+2017-05-11,Rickshaw Fare,PC-851,,10831.0,14110.0,petty_cash\SATTI_APTS_PettyCash_May2017.xlsx,petty_cash,SATTI_APTS
+Closing Balance:,,,,,14110.0,petty_cash\SATTI_APTS_PettyCash_May2017.xlsx,petty_cash,SATTI_APTS

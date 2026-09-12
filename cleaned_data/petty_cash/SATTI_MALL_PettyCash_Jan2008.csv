@@ -1,0 +1,12 @@
+date,description,doc_no,debit,balance,_source_file,_folder,_project
+2008-01-01,Tea & Refreshment,PC-932,13669.0,26510.0,petty_cash\SATTI_MALL_PettyCash_Jan2008.xlsx,petty_cash,SATTI_MALL
+2008-01-02,Site Cleaning,PC-455,13745.0,12765.0,petty_cash\SATTI_MALL_PettyCash_Jan2008.xlsx,petty_cash,SATTI_MALL
+2008-01-03,Small Tool Purchase,PC-964,,3879.0,petty_cash\SATTI_MALL_PettyCash_Jan2008.xlsx,petty_cash,SATTI_MALL
+2008-01-04,Misc Stationery,PC-539,10263.0,-6384.0,petty_cash\SATTI_MALL_PettyCash_Jan2008.xlsx,petty_cash,SATTI_MALL
+2008-01-05,Security Tip,PC-695,7393.0,-13777.0,petty_cash\SATTI_MALL_PettyCash_Jan2008.xlsx,petty_cash,SATTI_MALL
+2008-01-06,Photocopies,PC-601,4262.0,-18039.0,petty_cash\SATTI_MALL_PettyCash_Jan2008.xlsx,petty_cash,SATTI_MALL
+2008-01-07,Site Cleaning,PC-663,13088.0,-31127.0,petty_cash\SATTI_MALL_PettyCash_Jan2008.xlsx,petty_cash,SATTI_MALL
+2008-01-08,Courier Charges,PC-345,9988.0,-41115.0,petty_cash\SATTI_MALL_PettyCash_Jan2008.xlsx,petty_cash,SATTI_MALL
+2008-01-09,Petrol,PC-746,2034.0,-43149.0,petty_cash\SATTI_MALL_PettyCash_Jan2008.xlsx,petty_cash,SATTI_MALL
+2008-01-10,Small Tool Purchase,PC-465,4075.0,-47224.0,petty_cash\SATTI_MALL_PettyCash_Jan2008.xlsx,petty_cash,SATTI_MALL
+Closing Balance:,,,,0.0,petty_cash\SATTI_MALL_PettyCash_Jan2008.xlsx,petty_cash,SATTI_MALL

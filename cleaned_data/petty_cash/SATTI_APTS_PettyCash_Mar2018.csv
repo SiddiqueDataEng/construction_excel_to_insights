@@ -1,0 +1,19 @@
+date,description,doc_no,credit,debit,balance,_source_file,_folder,_project
+2018-03-01,Petrol,PC-371,,14807.0,3479.0,petty_cash\SATTI_APTS_PettyCash_Mar2018.xlsx,petty_cash,SATTI_APTS
+2018-03-02,Tea & Refreshment,PC-356,9508.0,,12987.0,petty_cash\SATTI_APTS_PettyCash_Mar2018.xlsx,petty_cash,SATTI_APTS
+2018-03-03,Security Tip,PC-199,,12617.0,370.0,petty_cash\SATTI_APTS_PettyCash_Mar2018.xlsx,petty_cash,SATTI_APTS
+2018-03-04,Phone Balance,PC-207,,5988.0,-5618.0,petty_cash\SATTI_APTS_PettyCash_Mar2018.xlsx,petty_cash,SATTI_APTS
+2018-03-05,Water Supply,PC-350,,283.0,-5901.0,petty_cash\SATTI_APTS_PettyCash_Mar2018.xlsx,petty_cash,SATTI_APTS
+2018-03-06,Misc Stationery,PC-736,,7528.0,-13429.0,petty_cash\SATTI_APTS_PettyCash_Mar2018.xlsx,petty_cash,SATTI_APTS
+2018-03-07,Courier Charges,PC-060,,,-19975.0,petty_cash\SATTI_APTS_PettyCash_Mar2018.xlsx,petty_cash,SATTI_APTS
+2018-03-08,Emergency Repair,PC-181,14521.0,,-5454.0,petty_cash\SATTI_APTS_PettyCash_Mar2018.xlsx,petty_cash,SATTI_APTS
+2018-03-09,Emergency Repair,PC-521,,14770.0,-20224.0,petty_cash\SATTI_APTS_PettyCash_Mar2018.xlsx,petty_cash,SATTI_APTS
+2018-03-10,Security Tip,PC-093,,4727.0,-24951.0,petty_cash\SATTI_APTS_PettyCash_Mar2018.xlsx,petty_cash,SATTI_APTS
+2018-03-11,Emergency Repair,PC-751,,11854.0,-36805.0,petty_cash\SATTI_APTS_PettyCash_Mar2018.xlsx,petty_cash,SATTI_APTS
+2018-03-12,Garbage Removal,PC-948,,1023.0,-37828.0,petty_cash\SATTI_APTS_PettyCash_Mar2018.xlsx,petty_cash,SATTI_APTS
+2018-03-13,Phone Balance,PC-940,,4013.0,-41841.0,petty_cash\SATTI_APTS_PettyCash_Mar2018.xlsx,petty_cash,SATTI_APTS
+2018-03-14,Security Tip,PC-412,,4389.0,-46230.0,petty_cash\SATTI_APTS_PettyCash_Mar2018.xlsx,petty_cash,SATTI_APTS
+2018-03-15,Postage,PC-283,,680.0,-46910.0,petty_cash\SATTI_APTS_PettyCash_Mar2018.xlsx,petty_cash,SATTI_APTS
+2018-03-16,Phone Balance,PC-070,,8714.0,-55624.0,petty_cash\SATTI_APTS_PettyCash_Mar2018.xlsx,petty_cash,SATTI_APTS
+2018-03-17,Photocopies,PC-955,,5382.0,-61006.0,petty_cash\SATTI_APTS_PettyCash_Mar2018.xlsx,petty_cash,SATTI_APTS
+Closing Balance:,,,,,0.0,petty_cash\SATTI_APTS_PettyCash_Mar2018.xlsx,petty_cash,SATTI_APTS
