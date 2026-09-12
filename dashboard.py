@@ -77,6 +77,21 @@ st.markdown("""
 [data-testid="stAppViewContainer"] main [role="tab"][aria-selected="true"] * {
     color: #12355B !important;
 }
+[data-testid="stAppViewContainer"] main [data-testid="stTabs"] [data-baseweb="tab"],
+[data-testid="stAppViewContainer"] main [data-testid="stTabs"] [data-baseweb="tab"] *,
+[data-testid="stAppViewContainer"] main [data-testid="stTabs"] [role="tab"],
+[data-testid="stAppViewContainer"] main [data-testid="stTabs"] [role="tab"] * {
+    color: #526173 !important;
+    opacity: 1 !important;
+}
+[data-testid="stAppViewContainer"] main [data-testid="stTabs"] [aria-selected="true"],
+[data-testid="stAppViewContainer"] main [data-testid="stTabs"] [aria-selected="true"] * {
+    color: #12355B !important;
+    font-weight: 800 !important;
+}
+[data-testid="stAppViewContainer"] main [data-testid="stTabs"] [data-baseweb="tab-highlight"] {
+    background-color: #007C83 !important;
+}
 [data-testid="stAppViewContainer"] main input,
 [data-testid="stAppViewContainer"] main textarea,
 [data-testid="stAppViewContainer"] main [data-baseweb="input"],
