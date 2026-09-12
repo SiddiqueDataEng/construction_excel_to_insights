@@ -63,37 +63,32 @@ st.markdown("""
 [data-testid="stAppViewContainer"] main h1,
 [data-testid="stAppViewContainer"] main h2,
 [data-testid="stAppViewContainer"] main h3,
+[data-testid="stAppViewContainer"] main p,
 [data-testid="stAppViewContainer"] main label,
 [data-testid="stAppViewContainer"] main [data-testid="stWidgetLabel"],
-[data-testid="stAppViewContainer"] main [data-testid="stWidgetLabel"] p {
+[data-testid="stAppViewContainer"] main [data-testid="stWidgetLabel"] * {
     color: #172033 !important;
 }
-[data-testid="stAppViewContainer"] main [data-baseweb="tab"],
-[data-testid="stAppViewContainer"] main [data-baseweb="tab"] * {
+[data-testid="stAppViewContainer"] main [role="tab"],
+[data-testid="stAppViewContainer"] main [role="tab"] * {
     color: #526173 !important;
 }
-[data-testid="stAppViewContainer"] main [aria-selected="true"][data-baseweb="tab"],
-[data-testid="stAppViewContainer"] main [aria-selected="true"][data-baseweb="tab"] * {
+[data-testid="stAppViewContainer"] main [role="tab"][aria-selected="true"],
+[data-testid="stAppViewContainer"] main [role="tab"][aria-selected="true"] * {
     color: #12355B !important;
 }
 [data-testid="stAppViewContainer"] main input,
 [data-testid="stAppViewContainer"] main textarea,
-[data-testid="stAppViewContainer"] main [data-testid="stNumberInput"] input,
-[data-testid="stAppViewContainer"] main [data-testid="stNumberInput"] [data-baseweb="input"] {
+[data-testid="stAppViewContainer"] main [data-baseweb="input"],
+[data-testid="stAppViewContainer"] main [data-baseweb="input"] input {
     color: #172033 !important;
     background: #FFFFFF !important;
     border-color: #9AAABD !important;
 }
-[data-testid="stAppViewContainer"] main [data-testid="stNumberInput"] button {
+[data-testid="stAppViewContainer"] main [data-baseweb="input"] button {
     color: #12355B !important;
     background: #E8EEF5 !important;
     border-color: #9AAABD !important;
-}
-[data-testid="stAppViewContainer"] main [data-testid="stNumberInput"] label,
-[data-testid="stAppViewContainer"] main [data-testid="stSlider"] label,
-[data-testid="stAppViewContainer"] main [data-testid="stWidgetLabel"] p {
-    color: #172033 !important;
-    font-weight: 600 !important;
 }
 [data-testid="stAppViewContainer"] main [data-testid="stAlert"] {
     color: #172033 !important;
@@ -103,6 +98,8 @@ st.markdown("""
 [data-testid="stAppViewContainer"] main [data-testid="stAlert"] p {
     color: #172033 !important;
 }
+.dashboard-hero h1,
+.dashboard-hero p { color: #FFFFFF !important; }
 [data-testid="stSidebar"]          { background: #12355B; }
 [data-testid="stSidebar"] * { color: #ffffff !important; }
 [data-testid="stSidebar"] .stSelectbox label,
@@ -343,7 +340,7 @@ def filt(df, col="project"):
 # ══════════════════════════════════════════════════════════════════════════════
 if page == "🏠 Overview":
     st.markdown(f"""
-    <div style='background:linear-gradient(90deg,{BRAND},{ACCENT});
+    <div class='dashboard-hero' style='background:linear-gradient(90deg,{BRAND},{ACCENT});
          padding:22px 28px; border-radius:12px; margin-bottom:18px;'>
         <h1 style='color:white;margin:0;font-size:28px;'>
             🏗️ Satti Group – Construction Analytics Dashboard
