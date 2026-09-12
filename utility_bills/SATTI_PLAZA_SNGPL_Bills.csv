@@ -1,0 +1,40 @@
+month,date,date_2,unit,amount,late_fee,total_paid,date_3,remarks,_source_file,_folder,_project
+Apr-2011,2011-04-07,2011-04-28,382,6345.0,,6345.0,2011-05-24,,utility_bills\SATTI_PLAZA_SNGPL_Bills.xlsx,utility_bills,SATTI_PLAZA
+May-2011,2011-05-07,2011-05-28,579,13067.0,TBD,13720.0,2011-06-16,Late Payment,utility_bills\SATTI_PLAZA_SNGPL_Bills.xlsx,utility_bills,SATTI_PLAZA
+Jun-2011,2011-06-08,2011-06-29,215,4153.0,PKR 208,4361.0,2011-06-25,,utility_bills\SATTI_PLAZA_SNGPL_Bills.xlsx,utility_bills,SATTI_PLAZA
+Jul-2011,2011-07-03,2011-07-24,496,,538,11289.0,2011-08-03,Late Payment,utility_bills\SATTI_PLAZA_SNGPL_Bills.xlsx,utility_bills,SATTI_PLAZA
+Aug-2011,2011-08-10,2011-08-31,347,7497.0,,7497.0,2011-08-31,,utility_bills\SATTI_PLAZA_SNGPL_Bills.xlsx,utility_bills,SATTI_PLAZA
+Sep-2011,2011-09-12,2011-10-03,292,3836.0,,3836.0,2011-10-12,,utility_bills\SATTI_PLAZA_SNGPL_Bills.xlsx,utility_bills,SATTI_PLAZA
+Oct-2011,2011-10-11,2011-11-01,570,7227.0,361,7588.0,2011-11-24,,utility_bills\SATTI_PLAZA_SNGPL_Bills.xlsx,utility_bills,SATTI_PLAZA
+Nov-2011,2011-11-04,2011-11-25,390,4685.0,,4685.0,2011-11-22,Disputed,utility_bills\SATTI_PLAZA_SNGPL_Bills.xlsx,utility_bills,SATTI_PLAZA
+Dec-2011,2011-12-03,2011-12-24,,3350.0,,3350.0,2012-01-23,Late Payment,utility_bills\SATTI_PLAZA_SNGPL_Bills.xlsx,utility_bills,SATTI_PLAZA
+Jan-2012,2012-01-01,2012-01-22,787,11861.0,593,12454.0,2012-02-10,Late Payment,utility_bills\SATTI_PLAZA_SNGPL_Bills.xlsx,utility_bills,SATTI_PLAZA
+Feb-2012,2012-02-14,2012-03-06,114,2753.0,138/-,2891.0,2012-04-04,,utility_bills\SATTI_PLAZA_SNGPL_Bills.xlsx,utility_bills,SATTI_PLAZA
+Mar-2012,2012-03-13,2012-04-03,74,973.0,49,1022.0,2012-04-18,,utility_bills\SATTI_PLAZA_SNGPL_Bills.xlsx,utility_bills,SATTI_PLAZA
+Apr-2012,2012-04-01,2012-04-22,673,7113.0,,7113.0,2012-04-29,,utility_bills\SATTI_PLAZA_SNGPL_Bills.xlsx,utility_bills,SATTI_PLAZA
+May-2012,2012-05-10,2012-05-31,378,3343.0,,3343.0,2012-06-27,Late Payment,utility_bills\SATTI_PLAZA_SNGPL_Bills.xlsx,utility_bills,SATTI_PLAZA
+Jun-2012,2012-06-03,2012-06-24,185,2740.0,,2740.0,2012-06-22,,utility_bills\SATTI_PLAZA_SNGPL_Bills.xlsx,utility_bills,SATTI_PLAZA
+Jul-2012,2012-07-13,2012-08-03,,9770.0,,9770.0,2012-08-04,Late Payment,utility_bills\SATTI_PLAZA_SNGPL_Bills.xlsx,utility_bills,SATTI_PLAZA
+Aug-2012,2012-08-09,2012-08-30,469,10041.0,,10041.0,2012-09-17,Late Payment,utility_bills\SATTI_PLAZA_SNGPL_Bills.xlsx,utility_bills,SATTI_PLAZA
+Sep-2012,2012-09-06,2012-09-27,733,6388.0,319,6707.0,2012-10-23,Late Payment,utility_bills\SATTI_PLAZA_SNGPL_Bills.xlsx,utility_bills,SATTI_PLAZA
+Oct-2012,2012-10-02,2012-10-23,727,17015.0,,17015.0,2012-10-26,,utility_bills\SATTI_PLAZA_SNGPL_Bills.xlsx,utility_bills,SATTI_PLAZA
+Nov-2012,2012-11-09,2012-11-30,454.0,9034.0,,9034.0,2012-11-29,Paid,utility_bills\SATTI_PLAZA_SNGPL_Bills.xlsx,utility_bills,SATTI_PLAZA
+Dec-2012,2012-12-07,2012-12-28,432.0,9902.0,,9902.0,2013-01-20,Disputed,utility_bills\SATTI_PLAZA_SNGPL_Bills.xlsx,utility_bills,SATTI_PLAZA
+Jan-2013,2013-01-02,2013-01-23,271,6195.0,,6195.0,2013-02-15,Disputed,utility_bills\SATTI_PLAZA_SNGPL_Bills.xlsx,utility_bills,SATTI_PLAZA
+Feb-2013,2013-02-02,2013-02-23,726,8523.0,,8523.0,2013-03-20,,utility_bills\SATTI_PLAZA_SNGPL_Bills.xlsx,utility_bills,SATTI_PLAZA
+Mar-2013,2013-03-07,2013-03-28,603,11827.0,,11827.0,2013-03-30,,utility_bills\SATTI_PLAZA_SNGPL_Bills.xlsx,utility_bills,SATTI_PLAZA
+Apr-2013,2013-04-01,2013-04-22,110,2435.0,,2435.0,2013-04-24,Disputed,utility_bills\SATTI_PLAZA_SNGPL_Bills.xlsx,utility_bills,SATTI_PLAZA
+May-2013,2013-05-05,2013-05-26,184,2360.0,,2360.0,2013-06-19,,utility_bills\SATTI_PLAZA_SNGPL_Bills.xlsx,utility_bills,SATTI_PLAZA
+Jun-2013,2013-06-07,2013-06-28,,3796.0,190,3986.0,2013-07-03,Paid,utility_bills\SATTI_PLAZA_SNGPL_Bills.xlsx,utility_bills,SATTI_PLAZA
+Jul-2013,2013-07-01,2013-07-22,763,13781.0,689,14470.0,2013-08-09,,utility_bills\SATTI_PLAZA_SNGPL_Bills.xlsx,utility_bills,SATTI_PLAZA
+Aug-2013,2013-08-14,2013-09-04,398,,,9767.0,2013-09-02,Disputed,utility_bills\SATTI_PLAZA_SNGPL_Bills.xlsx,utility_bills,SATTI_PLAZA
+Sep-2013,2013-09-10,2013-10-01,656,14260.0,,14260.0,2013-10-21,Paid,utility_bills\SATTI_PLAZA_SNGPL_Bills.xlsx,utility_bills,SATTI_PLAZA
+Oct-2013,2013-10-11,2013-11-01,631,8719.0,,8719.0,2013-11-04,Disputed,utility_bills\SATTI_PLAZA_SNGPL_Bills.xlsx,utility_bills,SATTI_PLAZA
+Nov-2013,2013-11-01,2013-11-22,162,,,2648.0,2013-11-21,,utility_bills\SATTI_PLAZA_SNGPL_Bills.xlsx,utility_bills,SATTI_PLAZA
+Dec-2013,2013-12-12,2014-01-02,231,2093.0,,2093.0,2014-01-18,,utility_bills\SATTI_PLAZA_SNGPL_Bills.xlsx,utility_bills,SATTI_PLAZA
+Jan-2014,2014-01-15,2014-02-05,334,3109.0,,3109.0,2014-02-09,Paid,utility_bills\SATTI_PLAZA_SNGPL_Bills.xlsx,utility_bills,SATTI_PLAZA
+Feb-2014,2014-02-07,2014-02-28,692,,,6175.0,2014-03-10,Disputed,utility_bills\SATTI_PLAZA_SNGPL_Bills.xlsx,utility_bills,SATTI_PLAZA
+Mar-2014,2014-03-03,2014-03-24,183,4180.0,,4180.0,2014-04-23,,utility_bills\SATTI_PLAZA_SNGPL_Bills.xlsx,utility_bills,SATTI_PLAZA
+Apr-2014,2014-04-14,2014-05-05,203,4932.0,,4932.0,2014-06-04,,utility_bills\SATTI_PLAZA_SNGPL_Bills.xlsx,utility_bills,SATTI_PLAZA
+May-2014,2014-05-13,2014-06-03,92,816.0,41,857.0,2014-06-22,Disputed,utility_bills\SATTI_PLAZA_SNGPL_Bills.xlsx,utility_bills,SATTI_PLAZA
+Jun-2014,2014-06-04,2014-06-25,766,15979.0,,15979.0,2014-06-23,Disputed,utility_bills\SATTI_PLAZA_SNGPL_Bills.xlsx,utility_bills,SATTI_PLAZA

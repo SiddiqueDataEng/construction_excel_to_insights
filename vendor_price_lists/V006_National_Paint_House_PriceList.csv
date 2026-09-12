@@ -1,0 +1,13 @@
+row_no,item_code,description,unit,rate,remarks,_source_file,_folder,_project
+National Paint House,,,,,,vendor_price_lists\V006_National_Paint_House_PriceList.xlsx,vendor_price_lists,SATTI_MALL
+Contact: 03511234567   City: Karachi,,,,,,vendor_price_lists\V006_National_Paint_House_PriceList.xlsx,vendor_price_lists,SATTI_MALL
+Date: 26/09/13,,,,,,vendor_price_lists\V006_National_Paint_House_PriceList.xlsx,vendor_price_lists,SATTI_MALL
+1,WIRE_7029,WIR-CP7,mtr,105.0,negotiable,vendor_price_lists\V006_National_Paint_House_PriceList.xlsx,vendor_price_lists,SATTI_MALL
+2,TOILET_STD,toilet_std,nos,13111.0,ex-works,vendor_price_lists\V006_National_Paint_House_PriceList.xlsx,vendor_price_lists,SATTI_MALL
+3,ALM-WIN-4,ALU-WIN4,nos,13974.0,inclusive GST,vendor_price_lists\V006_National_Paint_House_PriceList.xlsx,vendor_price_lists,SATTI_MALL
+4,REBAR-12MM,rebar 1/2 inch,kg,120.0,,vendor_price_lists\V006_National_Paint_House_PriceList.xlsx,vendor_price_lists,SATTI_MALL
+5,TIL-CER12,TILE-12X12,sft,89.0,subject to change,vendor_price_lists\V006_National_Paint_House_PriceList.xlsx,vendor_price_lists,SATTI_MALL
+6,SND-RV,SND-RV,cft,39.0,,vendor_price_lists\V006_National_Paint_House_PriceList.xlsx,vendor_price_lists,SATTI_MALL
+7,MR PLY 12,PLY-MR12,sht,2177.0,inclusive GST,vendor_price_lists\V006_National_Paint_House_PriceList.xlsx,vendor_price_lists,SATTI_MALL
+8,MARBLE WHT,Marble Wht,sft,601.0,inclusive GST,vendor_price_lists\V006_National_Paint_House_PriceList.xlsx,vendor_price_lists,SATTI_MALL
+9,GI PIPE 1IN,gi_pipe_1inch,rft,190.0,ex-works,vendor_price_lists\V006_National_Paint_House_PriceList.xlsx,vendor_price_lists,SATTI_MALL

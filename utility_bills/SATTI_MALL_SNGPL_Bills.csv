@@ -1,0 +1,23 @@
+month,date,date_2,unit,amount,late_fee,total_paid,date_3,remarks,_source_file,_folder,_project
+May-2006,2006-05-08,2006-05-29,236,4933.0,,4933.0,2006-05-30,Paid,utility_bills\SATTI_MALL_SNGPL_Bills.xlsx,utility_bills,SATTI_MALL
+Jun-2006,2006-06-02,2006-06-23,549,12248.0,,12248.0,2006-07-08,,utility_bills\SATTI_MALL_SNGPL_Bills.xlsx,utility_bills,SATTI_MALL
+Jul-2006,2006-07-15,2006-08-05,611,10272.0,,10272.0,2006-09-04,Paid,utility_bills\SATTI_MALL_SNGPL_Bills.xlsx,utility_bills,SATTI_MALL
+Aug-2006,2006-08-10,2006-08-31,66,1341.0,,,2006-09-17,Disputed,utility_bills\SATTI_MALL_SNGPL_Bills.xlsx,utility_bills,SATTI_MALL
+Sep-2006,2006-09-05,2006-09-26,385,4083.0,,4083.0,2006-09-24,Late Payment,utility_bills\SATTI_MALL_SNGPL_Bills.xlsx,utility_bills,SATTI_MALL
+Oct-2006,2006-10-02,2006-10-23,PKR 370,6957.0,348,7305.0,2006-11-09,,utility_bills\SATTI_MALL_SNGPL_Bills.xlsx,utility_bills,SATTI_MALL
+Nov-2006,2006-11-03,2006-11-24,605,10114.0,,10114.0,2006-11-20,Paid,utility_bills\SATTI_MALL_SNGPL_Bills.xlsx,utility_bills,SATTI_MALL
+Dec-2006,2006-12-02,2006-12-23,622,6563.0,,6563.0,2006-12-25,Paid,utility_bills\SATTI_MALL_SNGPL_Bills.xlsx,utility_bills,SATTI_MALL
+Jan-2007,2007-01-04,2007-01-25,231,2167.0,,2167.0,2007-02-20,Disputed,utility_bills\SATTI_MALL_SNGPL_Bills.xlsx,utility_bills,SATTI_MALL
+Feb-2007,2007-02-14,2007-03-07,308,6426.0,,6426.0,2007-03-29,Paid,utility_bills\SATTI_MALL_SNGPL_Bills.xlsx,utility_bills,SATTI_MALL
+Mar-2007,2007-03-05,2007-03-26,643,10575.0,,10575.0,2007-04-02,Late Payment,utility_bills\SATTI_MALL_SNGPL_Bills.xlsx,utility_bills,SATTI_MALL
+Apr-2007,2007-04-03,2007-04-24,731,7106.0,,7106.0,2007-04-28,Late Payment,utility_bills\SATTI_MALL_SNGPL_Bills.xlsx,utility_bills,SATTI_MALL
+May-2007,2007-05-02,2007-05-23,327/-,5441.0,272,5713.0,2007-06-05,Late Payment,utility_bills\SATTI_MALL_SNGPL_Bills.xlsx,utility_bills,SATTI_MALL
+Jun-2007,2007-06-04,2007-06-25,764,17851.0,,17851.0,2007-06-20,Disputed,utility_bills\SATTI_MALL_SNGPL_Bills.xlsx,utility_bills,SATTI_MALL
+Jul-2007,2007-07-08,2007-07-29,421,,,9099.0,2007-08-07,Late Payment,utility_bills\SATTI_MALL_SNGPL_Bills.xlsx,utility_bills,SATTI_MALL
+Aug-2007,2007-08-08,2007-08-29,162,2730.0,,2730.0,2007-09-20,Late Payment,utility_bills\SATTI_MALL_SNGPL_Bills.xlsx,utility_bills,SATTI_MALL
+Sep-2007,2007-09-02,2007-09-23,PKR 126,2910.0,146,3056.0,2007-10-01,Paid,utility_bills\SATTI_MALL_SNGPL_Bills.xlsx,utility_bills,SATTI_MALL
+Oct-2007,2007-10-14,2007-11-04,245,6018.0,,6018.0,2007-12-02,Paid,utility_bills\SATTI_MALL_SNGPL_Bills.xlsx,utility_bills,SATTI_MALL
+Nov-2007,2007-11-03,2007-11-24,667,6766.0,338,7104.0,2007-11-29,,utility_bills\SATTI_MALL_SNGPL_Bills.xlsx,utility_bills,SATTI_MALL
+Dec-2007,2007-12-01,2007-12-22,756,15776.0,,15776.0,2008-01-05,Late Payment,utility_bills\SATTI_MALL_SNGPL_Bills.xlsx,utility_bills,SATTI_MALL
+Jan-2008,2008-01-09,2008-01-30,708,17204.0,860,18064.0,2008-02-04,Paid,utility_bills\SATTI_MALL_SNGPL_Bills.xlsx,utility_bills,SATTI_MALL
+Feb-2008,2008-02-07,2008-02-28,537,9005.0,,9005.0,2008-03-07,Disputed,utility_bills\SATTI_MALL_SNGPL_Bills.xlsx,utility_bills,SATTI_MALL

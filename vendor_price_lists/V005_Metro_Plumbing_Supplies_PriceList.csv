@@ -1,0 +1,13 @@
+row_no,item_code,description,unit,rate,valid_till,_source_file,_folder,_project
+Metro Plumbing Supplies,,,,,,vendor_price_lists\V005_Metro_Plumbing_Supplies_PriceList.xlsx,vendor_price_lists,SATTI_MALL
+Contact: 03411234567   City: Lahore,,,,,,vendor_price_lists\V005_Metro_Plumbing_Supplies_PriceList.xlsx,vendor_price_lists,SATTI_MALL
+Date: 2012/03/24,,,,,,vendor_price_lists\V005_Metro_Plumbing_Supplies_PriceList.xlsx,vendor_price_lists,SATTI_MALL
+1,BAJRI 3/4,Bajri 3/4,cft,61.0,subject to change,vendor_price_lists\V005_Metro_Plumbing_Supplies_PriceList.xlsx,vendor_price_lists,SATTI_MALL
+2,STL-RB12,STL-RB12,kg,136.0,bulk discount avail.,vendor_price_lists\V005_Metro_Plumbing_Supplies_PriceList.xlsx,vendor_price_lists,SATTI_MALL
+3,REBAR 5/8 INCH,STL-RB16,kg,126.0,negotiable,vendor_price_lists\V005_Metro_Plumbing_Supplies_PriceList.xlsx,vendor_price_lists,SATTI_MALL
+4,PIP-GI-2,"G.I.Pipe 2""",rft,276.0,negotiable,vendor_price_lists\V005_Metro_Plumbing_Supplies_PriceList.xlsx,vendor_price_lists,SATTI_MALL
+5,ALUM WINDOW 4FT,al_window_4,nos,15870.0,ex-works,vendor_price_lists\V005_Metro_Plumbing_Supplies_PriceList.xlsx,vendor_price_lists,SATTI_MALL
+6,WIR-CP3,wire_3029,mtr,61.0,bulk discount avail.,vendor_price_lists\V005_Metro_Plumbing_Supplies_PriceList.xlsx,vendor_price_lists,SATTI_MALL
+7,TOILET_STD,Commode Standard,nos,12975.0,,vendor_price_lists\V005_Metro_Plumbing_Supplies_PriceList.xlsx,vendor_price_lists,SATTI_MALL
+8,TILE-12X12,TILE-12X12,sft,95.0,,vendor_price_lists\V005_Metro_Plumbing_Supplies_PriceList.xlsx,vendor_price_lists,SATTI_MALL
+9,AC-95SQ,CBL-ARM95,mtr,739.0,negotiable,vendor_price_lists\V005_Metro_Plumbing_Supplies_PriceList.xlsx,vendor_price_lists,SATTI_MALL
