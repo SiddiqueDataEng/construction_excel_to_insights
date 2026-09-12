@@ -1,0 +1,23 @@
+month,date,date_2,unit,amount,late_fee,total_paid,date_3,remarks,_source_file,_folder,_project
+May-2006,2006-05-03,2006-05-24,12137,302960.0,,,2006-06-11,Paid,utility_bills\SATTI_MALL_IESCO_Bills.xlsx,utility_bills,SATTI_MALL
+Jun-2006,2006-06-11,2006-07-02,14206,149891.0,"7,495/-",157386.0,2006-07-30,,utility_bills\SATTI_MALL_IESCO_Bills.xlsx,utility_bills,SATTI_MALL
+Jul-2006,2006-07-01,2006-07-22,2944,52636.0,,52636.0,2006-08-09,Late Payment,utility_bills\SATTI_MALL_IESCO_Bills.xlsx,utility_bills,SATTI_MALL
+Aug-2006,2006-08-08,2006-08-29,1739,23879.0,1194,25073.0,2006-09-24,Late Payment,utility_bills\SATTI_MALL_IESCO_Bills.xlsx,utility_bills,SATTI_MALL
+Sep-2006,2006-09-03,2006-09-24,6210,62562.0,,62562.0,2006-10-22,,utility_bills\SATTI_MALL_IESCO_Bills.xlsx,utility_bills,SATTI_MALL
+Oct-2006,2006-10-07,2006-10-28,12327,214678.0,"10,734/-",,2006-11-22,,utility_bills\SATTI_MALL_IESCO_Bills.xlsx,utility_bills,SATTI_MALL
+Nov-2006,2006-11-03,2006-11-24,4745,102973.0,,102973.0,2006-12-12,,utility_bills\SATTI_MALL_IESCO_Bills.xlsx,utility_bills,SATTI_MALL
+Dec-2006,2006-12-02,2006-12-23,13885,222012.0,,222012.0,2007-01-03,Late Payment,utility_bills\SATTI_MALL_IESCO_Bills.xlsx,utility_bills,SATTI_MALL
+Jan-2007,2007-01-05,2007-01-26,13618,,"PKR 9,122",191564.0,2007-02-12,,utility_bills\SATTI_MALL_IESCO_Bills.xlsx,utility_bills,SATTI_MALL
+Feb-2007,2007-02-15,2007-03-08,7647,175956.0,8798.0,184754.0,2007-03-04,Paid,utility_bills\SATTI_MALL_IESCO_Bills.xlsx,utility_bills,SATTI_MALL
+Mar-2007,2007-03-09,2007-03-30,"PKR 3,714",35424.0,,35424.0,2007-03-30,,utility_bills\SATTI_MALL_IESCO_Bills.xlsx,utility_bills,SATTI_MALL
+Apr-2007,2007-04-06,2007-04-27,14348,217690.0,10884,228574.0,2007-04-26,Paid,utility_bills\SATTI_MALL_IESCO_Bills.xlsx,utility_bills,SATTI_MALL
+May-2007,2007-05-13,2007-06-03,6283,56379.0,,56379.0,2007-06-26,Late Payment,utility_bills\SATTI_MALL_IESCO_Bills.xlsx,utility_bills,SATTI_MALL
+Jun-2007,2007-06-04,2007-06-25,4433,87350.0,,87350.0,2007-06-24,,utility_bills\SATTI_MALL_IESCO_Bills.xlsx,utility_bills,SATTI_MALL
+Jul-2007,2007-07-07,2007-07-28,"2,595/-",60886.0,,60886.0,2007-07-31,Paid,utility_bills\SATTI_MALL_IESCO_Bills.xlsx,utility_bills,SATTI_MALL
+Aug-2007,2007-08-12,2007-09-02,1563,14609.0,,14609.0,2007-09-13,Late Payment,utility_bills\SATTI_MALL_IESCO_Bills.xlsx,utility_bills,SATTI_MALL
+Sep-2007,2007-09-02,2007-09-23,9605,132021.0,6601,138622.0,2007-10-05,Late Payment,utility_bills\SATTI_MALL_IESCO_Bills.xlsx,utility_bills,SATTI_MALL
+Oct-2007,2007-10-06,2007-10-27,3231,76679.0,"PKR 3,834",80513.0,2007-11-18,Late Payment,utility_bills\SATTI_MALL_IESCO_Bills.xlsx,utility_bills,SATTI_MALL
+Nov-2007,2007-11-02,2007-11-23,1894,43539.0,,43539.0,2007-11-24,Paid,utility_bills\SATTI_MALL_IESCO_Bills.xlsx,utility_bills,SATTI_MALL
+Dec-2007,2007-12-11,2008-01-01,2025,39733.0,,39733.0,2008-01-30,Late Payment,utility_bills\SATTI_MALL_IESCO_Bills.xlsx,utility_bills,SATTI_MALL
+Jan-2008,2008-01-08,2008-01-29,11342,101054.0,,101054.0,2008-02-26,Late Payment,utility_bills\SATTI_MALL_IESCO_Bills.xlsx,utility_bills,SATTI_MALL
+Feb-2008,2008-02-11,2008-03-03,4610,60896.0,,60896.0,2008-03-13,Disputed,utility_bills\SATTI_MALL_IESCO_Bills.xlsx,utility_bills,SATTI_MALL
