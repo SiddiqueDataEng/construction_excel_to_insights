@@ -1,0 +1,13 @@
+row_no,item_code,description,qty,rate,amount,gst,total,_source_file,_folder,_project
+BILL/11/981   Crown Cement Pvt Ltd   02.09.2007,,,,,,,,purchase_bills\SATTI_MALL_Bill_06_BILL_11_981.xlsx,purchase_bills,SATTI_MALL
+1,GEN-25KVA,25KVA Genset,70.3,925896.0,65090488.8,11065383.0,76155871.9,purchase_bills\SATTI_MALL_Bill_06_BILL_11_981.xlsx,purchase_bills,SATTI_MALL
+2,GLS-CLR6,6mm_glass,41.1,215.0,8836.5,,8836.5,purchase_bills\SATTI_MALL_Bill_06_BILL_11_981.xlsx,purchase_bills,SATTI_MALL
+3,BRK-A,BRK-A,384.1,16009.0,6149056.9,,6149056.9,purchase_bills\SATTI_MALL_Bill_06_BILL_11_981.xlsx,purchase_bills,SATTI_MALL
+4,GALVPIPE-1,GalvPipe-1,437.9,160.0,70064.0,,70064.0,purchase_bills\SATTI_MALL_Bill_06_BILL_11_981.xlsx,purchase_bills,SATTI_MALL
+5,ALM-WIN-4,ALU-WIN4,234.2,15453.0,3619092.6,,,purchase_bills\SATTI_MALL_Bill_06_BILL_11_981.xlsx,purchase_bills,SATTI_MALL
+6,STL-RB-16,16mm Steel Rebar,405.7,137.0,55580.9,,55581.0,purchase_bills\SATTI_MALL_Bill_06_BILL_11_981.xlsx,purchase_bills,SATTI_MALL
+7,WIRE_7029,7/0.029 Copper Wire,126.1,82.0,10340.2,1757.83,12098.03,purchase_bills\SATTI_MALL_Bill_06_BILL_11_981.xlsx,purchase_bills,SATTI_MALL
+8,GALVPIPE-2,gi_pipe_2inch,162.9,319.0,51965.1,,51965.1,purchase_bills\SATTI_MALL_Bill_06_BILL_11_981.xlsx,purchase_bills,SATTI_MALL
+,,,,,86737812.0,,,purchase_bills\SATTI_MALL_Bill_06_BILL_11_981.xlsx,purchase_bills,SATTI_MALL
+,,,,,,,,purchase_bills\SATTI_MALL_Bill_06_BILL_11_981.xlsx,purchase_bills,SATTI_MALL
+Prepared by:,KAMRAN,,,,,,,purchase_bills\SATTI_MALL_Bill_06_BILL_11_981.xlsx,purchase_bills,SATTI_MALL

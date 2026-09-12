@@ -1,0 +1,14 @@
+row_no,item_code,description,qty,rate,amount,gst,total,_source_file,_folder,_project
+Bill No: BILL-16-657,,"Date: December 28, 2007",,,,,,purchase_bills\SATTI_MALL_Bill_03_BILL-16-657.xlsx,purchase_bills,SATTI_MALL
+Vendor: Crown Cement Pvt Ltd,PROJECT: SATTI_MALL,,,,,,,purchase_bills\SATTI_MALL_Bill_03_BILL-16-657.xlsx,purchase_bills,SATTI_MALL
+PO Ref: PO-APT-2626,,,,,,,,purchase_bills\SATTI_MALL_Bill_03_BILL-16-657.xlsx,purchase_bills,SATTI_MALL
+1,CLEAR GLASS 6,GLS-CLR6,173.4,196.0,33986.4,,33986.4,purchase_bills\SATTI_MALL_Bill_03_BILL-16-657.xlsx,purchase_bills,SATTI_MALL
+2,OPC 50 KG,OPC 50 KG,57.6,876.0,50458.0,8577.79,59035.39,purchase_bills\SATTI_MALL_Bill_03_BILL-16-657.xlsx,purchase_bills,SATTI_MALL
+3,STL-RB16,REBAR-16MM,,149.0,69612.8,11834.18,81446.98,purchase_bills\SATTI_MALL_Bill_03_BILL-16-657.xlsx,purchase_bills,SATTI_MALL
+4,RETI (RIVER),river_sand,PKR 231,32.0,7401.6,1258.27,8659.87,purchase_bills\SATTI_MALL_Bill_03_BILL-16-657.xlsx,purchase_bills,SATTI_MALL
+5,CNC-RDY-M20,M20 Ready Mix Concrete,218.3,468.0,102164.4,,102164.4,purchase_bills\SATTI_MALL_Bill_03_BILL-16-657.xlsx,purchase_bills,SATTI_MALL
+6,GI_PIPE_1INCH,GI PIPE 1IN,41.4,180.0,7452.0,,7452.0,purchase_bills\SATTI_MALL_Bill_03_BILL-16-657.xlsx,purchase_bills,SATTI_MALL
+7,"G.I.PIPE 2""",GI PIPE 2IN,398.5,,117557.5,,117557.5,purchase_bills\SATTI_MALL_Bill_03_BILL-16-657.xlsx,purchase_bills,SATTI_MALL
+,,,,,410302.54,,,purchase_bills\SATTI_MALL_Bill_03_BILL-16-657.xlsx,purchase_bills,SATTI_MALL
+,,,,,,,,purchase_bills\SATTI_MALL_Bill_03_BILL-16-657.xlsx,purchase_bills,SATTI_MALL
+Prepared by:,NASIR,,,,,,,purchase_bills\SATTI_MALL_Bill_03_BILL-16-657.xlsx,purchase_bills,SATTI_MALL

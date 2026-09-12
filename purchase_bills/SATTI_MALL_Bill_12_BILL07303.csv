@@ -1,0 +1,16 @@
+row_no,item_code,description,qty,rate,amount,gst,total,_source_file,_folder,_project
+Invoice #,BILL07303,Vendor:,Fazal Bricks & Tiles,,,,,purchase_bills\SATTI_MALL_Bill_12_BILL07303.xlsx,purchase_bills,SATTI_MALL
+Project,SATTI_MALL,Date:,27-Jul-2006,,,,,purchase_bills\SATTI_MALL_Bill_12_BILL07303.xlsx,purchase_bills,SATTI_MALL
+1,"G.I.PIPE 2""",gi_pipe_2inch,217.6,264.0,57446.4,9765.89,67212.29,purchase_bills\SATTI_MALL_Bill_12_BILL07303.xlsx,purchase_bills,SATTI_MALL
+2,TILE-12X12,TILE-12X12,102.6,75.0,7695.0,,7695.0,purchase_bills\SATTI_MALL_Bill_12_BILL07303.xlsx,purchase_bills,SATTI_MALL
+3,SND-RVR,SAND-RIVER,179.2,35.0,6272.0,1066.24,7338.24,purchase_bills\SATTI_MALL_Bill_12_BILL07303.xlsx,purchase_bills,SATTI_MALL
+4,CBL-ARM95,ARMD-CBL-95,62.9,818.0,51452.2,8746.87,60199.07,purchase_bills\SATTI_MALL_Bill_12_BILL07303.xlsx,purchase_bills,SATTI_MALL
+5,W.C. STD.,SAN-WC,279.7,12461.0,3485342.0,592508.09,4077850.0,purchase_bills\SATTI_MALL_Bill_12_BILL07303.xlsx,purchase_bills,SATTI_MALL
+6,"G.I.PIPE 1""",gi_pipe_1inch,255.2,180.0,45936.0,,45936.0,purchase_bills\SATTI_MALL_Bill_12_BILL07303.xlsx,purchase_bills,SATTI_MALL
+7,STL-RB12,REBAR-12MM,21.2,119.0,2522.8,428.88,2951.68,purchase_bills\SATTI_MALL_Bill_12_BILL07303.xlsx,purchase_bills,SATTI_MALL
+8,OIL-PAINT-W,paint_oil_w,PKR 412,1728.0,712800.0,,712800.0,purchase_bills\SATTI_MALL_Bill_12_BILL07303.xlsx,purchase_bills,SATTI_MALL
+9,WIRE_3029,WIR-CP3,152.4,63.0,9601.2,1632.2,11233.4,purchase_bills\SATTI_MALL_Bill_12_BILL07303.xlsx,purchase_bills,SATTI_MALL
+10,BRICKS_A,Red Brick A-Grade,346.1,15516.0,5370087.6,,5370087.6,purchase_bills\SATTI_MALL_Bill_12_BILL07303.xlsx,purchase_bills,SATTI_MALL
+,,,,,10363303.07,,,purchase_bills\SATTI_MALL_Bill_12_BILL07303.xlsx,purchase_bills,SATTI_MALL
+,,,,,,,,purchase_bills\SATTI_MALL_Bill_12_BILL07303.xlsx,purchase_bills,SATTI_MALL
+Prepared by:,TARIQ,,,,,,,purchase_bills\SATTI_MALL_Bill_12_BILL07303.xlsx,purchase_bills,SATTI_MALL

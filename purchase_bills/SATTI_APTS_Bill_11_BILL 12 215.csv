@@ -1,0 +1,17 @@
+row_no,item_code,description,qty,rate,amount,gst,total,_source_file,_folder,_project
+Bill No: BILL 12 215,,Date: 27/07/2016,,,,,,purchase_bills\SATTI_APTS_Bill_11_BILL 12 215.xlsx,purchase_bills,SATTI_APTS
+Vendor: Fazal Bricks & Tiles,PROJECT: SATTI_APTS,,,,,,,purchase_bills\SATTI_APTS_Bill_11_BILL 12 215.xlsx,purchase_bills,SATTI_APTS
+PO Ref: PO-PLZ-7524,,,,,,,,purchase_bills\SATTI_APTS_Bill_11_BILL 12 215.xlsx,purchase_bills,SATTI_APTS
+1,S.BAR 16MM,STL-RB16,317.9,160.0,50864.0,8646.88,59510.88,purchase_bills\SATTI_APTS_Bill_11_BILL 12 215.xlsx,purchase_bills,SATTI_APTS
+2,SAN-WC,WC-STD,113.8,11732.0,1335101.6,226967.27,1562068.87,purchase_bills\SATTI_APTS_Bill_11_BILL 12 215.xlsx,purchase_bills,SATTI_APTS
+3,BAJRI 3/4,coarse agg,247.2,63.0,15573.6,2647.51,18221.11,purchase_bills\SATTI_APTS_Bill_11_BILL 12 215.xlsx,purchase_bills,SATTI_APTS
+4,GI_PIPE_1INCH,PIP-GI1,446.5,185.0,82602.5,14042.0,96644.93,purchase_bills\SATTI_APTS_Bill_11_BILL 12 215.xlsx,purchase_bills,SATTI_APTS
+5,GLS-CLR-6,Clear Glass 6,267.9,219.0,58670.1,,58670.1,purchase_bills\SATTI_APTS_Bill_11_BILL 12 215.xlsx,purchase_bills,SATTI_APTS
+6,CEM_OPC_50,Cement Bag 50Kg,475.2,845.0,401544.0,68262.48,469806.48,purchase_bills\SATTI_APTS_Bill_11_BILL 12 215.xlsx,purchase_bills,SATTI_APTS
+7,GEN_25KVA,Generator 25KVA,17.1,937130.0,16024923.0,,16024923.0,purchase_bills\SATTI_APTS_Bill_11_BILL 12 215.xlsx,purchase_bills,SATTI_APTS
+8,SAND (FINE),River Sand,430.9,30.0,12927.0,,12927.0,purchase_bills\SATTI_APTS_Bill_11_BILL 12 215.xlsx,purchase_bills,SATTI_APTS
+9,AL_WINDOW_4,al_window_4,398.3,15751.0,6273623.0,1066515.96,7340139.26,purchase_bills\SATTI_APTS_Bill_11_BILL 12 215.xlsx,purchase_bills,SATTI_APTS
+10,PIP-GI-2,"G.I.Pipe 2""",,321.0,59706.0,10150.02,69856.02,purchase_bills\SATTI_APTS_Bill_11_BILL 12 215.xlsx,purchase_bills,SATTI_APTS
+,,,,,25712767.65,,,purchase_bills\SATTI_APTS_Bill_11_BILL 12 215.xlsx,purchase_bills,SATTI_APTS
+,,,,,,,,purchase_bills\SATTI_APTS_Bill_11_BILL 12 215.xlsx,purchase_bills,SATTI_APTS
+Prepared by:,NASIR,,,,,,,purchase_bills\SATTI_APTS_Bill_11_BILL 12 215.xlsx,purchase_bills,SATTI_APTS

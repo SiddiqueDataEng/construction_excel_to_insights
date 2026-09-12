@@ -1,0 +1,15 @@
+row_no,item_code,description,qty,rate,amount,gst,total,_source_file,_folder,_project
+BILL-08-532   Tariq & Sons Electricals   2007/11/26,,,,,,,,purchase_bills\SATTI_MALL_Bill_05_BILL-08-532.xlsx,purchase_bills,SATTI_MALL
+1,PLYWOOD 12MM MR,PLYWD-12,477.5,2401.0,1146477.5,194901.18,1341378.68,purchase_bills\SATTI_MALL_Bill_05_BILL-08-532.xlsx,purchase_bills,SATTI_MALL
+2,ALM-W4,al_window_4,139.2,14770.0,2055984.0,349517.0,2405501.28,purchase_bills\SATTI_MALL_Bill_05_BILL-08-532.xlsx,purchase_bills,SATTI_MALL
+3,PAI-OIL,Oil Paint (White) 4Ltr,54.6,1708.0,93256.8,15853.66,,purchase_bills\SATTI_MALL_Bill_05_BILL-08-532.xlsx,purchase_bills,SATTI_MALL
+4,COPPER WIRE 7/.029,Copper Wire 7/.029,327,102.0,33354.0,5670.18,39024.18,purchase_bills\SATTI_MALL_Bill_05_BILL-08-532.xlsx,purchase_bills,SATTI_MALL
+5,WIR-COP-3,WIR-CP3,PKR 212,61.0,12925.9,,12925.9,purchase_bills\SATTI_MALL_Bill_05_BILL-08-532.xlsx,purchase_bills,SATTI_MALL
+6,REBAR-16MM,16mm Steel Rebar,9.6,143.0,1372.8,233.38,1606.18,purchase_bills\SATTI_MALL_Bill_05_BILL-08-532.xlsx,purchase_bills,SATTI_MALL
+7,IMP_MARBLE_W,White Marble Imp.,140.1,743.0,104094.3,17696.0,121790.33,purchase_bills\SATTI_MALL_Bill_05_BILL-08-532.xlsx,purchase_bills,SATTI_MALL
+8,RMC_M20,CNC-M20,91.9,465.0,42734.0,,,purchase_bills\SATTI_MALL_Bill_05_BILL-08-532.xlsx,purchase_bills,SATTI_MALL
+9,GENSET-25,GEN-25K,8.4,916819.0,7701279.6,1309217.53,9010497.13,purchase_bills\SATTI_MALL_Bill_05_BILL-08-532.xlsx,purchase_bills,SATTI_MALL
+10,PIP-GI1,"1"" GI Pipe",335.6,178.0,59736.8,10155.26,69892.06,purchase_bills\SATTI_MALL_Bill_05_BILL-08-532.xlsx,purchase_bills,SATTI_MALL
+,,,,,13154459.7,,,purchase_bills\SATTI_MALL_Bill_05_BILL-08-532.xlsx,purchase_bills,SATTI_MALL
+,,,,,,,,purchase_bills\SATTI_MALL_Bill_05_BILL-08-532.xlsx,purchase_bills,SATTI_MALL
+Prepared by:,,,,,,,,purchase_bills\SATTI_MALL_Bill_05_BILL-08-532.xlsx,purchase_bills,SATTI_MALL

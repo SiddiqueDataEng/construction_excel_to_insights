@@ -1,0 +1,10 @@
+row_no,item_code,description,qty,rate,amount,gst,total,_source_file,_folder,_project
+BILL-18-790   Super Steel & Iron Works   2007/01/27,,,,,,,,purchase_bills\SATTI_MALL_Bill_03_BILL-18-790.xlsx,purchase_bills,SATTI_MALL
+1,PAI-OIL,White Oil Paint 4L,66/-,1773.0,116308.8,19772.5,136081.3,purchase_bills\SATTI_MALL_Bill_03_BILL-18-790.xlsx,purchase_bills,SATTI_MALL
+2,GENSET-25,Generator 25KVA,362,861603.0,311900286.0,53023048.62,364923335.0,purchase_bills\SATTI_MALL_Bill_03_BILL-18-790.xlsx,purchase_bills,SATTI_MALL
+3,ARMOURED CABLE 95,CBL-ARM95,111.5,812.0,90538.0,15391.46,105929.46,purchase_bills\SATTI_MALL_Bill_03_BILL-18-790.xlsx,purchase_bills,SATTI_MALL
+4,CLASS A BRICK,BRK-A,441.8,14956.0,6607560.8,,6607560.8,purchase_bills\SATTI_MALL_Bill_03_BILL-18-790.xlsx,purchase_bills,SATTI_MALL
+5,MR PLY 12,Plywood 12mm MR,383.4,2055.0,787887.0,,787887.0,purchase_bills\SATTI_MALL_Bill_03_BILL-18-790.xlsx,purchase_bills,SATTI_MALL
+,,,,,372560793.18,,,purchase_bills\SATTI_MALL_Bill_03_BILL-18-790.xlsx,purchase_bills,SATTI_MALL
+,,,,,,,,purchase_bills\SATTI_MALL_Bill_03_BILL-18-790.xlsx,purchase_bills,SATTI_MALL
+Prepared by:,KAMRAN,,,,,,,purchase_bills\SATTI_MALL_Bill_03_BILL-18-790.xlsx,purchase_bills,SATTI_MALL

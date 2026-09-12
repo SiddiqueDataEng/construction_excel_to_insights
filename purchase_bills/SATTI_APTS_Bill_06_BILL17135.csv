@@ -1,0 +1,13 @@
+row_no,item_code,description,unit,rate,amount,_source_file,_folder,_project
+Invoice #,BILL17135,Vendor:,Al-Rehman Hardware,,,purchase_bills\SATTI_APTS_Bill_06_BILL17135.xlsx,purchase_bills,SATTI_APTS
+Project,SATTI_APTS,Date:,"October 15, 2017",,,purchase_bills\SATTI_APTS_Bill_06_BILL17135.xlsx,purchase_bills,SATTI_APTS
+1,ENAMEL WH.,Oil Paint (White) 4Ltr,166.3,1881.0,312810.3,purchase_bills\SATTI_APTS_Bill_06_BILL17135.xlsx,purchase_bills,SATTI_APTS
+2,IMP_MARBLE_W,MRB-IMP,487.1,656.0,319537.6,purchase_bills\SATTI_APTS_Bill_06_BILL17135.xlsx,purchase_bills,SATTI_APTS
+3,GRAVEL-3/4,coarse agg,348.6,50.0,17430.0,purchase_bills\SATTI_APTS_Bill_06_BILL17135.xlsx,purchase_bills,SATTI_APTS
+4,GENERATOR 25KVA,25KVA Genset,166.1,835331.0,138748479.1,purchase_bills\SATTI_APTS_Bill_06_BILL17135.xlsx,purchase_bills,SATTI_APTS
+5,RED BRICK A-GRADE,Class A Brick,167.1,14609.0,2441163.9,purchase_bills\SATTI_APTS_Bill_06_BILL17135.xlsx,purchase_bills,SATTI_APTS
+6,PIP-GI-1,PIP-GI1,332.1,177.0,58781.7,purchase_bills\SATTI_APTS_Bill_06_BILL17135.xlsx,purchase_bills,SATTI_APTS
+7,WC-STD,toilet_std,398.2,13173.0,5245488.6,purchase_bills\SATTI_APTS_Bill_06_BILL17135.xlsx,purchase_bills,SATTI_APTS
+,,,,,171210244.79,purchase_bills\SATTI_APTS_Bill_06_BILL17135.xlsx,purchase_bills,SATTI_APTS
+,,,,,,purchase_bills\SATTI_APTS_Bill_06_BILL17135.xlsx,purchase_bills,SATTI_APTS
+Prepared by:,,,,,,purchase_bills\SATTI_APTS_Bill_06_BILL17135.xlsx,purchase_bills,SATTI_APTS

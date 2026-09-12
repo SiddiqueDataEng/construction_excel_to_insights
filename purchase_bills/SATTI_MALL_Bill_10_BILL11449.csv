@@ -1,0 +1,14 @@
+row_no,item_code,description,unit,rate,amount,_source_file,_folder,_project
+Invoice #,BILL11449,Vendor:,Hafiz Glass & Aluminum,,,purchase_bills\SATTI_MALL_Bill_10_BILL11449.xlsx,purchase_bills,SATTI_MALL
+Project,SATTI_MALL,Date:,"February 23, 2007",,,purchase_bills\SATTI_MALL_Bill_10_BILL11449.xlsx,purchase_bills,SATTI_MALL
+1,CBL-ARM-95,arm_cable_95,491.9,895.0,440250.5,purchase_bills\SATTI_MALL_Bill_10_BILL11449.xlsx,purchase_bills,SATTI_MALL
+2,CEMENT-50,CEM-OPC50,257.8,955.0,246199.0,purchase_bills\SATTI_MALL_Bill_10_BILL11449.xlsx,purchase_bills,SATTI_MALL
+3,RED BRICK A-GRADE,bricks_a,252.7,13349.0,3373292.3,purchase_bills\SATTI_MALL_Bill_10_BILL11449.xlsx,purchase_bills,SATTI_MALL
+4,GALVPIPE-2,PIP-GI2,177.4,295.0,52333.0,purchase_bills\SATTI_MALL_Bill_10_BILL11449.xlsx,purchase_bills,SATTI_MALL
+5,WHITE OIL PAINT 4L,OIL-PAINT-W,PKR 38,1554.0,59518.2,purchase_bills\SATTI_MALL_Bill_10_BILL11449.xlsx,purchase_bills,SATTI_MALL
+6,MARBLE WHT,MRB-IMP,260.4,691.0,179936.4,purchase_bills\SATTI_MALL_Bill_10_BILL11449.xlsx,purchase_bills,SATTI_MALL
+7,PLY-MR12,ply_mr_12mm,330.4,2131.0,704082.4,purchase_bills\SATTI_MALL_Bill_10_BILL11449.xlsx,purchase_bills,SATTI_MALL
+8,WIR-CP3,WIR-CP3,142.8,58.0,8282.4,purchase_bills\SATTI_MALL_Bill_10_BILL11449.xlsx,purchase_bills,SATTI_MALL
+,,,,,,purchase_bills\SATTI_MALL_Bill_10_BILL11449.xlsx,purchase_bills,SATTI_MALL
+,,,,,,purchase_bills\SATTI_MALL_Bill_10_BILL11449.xlsx,purchase_bills,SATTI_MALL
+Prepared by:,TARIQ,,,,,purchase_bills\SATTI_MALL_Bill_10_BILL11449.xlsx,purchase_bills,SATTI_MALL

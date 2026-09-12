@@ -1,0 +1,13 @@
+row_no,item_code,description,qty,rate,amount,gst,total,_source_file,_folder,_project
+Invoice #,BILL06130,Vendor:,Al-Rehman Hardware,,,,,purchase_bills\SATTI_MALL_Bill_02_BILL06130.xlsx,purchase_bills,SATTI_MALL
+Project,SATTI_MALL,Date:,2006/12/28,,,,,purchase_bills\SATTI_MALL_Bill_02_BILL06130.xlsx,purchase_bills,SATTI_MALL
+1,"A.WIN 4""",Alum Window 4ft,498.6,15851.0,7903308.6,,7903308.6,purchase_bills\SATTI_MALL_Bill_02_BILL06130.xlsx,purchase_bills,SATTI_MALL
+2,PIP-GI1,GalvPipe-1,356.2,191.0,68034.2,11565.81,79600.01,purchase_bills\SATTI_MALL_Bill_02_BILL06130.xlsx,purchase_bills,SATTI_MALL
+3,BRICK-CLA,Red Brick A-Grade,288.3,13863.0,3996703.0,,3996702.9,purchase_bills\SATTI_MALL_Bill_02_BILL06130.xlsx,purchase_bills,SATTI_MALL
+4,BAJRI 3/4,Bajri 3/4,412.6,48.0,19804.8,,19804.8,purchase_bills\SATTI_MALL_Bill_02_BILL06130.xlsx,purchase_bills,SATTI_MALL
+5,CEM_OPC_50,OPC 50 KG,95.1,1083.0,102993.3,,,purchase_bills\SATTI_MALL_Bill_02_BILL06130.xlsx,purchase_bills,SATTI_MALL
+6,GALVPIPE-2,PIP-GI2,176.3,351.0,61881.3,,61881.3,purchase_bills\SATTI_MALL_Bill_02_BILL06130.xlsx,purchase_bills,SATTI_MALL
+7,M20 CONCRETE,M20 Ready Mix Concrete,,378.0,95936.4,,95936.4,purchase_bills\SATTI_MALL_Bill_02_BILL06130.xlsx,purchase_bills,SATTI_MALL
+,,,,,12277736.17,,,purchase_bills\SATTI_MALL_Bill_02_BILL06130.xlsx,purchase_bills,SATTI_MALL
+,,,,,,,,purchase_bills\SATTI_MALL_Bill_02_BILL06130.xlsx,purchase_bills,SATTI_MALL
+Prepared by:,ASIF,,,,,,,purchase_bills\SATTI_MALL_Bill_02_BILL06130.xlsx,purchase_bills,SATTI_MALL

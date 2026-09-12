@@ -1,0 +1,9 @@
+row_no,item_code,description,unit,rate,amount,_source_file,_folder,_project
+Invoice #,BILL16042,Vendor:,Pak Steel Traders,,,purchase_bills\SATTI_MALL_Bill_04_BILL16042.xlsx,purchase_bills,SATTI_MALL
+Project,SATTI_MALL,Date:,09.06.2006,,,purchase_bills\SATTI_MALL_Bill_04_BILL16042.xlsx,purchase_bills,SATTI_MALL
+1,WHITE OIL PAINT 4L,paint_oil_w,157.3,2015.0,316959.5,purchase_bills\SATTI_MALL_Bill_04_BILL16042.xlsx,purchase_bills,SATTI_MALL
+2,MR PLY 12,MR Ply 12,117.6,1904.0,223910.4,purchase_bills\SATTI_MALL_Bill_04_BILL16042.xlsx,purchase_bills,SATTI_MALL
+3,BRICKS_A,BRK-A,PKR 21,15882.0,,purchase_bills\SATTI_MALL_Bill_04_BILL16042.xlsx,purchase_bills,SATTI_MALL
+,,,,,961722.63,purchase_bills\SATTI_MALL_Bill_04_BILL16042.xlsx,purchase_bills,SATTI_MALL
+,,,,,,purchase_bills\SATTI_MALL_Bill_04_BILL16042.xlsx,purchase_bills,SATTI_MALL
+Prepared by:,NASIR,,,,,purchase_bills\SATTI_MALL_Bill_04_BILL16042.xlsx,purchase_bills,SATTI_MALL

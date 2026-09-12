@@ -1,0 +1,15 @@
+row_no,item_code,description,qty,rate,amount,gst,total,_source_file,_folder,_project
+Invoice #,BILL-08-688,Vendor:,Hafiz Glass & Aluminum,,,,,purchase_bills\SATTI_PLAZA_Bill_12_BILL-08-688.xlsx,purchase_bills,SATTI_PLAZA
+Project,SATTI_PLAZA,Date:,"June 05, 2014",,,,,purchase_bills\SATTI_PLAZA_Bill_12_BILL-08-688.xlsx,purchase_bills,SATTI_PLAZA
+1,COPPER WIRE 7/.029,CopWire7,58.9,99.0,5831.1,,6822.39,purchase_bills\SATTI_PLAZA_Bill_12_BILL-08-688.xlsx,purchase_bills,SATTI_PLAZA
+2,ENAMEL WH.,Oil Paint (White) 4Ltr,446.6,1989.0,888287.4,,888287.4,purchase_bills\SATTI_PLAZA_Bill_12_BILL-08-688.xlsx,purchase_bills,SATTI_PLAZA
+3,GRAVEL-3/4,coarse agg,447.5,56.0,25060.0,,25060.0,purchase_bills\SATTI_PLAZA_Bill_12_BILL-08-688.xlsx,purchase_bills,SATTI_PLAZA
+4,PLY-MR12,Plywood 12mm MR,PKR 253,1930.0,488483.0,83042.11,571525.11,purchase_bills\SATTI_PLAZA_Bill_12_BILL-08-688.xlsx,purchase_bills,SATTI_PLAZA
+5,ALM-W4,Alum Window 4ft,83.8,14789.0,1239318.2,210684.09,1450002.0,purchase_bills\SATTI_PLAZA_Bill_12_BILL-08-688.xlsx,purchase_bills,SATTI_PLAZA
+6,PIP-GI2,"2"" GI Pipe",135.9,285.0,38731.5,,38731.5,purchase_bills\SATTI_PLAZA_Bill_12_BILL-08-688.xlsx,purchase_bills,SATTI_PLAZA
+7,GLS-CLR-6,Sheesha 6mm,165.4,233.0,38538.2,6551.49,,purchase_bills\SATTI_PLAZA_Bill_12_BILL-08-688.xlsx,purchase_bills,SATTI_PLAZA
+8,SAND-RIVER,river_sand,328.4,39.0,12807.6,2177.29,14984.89,purchase_bills\SATTI_PLAZA_Bill_12_BILL-08-688.xlsx,purchase_bills,SATTI_PLAZA
+9,ARMOURED CABLE 95,arm_cable_95,8.3,947.0,7860.1,,,purchase_bills\SATTI_PLAZA_Bill_12_BILL-08-688.xlsx,purchase_bills,SATTI_PLAZA
+,,,,,3049699.59,,,purchase_bills\SATTI_PLAZA_Bill_12_BILL-08-688.xlsx,purchase_bills,SATTI_PLAZA
+,,,,,,,,purchase_bills\SATTI_PLAZA_Bill_12_BILL-08-688.xlsx,purchase_bills,SATTI_PLAZA
+Prepared by:,NASIR,,,,,,,purchase_bills\SATTI_PLAZA_Bill_12_BILL-08-688.xlsx,purchase_bills,SATTI_PLAZA

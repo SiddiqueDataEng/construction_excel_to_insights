@@ -1,0 +1,13 @@
+row_no,item_code,description,qty,rate,amount,gst,total,_source_file,_folder,_project
+Bill No: BILL17047,,Date: 2015/04/17,,,,,,purchase_bills\SATTI_APTS_Bill_25_BILL17047.xlsx,purchase_bills,SATTI_APTS
+Vendor: Siemens Pakistan (Electro),PROJECT: SATTI_APTS,,,,,,,purchase_bills\SATTI_APTS_Bill_25_BILL17047.xlsx,purchase_bills,SATTI_APTS
+PO Ref: PO-PLZ-7260,,,,,,,,purchase_bills\SATTI_APTS_Bill_25_BILL17047.xlsx,purchase_bills,SATTI_APTS
+1,GI PIPE 2IN,"2"" GI Pipe",PKR 163,315.0,51219.0,8707.0,59926.23,purchase_bills\SATTI_APTS_Bill_25_BILL17047.xlsx,purchase_bills,SATTI_APTS
+2,MRB-IMP-W,MRB-IMP,382.7,711.0,272099.7,46256.95,318356.65,purchase_bills\SATTI_APTS_Bill_25_BILL17047.xlsx,purchase_bills,SATTI_APTS
+3,M20 CONCRETE,CNC-M20,392.1,425.0,166642.0,28329.23,194971.73,purchase_bills\SATTI_APTS_Bill_25_BILL17047.xlsx,purchase_bills,SATTI_APTS
+4,ALM-W4,4ft Aluminum Window,34.8,16335.0,568458.0,96637.86,665095.86,purchase_bills\SATTI_APTS_Bill_25_BILL17047.xlsx,purchase_bills,SATTI_APTS
+5,TILE-12X12,Ceramic Floor Tile 12x12,85/-,86.0,7301.4,1241.24,8542.64,purchase_bills\SATTI_APTS_Bill_25_BILL17047.xlsx,purchase_bills,SATTI_APTS
+6,STL-RB16,Steel Bar 16,254.9,153.0,38999.7,,38999.7,purchase_bills\SATTI_APTS_Bill_25_BILL17047.xlsx,purchase_bills,SATTI_APTS
+,,,,,1285892.81,,,purchase_bills\SATTI_APTS_Bill_25_BILL17047.xlsx,purchase_bills,SATTI_APTS
+,,,,,,,,purchase_bills\SATTI_APTS_Bill_25_BILL17047.xlsx,purchase_bills,SATTI_APTS
+Prepared by:,TARIQ,,,,,,,purchase_bills\SATTI_APTS_Bill_25_BILL17047.xlsx,purchase_bills,SATTI_APTS
