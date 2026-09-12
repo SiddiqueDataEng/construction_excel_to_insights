@@ -1,0 +1,821 @@
+project,source_file,raw_code,raw_desc,canon_code,canon_name,match_score,qty,rate,total,date,vendor,doc_no,matched
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_01_BILL 07 020.xlsx,,,,,0.0,,,,,,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_01_BILL 07 020.xlsx,REBAR-16MM,rebar 5/8 inch,AGG-CRS-34,Coarse Aggregate 3/4 inch,66.66666666666667,330.2,123.0,47519.08,,rebar 5/8 inch,,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_01_BILL 07 020.xlsx,WIRE-7/029,CopWire7,WIR-COP-7,7/0.029 Copper Wire,66.66666666666667,168.0,96.0,18869.76,,CopWire7,,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_01_BILL 07 020.xlsx,FLOOR_TILE_12,TIL-CER12,,,0.0,217.9,95.0,20700.0,,TIL-CER12,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_01_BILL 07 020.xlsx,S.BAR 12MM,12mm Steel Rebar,STL-RB-12,12mm Steel Rebar,100.0,,143.0,16078.49,,12mm Steel Rebar,,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_01_BILL 07 020.xlsx,MARBLE WHT,Marble Wht,MRB-IMP-W,Imported White Marble,75.0,,737.0,121151.75,,Marble Wht,,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_01_BILL 07 020.xlsx,BRK-A,BRK-A,,,0.0,345.3,13409.0,4630127.7,,BRK-A,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_01_BILL 07 020.xlsx,CEMENT BAG 50KG,Cement Bag 50Kg,CEM-OPC-50,OPC Cement 50kg Bag,66.66666666666667,239.6,854.0,239403.53,,Cement Bag 50Kg,,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_01_BILL 07 020.xlsx,,,,,0.0,,,,,,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_01_BILL 07 020.xlsx,,,,,0.0,,,,,,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_01_BILL 07 020.xlsx,ASIF,,,,0.0,,,,,,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_02_BILL_15_888.xlsx,BILL/15/888,Vendor:,,,0.0,,,,,Vendor:,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_02_BILL_15_888.xlsx,SATTI_APTS,Date:,AGG-CRS-34,Coarse Aggregate 3/4 inch,60.0,,,,,Date:,,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_02_BILL_15_888.xlsx,"G.I.PIPE 2""",GalvPipe-2,,,0.0,,,,,GalvPipe-2,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_02_BILL_15_888.xlsx,GENSET-25,25KVA Genset,GEN-25KVA,25 KVA Generator,86.95652173913044,,891410.0,,,25KVA Genset,,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_02_BILL_15_888.xlsx,CBL-ARM-95,AC-95sq,CBL-ARM-95,95mm² Armoured Cable,100.0,,768.0,,,AC-95sq,,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_02_BILL_15_888.xlsx,,,,,0.0,,,,,,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_02_BILL_15_888.xlsx,,,,,0.0,,,,,,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_02_BILL_15_888.xlsx,,,,,0.0,,,,,,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_03_BILL_15_093.xlsx,,,,,0.0,,,,,,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_03_BILL_15_093.xlsx,SAND-RIVER,River Sand,SND-RVR,River Sand,92.3076923076923,,39.0,10586.16,,River Sand,,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_03_BILL_15_093.xlsx,BRK-CLS-A,Red Brick A-Grade,BRK-CLS-A,Class-A Red Brick,100.0,302.1,12928.0,4569492.1,,Red Brick A-Grade,,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_03_BILL_15_093.xlsx,AGG-CRS-34,AGG-CRS34,AGG-CRS-34,Coarse Aggregate 3/4 inch,100.0,427.6,58.0,24800.8,,AGG-CRS34,,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_03_BILL_15_093.xlsx,GALVPIPE-1,GI PIPE 1IN,,,0.0,307.5,,68357.25,,GI PIPE 1IN,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_03_BILL_15_093.xlsx,REBAR-12MM,REBAR-12MM,,,0.0,187.4,125.0,27407.25,,REBAR-12MM,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_03_BILL_15_093.xlsx,COPWIRE3,Copper Wire 3/.029,WIR-COP-7,7/0.029 Copper Wire,75.86206896551724,264.7,58.0,15352.6,,Copper Wire 3/.029,,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_03_BILL_15_093.xlsx,"TILE 12X12""",floor_tile_12,TIL-CER-12,Ceramic Floor Tile 12x12,69.23076923076923,467.3,97.0,53033.88,,floor_tile_12,,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_03_BILL_15_093.xlsx,,,,,0.0,,,,,,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_03_BILL_15_093.xlsx,,,,,0.0,,,,,,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_03_BILL_15_093.xlsx,NASIR,,,,0.0,,,,,,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_04_BILL08905.xlsx,,Date: 19/06/2016,,,0.0,,,,,Date: 19/06/2016,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_04_BILL08905.xlsx,PROJECT: SATTI_APTS,,,,0.0,,,,,,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_04_BILL08905.xlsx,,,,,0.0,,,,,,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_04_BILL08905.xlsx,SAND-RIVER,Sand (Fine),SND-RVR,River Sand,75.0,242.2,,9918.09,,Sand (Fine),,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_04_BILL08905.xlsx,"G.I.PIPE 1""",GalvPipe-1,,,0.0,32.7,181.0,6924.88,,GalvPipe-1,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_04_BILL08905.xlsx,PLYWD-12,12mm MR Plywood Sheet,PLY-MR-12,12mm MR Plywood Sheet,91.80327868852459,485.0,2055.0,1166109.75,,12mm MR Plywood Sheet,,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_04_BILL08905.xlsx,,,,,0.0,,,,,,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_04_BILL08905.xlsx,,,,,0.0,,,,,,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_04_BILL08905.xlsx,TARIQ,,,,0.0,,,,,,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_05_BILL-12-424.xlsx,BILL-12-424,Vendor:,,,0.0,,,,,Vendor:,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_05_BILL-12-424.xlsx,SATTI_APTS,Date:,AGG-CRS-34,Coarse Aggregate 3/4 inch,60.0,,,,,Date:,,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_05_BILL-12-424.xlsx,PIP-GI-1,GI PIPE 1IN,PIP-GI-1,"1"" GI Pipe",100.0,,190.0,103702.95,,GI PIPE 1IN,,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_05_BILL-12-424.xlsx,STEEL BAR 16,REBAR-16MM,,,0.0,321.2,128.0,48102.91,,REBAR-16MM,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_05_BILL-12-424.xlsx,GLS-CLR-6,6mm Clear Glass,GLS-CLR-6,6mm Clear Glass,100.0,479.4,224.0,125641.15,,6mm Clear Glass,,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_05_BILL-12-424.xlsx,TIL-CER12,Ceramic Floor Tile 12x12,TIL-CER-12,Ceramic Floor Tile 12x12,95.0,,95.0,17683.97,,Ceramic Floor Tile 12x12,,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_05_BILL-12-424.xlsx,CLASS A BRICK,BRK-A,,,0.0,353.8,15643.0,5534493.4,,BRK-A,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_05_BILL-12-424.xlsx,,,,,0.0,,,,,,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_05_BILL-12-424.xlsx,,,,,0.0,,,,,,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_05_BILL-12-424.xlsx,ASIF,,,,0.0,,,,,,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_06_BILL17135.xlsx,BILL17135,Vendor:,,,0.0,,,,,Vendor:,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_06_BILL17135.xlsx,SATTI_APTS,Date:,AGG-CRS-34,Coarse Aggregate 3/4 inch,60.0,,,,,Date:,,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_06_BILL17135.xlsx,ENAMEL WH.,Oil Paint (White) 4Ltr,PAI-OIL-W,Oil Paint (White) 4Ltr,100.0,,1881.0,,,Oil Paint (White) 4Ltr,,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_06_BILL17135.xlsx,IMP_MARBLE_W,MRB-IMP,,,0.0,,656.0,,,MRB-IMP,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_06_BILL17135.xlsx,GRAVEL-3/4,coarse agg,AGG-CRS-34,Coarse Aggregate 3/4 inch,80.0,,50.0,,,coarse agg,,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_06_BILL17135.xlsx,GENERATOR 25KVA,25KVA Genset,GEN-25KVA,25 KVA Generator,86.95652173913044,,835331.0,,,25KVA Genset,,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_06_BILL17135.xlsx,RED BRICK A-GRADE,Class A Brick,BRK-CLS-A,Class-A Red Brick,66.66666666666667,,14609.0,,,Class A Brick,,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_06_BILL17135.xlsx,PIP-GI-1,PIP-GI1,PIP-GI-1,"1"" GI Pipe",100.0,,177.0,,,PIP-GI1,,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_06_BILL17135.xlsx,WC-STD,toilet_std,,,0.0,,13173.0,,,toilet_std,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_06_BILL17135.xlsx,,,,,0.0,,,,,,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_06_BILL17135.xlsx,,,,,0.0,,,,,,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_06_BILL17135.xlsx,,,,,0.0,,,,,,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_07_BILL08873.xlsx,,Date: 06/07/2015,,,0.0,,,,,Date: 06/07/2015,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_07_BILL08873.xlsx,PROJECT: SATTI_APTS,,,,0.0,,,,,,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_07_BILL08873.xlsx,,,,,0.0,,,,,,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_07_BILL08873.xlsx,CEM_OPC_50,Cement Bag 50Kg,CEM-OPC-50,OPC Cement 50kg Bag,95.0,330.7,1085.0,419807.12,,Cement Bag 50Kg,,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_07_BILL08873.xlsx,STEEL BAR 12,STL-RB12,,,0.0,229.9,127.0,29197.0,,STL-RB12,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_07_BILL08873.xlsx,"C.AGG 3/4""",AGG-CRS34,,,0.0,357.5,51.0,18232.5,,AGG-CRS34,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_07_BILL08873.xlsx,,,,,0.0,,,,,,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_07_BILL08873.xlsx,,,,,0.0,,,,,,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_07_BILL08873.xlsx,KAMRAN,,,,0.0,,,,,,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_08_BILL 15 530.xlsx,,Date: 2018/02/04,,,0.0,,,,,Date: 2018/02/04,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_08_BILL 15 530.xlsx,PROJECT: SATTI_APTS,,,,0.0,,,,,,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_08_BILL 15 530.xlsx,,,,,0.0,,,,,,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_08_BILL 15 530.xlsx,MRB-IMP-W,MAR-W-IMP,MRB-IMP-W,Imported White Marble,100.0,129.8,704.0,106913.66,,MAR-W-IMP,,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_08_BILL 15 530.xlsx,SAND-RIVER,SND-RV,,,0.0,134.3,37.0,5813.85,,SND-RV,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_08_BILL 15 530.xlsx,STL-RB16,rebar 5/8 inch,STL-RB-16,16mm Steel Rebar,95.0,377.6,136.0,60083.71,,rebar 5/8 inch,,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_08_BILL 15 530.xlsx,WIRE-3/029,3/0.029 Copper Wire,WIR-COP-3,3/0.029 Copper Wire,84.7457627118644,31.0,54.0,1958.58,,3/0.029 Copper Wire,,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_08_BILL 15 530.xlsx,REBAR-12MM,STL-RB12,,,0.0,267.6,127.0,39762.68,,STL-RB12,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_08_BILL 15 530.xlsx,COARSE AGG,"C.Agg 3/4""",,,0.0,180.1,61.0,10986.1,,"C.Agg 3/4""",,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_08_BILL 15 530.xlsx,GI_PIPE_2INCH,"G.I.Pipe 2""",PIP-GI-1,"1"" GI Pipe",66.66666666666667,233.2,326.0,88947.14,,"G.I.Pipe 2""",,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_08_BILL 15 530.xlsx,CBL-ARM-95,AC-95sq,CBL-ARM-95,95mm² Armoured Cable,100.0,9.2,740.0,7965.36,,AC-95sq,,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_08_BILL 15 530.xlsx,OPC 50 KG,OPC Cement 50kg Bag,CEM-OPC-50,OPC Cement 50kg Bag,100.0,33.2,977.0,32436.4,,OPC Cement 50kg Bag,,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_08_BILL 15 530.xlsx,COPWIRE7,WIR-CP7,,,0.0,191.1,,,,WIR-CP7,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_08_BILL 15 530.xlsx,,,,,0.0,,,,,,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_08_BILL 15 530.xlsx,,,,,0.0,,,,,,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_08_BILL 15 530.xlsx,NASIR,,,,0.0,,,,,,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_09_BILL 14 709.xlsx,,Date: 22-Dec-2016,,,0.0,,,,,Date: 22-Dec-2016,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_09_BILL 14 709.xlsx,PROJECT: SATTI_APTS,,,,0.0,,,,,,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_09_BILL 14 709.xlsx,,,,,0.0,,,,,,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_09_BILL 14 709.xlsx,CEM-OPC-50,Cement Bag 50Kg,CEM-OPC-50,OPC Cement 50kg Bag,100.0,78.7,990.0,77913.0,,Cement Bag 50Kg,,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_09_BILL 14 709.xlsx,IMP_MARBLE_W,Marble Wht,MRB-IMP-W,Imported White Marble,75.0,470.3,678.0,373070.0,,Marble Wht,,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_09_BILL 14 709.xlsx,COPPER WIRE 7/.029,7/0.029 Copper Wire,WIR-COP-7,7/0.029 Copper Wire,100.0,285.8,107.0,35779.0,,7/0.029 Copper Wire,,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_09_BILL 14 709.xlsx,GLASS-6MM,6mm Clear Glass,GLS-CLR-6,6mm Clear Glass,84.0,421.4,237.0,116850.01,,6mm Clear Glass,,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_09_BILL 14 709.xlsx,,,,,0.0,,,,,,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_09_BILL 14 709.xlsx,,,,,0.0,,,,,,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_09_BILL 14 709.xlsx,NASIR,,,,0.0,,,,,,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_10_BILL-18-449.xlsx,,,,,0.0,,,,,,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_10_BILL-18-449.xlsx,,Project: SATTI_APTS,,,0.0,,,,,Project: SATTI_APTS,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_10_BILL-18-449.xlsx,,,,,0.0,,,,,,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_10_BILL-18-449.xlsx,,Armoured Cable 95,CBL-ARM-95,95mm² Armoured Cable,90.32258064516128,,,,,Armoured Cable 95,,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_10_BILL-18-449.xlsx,,Bajri 3/4,,,0.0,,,,,Bajri 3/4,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_10_BILL-18-449.xlsx,,PIP-GI2,,,0.0,,,,,PIP-GI2,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_10_BILL-18-449.xlsx,,CEMENT-50,,,0.0,,,,,CEMENT-50,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_10_BILL-18-449.xlsx,,Steel Bar 16,STL-RB-12,12mm Steel Rebar,69.56521739130434,,,,,Steel Bar 16,,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_10_BILL-18-449.xlsx,,PAI-OIL-W,,,0.0,,,,,PAI-OIL-W,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_10_BILL-18-449.xlsx,,25KVA Genset,GEN-25KVA,25 KVA Generator,86.95652173913044,,,,,25KVA Genset,,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_10_BILL-18-449.xlsx,,M20 Concrete,CNC-RDY-M20,M20 Ready Mix Concrete,85.71428571428572,,,,,M20 Concrete,,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_10_BILL-18-449.xlsx,,PLY-MR12,,,0.0,,,,,PLY-MR12,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_10_BILL-18-449.xlsx,,S.Bar 12mm,,,0.0,,,,,S.Bar 12mm,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_10_BILL-18-449.xlsx,,,,,0.0,,,,,,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_10_BILL-18-449.xlsx,,,,,0.0,,,,,,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_10_BILL-18-449.xlsx,,Asif,,,0.0,,,,,Asif,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_11_BILL 12 215.xlsx,,Date: 27/07/2016,,,0.0,,,,,Date: 27/07/2016,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_11_BILL 12 215.xlsx,PROJECT: SATTI_APTS,,,,0.0,,,,,,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_11_BILL 12 215.xlsx,,,,,0.0,,,,,,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_11_BILL 12 215.xlsx,S.BAR 16MM,STL-RB16,,,0.0,317.9,160.0,59510.88,,STL-RB16,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_11_BILL 12 215.xlsx,SAN-WC,WC-STD,,,0.0,113.8,11732.0,1562068.87,,WC-STD,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_11_BILL 12 215.xlsx,BAJRI 3/4,coarse agg,AGG-CRS-34,Coarse Aggregate 3/4 inch,80.0,247.2,63.0,18221.11,,coarse agg,,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_11_BILL 12 215.xlsx,GI_PIPE_1INCH,PIP-GI1,,,0.0,446.5,185.0,96644.93,,PIP-GI1,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_11_BILL 12 215.xlsx,GLS-CLR-6,Clear Glass 6,GLS-CLR-6,6mm Clear Glass,100.0,267.9,219.0,58670.1,,Clear Glass 6,,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_11_BILL 12 215.xlsx,CEM_OPC_50,Cement Bag 50Kg,CEM-OPC-50,OPC Cement 50kg Bag,95.0,475.2,845.0,469806.48,,Cement Bag 50Kg,,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_11_BILL 12 215.xlsx,GEN_25KVA,Generator 25KVA,GEN-25KVA,25 KVA Generator,95.0,17.1,937130.0,16024923.0,,Generator 25KVA,,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_11_BILL 12 215.xlsx,SAND (FINE),River Sand,SND-RVR,River Sand,100.0,430.9,30.0,12927.0,,River Sand,,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_11_BILL 12 215.xlsx,AL_WINDOW_4,al_window_4,ALM-WIN-4,4ft Aluminum Window,62.5,398.3,15751.0,7340139.26,,al_window_4,,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_11_BILL 12 215.xlsx,PIP-GI-2,"G.I.Pipe 2""",PIP-GI-2,"2"" GI Pipe",100.0,,321.0,69856.02,,"G.I.Pipe 2""",,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_11_BILL 12 215.xlsx,,,,,0.0,,,,,,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_11_BILL 12 215.xlsx,,,,,0.0,,,,,,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_11_BILL 12 215.xlsx,NASIR,,,,0.0,,,,,,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_12_BILL_11_329.xlsx,BILL/11/329,Vendor:,,,0.0,,,,,Vendor:,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_12_BILL_11_329.xlsx,SATTI_APTS,Date:,AGG-CRS-34,Coarse Aggregate 3/4 inch,60.0,,,,,Date:,,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_12_BILL_11_329.xlsx,BRICKS_A,BRK-A,,,0.0,250.7,15575.0,4568443.43,,BRK-A,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_12_BILL_11_329.xlsx,RETI (RIVER),Sand (Fine),,,0.0,324.1,33.0,12513.5,,Sand (Fine),,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_12_BILL_11_329.xlsx,WIRE_7029,WIRE-7/029,,,0.0,245.6,100.0,28735.2,,WIRE-7/029,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_12_BILL_11_329.xlsx,CNC-M20,Ready Mix M20,CNC-RDY-M20,M20 Ready Mix Concrete,76.36363636363637,189.1,393.0,74316.3,,Ready Mix M20,,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_12_BILL_11_329.xlsx,,,,,0.0,,,,,,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_12_BILL_11_329.xlsx,,,,,0.0,,,,,,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_12_BILL_11_329.xlsx,KAMRAN,,,,0.0,,,,,,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_13_BILL_08_244.xlsx,,Date: 2015/05/24,,,0.0,,,,,Date: 2015/05/24,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_13_BILL_08_244.xlsx,PROJECT: SATTI_APTS,,,,0.0,,,,,,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_13_BILL_08_244.xlsx,,,,,0.0,,,,,,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_13_BILL_08_244.xlsx,"A.WIN 4""",Alum Window 4ft,ALM-WIN-4,4ft Aluminum Window,75.47169811320755,450.6,12931.0,6817249.0,,Alum Window 4ft,,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_13_BILL_08_244.xlsx,WIRE_3029,WIR-CP3,,,0.0,293.8,50.0,14690.0,,WIR-CP3,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_13_BILL_08_244.xlsx,AGG-CRS-34,coarse agg,AGG-CRS-34,Coarse Aggregate 3/4 inch,100.0,200.2,55.0,11011.0,,coarse agg,,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_13_BILL_08_244.xlsx,CLEAR GLASS 6,GLASS-6MM,,,0.0,196.1,188.0,43134.16,,GLASS-6MM,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_13_BILL_08_244.xlsx,PLYWOOD 12MM MR,Plywood 12mm MR,PLY-MR-12,12mm MR Plywood Sheet,63.63636363636363,147.9,2402.0,355255.8,,Plywood 12mm MR,,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_13_BILL_08_244.xlsx,PAI-OIL,OIL-PAINT-W,,,0.0,,1998.0,479320.0,,OIL-PAINT-W,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_13_BILL_08_244.xlsx,REBAR-16MM,rebar 5/8 inch,AGG-CRS-34,Coarse Aggregate 3/4 inch,66.66666666666667,91.6,,14789.74,,rebar 5/8 inch,,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_13_BILL_08_244.xlsx,,,,,0.0,,,,,,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_13_BILL_08_244.xlsx,,,,,0.0,,,,,,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_13_BILL_08_244.xlsx,TARIQ,,,,0.0,,,,,,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_14_BILL16758.xlsx,,Date: 02-Jun-2016,,,0.0,,,,,Date: 02-Jun-2016,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_14_BILL16758.xlsx,PROJECT: SATTI_APTS,,,,0.0,,,,,,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_14_BILL16758.xlsx,,,,,0.0,,,,,,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_14_BILL16758.xlsx,CLASS A BRICK,bricks_a,BRK-CLS-A,Class-A Red Brick,66.66666666666667,72.1,12586.0,1061717.2,,bricks_a,,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_14_BILL16758.xlsx,PAINT_OIL_W,PAI-OIL,,,0.0,384.4,1629.0,732639.49,,PAI-OIL,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_14_BILL16758.xlsx,GEN_25KVA,gen_25kva,GEN-25KVA,25 KVA Generator,95.0,345.7,834813.0,337655979.3,,gen_25kva,,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_14_BILL16758.xlsx,STL-RB12,12mm Steel Rebar,STL-RB-12,12mm Steel Rebar,95.0,112.8,130.0,14664.0,,12mm Steel Rebar,,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_14_BILL16758.xlsx,WIRE_7029,CopWire7,WIR-COP-7,7/0.029 Copper Wire,66.66666666666667,352.6,104.0,42904.37,,CopWire7,,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_14_BILL16758.xlsx,CEM-OPC50,Cement Bag 50Kg,CEM-OPC-50,OPC Cement 50kg Bag,95.0,445.4,978.0,435601.2,,Cement Bag 50Kg,,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_14_BILL16758.xlsx,WIRE_3029,WIR-CP3,,,0.0,345.6,52.0,21026.0,,WIR-CP3,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_14_BILL16758.xlsx,ARMOURED CABLE 95,95mm² Armoured Cable,CBL-ARM-95,95mm² Armoured Cable,100.0,102.2,731.0,74708.0,,95mm² Armoured Cable,,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_14_BILL16758.xlsx,GLS-CLR-6,6mm Clear Glass,GLS-CLR-6,6mm Clear Glass,100.0,392.3,,113829.77,,6mm Clear Glass,,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_14_BILL16758.xlsx,RIVER_SAND,SAND-RIVER,,,0.0,179.3,39.0,6992.7,,SAND-RIVER,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_14_BILL16758.xlsx,,,,,0.0,,,,,,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_14_BILL16758.xlsx,,,,,0.0,,,,,,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_14_BILL16758.xlsx,TARIQ,,,,0.0,,,,,,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_15_BILL_16_005.xlsx,,,,,0.0,,,,,,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_15_BILL_16_005.xlsx,CLASS A BRICK,BRICK-CLA,,,0.0,492.6,13697.0,6747142.2,,BRICK-CLA,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_15_BILL_16_005.xlsx,"TILE 12X12""","Cer.Tile 12""",TIL-CER-12,Ceramic Floor Tile 12x12,66.66666666666667,337.7,82.0,32398.94,,"Cer.Tile 12""",,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_15_BILL_16_005.xlsx,WIR-CP3,3/0.029 Copper Wire,WIR-COP-3,3/0.029 Copper Wire,96.42857142857143,185.0,50.0,10822.5,,3/0.029 Copper Wire,,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_15_BILL_16_005.xlsx,6MM_GLASS,6mm_glass,GLS-CLR-6,6mm Clear Glass,61.53846153846154,140.1,239.0,33483.9,,6mm_glass,,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_15_BILL_16_005.xlsx,ARMD-CBL-95,CBL-ARM95,,,0.0,385.2,750.0,338013.0,,CBL-ARM95,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_15_BILL_16_005.xlsx,PLY_MR_12MM,12mm MR Plywood Sheet,PLY-MR-12,12mm MR Plywood Sheet,90.625,,2123.0,1032203.0,,12mm MR Plywood Sheet,,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_15_BILL_16_005.xlsx,COMMODE STANDARD,Commode Standard,SAN-WC-STD,Standard WC/Commode,66.66666666666667,105.0,13108.0,1610317.8,,Commode Standard,,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_15_BILL_16_005.xlsx,"G.I.PIPE 2""","2"" GI Pipe",PIP-GI-2,"2"" GI Pipe",73.17073170731707,194.9,293.0,66813.67,,"2"" GI Pipe",,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_15_BILL_16_005.xlsx,READY MIX M20,Ready Mix M20,CNC-RDY-M20,M20 Ready Mix Concrete,76.92307692307692,71.6,447.0,37446.08,,Ready Mix M20,,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_15_BILL_16_005.xlsx,WIR-CP7,CopWire7,WIR-COP-7,7/0.029 Copper Wire,66.66666666666667,32.6,88.0,3356.0,,CopWire7,,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_15_BILL_16_005.xlsx,,,,,0.0,,,,,,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_15_BILL_16_005.xlsx,,,,,0.0,,,,,,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_15_BILL_16_005.xlsx,TARIQ,,,,0.0,,,,,,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_16_BILL-18-350.xlsx,BILL-18-350,Vendor:,,,0.0,,,,,Vendor:,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_16_BILL-18-350.xlsx,SATTI_APTS,Date:,AGG-CRS-34,Coarse Aggregate 3/4 inch,60.0,,,,,Date:,,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_16_BILL-18-350.xlsx,ALUM WINDOW 4FT,al_window_4,ALM-WIN-4,4ft Aluminum Window,62.5,406.7,15228.0,7246076.29,,al_window_4,,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_16_BILL-18-350.xlsx,RED BRICK A-GRADE,BRK-A,,,0.0,147.2,12100.0,1781120.0,,BRK-A,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_16_BILL-18-350.xlsx,PIP-GI-1,gi_pipe_1inch,PIP-GI-1,"1"" GI Pipe",100.0,171.7,157.0,26956.9,,gi_pipe_1inch,,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_16_BILL-18-350.xlsx,PLYWD-12,Plywood 12mm MR,PLY-MR-12,12mm MR Plywood Sheet,80.0,333.4,2077.0,810192.01,,Plywood 12mm MR,,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_16_BILL-18-350.xlsx,,,,,0.0,,,,,,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_16_BILL-18-350.xlsx,,,,,0.0,,,,,,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_16_BILL-18-350.xlsx,,,,,0.0,,,,,,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_17_BILL11677.xlsx,,,,,0.0,,,,,,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_17_BILL11677.xlsx,WIR-CP3,WIR-CP3,,,0.0,,60.0,,,WIR-CP3,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_17_BILL11677.xlsx,SND-RV,SND-RV,,,0.0,,30.0,,,SND-RV,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_17_BILL11677.xlsx,WIRE_7029,Copper Wire 7/.029,WIR-COP-7,7/0.029 Copper Wire,80.70175438596492,,82.0,,,Copper Wire 7/.029,,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_17_BILL11677.xlsx,GI PIPE 2IN,GalvPipe-2,,,0.0,,272.0,,,GalvPipe-2,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_17_BILL11677.xlsx,TIL-CER-12,floor_tile_12,TIL-CER-12,Ceramic Floor Tile 12x12,100.0,,87.0,,,floor_tile_12,,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_17_BILL11677.xlsx,BRICK-CLA,BRICK-CLA,,,0.0,,14996.0,,,BRICK-CLA,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_17_BILL11677.xlsx,STL-RB16,REBAR-16MM,STL-RB-16,16mm Steel Rebar,95.0,,130.0,,,REBAR-16MM,,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_17_BILL11677.xlsx,,,,,0.0,,,,,,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_17_BILL11677.xlsx,,,,,0.0,,,,,,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_17_BILL11677.xlsx,TARIQ,,,,0.0,,,,,,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_18_BILL_13_487.xlsx,,,,,0.0,,,,,,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_18_BILL_13_487.xlsx,COPPER WIRE 3/.029,wire_3029,,,0.0,162.0,60.0,9720.0,,wire_3029,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_18_BILL_13_487.xlsx,CEM_OPC_50,Cement Bag 50Kg,CEM-OPC-50,OPC Cement 50kg Bag,95.0,463.6,902.0,489256.0,,Cement Bag 50Kg,,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_18_BILL_13_487.xlsx,GALVPIPE-2,gi_pipe_2inch,,,0.0,,306.0,132539.0,,gi_pipe_2inch,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_18_BILL_13_487.xlsx,RMC_M20,RMC-M20,CNC-RDY-M20,M20 Ready Mix Concrete,60.0,160.3,367.0,68831.22,,RMC-M20,,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_18_BILL_13_487.xlsx,GI PIPE 1IN,"G.I.Pipe 1""",PIP-GI-1,"1"" GI Pipe",66.66666666666667,241.8,193.0,54600.86,,"G.I.Pipe 1""",,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_18_BILL_13_487.xlsx,COMMODE STANDARD,toilet_std,,,0.0,116.1,14180.0,1646298.0,,toilet_std,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_18_BILL_13_487.xlsx,MARBLE WHT,MRB-IMP,,,0.0,29.6,704.0,20838.4,,MRB-IMP,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_18_BILL_13_487.xlsx,,,,,0.0,,,,,,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_18_BILL_13_487.xlsx,,,,,0.0,,,,,,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_18_BILL_13_487.xlsx,NASIR,,,,0.0,,,,,,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_19_BILL-11-731.xlsx,,,,,0.0,,,,,,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_19_BILL-11-731.xlsx,CEM_OPC_50,Cement Bag 50Kg,CEM-OPC-50,OPC Cement 50kg Bag,95.0,,881.0,,,Cement Bag 50Kg,,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_19_BILL-11-731.xlsx,STEEL BAR 12,S.Bar 12mm,,,0.0,,134.0,,,S.Bar 12mm,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_19_BILL-11-731.xlsx,ALUM WINDOW 4FT,"A.Win 4""",,,0.0,,16536.0,,,"A.Win 4""",,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_19_BILL-11-731.xlsx,BAJRI 3/4,AGG-CRS34,,,0.0,,58.0,,,AGG-CRS34,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_19_BILL-11-731.xlsx,PLYWD-12,ply_mr_12mm,,,0.0,,2154.0,,,ply_mr_12mm,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_19_BILL-11-731.xlsx,WHITE OIL PAINT 4L,PAI-OIL,,,0.0,,2067.0,,,PAI-OIL,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_19_BILL-11-731.xlsx,PIP-GI-1,PIP-GI1,PIP-GI-1,"1"" GI Pipe",100.0,,165.0,,,PIP-GI1,,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_19_BILL-11-731.xlsx,ARMOURED CABLE 95,95mm² Armoured Cable,CBL-ARM-95,95mm² Armoured Cable,100.0,,975.0,,,95mm² Armoured Cable,,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_19_BILL-11-731.xlsx,BRICK-CLA,Class-A Red Brick,BRK-CLS-A,Class-A Red Brick,92.5925925925926,,13093.0,,,Class-A Red Brick,,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_19_BILL-11-731.xlsx,SAN-WC,toilet_std,,,0.0,,10640.0,,,toilet_std,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_19_BILL-11-731.xlsx,,,,,0.0,,,,,,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_19_BILL-11-731.xlsx,,,,,0.0,,,,,,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_19_BILL-11-731.xlsx,ASIF,,,,0.0,,,,,,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_20_BILL 18 697.xlsx,,Date: 16/05/17,,,0.0,,,,,Date: 16/05/17,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_20_BILL 18 697.xlsx,PROJECT: SATTI_APTS,,,,0.0,,,,,,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_20_BILL 18 697.xlsx,,,,,0.0,,,,,,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_20_BILL 18 697.xlsx,STL-RB16,rebar 5/8 inch,STL-RB-16,16mm Steel Rebar,95.0,49.1,155.0,8904.29,,rebar 5/8 inch,,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_20_BILL 18 697.xlsx,CEMENT BAG 50KG,cem_opc_50,,,0.0,404.1,896.0,362073.6,,cem_opc_50,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_20_BILL 18 697.xlsx,ARMOURED CABLE 95,Armoured Cable 95,CBL-ARM-95,95mm² Armoured Cable,90.32258064516128,137.9,876.0,141336.0,,Armoured Cable 95,,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_20_BILL 18 697.xlsx,"CER.TILE 12""","Tile 12x12""",TIL-CER-12,Ceramic Floor Tile 12x12,95.23809523809523,116.0,90.0,12214.8,,"Tile 12x12""",,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_20_BILL 18 697.xlsx,WHITE MARBLE IMP.,MAR-W-IMP,,,0.0,78.6,604.0,47474.0,,MAR-W-IMP,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_20_BILL 18 697.xlsx,PIP-GI-1,gi_pipe_1inch,PIP-GI-1,"1"" GI Pipe",100.0,58.3,176.0,12005.0,,gi_pipe_1inch,,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_20_BILL 18 697.xlsx,AGG-CRS-34,"C.Agg 3/4""",AGG-CRS-34,Coarse Aggregate 3/4 inch,100.0,332.5,50.0,19451.25,,"C.Agg 3/4""",,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_20_BILL 18 697.xlsx,"A.WIN 4""",Alum Window 4ft,ALM-WIN-4,4ft Aluminum Window,75.47169811320755,313.8,,4229396.4,,Alum Window 4ft,,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_20_BILL 18 697.xlsx,,,,,0.0,,,,,,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_20_BILL 18 697.xlsx,,,,,0.0,,,,,,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_20_BILL 18 697.xlsx,NASIR,,,,0.0,,,,,,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_21_BILL-06-405.xlsx,BILL-06-405,Vendor:,,,0.0,,,,,Vendor:,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_21_BILL-06-405.xlsx,SATTI_APTS,Date:,AGG-CRS-34,Coarse Aggregate 3/4 inch,60.0,,,,,Date:,,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_21_BILL-06-405.xlsx,S.BAR 12MM,Steel Bar 12,STL-RB-12,12mm Steel Rebar,69.56521739130434,,122.0,,,Steel Bar 12,,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_21_BILL-06-405.xlsx,GALVPIPE-1,"G.I.Pipe 1""",PIP-GI-1,"1"" GI Pipe",66.66666666666667,,178.0,,,"G.I.Pipe 1""",,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_21_BILL-06-405.xlsx,ALM-WIN-4,ALU-WIN4,ALM-WIN-4,4ft Aluminum Window,100.0,,15067.0,,,ALU-WIN4,,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_21_BILL-06-405.xlsx,COARSE AGG,GRAVEL-3/4,,,0.0,,53.0,,,GRAVEL-3/4,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_21_BILL-06-405.xlsx,PIP-GI2,GalvPipe-2,PIP-GI-2,"2"" GI Pipe",95.0,,265.0,,,GalvPipe-2,,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_21_BILL-06-405.xlsx,MRB-IMP-W,White Marble Imp.,MRB-IMP-W,Imported White Marble,100.0,,,,,White Marble Imp.,,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_21_BILL-06-405.xlsx,,,,,0.0,,,,,,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_21_BILL-06-405.xlsx,,,,,0.0,,,,,,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_21_BILL-06-405.xlsx,KAMRAN,,,,0.0,,,,,,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_22_BILL 17 874.xlsx,,,,,0.0,,,,,,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_22_BILL 17 874.xlsx,SAN-WC,toilet_std,,,0.0,,,,,toilet_std,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_22_BILL 17 874.xlsx,ALM-WIN-4,4ft Aluminum Window,ALM-WIN-4,4ft Aluminum Window,100.0,,12821.0,,,4ft Aluminum Window,,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_22_BILL 17 874.xlsx,WIR-COP-3,CopWire3,WIR-COP-3,3/0.029 Copper Wire,100.0,,49.0,,,CopWire3,,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_22_BILL 17 874.xlsx,"G.I.PIPE 2""","G.I.Pipe 2""",PIP-GI-1,"1"" GI Pipe",66.66666666666667,,334.0,,,"G.I.Pipe 2""",,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_22_BILL 17 874.xlsx,,,,,0.0,,,,,,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_22_BILL 17 874.xlsx,,,,,0.0,,,,,,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_22_BILL 17 874.xlsx,ASIF,,,,0.0,,,,,,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_23_BILL_18_121.xlsx,,,,,0.0,,,,,,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_23_BILL_18_121.xlsx,WHITE OIL PAINT 4L,White Oil Paint 4L,PAI-OIL-W,Oil Paint (White) 4Ltr,71.42857142857143,,2044.0,,,White Oil Paint 4L,,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_23_BILL_18_121.xlsx,GALVPIPE-2,gi_pipe_2inch,,,0.0,,,,,gi_pipe_2inch,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_23_BILL_18_121.xlsx,"C.AGG 3/4""","C.Agg 3/4""",,,0.0,,56.0,,,"C.Agg 3/4""",,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_23_BILL_18_121.xlsx,25KVA GENSET,25KVA Genset,GEN-25KVA,25 KVA Generator,86.95652173913044,,1007225.0,,,25KVA Genset,,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_23_BILL_18_121.xlsx,TOILET_STD,toilet_std,,,0.0,,13251.0,,,toilet_std,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_23_BILL_18_121.xlsx,"TILE 12X12""",TILE-12X12,,,0.0,,92.0,,,TILE-12X12,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_23_BILL_18_121.xlsx,BRICKS_A,bricks_a,BRK-CLS-A,Class-A Red Brick,66.66666666666667,,12429.0,,,bricks_a,,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_23_BILL_18_121.xlsx,CEM_OPC_50,CEM-OPC50,CEM-OPC-50,OPC Cement 50kg Bag,95.0,,1061.0,,,CEM-OPC50,,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_23_BILL_18_121.xlsx,GI_PIPE_1INCH,"1"" GI Pipe",PIP-GI-1,"1"" GI Pipe",100.0,,198.0,,,"1"" GI Pipe",,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_23_BILL_18_121.xlsx,,,,,0.0,,,,,,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_23_BILL_18_121.xlsx,,,,,0.0,,,,,,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_23_BILL_18_121.xlsx,ASIF,,,,0.0,,,,,,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_24_BILL13242.xlsx,,,,,0.0,,,,,,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_24_BILL13242.xlsx,WHITE MARBLE IMP.,Marble Wht,MRB-IMP-W,Imported White Marble,75.0,465.9,678.0,315880.2,,Marble Wht,,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_24_BILL13242.xlsx,AC-95SQ,arm_cable_95,,,0.0,432.3,753.0,380860.62,,arm_cable_95,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_24_BILL13242.xlsx,25KVA GENSET,25 KVA Generator,GEN-25KVA,25 KVA Generator,80.0,,970453.0,73575864.65,,25 KVA Generator,,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_24_BILL13242.xlsx,TIL-CER12,floor_tile_12,TIL-CER-12,Ceramic Floor Tile 12x12,95.0,213.8,,24014.02,,floor_tile_12,,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_24_BILL13242.xlsx,WIR-COP-7,Copper Wire 7/.029,WIR-COP-7,7/0.029 Copper Wire,100.0,243.2,90.0,25608.96,,Copper Wire 7/.029,,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_24_BILL13242.xlsx,WIRE_3029,Copper Wire 3/.029,WIR-COP-3,3/0.029 Copper Wire,80.70175438596492,382.0,58.0,25922.52,,Copper Wire 3/.029,,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_24_BILL13242.xlsx,GI PIPE 2IN,gi_pipe_2inch,,,0.0,27.7,326.0,10565.33,,gi_pipe_2inch,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_24_BILL13242.xlsx,PLYWD-12,MR Ply 12,PLY-MR-12,12mm MR Plywood Sheet,66.66666666666667,324.4,2295.0,871062.66,,MR Ply 12,,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_24_BILL13242.xlsx,GI_PIPE_1INCH,"1"" GI Pipe",PIP-GI-1,"1"" GI Pipe",100.0,,204.0,15394.86,,"1"" GI Pipe",,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_24_BILL13242.xlsx,,,,,0.0,,,,,,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_24_BILL13242.xlsx,,,,,0.0,,,,,,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_24_BILL13242.xlsx,TARIQ,,,,0.0,,,,,,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_25_BILL17047.xlsx,,Date: 2015/04/17,,,0.0,,,,,Date: 2015/04/17,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_25_BILL17047.xlsx,PROJECT: SATTI_APTS,,,,0.0,,,,,,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_25_BILL17047.xlsx,,,,,0.0,,,,,,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_25_BILL17047.xlsx,GI PIPE 2IN,"2"" GI Pipe",PIP-GI-2,"2"" GI Pipe",100.0,,315.0,59926.23,,"2"" GI Pipe",,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_25_BILL17047.xlsx,MRB-IMP-W,MRB-IMP,MRB-IMP-W,Imported White Marble,100.0,382.7,711.0,318356.65,,MRB-IMP,,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_25_BILL17047.xlsx,M20 CONCRETE,CNC-M20,CNC-RDY-M20,M20 Ready Mix Concrete,60.0,392.1,425.0,194971.73,,CNC-M20,,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_25_BILL17047.xlsx,ALM-W4,4ft Aluminum Window,ALM-WIN-4,4ft Aluminum Window,94.54545454545455,34.8,16335.0,665095.86,,4ft Aluminum Window,,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_25_BILL17047.xlsx,TILE-12X12,Ceramic Floor Tile 12x12,TIL-CER-12,Ceramic Floor Tile 12x12,91.42857142857143,,86.0,8542.64,,Ceramic Floor Tile 12x12,,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_25_BILL17047.xlsx,STL-RB16,Steel Bar 16,STL-RB-16,16mm Steel Rebar,95.0,254.9,153.0,38999.7,,Steel Bar 16,,True
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_25_BILL17047.xlsx,,,,,0.0,,,,,,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_25_BILL17047.xlsx,,,,,0.0,,,,,,,False
+SATTI_APTS,purchase_bills\SATTI_APTS_Bill_25_BILL17047.xlsx,TARIQ,,,,0.0,,,,,,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_01_BILL 11 585.xlsx,,,,,0.0,,,,,,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_01_BILL 11 585.xlsx,SHEESHA 6MM,Clear Glass 6,GLS-CLR-6,6mm Clear Glass,91.66666666666666,23.3,200.0,4660.0,,Clear Glass 6,,True
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_01_BILL 11 585.xlsx,ALUM WINDOW 4FT,ALU-WIN4,,,0.0,23.1,15139.0,409161.75,,ALU-WIN4,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_01_BILL 11 585.xlsx,RETI (RIVER),Sand (Fine),,,0.0,,40.0,10422.36,,Sand (Fine),,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_01_BILL 11 585.xlsx,BAJRI 3/4,Coarse Aggregate 3/4 inch,AGG-CRS-34,Coarse Aggregate 3/4 inch,78.87323943661973,218.2,63.0,16083.52,,Coarse Aggregate 3/4 inch,,True
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_01_BILL 11 585.xlsx,CEM-OPC50,cem_opc_50,CEM-OPC-50,OPC Cement 50kg Bag,95.0,224.7,935.0,210094.5,,cem_opc_50,,True
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_01_BILL 11 585.xlsx,,,,,0.0,,,,,,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_01_BILL 11 585.xlsx,,,,,0.0,,,,,,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_01_BILL 11 585.xlsx,TARIQ,,,,0.0,,,,,,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_02_BILL06130.xlsx,BILL06130,Vendor:,,,0.0,,,,,Vendor:,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_02_BILL06130.xlsx,SATTI_MALL,Date:,AGG-CRS-34,Coarse Aggregate 3/4 inch,60.0,,,,,Date:,,True
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_02_BILL06130.xlsx,"A.WIN 4""",Alum Window 4ft,ALM-WIN-4,4ft Aluminum Window,75.47169811320755,498.6,15851.0,7903308.6,,Alum Window 4ft,,True
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_02_BILL06130.xlsx,PIP-GI1,GalvPipe-1,PIP-GI-1,"1"" GI Pipe",95.0,356.2,191.0,79600.01,,GalvPipe-1,,True
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_02_BILL06130.xlsx,BRICK-CLA,Red Brick A-Grade,BRK-CLS-A,Class-A Red Brick,69.23076923076923,288.3,13863.0,3996702.9,,Red Brick A-Grade,,True
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_02_BILL06130.xlsx,BAJRI 3/4,Bajri 3/4,,,0.0,412.6,48.0,19804.8,,Bajri 3/4,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_02_BILL06130.xlsx,CEM_OPC_50,OPC 50 KG,CEM-OPC-50,OPC Cement 50kg Bag,95.0,95.1,1083.0,102993.29999999999,,OPC 50 KG,,True
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_02_BILL06130.xlsx,GALVPIPE-2,PIP-GI2,,,0.0,176.3,351.0,61881.3,,PIP-GI2,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_02_BILL06130.xlsx,M20 CONCRETE,M20 Ready Mix Concrete,CNC-RDY-M20,M20 Ready Mix Concrete,78.26086956521739,,378.0,95936.4,,M20 Ready Mix Concrete,,True
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_02_BILL06130.xlsx,,,,,0.0,,,,,,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_02_BILL06130.xlsx,,,,,0.0,,,,,,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_02_BILL06130.xlsx,ASIF,,,,0.0,,,,,,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_02_BILL_06_147.xlsx,,Date: 01-13-2008,,,0.0,,,,,Date: 01-13-2008,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_02_BILL_06_147.xlsx,PROJECT: SATTI_MALL,,,,0.0,,,,,,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_02_BILL_06_147.xlsx,,,,,0.0,,,,,,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_02_BILL_06_147.xlsx,CNC-RDY-M20,Ready Mix M20,CNC-RDY-M20,M20 Ready Mix Concrete,100.0,90.5,447.0,40453.5,,Ready Mix M20,,True
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_02_BILL_06_147.xlsx,COPWIRE3,CopWire3,WIR-COP-7,7/0.029 Copper Wire,66.66666666666667,148.7,52.0,9046.91,,CopWire3,,True
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_02_BILL_06_147.xlsx,ALM-W4,ALM-W4,,,0.0,396.2,12439.0,5766148.0,,ALM-W4,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_02_BILL_06_147.xlsx,GALVPIPE-1,GalvPipe-1,,,0.0,241.9,175.0,49529.03,,GalvPipe-1,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_02_BILL_06_147.xlsx,BRK-A,Red Brick A-Grade,BRK-CLS-A,Class-A Red Brick,69.23076923076923,321.7,12664.0,4074008.8,,Red Brick A-Grade,,True
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_02_BILL_06_147.xlsx,CEM-OPC50,CEM-OPC50,CEM-OPC-50,OPC Cement 50kg Bag,95.0,164.7,1010.0,194625.99,,CEM-OPC50,,True
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_02_BILL_06_147.xlsx,,,,,0.0,,,,,,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_02_BILL_06_147.xlsx,,,,,0.0,,,,,,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_02_BILL_06_147.xlsx,,,,,0.0,,,,,,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_03_BILL-16-657.xlsx,,"Date: December 28, 2007",,,0.0,,,,,"Date: December 28, 2007",,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_03_BILL-16-657.xlsx,PROJECT: SATTI_MALL,,,,0.0,,,,,,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_03_BILL-16-657.xlsx,,,,,0.0,,,,,,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_03_BILL-16-657.xlsx,CLEAR GLASS 6,GLS-CLR6,,,0.0,173.4,196.0,33986.4,,GLS-CLR6,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_03_BILL-16-657.xlsx,OPC 50 KG,OPC 50 KG,CEM-OPC-50,OPC Cement 50kg Bag,61.53846153846154,57.6,876.0,59035.39,,OPC 50 KG,,True
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_03_BILL-16-657.xlsx,STL-RB16,REBAR-16MM,STL-RB-16,16mm Steel Rebar,95.0,,149.0,81446.98,,REBAR-16MM,,True
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_03_BILL-16-657.xlsx,RETI (RIVER),river_sand,SND-RVR,River Sand,73.6842105263158,,32.0,8659.87,,river_sand,,True
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_03_BILL-16-657.xlsx,CNC-RDY-M20,M20 Ready Mix Concrete,CNC-RDY-M20,M20 Ready Mix Concrete,100.0,218.3,468.0,102164.4,,M20 Ready Mix Concrete,,True
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_03_BILL-16-657.xlsx,GI_PIPE_1INCH,GI PIPE 1IN,,,0.0,41.4,180.0,7452.0,,GI PIPE 1IN,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_03_BILL-16-657.xlsx,"G.I.PIPE 2""",GI PIPE 2IN,,,0.0,398.5,,117557.5,,GI PIPE 2IN,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_03_BILL-16-657.xlsx,,,,,0.0,,,,,,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_03_BILL-16-657.xlsx,,,,,0.0,,,,,,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_03_BILL-16-657.xlsx,NASIR,,,,0.0,,,,,,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_03_BILL-18-790.xlsx,,,,,0.0,,,,,,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_03_BILL-18-790.xlsx,PAI-OIL,White Oil Paint 4L,PAI-OIL-W,Oil Paint (White) 4Ltr,71.42857142857143,,1773.0,136081.3,,White Oil Paint 4L,,True
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_03_BILL-18-790.xlsx,GENSET-25,Generator 25KVA,GEN-25KVA,25 KVA Generator,74.50980392156863,362.0,861603.0,364923335.0,,Generator 25KVA,,True
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_03_BILL-18-790.xlsx,ARMOURED CABLE 95,CBL-ARM95,,,0.0,111.5,812.0,105929.46,,CBL-ARM95,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_03_BILL-18-790.xlsx,CLASS A BRICK,BRK-A,,,0.0,441.8,14956.0,6607560.8,,BRK-A,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_03_BILL-18-790.xlsx,MR PLY 12,Plywood 12mm MR,PLY-MR-12,12mm MR Plywood Sheet,63.63636363636363,383.4,2055.0,787887.0,,Plywood 12mm MR,,True
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_03_BILL-18-790.xlsx,,,,,0.0,,,,,,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_03_BILL-18-790.xlsx,,,,,0.0,,,,,,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_03_BILL-18-790.xlsx,KAMRAN,,,,0.0,,,,,,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_04_BILL08621.xlsx,,,,,0.0,,,,,,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_04_BILL08621.xlsx,,rmc_m20,,,0.0,,,,,rmc_m20,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_04_BILL08621.xlsx,,ALM-W4,,,0.0,,,,,ALM-W4,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_04_BILL08621.xlsx,,WIR-CP7,,,0.0,,,,,WIR-CP7,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_04_BILL08621.xlsx,,,,,0.0,,,,,,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_04_BILL08621.xlsx,,,,,0.0,,,,,,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_04_BILL08621.xlsx,,,,,0.0,,,,,,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_04_BILL16042.xlsx,BILL16042,Vendor:,,,0.0,,,,,Vendor:,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_04_BILL16042.xlsx,SATTI_MALL,Date:,AGG-CRS-34,Coarse Aggregate 3/4 inch,60.0,,,,,Date:,,True
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_04_BILL16042.xlsx,WHITE OIL PAINT 4L,paint_oil_w,,,0.0,,2015.0,,,paint_oil_w,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_04_BILL16042.xlsx,MR PLY 12,MR Ply 12,PLY-MR-12,12mm MR Plywood Sheet,66.66666666666667,,1904.0,,,MR Ply 12,,True
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_04_BILL16042.xlsx,BRICKS_A,BRK-A,,,0.0,,15882.0,,,BRK-A,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_04_BILL16042.xlsx,,,,,0.0,,,,,,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_04_BILL16042.xlsx,,,,,0.0,,,,,,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_04_BILL16042.xlsx,NASIR,,,,0.0,,,,,,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_05_BILL-08-532.xlsx,,,,,0.0,,,,,,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_05_BILL-08-532.xlsx,PLYWOOD 12MM MR,PLYWD-12,,,0.0,477.5,2401.0,1341378.68,,PLYWD-12,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_05_BILL-08-532.xlsx,ALM-W4,al_window_4,ALM-WIN-4,4ft Aluminum Window,62.5,139.2,14770.0,2405501.28,,al_window_4,,True
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_05_BILL-08-532.xlsx,PAI-OIL,Oil Paint (White) 4Ltr,PAI-OIL-W,Oil Paint (White) 4Ltr,96.7741935483871,54.6,1708.0,93256.8,,Oil Paint (White) 4Ltr,,True
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_05_BILL-08-532.xlsx,COPPER WIRE 7/.029,Copper Wire 7/.029,WIR-COP-7,7/0.029 Copper Wire,75.86206896551724,327.0,102.0,39024.18,,Copper Wire 7/.029,,True
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_05_BILL-08-532.xlsx,WIR-COP-3,WIR-CP3,WIR-COP-3,3/0.029 Copper Wire,100.0,,61.0,12925.9,,WIR-CP3,,True
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_05_BILL-08-532.xlsx,REBAR-16MM,16mm Steel Rebar,STL-RB-16,16mm Steel Rebar,100.0,9.6,143.0,1606.18,,16mm Steel Rebar,,True
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_05_BILL-08-532.xlsx,IMP_MARBLE_W,White Marble Imp.,MRB-IMP-W,Imported White Marble,82.75862068965517,140.1,743.0,121790.33,,White Marble Imp.,,True
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_05_BILL-08-532.xlsx,RMC_M20,CNC-M20,CNC-RDY-M20,M20 Ready Mix Concrete,60.0,91.9,465.0,42733.5,,CNC-M20,,True
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_05_BILL-08-532.xlsx,GENSET-25,GEN-25K,,,0.0,8.4,916819.0,9010497.13,,GEN-25K,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_05_BILL-08-532.xlsx,PIP-GI1,"1"" GI Pipe",PIP-GI-1,"1"" GI Pipe",95.0,335.6,178.0,69892.06,,"1"" GI Pipe",,True
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_05_BILL-08-532.xlsx,,,,,0.0,,,,,,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_05_BILL-08-532.xlsx,,,,,0.0,,,,,,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_05_BILL-08-532.xlsx,,,,,0.0,,,,,,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_05_BILL13980.xlsx,,,,,0.0,,,,,,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_05_BILL13980.xlsx,COPPER WIRE 3/.029,wire_3029,,,0.0,131.9,55.0,8487.77,,wire_3029,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_05_BILL13980.xlsx,STL-RB16,16mm Steel Rebar,STL-RB-16,16mm Steel Rebar,95.0,,141.0,47460.6,,16mm Steel Rebar,,True
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_05_BILL13980.xlsx,CNC-RDY-M20,M20 Concrete,CNC-RDY-M20,M20 Ready Mix Concrete,100.0,489.1,377.0,184390.7,,M20 Concrete,,True
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_05_BILL13980.xlsx,CEMENT-50,cem_opc_50,,,0.0,34.3,1027.0,35226.0,,cem_opc_50,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_05_BILL13980.xlsx,WHITE OIL PAINT 4L,PAI-OIL,,,0.0,467.3,,724315.0,,PAI-OIL,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_05_BILL13980.xlsx,,,,,0.0,,,,,,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_05_BILL13980.xlsx,,,,,0.0,,,,,,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_05_BILL13980.xlsx,,,,,0.0,,,,,,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_06_BILL-13-292.xlsx,BILL-13-292,Vendor:,,,0.0,,,,,Vendor:,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_06_BILL-13-292.xlsx,SATTI_MALL,Date:,AGG-CRS-34,Coarse Aggregate 3/4 inch,60.0,,,,,Date:,,True
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_06_BILL-13-292.xlsx,CEM-OPC-50,CEMENT-50,CEM-OPC-50,OPC Cement 50kg Bag,100.0,,935.0,,,CEMENT-50,,True
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_06_BILL-13-292.xlsx,TILE-12X12,"Tile 12x12""",TIL-CER-12,Ceramic Floor Tile 12x12,95.23809523809523,,89.0,,,"Tile 12x12""",,True
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_06_BILL-13-292.xlsx,BRICK-CLA,bricks_a,BRK-CLS-A,Class-A Red Brick,66.66666666666667,,15748.0,,,bricks_a,,True
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_06_BILL-13-292.xlsx,SAND (FINE),river_sand,SND-RVR,River Sand,73.6842105263158,,37.0,,,river_sand,,True
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_06_BILL-13-292.xlsx,"C.AGG 3/4""",coarse agg,AGG-CRS-34,Coarse Aggregate 3/4 inch,80.0,,48.0,,,coarse agg,,True
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_06_BILL-13-292.xlsx,GI_PIPE_2INCH,gi_pipe_2inch,,,0.0,,313.0,,,gi_pipe_2inch,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_06_BILL-13-292.xlsx,25KVA GENSET,25 KVA Generator,GEN-25KVA,25 KVA Generator,80.0,,934463.0,,,25 KVA Generator,,True
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_06_BILL-13-292.xlsx,AC-95SQ,ARMD-CBL-95,,,0.0,,823.0,,,ARMD-CBL-95,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_06_BILL-13-292.xlsx,,,,,0.0,,,,,,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_06_BILL-13-292.xlsx,,,,,0.0,,,,,,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_06_BILL-13-292.xlsx,ASIF,,,,0.0,,,,,,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_06_BILL_11_981.xlsx,,,,,0.0,,,,,,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_06_BILL_11_981.xlsx,GEN-25KVA,25KVA Genset,GEN-25KVA,25 KVA Generator,100.0,70.3,925896.0,76155871.9,,25KVA Genset,,True
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_06_BILL_11_981.xlsx,GLS-CLR6,6mm_glass,GLS-CLR-6,6mm Clear Glass,95.0,41.1,215.0,8836.5,,6mm_glass,,True
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_06_BILL_11_981.xlsx,BRK-A,BRK-A,,,0.0,384.1,16009.0,6149056.9,,BRK-A,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_06_BILL_11_981.xlsx,GALVPIPE-1,GalvPipe-1,,,0.0,437.9,160.0,70064.0,,GalvPipe-1,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_06_BILL_11_981.xlsx,ALM-WIN-4,ALU-WIN4,ALM-WIN-4,4ft Aluminum Window,100.0,234.2,15453.0,3619092.5999999996,,ALU-WIN4,,True
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_06_BILL_11_981.xlsx,STL-RB-16,16mm Steel Rebar,STL-RB-16,16mm Steel Rebar,100.0,405.7,137.0,55581.0,,16mm Steel Rebar,,True
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_06_BILL_11_981.xlsx,WIRE_7029,7/0.029 Copper Wire,WIR-COP-7,7/0.029 Copper Wire,82.75862068965517,126.1,82.0,12098.03,,7/0.029 Copper Wire,,True
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_06_BILL_11_981.xlsx,GALVPIPE-2,gi_pipe_2inch,,,0.0,162.9,319.0,51965.1,,gi_pipe_2inch,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_06_BILL_11_981.xlsx,,,,,0.0,,,,,,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_06_BILL_11_981.xlsx,,,,,0.0,,,,,,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_06_BILL_11_981.xlsx,KAMRAN,,,,0.0,,,,,,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_07_BILL06294.xlsx,BILL06294,Vendor:,,,0.0,,,,,Vendor:,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_07_BILL06294.xlsx,SATTI_MALL,Date:,AGG-CRS-34,Coarse Aggregate 3/4 inch,60.0,,,,,Date:,,True
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_07_BILL06294.xlsx,GLASS-6MM,GLS-CLR6,,,0.0,,249.0,,,GLS-CLR6,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_07_BILL06294.xlsx,CBL-ARM-95,CBL-ARM95,CBL-ARM-95,95mm² Armoured Cable,100.0,,748.0,,,CBL-ARM95,,True
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_07_BILL06294.xlsx,COMMODE STANDARD,Commode Standard,SAN-WC-STD,Standard WC/Commode,66.66666666666667,,11440.0,,,Commode Standard,,True
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_07_BILL06294.xlsx,"TILE 12X12""",floor_tile_12,TIL-CER-12,Ceramic Floor Tile 12x12,69.23076923076923,,87.0,,,floor_tile_12,,True
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_07_BILL06294.xlsx,PIP-GI2,"G.I.Pipe 2""",PIP-GI-2,"2"" GI Pipe",95.0,,269.0,,,"G.I.Pipe 2""",,True
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_07_BILL06294.xlsx,CLASS A BRICK,Class-A Red Brick,BRK-CLS-A,Class-A Red Brick,72.41379310344827,,15855.0,,,Class-A Red Brick,,True
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_07_BILL06294.xlsx,ALUM WINDOW 4FT,ALM-W4,,,0.0,,14385.0,,,ALM-W4,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_07_BILL06294.xlsx,,,,,0.0,,,,,,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_07_BILL06294.xlsx,,,,,0.0,,,,,,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_07_BILL06294.xlsx,,,,,0.0,,,,,,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_07_BILL16508.xlsx,,,,,0.0,,,,,,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_07_BILL16508.xlsx,GALVPIPE-1,PIP-GI1,,,0.0,,173.0,,,PIP-GI1,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_07_BILL16508.xlsx,PLY_MR_12MM,MR Ply 12,PLY-MR-12,12mm MR Plywood Sheet,66.66666666666667,,2008.0,,,MR Ply 12,,True
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_07_BILL16508.xlsx,CEM_OPC_50,OPC Cement 50kg Bag,CEM-OPC-50,OPC Cement 50kg Bag,95.0,,1022.0,,,OPC Cement 50kg Bag,,True
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_07_BILL16508.xlsx,GLASS-6MM,GLASS-6MM,,,0.0,,222.0,,,GLASS-6MM,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_07_BILL16508.xlsx,ENAMEL WH.,White Oil Paint 4L,PAI-OIL-W,Oil Paint (White) 4Ltr,71.42857142857143,,1703.0,,,White Oil Paint 4L,,True
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_07_BILL16508.xlsx,STL-RB-16,REBAR-16MM,STL-RB-16,16mm Steel Rebar,100.0,,,,,REBAR-16MM,,True
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_07_BILL16508.xlsx,WIR-CP7,Copper Wire 7/.029,WIR-COP-7,7/0.029 Copper Wire,94.54545454545455,,108.0,,,Copper Wire 7/.029,,True
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_07_BILL16508.xlsx,,,,,0.0,,,,,,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_07_BILL16508.xlsx,,,,,0.0,,,,,,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_07_BILL16508.xlsx,KAMRAN,,,,0.0,,,,,,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_08_BILL_14_249.xlsx,BILL/14/249,Vendor:,,,0.0,,,,,Vendor:,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_08_BILL_14_249.xlsx,SATTI_MALL,Date:,AGG-CRS-34,Coarse Aggregate 3/4 inch,60.0,,,,,Date:,,True
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_08_BILL_14_249.xlsx,ALM-W4,al_window_4,ALM-WIN-4,4ft Aluminum Window,62.5,164.2,13556.0,2604297.38,,al_window_4,,True
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_08_BILL_14_249.xlsx,GALVPIPE-2,"G.I.Pipe 2""",PIP-GI-1,"1"" GI Pipe",66.66666666666667,382.0,293.0,130953.0,,"G.I.Pipe 2""",,True
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_08_BILL_14_249.xlsx,GI_PIPE_1INCH,gi_pipe_1inch,,,0.0,361.4,169.0,71459.62,,gi_pipe_1inch,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_08_BILL_14_249.xlsx,"CER.TILE 12""","Tile 12x12""",TIL-CER-12,Ceramic Floor Tile 12x12,95.23809523809523,322.6,,32082.57,,"Tile 12x12""",,True
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_08_BILL_14_249.xlsx,,,,,0.0,,,,,,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_08_BILL_14_249.xlsx,,,,,0.0,,,,,,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_08_BILL_14_249.xlsx,,,,,0.0,,,,,,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_08_BILL_16_501.xlsx,,,,,0.0,,,,,,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_08_BILL_16_501.xlsx,REBAR 1/2 INCH,STL-RB12,,,0.0,,114.0,7736.04,,STL-RB12,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_08_BILL_16_501.xlsx,READY MIX M20,Ready Mix M20,CNC-RDY-M20,M20 Ready Mix Concrete,76.92307692307692,284.7,482.0,160553.72,,Ready Mix M20,,True
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_08_BILL_16_501.xlsx,25KVA GENSET,25KVA Genset,GEN-25KVA,25 KVA Generator,86.95652173913044,,823493.0,268427425.27,,25KVA Genset,,True
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_08_BILL_16_501.xlsx,WIR-COP-7,CopWire7,WIR-COP-7,7/0.029 Copper Wire,100.0,460.0,87.0,40020.0,,CopWire7,,True
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_08_BILL_16_501.xlsx,COPWIRE3,CopWire3,WIR-COP-7,7/0.029 Copper Wire,66.66666666666667,,50.0,16540.0,,CopWire3,,True
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_08_BILL_16_501.xlsx,MAR-W-IMP,MRB-IMP,,,0.0,284.2,694.0,197234.8,,MRB-IMP,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_08_BILL_16_501.xlsx,CBL-ARM-95,arm_cable_95,CBL-ARM-95,95mm² Armoured Cable,100.0,374.0,811.0,354877.38,,arm_cable_95,,True
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_08_BILL_16_501.xlsx,OIL-PAINT-W,Oil Paint (White) 4Ltr,PAI-OIL-W,Oil Paint (White) 4Ltr,75.75757575757575,318.9,1953.0,728689.69,,Oil Paint (White) 4Ltr,,True
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_08_BILL_16_501.xlsx,MR PLY 12,PLYWD-12,,,0.0,,2341.0,1095588.0,,PLYWD-12,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_08_BILL_16_501.xlsx,,,,,0.0,,,,,,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_08_BILL_16_501.xlsx,,,,,0.0,,,,,,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_08_BILL_16_501.xlsx,NASIR,,,,0.0,,,,,,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_09_BILL 12 105.xlsx,BILL 12 105,Vendor:,,,0.0,,,,,Vendor:,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_09_BILL 12 105.xlsx,SATTI_MALL,Date:,AGG-CRS-34,Coarse Aggregate 3/4 inch,60.0,,,,,Date:,,True
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_09_BILL 12 105.xlsx,TILE-12X12,"Cer.Tile 12""",TIL-CER-12,Ceramic Floor Tile 12x12,66.66666666666667,,77.0,,,"Cer.Tile 12""",,True
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_09_BILL 12 105.xlsx,SAND (FINE),Sand (Fine),,,0.0,,36.0,,,Sand (Fine),,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_09_BILL 12 105.xlsx,BAJRI 3/4,GRAVEL-3/4,,,0.0,,54.0,,,GRAVEL-3/4,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_09_BILL 12 105.xlsx,WIRE_7029,WIR-CP7,,,0.0,,86.0,,,WIR-CP7,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_09_BILL 12 105.xlsx,WIR-CP3,WIRE-3/029,,,0.0,,60.0,,,WIRE-3/029,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_09_BILL 12 105.xlsx,,,,,0.0,,,,,,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_09_BILL 12 105.xlsx,,,,,0.0,,,,,,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_09_BILL 12 105.xlsx,ASIF,,,,0.0,,,,,,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_09_BILL-07-968.xlsx,,,,,0.0,,,,,,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_09_BILL-07-968.xlsx,,Project: SATTI_MALL,,,0.0,,,,,Project: SATTI_MALL,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_09_BILL-07-968.xlsx,,,,,0.0,,,,,,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_09_BILL-07-968.xlsx,,Steel Bar 12,STL-RB-12,12mm Steel Rebar,69.56521739130434,,,,,Steel Bar 12,,True
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_09_BILL-07-968.xlsx,,25KVA Genset,GEN-25KVA,25 KVA Generator,86.95652173913044,,,,,25KVA Genset,,True
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_09_BILL-07-968.xlsx,,SAN-WC-STD,,,0.0,,,,,SAN-WC-STD,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_09_BILL-07-968.xlsx,,Sand (Fine),,,0.0,,,,,Sand (Fine),,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_09_BILL-07-968.xlsx,,Red Brick A-Grade,BRK-CLS-A,Class-A Red Brick,69.23076923076923,,,,,Red Brick A-Grade,,True
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_09_BILL-07-968.xlsx,,GLASS-6MM,,,0.0,,,,,GLASS-6MM,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_09_BILL-07-968.xlsx,,STL-RB16,,,0.0,,,,,STL-RB16,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_09_BILL-07-968.xlsx,,,,,0.0,,,,,,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_09_BILL-07-968.xlsx,,,,,0.0,,,,,,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_09_BILL-07-968.xlsx,,Tariq,,,0.0,,,,,Tariq,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_10_BILL-07-448.xlsx,BILL-07-448,Vendor:,,,0.0,,,,,Vendor:,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_10_BILL-07-448.xlsx,SATTI_MALL,Date:,AGG-CRS-34,Coarse Aggregate 3/4 inch,60.0,,,,,Date:,,True
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_10_BILL-07-448.xlsx,CEMENT-50,CEMENT-50,,,0.0,55.6,832.0,54123.26,,CEMENT-50,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_10_BILL-07-448.xlsx,REBAR-12MM,rebar 1/2 inch,AGG-CRS-34,Coarse Aggregate 3/4 inch,66.66666666666667,11.1,127.0,1409.7,,rebar 1/2 inch,,True
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_10_BILL-07-448.xlsx,WIRE_3029,Copper Wire 3/.029,WIR-COP-3,3/0.029 Copper Wire,80.70175438596492,88.9,,5304.66,,Copper Wire 3/.029,,True
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_10_BILL-07-448.xlsx,GLS-CLR6,Sheesha 6mm,GLS-CLR-6,6mm Clear Glass,95.0,314.4,226.0,83133.65,,Sheesha 6mm,,True
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_10_BILL-07-448.xlsx,,,,,0.0,,,,,,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_10_BILL-07-448.xlsx,,,,,0.0,,,,,,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_10_BILL-07-448.xlsx,NASIR,,,,0.0,,,,,,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_10_BILL11449.xlsx,BILL11449,Vendor:,,,0.0,,,,,Vendor:,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_10_BILL11449.xlsx,SATTI_MALL,Date:,AGG-CRS-34,Coarse Aggregate 3/4 inch,60.0,,,,,Date:,,True
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_10_BILL11449.xlsx,CBL-ARM-95,arm_cable_95,CBL-ARM-95,95mm² Armoured Cable,100.0,,895.0,,,arm_cable_95,,True
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_10_BILL11449.xlsx,CEMENT-50,CEM-OPC50,,,0.0,,955.0,,,CEM-OPC50,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_10_BILL11449.xlsx,RED BRICK A-GRADE,bricks_a,BRK-CLS-A,Class-A Red Brick,66.66666666666667,,13349.0,,,bricks_a,,True
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_10_BILL11449.xlsx,GALVPIPE-2,PIP-GI2,,,0.0,,295.0,,,PIP-GI2,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_10_BILL11449.xlsx,WHITE OIL PAINT 4L,OIL-PAINT-W,,,0.0,,1554.0,,,OIL-PAINT-W,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_10_BILL11449.xlsx,MARBLE WHT,MRB-IMP,,,0.0,,691.0,,,MRB-IMP,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_10_BILL11449.xlsx,PLY-MR12,ply_mr_12mm,PLY-MR-12,12mm MR Plywood Sheet,95.0,,2131.0,,,ply_mr_12mm,,True
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_10_BILL11449.xlsx,WIR-CP3,WIR-CP3,,,0.0,,58.0,,,WIR-CP3,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_10_BILL11449.xlsx,,,,,0.0,,,,,,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_10_BILL11449.xlsx,,,,,0.0,,,,,,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_10_BILL11449.xlsx,TARIQ,,,,0.0,,,,,,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_11_BILL16990.xlsx,,,,,0.0,,,,,,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_11_BILL16990.xlsx,CBL-ARM95,ARMD-CBL-95,CBL-ARM-95,95mm² Armoured Cable,95.0,421.8,880.0,371184.0,,ARMD-CBL-95,,True
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_11_BILL16990.xlsx,RETI (RIVER),Sand (Fine),,,0.0,,37.0,10753.0,,Sand (Fine),,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_11_BILL16990.xlsx,ALU-WIN4,ALM-W4,,,0.0,391.5,14786.0,5788719.0,,ALM-W4,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_11_BILL16990.xlsx,COPWIRE3,3/0.029 Copper Wire,WIR-COP-3,3/0.029 Copper Wire,100.0,381.2,54.0,24084.22,,3/0.029 Copper Wire,,True
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_11_BILL16990.xlsx,GRAVEL-3/4,GRAVEL-3/4,,,0.0,431.8,48.0,20726.4,,GRAVEL-3/4,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_11_BILL16990.xlsx,,,,,0.0,,,,,,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_11_BILL16990.xlsx,,,,,0.0,,,,,,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_11_BILL16990.xlsx,KAMRAN,,,,0.0,,,,,,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_11_BILL_12_329.xlsx,,Date: 2006/11/22,,,0.0,,,,,Date: 2006/11/22,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_11_BILL_12_329.xlsx,PROJECT: SATTI_MALL,,,,0.0,,,,,,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_11_BILL_12_329.xlsx,,,,,0.0,,,,,,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_11_BILL_12_329.xlsx,SAN-WC,WC-STD,,,0.0,,13307.0,4404617.0,,WC-STD,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_11_BILL_12_329.xlsx,"A.WIN 4""",Alum Window 4ft,ALM-WIN-4,4ft Aluminum Window,75.47169811320755,274.1,15765.0,5055788.21,,Alum Window 4ft,,True
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_11_BILL_12_329.xlsx,GRAVEL-3/4,AGG-CRS34,,,0.0,325.3,47.0,15289.1,,AGG-CRS34,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_11_BILL_12_329.xlsx,WIR-COP-3,3/0.029 Copper Wire,WIR-COP-3,3/0.029 Copper Wire,100.0,133.1,55.0,8564.99,,3/0.029 Copper Wire,,True
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_11_BILL_12_329.xlsx,,,,,0.0,,,,,,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_11_BILL_12_329.xlsx,,,,,0.0,,,,,,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_11_BILL_12_329.xlsx,ASIF,,,,0.0,,,,,,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_12_BILL07303.xlsx,BILL07303,Vendor:,,,0.0,,,,,Vendor:,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_12_BILL07303.xlsx,SATTI_MALL,Date:,AGG-CRS-34,Coarse Aggregate 3/4 inch,60.0,,,,,Date:,,True
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_12_BILL07303.xlsx,"G.I.PIPE 2""",gi_pipe_2inch,,,0.0,217.6,264.0,67212.29,,gi_pipe_2inch,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_12_BILL07303.xlsx,TILE-12X12,TILE-12X12,,,0.0,102.6,75.0,7695.0,,TILE-12X12,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_12_BILL07303.xlsx,SND-RVR,SAND-RIVER,SND-RVR,River Sand,100.0,179.2,35.0,7338.24,,SAND-RIVER,,True
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_12_BILL07303.xlsx,CBL-ARM95,ARMD-CBL-95,CBL-ARM-95,95mm² Armoured Cable,95.0,62.9,818.0,60199.07,,ARMD-CBL-95,,True
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_12_BILL07303.xlsx,W.C. STD.,SAN-WC,,,0.0,279.7,12461.0,4077850.0,,SAN-WC,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_12_BILL07303.xlsx,"G.I.PIPE 1""",gi_pipe_1inch,,,0.0,255.2,180.0,45936.0,,gi_pipe_1inch,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_12_BILL07303.xlsx,STL-RB12,REBAR-12MM,STL-RB-12,12mm Steel Rebar,95.0,21.2,119.0,2951.68,,REBAR-12MM,,True
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_12_BILL07303.xlsx,OIL-PAINT-W,paint_oil_w,,,0.0,,1728.0,712800.0,,paint_oil_w,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_12_BILL07303.xlsx,WIRE_3029,WIR-CP3,,,0.0,152.4,63.0,11233.4,,WIR-CP3,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_12_BILL07303.xlsx,BRICKS_A,Red Brick A-Grade,BRK-CLS-A,Class-A Red Brick,69.23076923076923,346.1,15516.0,5370087.6,,Red Brick A-Grade,,True
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_12_BILL07303.xlsx,,,,,0.0,,,,,,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_12_BILL07303.xlsx,,,,,0.0,,,,,,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_12_BILL07303.xlsx,TARIQ,,,,0.0,,,,,,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_12_BILL_11_834.xlsx,,,,,0.0,,,,,,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_12_BILL_11_834.xlsx,,"G.I.Pipe 2""",PIP-GI-1,"1"" GI Pipe",66.66666666666667,,,,,"G.I.Pipe 2""",,True
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_12_BILL_11_834.xlsx,,coarse agg,AGG-CRS-34,Coarse Aggregate 3/4 inch,80.0,,,,,coarse agg,,True
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_12_BILL_11_834.xlsx,,ply_mr_12mm,,,0.0,,,,,ply_mr_12mm,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_12_BILL_11_834.xlsx,,Ready Mix M20,CNC-RDY-M20,M20 Ready Mix Concrete,76.92307692307692,,,,,Ready Mix M20,,True
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_12_BILL_11_834.xlsx,,"Tile 12x12""",TIL-CER-12,Ceramic Floor Tile 12x12,95.23809523809523,,,,,"Tile 12x12""",,True
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_12_BILL_11_834.xlsx,,,,,0.0,,,,,,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_12_BILL_11_834.xlsx,,,,,0.0,,,,,,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_12_BILL_11_834.xlsx,,Kamran,,,0.0,,,,,Kamran,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_13_BILL_13_721.xlsx,,,,,0.0,,,,,,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_13_BILL_13_721.xlsx,ENAMEL WH.,Oil Paint (White) 4Ltr,PAI-OIL-W,Oil Paint (White) 4Ltr,100.0,366.8,1778.0,652170.4,,Oil Paint (White) 4Ltr,,True
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_13_BILL_13_721.xlsx,GLS-CLR6,Clear Glass 6,GLS-CLR-6,6mm Clear Glass,95.0,137.9,242.0,39045.01,,Clear Glass 6,,True
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_13_BILL_13_721.xlsx,ALM-WIN-4,"A.Win 4""",ALM-WIN-4,4ft Aluminum Window,100.0,393.0,14324.0,6586318.44,,"A.Win 4""",,True
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_13_BILL_13_721.xlsx,PLY-MR12,ply_mr_12mm,PLY-MR-12,12mm MR Plywood Sheet,95.0,,2447.0,377816.8,,ply_mr_12mm,,True
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_13_BILL_13_721.xlsx,STL-RB-12,rebar 1/2 inch,STL-RB-12,12mm Steel Rebar,100.0,314.7,139.0,43743.3,,rebar 1/2 inch,,True
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_13_BILL_13_721.xlsx,TOILET_STD,SAN-WC,,,0.0,262.1,12294.0,3770041.16,,SAN-WC,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_13_BILL_13_721.xlsx,TIL-CER-12,"Tile 12x12""",TIL-CER-12,Ceramic Floor Tile 12x12,100.0,403.9,75.0,35442.23,,"Tile 12x12""",,True
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_13_BILL_13_721.xlsx,,,,,0.0,,,,,,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_13_BILL_13_721.xlsx,,,,,0.0,,,,,,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_13_BILL_13_721.xlsx,ASIF,,,,0.0,,,,,,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_14_BILL_15_360.xlsx,BILL/15/360,Vendor:,,,0.0,,,,,Vendor:,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_14_BILL_15_360.xlsx,SATTI_MALL,Date:,AGG-CRS-34,Coarse Aggregate 3/4 inch,60.0,,,,,Date:,,True
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_14_BILL_15_360.xlsx,COPWIRE3,CopWire3,WIR-COP-7,7/0.029 Copper Wire,66.66666666666667,,53.0,,,CopWire3,,True
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_14_BILL_15_360.xlsx,PIP-GI1,"G.I.Pipe 1""",PIP-GI-1,"1"" GI Pipe",95.0,,157.0,,,"G.I.Pipe 1""",,True
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_14_BILL_15_360.xlsx,GENERATOR 25KVA,25KVA Genset,GEN-25KVA,25 KVA Generator,86.95652173913044,,1002138.0,,,25KVA Genset,,True
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_14_BILL_15_360.xlsx,,,,,0.0,,,,,,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_14_BILL_15_360.xlsx,,,,,0.0,,,,,,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_14_BILL_15_360.xlsx,ASIF,,,,0.0,,,,,,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_15_BILL16294.xlsx,,,,,0.0,,,,,,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_15_BILL16294.xlsx,GLS-CLR-6,6mm Clear Glass,GLS-CLR-6,6mm Clear Glass,100.0,355.4,233.0,82808.2,,6mm Clear Glass,,True
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_15_BILL16294.xlsx,REBAR-16MM,S.Bar 16mm,,,0.0,443.8,151.0,78406.15,,S.Bar 16mm,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_15_BILL16294.xlsx,COPPER WIRE 3/.029,CopWire3,WIR-COP-7,7/0.029 Copper Wire,66.66666666666667,183.3,55.0,11795.36,,CopWire3,,True
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_15_BILL16294.xlsx,RIVER_SAND,River Sand,SND-RVR,River Sand,100.0,26.8,39.0,1222.88,,River Sand,,True
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_15_BILL16294.xlsx,,,,,0.0,,,,,,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_15_BILL16294.xlsx,,,,,0.0,,,,,,,False
+SATTI_MALL,purchase_bills\SATTI_MALL_Bill_15_BILL16294.xlsx,KAMRAN,,,,0.0,,,,,,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_01_BILL_14_938.xlsx,,,,,0.0,,,,,,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_01_BILL_14_938.xlsx,GI PIPE 1IN,GalvPipe-1,,,0.0,,200.0,84120.0,,GalvPipe-1,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_01_BILL_14_938.xlsx,ARM_CABLE_95,CBL-ARM95,,,0.0,212.8,968.0,205990.4,,CBL-ARM95,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_01_BILL_14_938.xlsx,"G.I.PIPE 2""",GalvPipe-2,,,0.0,448.3,306.0,137179.8,,GalvPipe-2,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_01_BILL_14_938.xlsx,AGG-CRS-34,Bajri 3/4,AGG-CRS-34,Coarse Aggregate 3/4 inch,100.0,332.9,49.0,19085.16,,Bajri 3/4,,True
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_01_BILL_14_938.xlsx,STL-RB12,12mm Steel Rebar,STL-RB-12,12mm Steel Rebar,95.0,472.1,116.0,54763.6,,12mm Steel Rebar,,True
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_01_BILL_14_938.xlsx,GLASS-6MM,GLS-CLR6,,,0.0,,218.0,49856.6,,GLS-CLR6,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_01_BILL_14_938.xlsx,CNC-M20,RMC-M20,CNC-RDY-M20,M20 Ready Mix Concrete,60.0,78.4,447.0,35044.8,,RMC-M20,,True
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_01_BILL_14_938.xlsx,ALUM WINDOW 4FT,Alum Window 4ft,ALM-WIN-4,4ft Aluminum Window,75.0,280.2,14718.0,4825060.81,,Alum Window 4ft,,True
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_01_BILL_14_938.xlsx,BRK-A,Class A Brick,BRK-CLS-A,Class-A Red Brick,73.91304347826086,189.3,14547.0,2753747.0,,Class A Brick,,True
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_01_BILL_14_938.xlsx,WIRE_7029,Copper Wire 7/.029,WIR-COP-7,7/0.029 Copper Wire,80.70175438596492,405.6,83.0,33665.0,,Copper Wire 7/.029,,True
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_01_BILL_14_938.xlsx,,,,,0.0,,,,,,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_01_BILL_14_938.xlsx,,,,,0.0,,,,,,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_01_BILL_14_938.xlsx,NASIR,,,,0.0,,,,,,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_02_BILL-14-700.xlsx,,Date: 19-Mar-2012,,,0.0,,,,,Date: 19-Mar-2012,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_02_BILL-14-700.xlsx,PROJECT: SATTI_PLAZA,,,,0.0,,,,,,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_02_BILL-14-700.xlsx,,,,,0.0,,,,,,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_02_BILL-14-700.xlsx,ARM_CABLE_95,CBL-ARM95,,,0.0,19.5,929.0,21195.14,,CBL-ARM95,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_02_BILL-14-700.xlsx,ALM-W4,"A.Win 4""",,,0.0,124.4,14647.0,1822086.8,,"A.Win 4""",,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_02_BILL-14-700.xlsx,WHITE OIL PAINT 4L,OIL-PAINT-W,,,0.0,467.9,2065.0,1130469.8,,OIL-PAINT-W,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_02_BILL-14-700.xlsx,GENSET-25,Generator 25KVA,GEN-25KVA,25 KVA Generator,74.50980392156863,284.0,967986.0,321642388.08,,Generator 25KVA,,True
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_02_BILL-14-700.xlsx,PLY-MR12,MR Ply 12,PLY-MR-12,12mm MR Plywood Sheet,95.0,113.3,2217.0,293887.74,,MR Ply 12,,True
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_02_BILL-14-700.xlsx,GI PIPE 1IN,"1"" GI Pipe",PIP-GI-1,"1"" GI Pipe",100.0,15.8,185.0,2923.0,,"1"" GI Pipe",,True
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_02_BILL-14-700.xlsx,"C.AGG 3/4""",Bajri 3/4,,,0.0,295.1,52.0,17953.88,,Bajri 3/4,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_02_BILL-14-700.xlsx,CEM_OPC_50,OPC 50 KG,CEM-OPC-50,OPC Cement 50kg Bag,95.0,348.3,1072.0,373377.6,,OPC 50 KG,,True
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_02_BILL-14-700.xlsx,STL-RB12,STL-RB12,STL-RB-12,12mm Steel Rebar,95.0,365.8,148.0,54138.0,,STL-RB12,,True
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_02_BILL-14-700.xlsx,RIVER_SAND,SND-RV,,,0.0,321.6,31.0,11664.43,,SND-RV,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_02_BILL-14-700.xlsx,,,,,0.0,,,,,,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_02_BILL-14-700.xlsx,,,,,0.0,,,,,,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_02_BILL-14-700.xlsx,NASIR,,,,0.0,,,,,,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_03_BILL-12-215.xlsx,,"Date: August 17, 2011",,,0.0,,,,,"Date: August 17, 2011",,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_03_BILL-12-215.xlsx,PROJECT: SATTI_PLAZA,,,,0.0,,,,,,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_03_BILL-12-215.xlsx,,,,,0.0,,,,,,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_03_BILL-12-215.xlsx,CEM_OPC_50,OPC Cement 50kg Bag,CEM-OPC-50,OPC Cement 50kg Bag,95.0,218.5,994.0,217189.0,,OPC Cement 50kg Bag,,True
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_03_BILL-12-215.xlsx,ARM_CABLE_95,AC-95sq,,,0.0,463.2,860.0,398352.0,,AC-95sq,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_03_BILL-12-215.xlsx,CNC-RDY-M20,RMC-M20,CNC-RDY-M20,M20 Ready Mix Concrete,100.0,6.9,368.0,2539.2,,RMC-M20,,True
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_03_BILL-12-215.xlsx,PLY-MR-12,Plywood 12mm MR,PLY-MR-12,12mm MR Plywood Sheet,100.0,422.7,2074.0,876679.7999999999,,Plywood 12mm MR,,True
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_03_BILL-12-215.xlsx,ALU-WIN4,ALM-W4,,,0.0,225.7,13470.0,3557009.43,,ALM-W4,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_03_BILL-12-215.xlsx,,,,,0.0,,,,,,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_03_BILL-12-215.xlsx,,,,,0.0,,,,,,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_03_BILL-12-215.xlsx,NASIR,,,,0.0,,,,,,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_04_BILL_16_063.xlsx,,,,,0.0,,,,,,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_04_BILL_16_063.xlsx,"G.I.PIPE 1""",PIP-GI1,,,0.0,,187.0,,,PIP-GI1,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_04_BILL_16_063.xlsx,BAJRI 3/4,coarse agg,AGG-CRS-34,Coarse Aggregate 3/4 inch,80.0,,52.0,,,coarse agg,,True
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_04_BILL_16_063.xlsx,STEEL BAR 16,rebar 5/8 inch,AGG-CRS-34,Coarse Aggregate 3/4 inch,66.66666666666667,,125.0,,,rebar 5/8 inch,,True
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_04_BILL_16_063.xlsx,SAN-WC-STD,WC-STD,SAN-WC-STD,Standard WC/Commode,100.0,,13926.0,,,WC-STD,,True
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_04_BILL_16_063.xlsx,CEM-OPC50,CEMENT-50,CEM-OPC-50,OPC Cement 50kg Bag,95.0,,984.0,,,CEMENT-50,,True
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_04_BILL_16_063.xlsx,PLY-MR-12,ply_mr_12mm,PLY-MR-12,12mm MR Plywood Sheet,100.0,,2047.0,,,ply_mr_12mm,,True
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_04_BILL_16_063.xlsx,,,,,0.0,,,,,,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_04_BILL_16_063.xlsx,,,,,0.0,,,,,,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_04_BILL_16_063.xlsx,KAMRAN,,,,0.0,,,,,,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_05_BILL_12_998.xlsx,,,,,0.0,,,,,,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_05_BILL_12_998.xlsx,STL-RB-16,S.Bar 16mm,STL-RB-16,16mm Steel Rebar,100.0,,135.0,,,S.Bar 16mm,,True
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_05_BILL_12_998.xlsx,ENAMEL WH.,Enamel Wh.,,,0.0,49.7,1545.0,89840.21,,Enamel Wh.,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_05_BILL_12_998.xlsx,GALVPIPE-1,"G.I.Pipe 1""",PIP-GI-1,"1"" GI Pipe",66.66666666666667,259.1,200.0,51820.00000000001,,"G.I.Pipe 1""",,True
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_05_BILL_12_998.xlsx,WIR-CP7,WIRE-7/029,,,0.0,306.1,108.0,33058.8,,WIRE-7/029,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_05_BILL_12_998.xlsx,MRB-IMP,White Marble Imp.,MRB-IMP-W,Imported White Marble,85.71428571428572,154.6,684.0,105746.4,,White Marble Imp.,,True
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_05_BILL_12_998.xlsx,TOILET_STD,W.C. Std.,,,0.0,298.9,11685.0,3492646.5,,W.C. Std.,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_05_BILL_12_998.xlsx,GALVPIPE-2,GalvPipe-2,,,0.0,476.3,324.0,180555.8,,GalvPipe-2,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_05_BILL_12_998.xlsx,GENSET-25,gen_25kva,,,0.0,74.3,814755.0,70827466.91,,gen_25kva,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_05_BILL_12_998.xlsx,CBL-ARM95,ARMD-CBL-95,CBL-ARM-95,95mm² Armoured Cable,95.0,364.6,779.0,332307.38,,ARMD-CBL-95,,True
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_05_BILL_12_998.xlsx,MR PLY 12,PLY-MR12,,,0.0,150.4,2181.0,328022.4,,PLY-MR12,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_05_BILL_12_998.xlsx,,,,,0.0,,,,,,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_05_BILL_12_998.xlsx,,,,,0.0,,,,,,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_05_BILL_12_998.xlsx,TARIQ,,,,0.0,,,,,,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_06_BILL_12_431.xlsx,,,,,0.0,,,,,,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_06_BILL_12_431.xlsx,GI PIPE 1IN,GalvPipe-1,,,0.0,,157.0,,,GalvPipe-1,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_06_BILL_12_431.xlsx,PLY-MR12,PLY-MR12,PLY-MR-12,12mm MR Plywood Sheet,95.0,,1975.0,,,PLY-MR12,,True
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_06_BILL_12_431.xlsx,COMMODE STANDARD,Commode Standard,SAN-WC-STD,Standard WC/Commode,66.66666666666667,,10766.0,,,Commode Standard,,True
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_06_BILL_12_431.xlsx,GLS-CLR6,6mm Clear Glass,GLS-CLR-6,6mm Clear Glass,95.0,,228.0,,,6mm Clear Glass,,True
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_06_BILL_12_431.xlsx,COARSE AGG,GRAVEL-3/4,,,0.0,,60.0,,,GRAVEL-3/4,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_06_BILL_12_431.xlsx,,,,,0.0,,,,,,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_06_BILL_12_431.xlsx,,,,,0.0,,,,,,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_06_BILL_12_431.xlsx,TARIQ,,,,0.0,,,,,,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_07_BILL13769.xlsx,,,,,0.0,,,,,,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_07_BILL13769.xlsx,,Project: SATTI_PLAZA,,,0.0,,,,,Project: SATTI_PLAZA,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_07_BILL13769.xlsx,,,,,0.0,,,,,,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_07_BILL13769.xlsx,,CBL-ARM95,,,0.0,,,,,CBL-ARM95,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_07_BILL13769.xlsx,,Copper Wire 7/.029,WIR-COP-7,7/0.029 Copper Wire,76.59574468085107,,,,,Copper Wire 7/.029,,True
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_07_BILL13769.xlsx,,al_window_4,ALM-WIN-4,4ft Aluminum Window,62.5,,,,,al_window_4,,True
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_07_BILL13769.xlsx,,AGG-CRS34,,,0.0,,,,,AGG-CRS34,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_07_BILL13769.xlsx,,,,,0.0,,,,,,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_07_BILL13769.xlsx,,,,,0.0,,,,,,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_07_BILL13769.xlsx,,Tariq,,,0.0,,,,,Tariq,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_08_BILL_15_304.xlsx,,Date: 06/11/13,,,0.0,,,,,Date: 06/11/13,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_08_BILL_15_304.xlsx,PROJECT: SATTI_PLAZA,,,,0.0,,,,,,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_08_BILL_15_304.xlsx,,,,,0.0,,,,,,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_08_BILL_15_304.xlsx,COMMODE STANDARD,toilet_std,,,0.0,340.8,11305.0,4507710.48,,toilet_std,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_08_BILL_15_304.xlsx,RETI (RIVER),River Sand,SND-RVR,River Sand,100.0,444.4,34.0,17678.23,,River Sand,,True
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_08_BILL_15_304.xlsx,BRK-A,bricks_a,BRK-CLS-A,Class-A Red Brick,66.66666666666667,437.2,14080.0,6155776.0,,bricks_a,,True
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_08_BILL_15_304.xlsx,"C.AGG 3/4""",Bajri 3/4,,,0.0,78.6,60.0,4716.0,,Bajri 3/4,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_08_BILL_15_304.xlsx,REBAR 5/8 INCH,STL-RB16,,,0.0,42.1,140.0,6895.98,,STL-RB16,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_08_BILL_15_304.xlsx,READY MIX M20,Ready Mix M20,CNC-RDY-M20,M20 Ready Mix Concrete,76.92307692307692,401.6,413.0,165860.8,,Ready Mix M20,,True
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_08_BILL_15_304.xlsx,CEMENT BAG 50KG,OPC Cement 50kg Bag,CEM-OPC-50,OPC Cement 50kg Bag,100.0,280.8,808.0,265457.09,,OPC Cement 50kg Bag,,True
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_08_BILL_15_304.xlsx,ALU-WIN4,ALU-WIN4,,,0.0,413.5,15877.0,6565139.5,,ALU-WIN4,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_08_BILL_15_304.xlsx,"G.I.PIPE 1""","1"" GI Pipe",PIP-GI-1,"1"" GI Pipe",73.17073170731707,53.2,189.0,11764.12,,"1"" GI Pipe",,True
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_08_BILL_15_304.xlsx,WIR-CP3,Copper Wire 3/.029,WIR-COP-3,3/0.029 Copper Wire,94.54545454545455,74.5,59.0,4395.5,,Copper Wire 3/.029,,True
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_08_BILL_15_304.xlsx,,,,,0.0,,,,,,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_08_BILL_15_304.xlsx,,,,,0.0,,,,,,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_08_BILL_15_304.xlsx,TARIQ,,,,0.0,,,,,,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_09_BILL-14-048.xlsx,,,,,0.0,,,,,,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_09_BILL-14-048.xlsx,,25KVA Genset,GEN-25KVA,25 KVA Generator,86.95652173913044,,,,,25KVA Genset,,True
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_09_BILL-14-048.xlsx,,"Tile 12x12""",TIL-CER-12,Ceramic Floor Tile 12x12,95.23809523809523,,,,,"Tile 12x12""",,True
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_09_BILL-14-048.xlsx,,W.C. Std.,,,0.0,,,,,W.C. Std.,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_09_BILL-14-048.xlsx,,GalvPipe-2,,,0.0,,,,,GalvPipe-2,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_09_BILL-14-048.xlsx,,WIR-COP-7,,,0.0,,,,,WIR-COP-7,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_09_BILL-14-048.xlsx,,PIP-GI-1,,,0.0,,,,,PIP-GI-1,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_09_BILL-14-048.xlsx,,river_sand,SND-RVR,River Sand,73.6842105263158,,,,,river_sand,,True
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_09_BILL-14-048.xlsx,,Bajri 3/4,,,0.0,,,,,Bajri 3/4,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_09_BILL-14-048.xlsx,,,,,0.0,,,,,,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_09_BILL-14-048.xlsx,,,,,0.0,,,,,,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_09_BILL-14-048.xlsx,,Kamran,,,0.0,,,,,Kamran,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_10_BILL 17 560.xlsx,,BILL 17 560,,,0.0,,,,,BILL 17 560,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_10_BILL 17 560.xlsx,,SATTI_PLAZA,,,0.0,,,,,SATTI_PLAZA,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_10_BILL 17 560.xlsx,,ALU-WIN4,,,0.0,,,,,ALU-WIN4,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_10_BILL 17 560.xlsx,,MRB-IMP,,,0.0,,,,,MRB-IMP,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_10_BILL 17 560.xlsx,,AC-95sq,,,0.0,,,,,AC-95sq,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_10_BILL 17 560.xlsx,,OIL-PAINT-W,,,0.0,,,,,OIL-PAINT-W,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_10_BILL 17 560.xlsx,,CEMENT-50,,,0.0,,,,,CEMENT-50,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_10_BILL 17 560.xlsx,,TIL-CER12,,,0.0,,,,,TIL-CER12,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_10_BILL 17 560.xlsx,,GEN-25K,,,0.0,,,,,GEN-25K,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_10_BILL 17 560.xlsx,,,,,0.0,,,,,,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_10_BILL 17 560.xlsx,,,,,0.0,,,,,,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_10_BILL 17 560.xlsx,,Asif,,,0.0,,,,,Asif,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_11_BILL-07-056.xlsx,,,,,0.0,,,,,,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_11_BILL-07-056.xlsx,,Copper Wire 3/.029,WIR-COP-3,3/0.029 Copper Wire,76.59574468085107,,,,,Copper Wire 3/.029,,True
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_11_BILL-07-056.xlsx,,M20 Concrete,CNC-RDY-M20,M20 Ready Mix Concrete,85.71428571428572,,,,,M20 Concrete,,True
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_11_BILL-07-056.xlsx,,CEM-OPC-50,,,0.0,,,,,CEM-OPC-50,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_11_BILL-07-056.xlsx,,MRB-IMP,,,0.0,,,,,MRB-IMP,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_11_BILL-07-056.xlsx,,,,,0.0,,,,,,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_11_BILL-07-056.xlsx,,,,,0.0,,,,,,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_11_BILL-07-056.xlsx,,Kamran,,,0.0,,,,,Kamran,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_12_BILL-08-688.xlsx,BILL-08-688,Vendor:,,,0.0,,,,,Vendor:,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_12_BILL-08-688.xlsx,SATTI_PLAZA,Date:,AGG-CRS-34,Coarse Aggregate 3/4 inch,60.0,,,,,Date:,,True
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_12_BILL-08-688.xlsx,COPPER WIRE 7/.029,CopWire7,WIR-COP-7,7/0.029 Copper Wire,66.66666666666667,58.9,99.0,6822.39,,CopWire7,,True
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_12_BILL-08-688.xlsx,ENAMEL WH.,Oil Paint (White) 4Ltr,PAI-OIL-W,Oil Paint (White) 4Ltr,100.0,446.6,1989.0,888287.4,,Oil Paint (White) 4Ltr,,True
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_12_BILL-08-688.xlsx,GRAVEL-3/4,coarse agg,AGG-CRS-34,Coarse Aggregate 3/4 inch,80.0,447.5,56.0,25060.0,,coarse agg,,True
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_12_BILL-08-688.xlsx,PLY-MR12,Plywood 12mm MR,PLY-MR-12,12mm MR Plywood Sheet,95.0,,1930.0,571525.11,,Plywood 12mm MR,,True
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_12_BILL-08-688.xlsx,ALM-W4,Alum Window 4ft,ALM-WIN-4,4ft Aluminum Window,86.27450980392157,83.8,14789.0,1450002.0,,Alum Window 4ft,,True
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_12_BILL-08-688.xlsx,PIP-GI2,"2"" GI Pipe",PIP-GI-2,"2"" GI Pipe",95.0,135.9,285.0,38731.5,,"2"" GI Pipe",,True
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_12_BILL-08-688.xlsx,GLS-CLR-6,Sheesha 6mm,GLS-CLR-6,6mm Clear Glass,100.0,165.4,233.0,38538.200000000004,,Sheesha 6mm,,True
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_12_BILL-08-688.xlsx,SAND-RIVER,river_sand,SND-RVR,River Sand,73.6842105263158,328.4,39.0,14984.89,,river_sand,,True
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_12_BILL-08-688.xlsx,ARMOURED CABLE 95,arm_cable_95,,,0.0,8.3,947.0,7860.1,,arm_cable_95,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_12_BILL-08-688.xlsx,,,,,0.0,,,,,,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_12_BILL-08-688.xlsx,,,,,0.0,,,,,,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_12_BILL-08-688.xlsx,NASIR,,,,0.0,,,,,,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_13_BILL 07 494.xlsx,,,,,0.0,,,,,,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_13_BILL 07 494.xlsx,CEMENT BAG 50KG,OPC 50 KG,CEM-OPC-50,OPC Cement 50kg Bag,61.53846153846154,,974.0,,,OPC 50 KG,,True
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_13_BILL 07 494.xlsx,"G.I.PIPE 1""",gi_pipe_1inch,,,0.0,,165.0,,,gi_pipe_1inch,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_13_BILL 07 494.xlsx,CLEAR GLASS 6,GLS-CLR6,,,0.0,,199.0,,,GLS-CLR6,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_13_BILL 07 494.xlsx,ALM-WIN-4,Alum Window 4ft,ALM-WIN-4,4ft Aluminum Window,100.0,,16249.0,,,Alum Window 4ft,,True
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_13_BILL 07 494.xlsx,25KVA GENSET,GENSET-25,,,0.0,,1006328.0,,,GENSET-25,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_13_BILL 07 494.xlsx,RMC_M20,rmc_m20,,,0.0,,411.0,,,rmc_m20,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_13_BILL 07 494.xlsx,RED BRICK A-GRADE,Class A Brick,BRK-CLS-A,Class-A Red Brick,66.66666666666667,,11923.0,,,Class A Brick,,True
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_13_BILL 07 494.xlsx,,,,,0.0,,,,,,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_13_BILL 07 494.xlsx,,,,,0.0,,,,,,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_13_BILL 07 494.xlsx,NASIR,,,,0.0,,,,,,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_14_BILL 07 159.xlsx,BILL 07 159,Vendor:,,,0.0,,,,,Vendor:,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_14_BILL 07 159.xlsx,SATTI_PLAZA,Date:,AGG-CRS-34,Coarse Aggregate 3/4 inch,60.0,,,,,Date:,,True
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_14_BILL 07 159.xlsx,GI_PIPE_1INCH,gi_pipe_1inch,,,0.0,350.0,191.0,78214.5,,gi_pipe_1inch,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_14_BILL 07 159.xlsx,GEN-25KVA,GENSET-25,GEN-25KVA,25 KVA Generator,100.0,114.8,830311.0,111524052.28,,GENSET-25,,True
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_14_BILL 07 159.xlsx,TIL-CER12,"Tile 12x12""",TIL-CER-12,Ceramic Floor Tile 12x12,95.0,249.7,73.0,18228.1,,"Tile 12x12""",,True
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_14_BILL 07 159.xlsx,PLY_MR_12MM,PLY-MR12,,,0.0,309.5,2315.0,838296.23,,PLY-MR12,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_14_BILL 07 159.xlsx,,,,,0.0,,,,,,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_14_BILL 07 159.xlsx,,,,,0.0,,,,,,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_14_BILL 07 159.xlsx,,,,,0.0,,,,,,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_15_BILL-07-942.xlsx,,,,,0.0,,,,,,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_15_BILL-07-942.xlsx,WHITE MARBLE IMP.,Imported White Marble,MRB-IMP-W,Imported White Marble,100.0,132.6,656.0,86985.6,,Imported White Marble,,True
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_15_BILL-07-942.xlsx,AL_WINDOW_4,4ft Aluminum Window,ALM-WIN-4,4ft Aluminum Window,86.66666666666667,351.9,13471.0,4740444.899999999,,4ft Aluminum Window,,True
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_15_BILL-07-942.xlsx,PIP-GI2,gi_pipe_2inch,PIP-GI-2,"2"" GI Pipe",95.0,138.2,352.0,48646.4,,gi_pipe_2inch,,True
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_15_BILL-07-942.xlsx,PLY-MR12,PLY-MR12,PLY-MR-12,12mm MR Plywood Sheet,95.0,,2035.0,214489.0,,PLY-MR12,,True
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_15_BILL-07-942.xlsx,6MM_GLASS,6mm Clear Glass,GLS-CLR-6,6mm Clear Glass,100.0,383.3,223.0,100006.8,,6mm Clear Glass,,True
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_15_BILL-07-942.xlsx,25KVA GENSET,GEN-25K,,,0.0,492.3,1068562.0,615482094.94,,GEN-25K,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_15_BILL-07-942.xlsx,ARM_CABLE_95,ARMD-CBL-95,,,0.0,199.9,898.0,210027.0,,ARMD-CBL-95,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_15_BILL-07-942.xlsx,COPWIRE3,3/0.029 Copper Wire,WIR-COP-3,3/0.029 Copper Wire,100.0,166.1,57.0,11077.21,,3/0.029 Copper Wire,,True
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_15_BILL-07-942.xlsx,STL-RB12,rebar 1/2 inch,STL-RB-12,12mm Steel Rebar,95.0,351.9,,43987.5,,rebar 1/2 inch,,True
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_15_BILL-07-942.xlsx,,,,,0.0,,,,,,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_15_BILL-07-942.xlsx,,,,,0.0,,,,,,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_15_BILL-07-942.xlsx,KAMRAN,,,,0.0,,,,,,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_16_BILL14201.xlsx,,Date: 2012/02/01,,,0.0,,,,,Date: 2012/02/01,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_16_BILL14201.xlsx,PROJECT: SATTI_PLAZA,,,,0.0,,,,,,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_16_BILL14201.xlsx,,,,,0.0,,,,,,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_16_BILL14201.xlsx,WIRE-7/029,wire_7029,,,0.0,,,,,wire_7029,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_16_BILL14201.xlsx,ENAMEL WH.,paint_oil_w,,,0.0,,1928.0,,,paint_oil_w,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_16_BILL14201.xlsx,MRB-IMP,Marble Wht,MRB-IMP-W,Imported White Marble,73.46938775510203,,647.0,,,Marble Wht,,True
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_16_BILL14201.xlsx,CNC-M20,RMC-M20,CNC-RDY-M20,M20 Ready Mix Concrete,60.0,,394.0,,,RMC-M20,,True
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_16_BILL14201.xlsx,ARMD-CBL-95,AC-95sq,,,0.0,,969.0,,,AC-95sq,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_16_BILL14201.xlsx,S.BAR 12MM,S.Bar 12mm,,,0.0,,119.0,,,S.Bar 12mm,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_16_BILL14201.xlsx,"G.I.PIPE 1""",gi_pipe_1inch,,,0.0,,157.0,,,gi_pipe_1inch,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_16_BILL14201.xlsx,STL-RB16,S.Bar 16mm,STL-RB-16,16mm Steel Rebar,95.0,,145.0,,,S.Bar 16mm,,True
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_16_BILL14201.xlsx,,,,,0.0,,,,,,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_16_BILL14201.xlsx,,,,,0.0,,,,,,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_16_BILL14201.xlsx,NASIR,,,,0.0,,,,,,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_17_BILL 16 456.xlsx,,,,,0.0,,,,,,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_17_BILL 16 456.xlsx,ALU-WIN4,ALM-W4,,,0.0,,14763.0,,,ALM-W4,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_17_BILL 16 456.xlsx,WIRE-3/029,3/0.029 Copper Wire,WIR-COP-3,3/0.029 Copper Wire,84.7457627118644,,51.0,,,3/0.029 Copper Wire,,True
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_17_BILL 16 456.xlsx,S.BAR 12MM,Steel Bar 12,STL-RB-12,12mm Steel Rebar,69.56521739130434,,127.0,,,Steel Bar 12,,True
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_17_BILL 16 456.xlsx,WC-STD,W.C. Std.,,,0.0,,11329.0,,,W.C. Std.,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_17_BILL 16 456.xlsx,MAR-W-IMP,MRB-IMP,,,0.0,,726.0,,,MRB-IMP,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_17_BILL 16 456.xlsx,READY MIX M20,RMC-M20,CNC-RDY-M20,M20 Ready Mix Concrete,60.0,,457.0,,,RMC-M20,,True
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_17_BILL 16 456.xlsx,BRK-CLS-A,Red Brick A-Grade,BRK-CLS-A,Class-A Red Brick,100.0,,12707.0,,,Red Brick A-Grade,,True
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_17_BILL 16 456.xlsx,TIL-CER12,"Cer.Tile 12""",TIL-CER-12,Ceramic Floor Tile 12x12,95.0,,84.0,,,"Cer.Tile 12""",,True
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_17_BILL 16 456.xlsx,CBL-ARM95,Armoured Cable 95,CBL-ARM-95,95mm² Armoured Cable,95.0,,968.0,,,Armoured Cable 95,,True
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_17_BILL 16 456.xlsx,WIR-COP-7,WIRE-7/029,WIR-COP-7,7/0.029 Copper Wire,100.0,,89.0,,,WIRE-7/029,,True
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_17_BILL 16 456.xlsx,,,,,0.0,,,,,,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_17_BILL 16 456.xlsx,,,,,0.0,,,,,,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_17_BILL 16 456.xlsx,KAMRAN,,,,0.0,,,,,,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_18_BILL 17 123.xlsx,,,,,0.0,,,,,,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_18_BILL 17 123.xlsx,GI PIPE 2IN,GalvPipe-2,,,0.0,,347.0,,,GalvPipe-2,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_18_BILL 17 123.xlsx,PLY-MR12,MR Ply 12,PLY-MR-12,12mm MR Plywood Sheet,95.0,,2353.0,,,MR Ply 12,,True
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_18_BILL 17 123.xlsx,CBL-ARM95,Armoured Cable 95,CBL-ARM-95,95mm² Armoured Cable,95.0,,790.0,,,Armoured Cable 95,,True
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_18_BILL 17 123.xlsx,PAI-OIL-W,paint_oil_w,PAI-OIL-W,Oil Paint (White) 4Ltr,100.0,,1949.0,,,paint_oil_w,,True
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_18_BILL 17 123.xlsx,6MM_GLASS,Sheesha 6mm,,,0.0,,223.0,,,Sheesha 6mm,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_18_BILL 17 123.xlsx,GEN-25KVA,25 KVA Generator,GEN-25KVA,25 KVA Generator,100.0,,844486.0,,,25 KVA Generator,,True
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_18_BILL 17 123.xlsx,CLASS A BRICK,bricks_a,BRK-CLS-A,Class-A Red Brick,66.66666666666667,,14521.0,,,bricks_a,,True
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_18_BILL 17 123.xlsx,STL-RB12,S.Bar 12mm,STL-RB-12,12mm Steel Rebar,95.0,,145.0,,,S.Bar 12mm,,True
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_18_BILL 17 123.xlsx,ALUM WINDOW 4FT,ALU-WIN4,,,0.0,,12579.0,,,ALU-WIN4,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_18_BILL 17 123.xlsx,PIP-GI1,gi_pipe_1inch,PIP-GI-1,"1"" GI Pipe",95.0,,192.0,,,gi_pipe_1inch,,True
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_18_BILL 17 123.xlsx,,,,,0.0,,,,,,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_18_BILL 17 123.xlsx,,,,,0.0,,,,,,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_18_BILL 17 123.xlsx,NASIR,,,,0.0,,,,,,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_19_BILL-18-591.xlsx,,,,,0.0,,,,,,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_19_BILL-18-591.xlsx,,Project: SATTI_PLAZA,,,0.0,,,,,Project: SATTI_PLAZA,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_19_BILL-18-591.xlsx,,,,,0.0,,,,,,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_19_BILL-18-591.xlsx,,RMC-M20,CNC-RDY-M20,M20 Ready Mix Concrete,60.0,,,,,RMC-M20,,True
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_19_BILL-18-591.xlsx,,GI PIPE 2IN,,,0.0,,,,,GI PIPE 2IN,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_19_BILL-18-591.xlsx,,arm_cable_95,,,0.0,,,,,arm_cable_95,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_19_BILL-18-591.xlsx,,gi_pipe_1inch,,,0.0,,,,,gi_pipe_1inch,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_19_BILL-18-591.xlsx,,"Cer.Tile 12""",TIL-CER-12,Ceramic Floor Tile 12x12,66.66666666666667,,,,,"Cer.Tile 12""",,True
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_19_BILL-18-591.xlsx,,al_window_4,ALM-WIN-4,4ft Aluminum Window,62.5,,,,,al_window_4,,True
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_19_BILL-18-591.xlsx,,WIR-CP7,,,0.0,,,,,WIR-CP7,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_19_BILL-18-591.xlsx,,paint_oil_w,,,0.0,,,,,paint_oil_w,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_19_BILL-18-591.xlsx,,,,,0.0,,,,,,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_19_BILL-18-591.xlsx,,,,,0.0,,,,,,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_19_BILL-18-591.xlsx,,Asif,,,0.0,,,,,Asif,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_20_BILL_14_297.xlsx,BILL/14/297,Vendor:,,,0.0,,,,,Vendor:,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_20_BILL_14_297.xlsx,SATTI_PLAZA,Date:,AGG-CRS-34,Coarse Aggregate 3/4 inch,60.0,,,,,Date:,,True
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_20_BILL_14_297.xlsx,GI_PIPE_2INCH,"2"" GI Pipe",PIP-GI-2,"2"" GI Pipe",100.0,,302.0,,,"2"" GI Pipe",,True
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_20_BILL_14_297.xlsx,CEM-OPC50,CEMENT-50,CEM-OPC-50,OPC Cement 50kg Bag,95.0,,1090.0,,,CEMENT-50,,True
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_20_BILL_14_297.xlsx,WIRE-7/029,WIR-CP7,,,0.0,,105.0,,,WIR-CP7,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_20_BILL_14_297.xlsx,WC-STD,Standard WC/Commode,SAN-WC-STD,Standard WC/Commode,100.0,,13641.0,,,Standard WC/Commode,,True
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_20_BILL_14_297.xlsx,MR PLY 12,MR Ply 12,PLY-MR-12,12mm MR Plywood Sheet,66.66666666666667,,2232.0,,,MR Ply 12,,True
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_20_BILL_14_297.xlsx,"A.WIN 4""",al_window_4,ALM-WIN-4,4ft Aluminum Window,62.5,,13066.0,,,al_window_4,,True
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_20_BILL_14_297.xlsx,,,,,0.0,,,,,,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_20_BILL_14_297.xlsx,,,,,0.0,,,,,,,False
+SATTI_PLAZA,purchase_bills\SATTI_PLAZA_Bill_20_BILL_14_297.xlsx,TARIQ,,,,0.0,,,,,,,False

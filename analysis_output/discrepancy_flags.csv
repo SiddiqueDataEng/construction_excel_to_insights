@@ -1,0 +1,14 @@
+source_file,item_code,item_name,field,existing_value,new_value,note
+purchase_bills\SATTI_APTS_Bill_01_BILL 07 020.xlsx,AGG-CRS-34,Coarse Aggregate 3/4 inch,rate,55.0,123.0,Rate deviation 123.6% from standard
+purchase_bills\SATTI_APTS_Bill_03_BILL_15_093.xlsx,WIR-COP-7,7/0.029 Copper Wire,rate,95.0,58.0,Rate deviation 38.9% from standard
+purchase_bills\SATTI_APTS_Bill_08_BILL 15 530.xlsx,PIP-GI-1,"1"" GI Pipe",rate,180.0,326.0,Rate deviation 81.1% from standard
+purchase_bills\SATTI_APTS_Bill_22_BILL 17 874.xlsx,PIP-GI-1,"1"" GI Pipe",rate,180.0,334.0,Rate deviation 85.6% from standard
+purchase_bills\SATTI_MALL_Bill_02_BILL_06_147.xlsx,WIR-COP-7,7/0.029 Copper Wire,rate,95.0,52.0,Rate deviation 45.3% from standard
+purchase_bills\SATTI_MALL_Bill_08_BILL_14_249.xlsx,PIP-GI-1,"1"" GI Pipe",rate,180.0,293.0,Rate deviation 62.8% from standard
+purchase_bills\SATTI_MALL_Bill_08_BILL_16_501.xlsx,WIR-COP-7,7/0.029 Copper Wire,rate,95.0,50.0,Rate deviation 47.4% from standard
+purchase_bills\SATTI_MALL_Bill_10_BILL-07-448.xlsx,AGG-CRS-34,Coarse Aggregate 3/4 inch,rate,55.0,127.0,Rate deviation 130.9% from standard
+purchase_bills\SATTI_MALL_Bill_14_BILL_15_360.xlsx,WIR-COP-7,7/0.029 Copper Wire,rate,95.0,53.0,Rate deviation 44.2% from standard
+purchase_bills\SATTI_MALL_Bill_15_BILL16294.xlsx,WIR-COP-7,7/0.029 Copper Wire,rate,95.0,55.0,Rate deviation 42.1% from standard
+purchase_bills\SATTI_PLAZA_Bill_04_BILL_16_063.xlsx,AGG-CRS-34,Coarse Aggregate 3/4 inch,rate,55.0,125.0,Rate deviation 127.3% from standard
+National Paint House,AGG-CRS-34,Coarse Aggregate 3/4 inch,quoted_rate,55.0,120.0,Vendor quote +118.2% vs standard
+item_masters\Consolidated_Items_OLD.xlsx,WIR-COP-7,7/0.029 Copper Wire,std_rate,95.0,55.0,Item master conflict: 42.1% rate difference between item_masters\Consolidated_Items_OLD.xlsx and item_masters\Consolidated_Items_OLD.xlsx

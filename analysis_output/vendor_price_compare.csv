@@ -1,0 +1,46 @@
+canon_code,canon_name,vendor,quoted_rate,std_rate,pct_vs_std
+AGG-CRS-34,Coarse Aggregate 3/4 inch,Bismillah Timber Mart,62.0,55,12.7
+AGG-CRS-34,Coarse Aggregate 3/4 inch,Crown Cement Pvt Ltd,47.0,55,-14.5
+AGG-CRS-34,Coarse Aggregate 3/4 inch,Karachi Sanitary Depot,50.0,55,-9.1
+AGG-CRS-34,Coarse Aggregate 3/4 inch,National Paint House,120.0,55,118.2
+ALM-WIN-4,4ft Aluminum Window,Allied Cables & Wires,13573.0,14500,-6.4
+ALM-WIN-4,4ft Aluminum Window,Hafiz Glass & Aluminum,16279.0,14500,12.3
+ALM-WIN-4,4ft Aluminum Window,Metro Plumbing Supplies,15870.0,14500,9.4
+ALM-WIN-4,4ft Aluminum Window,National Paint House,13974.0,14500,-3.6
+BRK-CLS-A,Class-A Red Brick,Tariq & Sons Electricals,13518.0,14000,-3.4
+CBL-ARM-95,95mm² Armoured Cable,Allied Cables & Wires,830.0,850,-2.4
+CBL-ARM-95,95mm² Armoured Cable,Siemens Pakistan (Electro),932.0,850,9.6
+CEM-OPC-50,OPC Cement 50kg Bag,Hafiz Glass & Aluminum,977.0,950,2.8
+CNC-RDY-M20,M20 Ready Mix Concrete,Allied Cables & Wires,464.0,420,10.5
+CNC-RDY-M20,M20 Ready Mix Concrete,Crown Cement Pvt Ltd,377.0,420,-10.2
+GEN-25KVA,25 KVA Generator,Allied Cables & Wires,960275.0,950000,1.1
+GLS-CLR-6,6mm Clear Glass,Bismillah Timber Mart,243.0,220,10.5
+GLS-CLR-6,6mm Clear Glass,Karachi Sanitary Depot,207.0,220,-5.9
+GLS-CLR-6,6mm Clear Glass,Siemens Pakistan (Electro),210.0,220,-4.5
+MRB-IMP-W,Imported White Marble,National Paint House,601.0,680,-11.6
+MRB-IMP-W,Imported White Marble,Tariq & Sons Electricals,714.0,680,5.0
+PAI-OIL-W,Oil Paint (White) 4Ltr,Bismillah Timber Mart,1784.0,1800,-0.9
+PAI-OIL-W,Oil Paint (White) 4Ltr,Tariq & Sons Electricals,2027.0,1800,12.6
+PIP-GI-2,"2"" GI Pipe",Metro Plumbing Supplies,276.0,310,-11.0
+PLY-MR-12,12mm MR Plywood Sheet,Bismillah Timber Mart,2171.0,2200,-1.3
+PLY-MR-12,12mm MR Plywood Sheet,Tariq & Sons Electricals,2074.0,2200,-5.7
+SAN-WC-STD,Standard WC/Commode,Allied Cables & Wires,12933.0,12500,3.5
+SAN-WC-STD,Standard WC/Commode,Bismillah Timber Mart,13870.0,12500,11.0
+SAN-WC-STD,Standard WC/Commode,Metro Plumbing Supplies,12975.0,12500,3.8
+SND-RVR,River Sand,Crown Cement Pvt Ltd,33.0,35,-5.7
+SND-RVR,River Sand,Hafiz Glass & Aluminum,36.0,35,2.9
+STL-RB-12,12mm Steel Rebar,Bismillah Timber Mart,130.0,130,0.0
+STL-RB-12,12mm Steel Rebar,Crown Cement Pvt Ltd,146.0,130,12.3
+STL-RB-12,12mm Steel Rebar,Metro Plumbing Supplies,136.0,130,4.6
+STL-RB-12,12mm Steel Rebar,Siemens Pakistan (Electro),144.0,130,10.8
+STL-RB-16,16mm Steel Rebar,Allied Cables & Wires,132.0,140,-5.7
+STL-RB-16,16mm Steel Rebar,Crown Cement Pvt Ltd,128.0,140,-8.6
+TIL-CER-12,Ceramic Floor Tile 12x12,Hafiz Glass & Aluminum,84.0,85,-1.2
+TIL-CER-12,Ceramic Floor Tile 12x12,National Paint House,89.0,85,4.7
+WIR-COP-3,3/0.029 Copper Wire,Siemens Pakistan (Electro),52.0,55,-5.5
+WIR-COP-3,3/0.029 Copper Wire,Tariq & Sons Electricals,56.0,55,1.8
+WIR-COP-7,7/0.029 Copper Wire,Allied Cables & Wires,82.0,95,-13.7
+WIR-COP-7,7/0.029 Copper Wire,Bismillah Timber Mart,78.0,95,-17.9
+WIR-COP-7,7/0.029 Copper Wire,Crown Cement Pvt Ltd,102.0,95,7.4
+WIR-COP-7,7/0.029 Copper Wire,Hafiz Glass & Aluminum,102.0,95,7.4
+WIR-COP-7,7/0.029 Copper Wire,Karachi Sanitary Depot,84.0,95,-11.6
