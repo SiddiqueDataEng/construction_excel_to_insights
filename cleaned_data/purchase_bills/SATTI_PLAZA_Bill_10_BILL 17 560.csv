@@ -1,0 +1,13 @@
+row_no,description,qty,unit,unit_2,amount,_source_file,_folder,_project
+Invoice #,BILL 17 560,Vendor:,Karachi Sanitary Depot,,,purchase_bills\SATTI_PLAZA_Bill_10_BILL 17 560.xlsx,purchase_bills,SATTI_PLAZA
+Project,SATTI_PLAZA,Date:,2012/05/07,,,purchase_bills\SATTI_PLAZA_Bill_10_BILL 17 560.xlsx,purchase_bills,SATTI_PLAZA
+1,ALU-WIN4,al_window_4,113.9,13125,1494937.5,purchase_bills\SATTI_PLAZA_Bill_10_BILL 17 560.xlsx,purchase_bills,SATTI_PLAZA
+2,MRB-IMP,MRB-IMP,333.4,646,215376.4,purchase_bills\SATTI_PLAZA_Bill_10_BILL 17 560.xlsx,purchase_bills,SATTI_PLAZA
+3,AC-95sq,95mm² Armoured Cable,61.8,811,50119.8,purchase_bills\SATTI_PLAZA_Bill_10_BILL 17 560.xlsx,purchase_bills,SATTI_PLAZA
+4,OIL-PAINT-W,White Oil Paint 4L,458.4,2040,935136.0,purchase_bills\SATTI_PLAZA_Bill_10_BILL 17 560.xlsx,purchase_bills,SATTI_PLAZA
+5,CEMENT-50,OPC 50 KG,402.4,TBD,375841.6,purchase_bills\SATTI_PLAZA_Bill_10_BILL 17 560.xlsx,purchase_bills,SATTI_PLAZA
+6,TIL-CER12,floor_tile_12,268.9,88,23663.2,purchase_bills\SATTI_PLAZA_Bill_10_BILL 17 560.xlsx,purchase_bills,SATTI_PLAZA
+7,GEN-25K,Generator 25KVA,415.2,1057912,439245062.0,purchase_bills\SATTI_PLAZA_Bill_10_BILL 17 560.xlsx,purchase_bills,SATTI_PLAZA
+,,,,Grand Total:,442866300.0,purchase_bills\SATTI_PLAZA_Bill_10_BILL 17 560.xlsx,purchase_bills,SATTI_PLAZA
+,,,,Payment Status:,,purchase_bills\SATTI_PLAZA_Bill_10_BILL 17 560.xlsx,purchase_bills,SATTI_PLAZA
+Prepared by:,Asif,,,,,purchase_bills\SATTI_PLAZA_Bill_10_BILL 17 560.xlsx,purchase_bills,SATTI_PLAZA

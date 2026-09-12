@@ -1,0 +1,10 @@
+row_no,item_code,description,qty,rate,amount,gst,total,_source_file,_folder,_project
+Bill No: BILL08873,,Date: 06/07/2015,,,,,,purchase_bills\SATTI_APTS_Bill_07_BILL08873.xlsx,purchase_bills,SATTI_APTS
+Vendor: Metro Plumbing Supplies,PROJECT: SATTI_APTS,,,,,,,purchase_bills\SATTI_APTS_Bill_07_BILL08873.xlsx,purchase_bills,SATTI_APTS
+PO Ref: PO-PLZ-9092,,,,,,,,purchase_bills\SATTI_APTS_Bill_07_BILL08873.xlsx,purchase_bills,SATTI_APTS
+1,CEM_OPC_50,Cement Bag 50Kg,330.7,1085.0,358809.5,60997.62,419807.12,purchase_bills\SATTI_APTS_Bill_07_BILL08873.xlsx,purchase_bills,SATTI_APTS
+2,STEEL BAR 12,STL-RB12,229.9,127.0,29197.3,,29197.0,purchase_bills\SATTI_APTS_Bill_07_BILL08873.xlsx,purchase_bills,SATTI_APTS
+3,"C.AGG 3/4""",AGG-CRS34,357.5,51.0,18232.0,,18232.5,purchase_bills\SATTI_APTS_Bill_07_BILL08873.xlsx,purchase_bills,SATTI_APTS
+,,,,,467236.92,,,purchase_bills\SATTI_APTS_Bill_07_BILL08873.xlsx,purchase_bills,SATTI_APTS
+,,,,,,,,purchase_bills\SATTI_APTS_Bill_07_BILL08873.xlsx,purchase_bills,SATTI_APTS
+Prepared by:,KAMRAN,,,,,,,purchase_bills\SATTI_APTS_Bill_07_BILL08873.xlsx,purchase_bills,SATTI_APTS

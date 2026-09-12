@@ -1,0 +1,14 @@
+row_no,item_code,description,unit,rate,amount,_source_file,_folder,_project
+Invoice #,BILL-13-292,Vendor:,Siemens Pakistan (Electro),,,purchase_bills\SATTI_MALL_Bill_06_BILL-13-292.xlsx,purchase_bills,SATTI_MALL
+Project,SATTI_MALL,Date:,02-16-2008,,,purchase_bills\SATTI_MALL_Bill_06_BILL-13-292.xlsx,purchase_bills,SATTI_MALL
+1,CEM-OPC-50,CEMENT-50,194.9,935.0,182231.5,purchase_bills\SATTI_MALL_Bill_06_BILL-13-292.xlsx,purchase_bills,SATTI_MALL
+2,TILE-12X12,"Tile 12x12""",,89.0,10858.0,purchase_bills\SATTI_MALL_Bill_06_BILL-13-292.xlsx,purchase_bills,SATTI_MALL
+3,BRICK-CLA,bricks_a,63.1,15748.0,993698.8,purchase_bills\SATTI_MALL_Bill_06_BILL-13-292.xlsx,purchase_bills,SATTI_MALL
+4,SAND (FINE),river_sand,189.9,37.0,7026.3,purchase_bills\SATTI_MALL_Bill_06_BILL-13-292.xlsx,purchase_bills,SATTI_MALL
+5,"C.AGG 3/4""",coarse agg,437.2,48.0,20985.6,purchase_bills\SATTI_MALL_Bill_06_BILL-13-292.xlsx,purchase_bills,SATTI_MALL
+6,GI_PIPE_2INCH,gi_pipe_2inch,105.1,313.0,32896.3,purchase_bills\SATTI_MALL_Bill_06_BILL-13-292.xlsx,purchase_bills,SATTI_MALL
+7,25KVA GENSET,25 KVA Generator,450.0,934463.0,420508350.0,purchase_bills\SATTI_MALL_Bill_06_BILL-13-292.xlsx,purchase_bills,SATTI_MALL
+8,AC-95SQ,ARMD-CBL-95,363,823.0,298749.0,purchase_bills\SATTI_MALL_Bill_06_BILL-13-292.xlsx,purchase_bills,SATTI_MALL
+,,,,,493752129.0,purchase_bills\SATTI_MALL_Bill_06_BILL-13-292.xlsx,purchase_bills,SATTI_MALL
+,,,,,,purchase_bills\SATTI_MALL_Bill_06_BILL-13-292.xlsx,purchase_bills,SATTI_MALL
+Prepared by:,ASIF,,,,,purchase_bills\SATTI_MALL_Bill_06_BILL-13-292.xlsx,purchase_bills,SATTI_MALL

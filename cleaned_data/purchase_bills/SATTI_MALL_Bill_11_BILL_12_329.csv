@@ -1,0 +1,11 @@
+row_no,item_code,description,qty,rate,amount,gst,total,_source_file,_folder,_project
+Bill No: BILL/12/329,,Date: 2006/11/22,,,,,,purchase_bills\SATTI_MALL_Bill_11_BILL_12_329.xlsx,purchase_bills,SATTI_MALL
+Vendor: Super Steel & Iron Works,PROJECT: SATTI_MALL,,,,,,,purchase_bills\SATTI_MALL_Bill_11_BILL_12_329.xlsx,purchase_bills,SATTI_MALL
+PO Ref: PO-PLZ-5247,,,,,,,,purchase_bills\SATTI_MALL_Bill_11_BILL_12_329.xlsx,purchase_bills,SATTI_MALL
+1,SAN-WC,WC-STD,331/-,13307.0,4404617.0,,4404617.0,purchase_bills\SATTI_MALL_Bill_11_BILL_12_329.xlsx,purchase_bills,SATTI_MALL
+2,"A.WIN 4""",Alum Window 4ft,274.1,15765.0,4321186.5,734602.0,5055788.21,purchase_bills\SATTI_MALL_Bill_11_BILL_12_329.xlsx,purchase_bills,SATTI_MALL
+3,GRAVEL-3/4,AGG-CRS34,325.3,47.0,15289.1,,15289.1,purchase_bills\SATTI_MALL_Bill_11_BILL_12_329.xlsx,purchase_bills,SATTI_MALL
+4,WIR-COP-3,3/0.029 Copper Wire,133.1,55.0,7320.5,1244.49,8564.99,purchase_bills\SATTI_MALL_Bill_11_BILL_12_329.xlsx,purchase_bills,SATTI_MALL
+,,,,,9484259.3,,,purchase_bills\SATTI_MALL_Bill_11_BILL_12_329.xlsx,purchase_bills,SATTI_MALL
+,,,,,,,,purchase_bills\SATTI_MALL_Bill_11_BILL_12_329.xlsx,purchase_bills,SATTI_MALL
+Prepared by:,ASIF,,,,,,,purchase_bills\SATTI_MALL_Bill_11_BILL_12_329.xlsx,purchase_bills,SATTI_MALL

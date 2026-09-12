@@ -1,0 +1,11 @@
+row_no,item_code,description,qty,rate,amount,gst,total,_source_file,_folder,_project
+Bill No: BILL 14 709,,Date: 22-Dec-2016,,,,,,purchase_bills\SATTI_APTS_Bill_09_BILL 14 709.xlsx,purchase_bills,SATTI_APTS
+Vendor: Allied Cables & Wires,PROJECT: SATTI_APTS,,,,,,,purchase_bills\SATTI_APTS_Bill_09_BILL 14 709.xlsx,purchase_bills,SATTI_APTS
+PO Ref: PO-PLZ-2753,,,,,,,,purchase_bills\SATTI_APTS_Bill_09_BILL 14 709.xlsx,purchase_bills,SATTI_APTS
+1,CEM-OPC-50,Cement Bag 50Kg,78.7,990.0,77913.0,,77913.0,purchase_bills\SATTI_APTS_Bill_09_BILL 14 709.xlsx,purchase_bills,SATTI_APTS
+2,IMP_MARBLE_W,Marble Wht,470.3,678.0,318863.4,54206.78,373070.0,purchase_bills\SATTI_APTS_Bill_09_BILL 14 709.xlsx,purchase_bills,SATTI_APTS
+3,COPPER WIRE 7/.029,7/0.029 Copper Wire,285.8,107.0,30580.6,5198.7,35779.0,purchase_bills\SATTI_APTS_Bill_09_BILL 14 709.xlsx,purchase_bills,SATTI_APTS
+4,GLASS-6MM,6mm Clear Glass,421.4,237.0,99871.8,16978.21,116850.01,purchase_bills\SATTI_APTS_Bill_09_BILL 14 709.xlsx,purchase_bills,SATTI_APTS
+,,,,,603612.49,,,purchase_bills\SATTI_APTS_Bill_09_BILL 14 709.xlsx,purchase_bills,SATTI_APTS
+,,,,,,,,purchase_bills\SATTI_APTS_Bill_09_BILL 14 709.xlsx,purchase_bills,SATTI_APTS
+Prepared by:,NASIR,,,,,,,purchase_bills\SATTI_APTS_Bill_09_BILL 14 709.xlsx,purchase_bills,SATTI_APTS

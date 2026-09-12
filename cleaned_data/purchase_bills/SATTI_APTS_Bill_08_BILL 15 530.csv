@@ -1,0 +1,17 @@
+row_no,item_code,description,qty,rate,amount,gst,total,_source_file,_folder,_project
+Bill No: BILL 15 530,,Date: 2018/02/04,,,,,,purchase_bills\SATTI_APTS_Bill_08_BILL 15 530.xlsx,purchase_bills,SATTI_APTS
+Vendor: Al-Rehman Hardware,PROJECT: SATTI_APTS,,,,,,,purchase_bills\SATTI_APTS_Bill_08_BILL 15 530.xlsx,purchase_bills,SATTI_APTS
+PO Ref: PO-APT-1549,,,,,,,,purchase_bills\SATTI_APTS_Bill_08_BILL 15 530.xlsx,purchase_bills,SATTI_APTS
+1,MRB-IMP-W,MAR-W-IMP,129.8,704.0,91379.2,15534.46,106913.66,purchase_bills\SATTI_APTS_Bill_08_BILL 15 530.xlsx,purchase_bills,SATTI_APTS
+2,SAND-RIVER,SND-RV,134.3,37.0,4969.1,845.0,5813.85,purchase_bills\SATTI_APTS_Bill_08_BILL 15 530.xlsx,purchase_bills,SATTI_APTS
+3,STL-RB16,rebar 5/8 inch,377.6,136.0,,8730.11,60083.71,purchase_bills\SATTI_APTS_Bill_08_BILL 15 530.xlsx,purchase_bills,SATTI_APTS
+4,WIRE-3/029,3/0.029 Copper Wire,31,54.0,1674.0,284.58,1958.58,purchase_bills\SATTI_APTS_Bill_08_BILL 15 530.xlsx,purchase_bills,SATTI_APTS
+5,REBAR-12MM,STL-RB12,267.6,127.0,33985.2,5777.48,39762.68,purchase_bills\SATTI_APTS_Bill_08_BILL 15 530.xlsx,purchase_bills,SATTI_APTS
+6,COARSE AGG,"C.Agg 3/4""",180.1,61.0,10986.1,,10986.1,purchase_bills\SATTI_APTS_Bill_08_BILL 15 530.xlsx,purchase_bills,SATTI_APTS
+7,GI_PIPE_2INCH,"G.I.Pipe 2""",233.2,326.0,76023.2,12923.94,88947.14,purchase_bills\SATTI_APTS_Bill_08_BILL 15 530.xlsx,purchase_bills,SATTI_APTS
+8,CBL-ARM-95,AC-95sq,9.2,740.0,6808.0,1157.36,7965.36,purchase_bills\SATTI_APTS_Bill_08_BILL 15 530.xlsx,purchase_bills,SATTI_APTS
+9,OPC 50 KG,OPC Cement 50kg Bag,33.2,977.0,32436.4,,32436.4,purchase_bills\SATTI_APTS_Bill_08_BILL 15 530.xlsx,purchase_bills,SATTI_APTS
+10,COPWIRE7,WIR-CP7,191.1,,19683.3,,,purchase_bills\SATTI_APTS_Bill_08_BILL 15 530.xlsx,purchase_bills,SATTI_APTS
+,,,,,374550.78,,,purchase_bills\SATTI_APTS_Bill_08_BILL 15 530.xlsx,purchase_bills,SATTI_APTS
+,,,,,,,,purchase_bills\SATTI_APTS_Bill_08_BILL 15 530.xlsx,purchase_bills,SATTI_APTS
+Prepared by:,NASIR,,,,,,,purchase_bills\SATTI_APTS_Bill_08_BILL 15 530.xlsx,purchase_bills,SATTI_APTS

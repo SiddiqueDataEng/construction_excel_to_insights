@@ -1,0 +1,17 @@
+row_no,item_code,description,qty,rate,amount,gst,total,_source_file,_folder,_project
+Bill No: BILL-14-700,,Date: 19-Mar-2012,,,,,,purchase_bills\SATTI_PLAZA_Bill_02_BILL-14-700.xlsx,purchase_bills,SATTI_PLAZA
+Vendor: Fazal Bricks & Tiles,PROJECT: SATTI_PLAZA,,,,,,,purchase_bills\SATTI_PLAZA_Bill_02_BILL-14-700.xlsx,purchase_bills,SATTI_PLAZA
+PO Ref: PO-PLZ-3617,,,,,,,,purchase_bills\SATTI_PLAZA_Bill_02_BILL-14-700.xlsx,purchase_bills,SATTI_PLAZA
+1,ARM_CABLE_95,CBL-ARM95,19.5,929.0,18115.5,3079.64,21195.14,purchase_bills\SATTI_PLAZA_Bill_02_BILL-14-700.xlsx,purchase_bills,SATTI_PLAZA
+2,ALM-W4,"A.Win 4""",124.4,14647.0,1822086.8,,1822086.8,purchase_bills\SATTI_PLAZA_Bill_02_BILL-14-700.xlsx,purchase_bills,SATTI_PLAZA
+3,WHITE OIL PAINT 4L,OIL-PAINT-W,467.9,2065.0,966213.5,164256.3,1130469.8,purchase_bills\SATTI_PLAZA_Bill_02_BILL-14-700.xlsx,purchase_bills,SATTI_PLAZA
+4,GENSET-25,Generator 25KVA,284,967986.0,274908024.0,46734364.08,321642388.08,purchase_bills\SATTI_PLAZA_Bill_02_BILL-14-700.xlsx,purchase_bills,SATTI_PLAZA
+5,PLY-MR12,MR Ply 12,113.3,2217.0,251186.1,42701.64,293887.74,purchase_bills\SATTI_PLAZA_Bill_02_BILL-14-700.xlsx,purchase_bills,SATTI_PLAZA
+6,GI PIPE 1IN,"1"" GI Pipe",15.8,185.0,2923.0,,2923.0,purchase_bills\SATTI_PLAZA_Bill_02_BILL-14-700.xlsx,purchase_bills,SATTI_PLAZA
+7,"C.AGG 3/4""",Bajri 3/4,295.1,52.0,15345.2,2608.68,17953.88,purchase_bills\SATTI_PLAZA_Bill_02_BILL-14-700.xlsx,purchase_bills,SATTI_PLAZA
+8,CEM_OPC_50,OPC 50 KG,348.3,1072.0,,,373377.6,purchase_bills\SATTI_PLAZA_Bill_02_BILL-14-700.xlsx,purchase_bills,SATTI_PLAZA
+9,STL-RB12,STL-RB12,365.8,148.0,54138.4,,54138.0,purchase_bills\SATTI_PLAZA_Bill_02_BILL-14-700.xlsx,purchase_bills,SATTI_PLAZA
+10,RIVER_SAND,SND-RV,321.6,31.0,9969.6,1694.83,11664.43,purchase_bills\SATTI_PLAZA_Bill_02_BILL-14-700.xlsx,purchase_bills,SATTI_PLAZA
+,,,,,325370084.87,,,purchase_bills\SATTI_PLAZA_Bill_02_BILL-14-700.xlsx,purchase_bills,SATTI_PLAZA
+,,,,,,,,purchase_bills\SATTI_PLAZA_Bill_02_BILL-14-700.xlsx,purchase_bills,SATTI_PLAZA
+Prepared by:,NASIR,,,,,,,purchase_bills\SATTI_PLAZA_Bill_02_BILL-14-700.xlsx,purchase_bills,SATTI_PLAZA

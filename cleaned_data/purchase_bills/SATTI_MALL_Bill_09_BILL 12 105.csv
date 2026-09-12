@@ -1,0 +1,11 @@
+row_no,item_code,description,unit,rate,amount,_source_file,_folder,_project
+Invoice #,BILL 12 105,Vendor:,Crown Cement Pvt Ltd,,,purchase_bills\SATTI_MALL_Bill_09_BILL 12 105.xlsx,purchase_bills,SATTI_MALL
+Project,SATTI_MALL,Date:,29.07.2006,,,purchase_bills\SATTI_MALL_Bill_09_BILL 12 105.xlsx,purchase_bills,SATTI_MALL
+1,TILE-12X12,"Cer.Tile 12""",77.2,77.0,5944.4,purchase_bills\SATTI_MALL_Bill_09_BILL 12 105.xlsx,purchase_bills,SATTI_MALL
+2,SAND (FINE),Sand (Fine),250.4,36.0,9014.4,purchase_bills\SATTI_MALL_Bill_09_BILL 12 105.xlsx,purchase_bills,SATTI_MALL
+3,BAJRI 3/4,GRAVEL-3/4,222.9,54.0,12036.6,purchase_bills\SATTI_MALL_Bill_09_BILL 12 105.xlsx,purchase_bills,SATTI_MALL
+4,WIRE_7029,WIR-CP7,242.1,86.0,20820.6,purchase_bills\SATTI_MALL_Bill_09_BILL 12 105.xlsx,purchase_bills,SATTI_MALL
+5,WIR-CP3,WIRE-3/029,191.1,60.0,11466.0,purchase_bills\SATTI_MALL_Bill_09_BILL 12 105.xlsx,purchase_bills,SATTI_MALL
+,,,,,67313.72,purchase_bills\SATTI_MALL_Bill_09_BILL 12 105.xlsx,purchase_bills,SATTI_MALL
+,,,,,,purchase_bills\SATTI_MALL_Bill_09_BILL 12 105.xlsx,purchase_bills,SATTI_MALL
+Prepared by:,ASIF,,,,,purchase_bills\SATTI_MALL_Bill_09_BILL 12 105.xlsx,purchase_bills,SATTI_MALL

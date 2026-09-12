@@ -1,0 +1,15 @@
+row_no,item_code,description,qty,rate,amount,gst,total,_source_file,_folder,_project
+BILL/12/998   Karachi Sanitary Depot   2013/09/24,,,,,,,,purchase_bills\SATTI_PLAZA_Bill_05_BILL_12_998.xlsx,purchase_bills,SATTI_PLAZA
+1,STL-RB-16,S.Bar 16mm,,135.0,2713.5,461.3,,purchase_bills\SATTI_PLAZA_Bill_05_BILL_12_998.xlsx,purchase_bills,SATTI_PLAZA
+2,ENAMEL WH.,Enamel Wh.,49.7,1545.0,76786.5,13053.71,89840.21,purchase_bills\SATTI_PLAZA_Bill_05_BILL_12_998.xlsx,purchase_bills,SATTI_PLAZA
+3,GALVPIPE-1,"G.I.Pipe 1""",259.1,200.0,51820.0,,,purchase_bills\SATTI_PLAZA_Bill_05_BILL_12_998.xlsx,purchase_bills,SATTI_PLAZA
+4,WIR-CP7,WIRE-7/029,306.1,108.0,33058.8,,33058.8,purchase_bills\SATTI_PLAZA_Bill_05_BILL_12_998.xlsx,purchase_bills,SATTI_PLAZA
+5,MRB-IMP,White Marble Imp.,154.6,684.0,105746.4,,105746.4,purchase_bills\SATTI_PLAZA_Bill_05_BILL_12_998.xlsx,purchase_bills,SATTI_PLAZA
+6,TOILET_STD,W.C. Std.,298.9,11685.0,3492646.5,,3492646.5,purchase_bills\SATTI_PLAZA_Bill_05_BILL_12_998.xlsx,purchase_bills,SATTI_PLAZA
+7,GALVPIPE-2,GalvPipe-2,476.3,324.0,154321.0,26234.6,180555.8,purchase_bills\SATTI_PLAZA_Bill_05_BILL_12_998.xlsx,purchase_bills,SATTI_PLAZA
+8,GENSET-25,gen_25kva,74.3,814755.0,60536296.5,10291170.41,70827466.91,purchase_bills\SATTI_PLAZA_Bill_05_BILL_12_998.xlsx,purchase_bills,SATTI_PLAZA
+9,CBL-ARM95,ARMD-CBL-95,364.6,779.0,284023.4,48283.98,332307.38,purchase_bills\SATTI_PLAZA_Bill_05_BILL_12_998.xlsx,purchase_bills,SATTI_PLAZA
+10,MR PLY 12,PLY-MR12,150.4,2181.0,328022.4,,328022.4,purchase_bills\SATTI_PLAZA_Bill_05_BILL_12_998.xlsx,purchase_bills,SATTI_PLAZA
+,,,,,75444639.2,,,purchase_bills\SATTI_PLAZA_Bill_05_BILL_12_998.xlsx,purchase_bills,SATTI_PLAZA
+,,,,,,,,purchase_bills\SATTI_PLAZA_Bill_05_BILL_12_998.xlsx,purchase_bills,SATTI_PLAZA
+Prepared by:,TARIQ,,,,,,,purchase_bills\SATTI_PLAZA_Bill_05_BILL_12_998.xlsx,purchase_bills,SATTI_PLAZA

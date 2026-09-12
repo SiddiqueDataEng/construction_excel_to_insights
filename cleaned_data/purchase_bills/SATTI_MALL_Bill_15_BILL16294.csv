@@ -1,0 +1,9 @@
+row_no,item_code,description,qty,rate,amount,gst,total,_source_file,_folder,_project
+BILL16294   Green Marble & Granite   2007/09/26,,,,,,,,purchase_bills\SATTI_MALL_Bill_15_BILL16294.xlsx,purchase_bills,SATTI_MALL
+1,GLS-CLR-6,6mm Clear Glass,355.4,233.0,82808.2,14077.39,,purchase_bills\SATTI_MALL_Bill_15_BILL16294.xlsx,purchase_bills,SATTI_MALL
+2,REBAR-16MM,S.Bar 16mm,443.8,151.0,67014.0,11392.35,78406.15,purchase_bills\SATTI_MALL_Bill_15_BILL16294.xlsx,purchase_bills,SATTI_MALL
+3,COPPER WIRE 3/.029,CopWire3,183.3,55.0,10081.5,1713.86,11795.36,purchase_bills\SATTI_MALL_Bill_15_BILL16294.xlsx,purchase_bills,SATTI_MALL
+4,RIVER_SAND,River Sand,26.8,39.0,,177.68,1222.88,purchase_bills\SATTI_MALL_Bill_15_BILL16294.xlsx,purchase_bills,SATTI_MALL
+,,,,,188309.98,,,purchase_bills\SATTI_MALL_Bill_15_BILL16294.xlsx,purchase_bills,SATTI_MALL
+,,,,,,,,purchase_bills\SATTI_MALL_Bill_15_BILL16294.xlsx,purchase_bills,SATTI_MALL
+Prepared by:,KAMRAN,,,,,,,purchase_bills\SATTI_MALL_Bill_15_BILL16294.xlsx,purchase_bills,SATTI_MALL

@@ -1,0 +1,12 @@
+row_no,item_code,description,unit,rate,amount,_source_file,_folder,_project
+Invoice #,BILL-06-405,Vendor:,Al-Rehman Hardware,,,purchase_bills\SATTI_APTS_Bill_21_BILL-06-405.xlsx,purchase_bills,SATTI_APTS
+Project,SATTI_APTS,Date:,"March 28, 2015",,,purchase_bills\SATTI_APTS_Bill_21_BILL-06-405.xlsx,purchase_bills,SATTI_APTS
+1,S.BAR 12MM,Steel Bar 12,99.5,122.0,,purchase_bills\SATTI_APTS_Bill_21_BILL-06-405.xlsx,purchase_bills,SATTI_APTS
+2,GALVPIPE-1,"G.I.Pipe 1""",482.1,178.0,85813.8,purchase_bills\SATTI_APTS_Bill_21_BILL-06-405.xlsx,purchase_bills,SATTI_APTS
+3,ALM-WIN-4,ALU-WIN4,8.9,15067.0,134096.3,purchase_bills\SATTI_APTS_Bill_21_BILL-06-405.xlsx,purchase_bills,SATTI_APTS
+4,COARSE AGG,GRAVEL-3/4,23.3,53.0,1234.9,purchase_bills\SATTI_APTS_Bill_21_BILL-06-405.xlsx,purchase_bills,SATTI_APTS
+5,PIP-GI2,GalvPipe-2,35,265.0,9275.0,purchase_bills\SATTI_APTS_Bill_21_BILL-06-405.xlsx,purchase_bills,SATTI_APTS
+6,MRB-IMP-W,White Marble Imp.,313.2,,222372.0,purchase_bills\SATTI_APTS_Bill_21_BILL-06-405.xlsx,purchase_bills,SATTI_APTS
+,,,,,506584.55,purchase_bills\SATTI_APTS_Bill_21_BILL-06-405.xlsx,purchase_bills,SATTI_APTS
+,,,,,,purchase_bills\SATTI_APTS_Bill_21_BILL-06-405.xlsx,purchase_bills,SATTI_APTS
+Prepared by:,KAMRAN,,,,,purchase_bills\SATTI_APTS_Bill_21_BILL-06-405.xlsx,purchase_bills,SATTI_APTS

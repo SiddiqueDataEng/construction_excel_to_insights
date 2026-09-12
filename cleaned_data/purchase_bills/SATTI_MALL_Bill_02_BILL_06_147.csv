@@ -1,0 +1,13 @@
+row_no,item_code,description,qty,rate,amount,gst,total,_source_file,_folder,_project
+Bill No: BILL/06/147,,Date: 01-13-2008,,,,,,purchase_bills\SATTI_MALL_Bill_02_BILL_06_147.xlsx,purchase_bills,SATTI_MALL
+Vendor: Pioneer Generators Ltd,PROJECT: SATTI_MALL,,,,,,,purchase_bills\SATTI_MALL_Bill_02_BILL_06_147.xlsx,purchase_bills,SATTI_MALL
+PO Ref: PO-APT-7279,,,,,,,,purchase_bills\SATTI_MALL_Bill_02_BILL_06_147.xlsx,purchase_bills,SATTI_MALL
+1,CNC-RDY-M20,Ready Mix M20,90.5,447.0,40453.5,,40453.5,purchase_bills\SATTI_MALL_Bill_02_BILL_06_147.xlsx,purchase_bills,SATTI_MALL
+2,COPWIRE3,CopWire3,148.7,52.0,,1314.51,9046.91,purchase_bills\SATTI_MALL_Bill_02_BILL_06_147.xlsx,purchase_bills,SATTI_MALL
+3,ALM-W4,ALM-W4,396.2,12439.0,4928331.8,837816.41,5766148.0,purchase_bills\SATTI_MALL_Bill_02_BILL_06_147.xlsx,purchase_bills,SATTI_MALL
+4,GALVPIPE-1,GalvPipe-1,241.9,175.0,42332.5,7197.0,49529.03,purchase_bills\SATTI_MALL_Bill_02_BILL_06_147.xlsx,purchase_bills,SATTI_MALL
+5,BRK-A,Red Brick A-Grade,321.7,12664.0,4074009.0,,4074008.8,purchase_bills\SATTI_MALL_Bill_02_BILL_06_147.xlsx,purchase_bills,SATTI_MALL
+6,CEM-OPC50,CEM-OPC50,164.7,1010.0,166347.0,28278.99,194625.99,purchase_bills\SATTI_MALL_Bill_02_BILL_06_147.xlsx,purchase_bills,SATTI_MALL
+,,,,,10133812.44,,,purchase_bills\SATTI_MALL_Bill_02_BILL_06_147.xlsx,purchase_bills,SATTI_MALL
+,,,,,,,,purchase_bills\SATTI_MALL_Bill_02_BILL_06_147.xlsx,purchase_bills,SATTI_MALL
+Prepared by:,,,,,,,,purchase_bills\SATTI_MALL_Bill_02_BILL_06_147.xlsx,purchase_bills,SATTI_MALL

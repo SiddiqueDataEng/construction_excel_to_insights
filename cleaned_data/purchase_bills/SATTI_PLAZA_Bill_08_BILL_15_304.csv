@@ -1,0 +1,17 @@
+row_no,item_code,description,qty,rate,amount,gst,total,_source_file,_folder,_project
+Bill No: BILL/15/304,,Date: 06/11/13,,,,,,purchase_bills\SATTI_PLAZA_Bill_08_BILL_15_304.xlsx,purchase_bills,SATTI_PLAZA
+Vendor: Metro Plumbing Supplies,PROJECT: SATTI_PLAZA,,,,,,,purchase_bills\SATTI_PLAZA_Bill_08_BILL_15_304.xlsx,purchase_bills,SATTI_PLAZA
+PO Ref: PO-MALL-1735,,,,,,,,purchase_bills\SATTI_PLAZA_Bill_08_BILL_15_304.xlsx,purchase_bills,SATTI_PLAZA
+1,COMMODE STANDARD,toilet_std,340.8,11305.0,3852744.0,654966.48,4507710.48,purchase_bills\SATTI_PLAZA_Bill_08_BILL_15_304.xlsx,purchase_bills,SATTI_PLAZA
+2,RETI (RIVER),River Sand,444.4,34.0,15109.6,2568.63,17678.23,purchase_bills\SATTI_PLAZA_Bill_08_BILL_15_304.xlsx,purchase_bills,SATTI_PLAZA
+3,BRK-A,bricks_a,437.2,14080.0,6155776.0,,6155776.0,purchase_bills\SATTI_PLAZA_Bill_08_BILL_15_304.xlsx,purchase_bills,SATTI_PLAZA
+4,"C.AGG 3/4""",Bajri 3/4,78.6,60.0,4716.0,,4716.0,purchase_bills\SATTI_PLAZA_Bill_08_BILL_15_304.xlsx,purchase_bills,SATTI_PLAZA
+5,REBAR 5/8 INCH,STL-RB16,42.1,140.0,5894.0,1001.98,6895.98,purchase_bills\SATTI_PLAZA_Bill_08_BILL_15_304.xlsx,purchase_bills,SATTI_PLAZA
+6,READY MIX M20,Ready Mix M20,401.6,413.0,165860.8,,165860.8,purchase_bills\SATTI_PLAZA_Bill_08_BILL_15_304.xlsx,purchase_bills,SATTI_PLAZA
+7,CEMENT BAG 50KG,OPC Cement 50kg Bag,280.8,808.0,226886.4,38570.69,265457.09,purchase_bills\SATTI_PLAZA_Bill_08_BILL_15_304.xlsx,purchase_bills,SATTI_PLAZA
+8,ALU-WIN4,ALU-WIN4,413.5,15877.0,6565139.5,,6565139.5,purchase_bills\SATTI_PLAZA_Bill_08_BILL_15_304.xlsx,purchase_bills,SATTI_PLAZA
+9,"G.I.PIPE 1""","1"" GI Pipe",53.2,189.0,10054.8,1709.32,11764.12,purchase_bills\SATTI_PLAZA_Bill_08_BILL_15_304.xlsx,purchase_bills,SATTI_PLAZA
+10,WIR-CP3,Copper Wire 3/.029,74.5,59.0,,,4395.5,purchase_bills\SATTI_PLAZA_Bill_08_BILL_15_304.xlsx,purchase_bills,SATTI_PLAZA
+,,,,,17705393.7,,,purchase_bills\SATTI_PLAZA_Bill_08_BILL_15_304.xlsx,purchase_bills,SATTI_PLAZA
+,,,,,,,,purchase_bills\SATTI_PLAZA_Bill_08_BILL_15_304.xlsx,purchase_bills,SATTI_PLAZA
+Prepared by:,TARIQ,,,,,,,purchase_bills\SATTI_PLAZA_Bill_08_BILL_15_304.xlsx,purchase_bills,SATTI_PLAZA
