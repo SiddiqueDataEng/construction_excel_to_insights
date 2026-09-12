@@ -1,0 +1,19 @@
+row_no,item_of_work,unit,qty,rate,amount,remarks,_source_file,_folder,_project
+Bill No:,RB-SAT-C002-03,,,,,,contractor_bills\SATTI_PLAZA_C002_RunBill_03.xlsx,contractor_bills,SATTI_PLAZA
+Date:,19.11.2013,,,,,,contractor_bills\SATTI_PLAZA_C002_RunBill_03.xlsx,contractor_bills,SATTI_PLAZA
+Project:,SATTI_PLAZA,,,,,,contractor_bills\SATTI_PLAZA_C002_RunBill_03.xlsx,contractor_bills,SATTI_PLAZA
+Contractor:,Iqbal Electrical Contractors,,,,,,contractor_bills\SATTI_PLAZA_C002_RunBill_03.xlsx,contractor_bills,SATTI_PLAZA
+Scope:,Electrical,,,,,,contractor_bills\SATTI_PLAZA_C002_RunBill_03.xlsx,contractor_bills,SATTI_PLAZA
+Contract Value:,"PKR 2,928,451",,,,,,contractor_bills\SATTI_PLAZA_C002_RunBill_03.xlsx,contractor_bills,SATTI_PLAZA
+WORK DONE THIS PERIOD,,,,,,,contractor_bills\SATTI_PLAZA_C002_RunBill_03.xlsx,contractor_bills,SATTI_PLAZA
+1,Excavation,cft,"3,772/-",448.0,1690035.2,,contractor_bills\SATTI_PLAZA_C002_RunBill_03.xlsx,contractor_bills,SATTI_PLAZA
+2,PCC 1:4:8,cft,4633.8,2449.0,11348176.0,,contractor_bills\SATTI_PLAZA_C002_RunBill_03.xlsx,contractor_bills,SATTI_PLAZA
+3,Window Frame,nos,2441.5,733.0,1789619.5,,contractor_bills\SATTI_PLAZA_C002_RunBill_03.xlsx,contractor_bills,SATTI_PLAZA
+4,RCC M20,cft,339.5,2436.0,827022.0,,contractor_bills\SATTI_PLAZA_C002_RunBill_03.xlsx,contractor_bills,SATTI_PLAZA
+5,Electrical Wiring,point,3681.2,1850.0,6810220.0,Verified,contractor_bills\SATTI_PLAZA_C002_RunBill_03.xlsx,contractor_bills,SATTI_PLAZA
+6,Painting,sft,3482.4,587.0,2044168.8,As per BOQ,contractor_bills\SATTI_PLAZA_C002_RunBill_03.xlsx,contractor_bills,SATTI_PLAZA
+,,,,,314099.71,,contractor_bills\SATTI_PLAZA_C002_RunBill_03.xlsx,contractor_bills,SATTI_PLAZA
+,,,,,1415942.28,,contractor_bills\SATTI_PLAZA_C002_RunBill_03.xlsx,contractor_bills,SATTI_PLAZA
+,,,,,,,contractor_bills\SATTI_PLAZA_C002_RunBill_03.xlsx,contractor_bills,SATTI_PLAZA
+,,,,,282689.74,,contractor_bills\SATTI_PLAZA_C002_RunBill_03.xlsx,contractor_bills,SATTI_PLAZA
+Prepared:,,Checked:,,,,,contractor_bills\SATTI_PLAZA_C002_RunBill_03.xlsx,contractor_bills,SATTI_PLAZA

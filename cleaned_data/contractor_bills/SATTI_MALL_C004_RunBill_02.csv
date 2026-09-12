@@ -1,0 +1,18 @@
+row_no,item_of_work,unit,qty,rate,amount,remarks,_source_file,_folder,_project
+Bill No:,RB-SAT-C004-02,,,,,,contractor_bills\SATTI_MALL_C004_RunBill_02.xlsx,contractor_bills,SATTI_MALL
+Date:,08-Jun-2007,,,,,,contractor_bills\SATTI_MALL_C004_RunBill_02.xlsx,contractor_bills,SATTI_MALL
+Project:,SATTI_MALL,,,,,,contractor_bills\SATTI_MALL_C004_RunBill_02.xlsx,contractor_bills,SATTI_MALL
+Contractor:,Noor Finishing & Interior,,,,,,contractor_bills\SATTI_MALL_C004_RunBill_02.xlsx,contractor_bills,SATTI_MALL
+Scope:,Finishing,,,,,,contractor_bills\SATTI_MALL_C004_RunBill_02.xlsx,contractor_bills,SATTI_MALL
+Contract Value:,TBD,,,,,,contractor_bills\SATTI_MALL_C004_RunBill_02.xlsx,contractor_bills,SATTI_MALL
+WORK DONE THIS PERIOD,,,,,,,contractor_bills\SATTI_MALL_C004_RunBill_02.xlsx,contractor_bills,SATTI_MALL
+1,Window Frame,nos,,2423.0,4728484.5,As per BOQ,contractor_bills\SATTI_MALL_C004_RunBill_02.xlsx,contractor_bills,SATTI_MALL
+2,Painting,sft,3043.6,1732.0,5271515.2,,contractor_bills\SATTI_MALL_C004_RunBill_02.xlsx,contractor_bills,SATTI_MALL
+3,Door Frame,nos,1962.2,946.0,1856241.2,Disputed,contractor_bills\SATTI_MALL_C004_RunBill_02.xlsx,contractor_bills,SATTI_MALL
+4,RCC M20,cft,2797.8,88.0,246206.4,Verified,contractor_bills\SATTI_MALL_C004_RunBill_02.xlsx,contractor_bills,SATTI_MALL
+5,Plumbing Fixture,nos,978.9,1589.0,1555472.1,,contractor_bills\SATTI_MALL_C004_RunBill_02.xlsx,contractor_bills,SATTI_MALL
+,,,,,576041.0,,contractor_bills\SATTI_MALL_C004_RunBill_02.xlsx,contractor_bills,SATTI_MALL
+,,,,,826239.1,,contractor_bills\SATTI_MALL_C004_RunBill_02.xlsx,contractor_bills,SATTI_MALL
+,,,,,57604.1,,contractor_bills\SATTI_MALL_C004_RunBill_02.xlsx,contractor_bills,SATTI_MALL
+,,,,,,,contractor_bills\SATTI_MALL_C004_RunBill_02.xlsx,contractor_bills,SATTI_MALL
+Prepared:,,Checked:,,,,,contractor_bills\SATTI_MALL_C004_RunBill_02.xlsx,contractor_bills,SATTI_MALL

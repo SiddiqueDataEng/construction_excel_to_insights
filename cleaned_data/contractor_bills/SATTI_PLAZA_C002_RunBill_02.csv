@@ -1,0 +1,18 @@
+row_no,item_of_work,unit,qty,rate,amount,remarks,_source_file,_folder,_project
+Bill No:,RB-SAT-C002-02,,,,,,contractor_bills\SATTI_PLAZA_C002_RunBill_02.xlsx,contractor_bills,SATTI_PLAZA
+Date:,21/10/13,,,,,,contractor_bills\SATTI_PLAZA_C002_RunBill_02.xlsx,contractor_bills,SATTI_PLAZA
+Project:,SATTI_PLAZA,,,,,,contractor_bills\SATTI_PLAZA_C002_RunBill_02.xlsx,contractor_bills,SATTI_PLAZA
+Contractor:,Iqbal Electrical Contractors,,,,,,contractor_bills\SATTI_PLAZA_C002_RunBill_02.xlsx,contractor_bills,SATTI_PLAZA
+Scope:,Electrical,,,,,,contractor_bills\SATTI_PLAZA_C002_RunBill_02.xlsx,contractor_bills,SATTI_PLAZA
+Contract Value:,5344203.45,,,,,,contractor_bills\SATTI_PLAZA_C002_RunBill_02.xlsx,contractor_bills,SATTI_PLAZA
+WORK DONE THIS PERIOD,,,,,,,contractor_bills\SATTI_PLAZA_C002_RunBill_02.xlsx,contractor_bills,SATTI_PLAZA
+1,Door Frame,nos,1286.6,2459.0,3163749.4,Disputed,contractor_bills\SATTI_PLAZA_C002_RunBill_02.xlsx,contractor_bills,SATTI_PLAZA
+2,Painting,sft,4007.8,2113.0,8468481.0,As per BOQ,contractor_bills\SATTI_PLAZA_C002_RunBill_02.xlsx,contractor_bills,SATTI_PLAZA
+3,Electrical Wiring,point,4787.6,292.0,,Verified,contractor_bills\SATTI_PLAZA_C002_RunBill_02.xlsx,contractor_bills,SATTI_PLAZA
+4,RCC M20,cft,2626.9,355.0,932550.0,Verified,contractor_bills\SATTI_PLAZA_C002_RunBill_02.xlsx,contractor_bills,SATTI_PLAZA
+5,Excavation,cft,2174.3,1943.0,4224664.9,,contractor_bills\SATTI_PLAZA_C002_RunBill_02.xlsx,contractor_bills,SATTI_PLAZA
+,,,,,718185.71,,contractor_bills\SATTI_PLAZA_C002_RunBill_02.xlsx,contractor_bills,SATTI_PLAZA
+,,,,,3278776.33,,contractor_bills\SATTI_PLAZA_C002_RunBill_02.xlsx,contractor_bills,SATTI_PLAZA
+,,,,,71818.57,,contractor_bills\SATTI_PLAZA_C002_RunBill_02.xlsx,contractor_bills,SATTI_PLAZA
+,,,,,646367.1399999999,,contractor_bills\SATTI_PLAZA_C002_RunBill_02.xlsx,contractor_bills,SATTI_PLAZA
+Prepared:,,Checked:,,,,,contractor_bills\SATTI_PLAZA_C002_RunBill_02.xlsx,contractor_bills,SATTI_PLAZA

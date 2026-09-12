@@ -1,0 +1,18 @@
+row_no,item_of_work,unit,qty,rate,amount,remarks,_source_file,_folder,_project
+Bill No:,RB-SAT-C008-05,,,,,,contractor_bills\SATTI_PLAZA_C008_RunBill_05.xlsx,contractor_bills,SATTI_PLAZA
+Date:,16/08/2012,,,,,,contractor_bills\SATTI_PLAZA_C008_RunBill_05.xlsx,contractor_bills,SATTI_PLAZA
+Project:,SATTI_PLAZA,,,,,,contractor_bills\SATTI_PLAZA_C008_RunBill_05.xlsx,contractor_bills,SATTI_PLAZA
+Contractor:,Sultan HVAC Services,,,,,,contractor_bills\SATTI_PLAZA_C008_RunBill_05.xlsx,contractor_bills,SATTI_PLAZA
+Scope:,HVAC,,,,,,contractor_bills\SATTI_PLAZA_C008_RunBill_05.xlsx,contractor_bills,SATTI_PLAZA
+Contract Value:,9341441.8,,,,,,contractor_bills\SATTI_PLAZA_C008_RunBill_05.xlsx,contractor_bills,SATTI_PLAZA
+WORK DONE THIS PERIOD,,,,,,,contractor_bills\SATTI_PLAZA_C008_RunBill_05.xlsx,contractor_bills,SATTI_PLAZA
+1,Window Frame,nos,4117.3,965.0,3973194.5,,contractor_bills\SATTI_PLAZA_C008_RunBill_05.xlsx,contractor_bills,SATTI_PLAZA
+2,Flooring,sft,3775.2,1188.0,4484937.6,As per BOQ,contractor_bills\SATTI_PLAZA_C008_RunBill_05.xlsx,contractor_bills,SATTI_PLAZA
+3,Electrical Wiring,point,1978.9,1878.0,3716374.2,,contractor_bills\SATTI_PLAZA_C008_RunBill_05.xlsx,contractor_bills,SATTI_PLAZA
+4,Brick Masonry,cft,4793,1355.0,6494515.0,Verified,contractor_bills\SATTI_PLAZA_C008_RunBill_05.xlsx,contractor_bills,SATTI_PLAZA
+5,PCC 1:4:8,cft,1224.3,1095.0,1340608.5,,contractor_bills\SATTI_PLAZA_C008_RunBill_05.xlsx,contractor_bills,SATTI_PLAZA
+,,,,,1636095.83,,contractor_bills\SATTI_PLAZA_C008_RunBill_05.xlsx,contractor_bills,SATTI_PLAZA
+,,,,,6446417.21,,contractor_bills\SATTI_PLAZA_C008_RunBill_05.xlsx,contractor_bills,SATTI_PLAZA
+,,,,,163610.0,,contractor_bills\SATTI_PLAZA_C008_RunBill_05.xlsx,contractor_bills,SATTI_PLAZA
+,,,,,1472486.25,,contractor_bills\SATTI_PLAZA_C008_RunBill_05.xlsx,contractor_bills,SATTI_PLAZA
+Prepared:,,Checked:,,,,,contractor_bills\SATTI_PLAZA_C008_RunBill_05.xlsx,contractor_bills,SATTI_PLAZA

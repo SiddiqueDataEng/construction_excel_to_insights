@@ -1,0 +1,21 @@
+row_no,item_of_work,unit,qty,rate,amount,remarks,_source_file,_folder,_project
+Bill No:,RB-SAT-C006-02,,,,,,contractor_bills\SATTI_APTS_C006_RunBill_02.xlsx,contractor_bills,SATTI_APTS
+Date:,2018/06/25,,,,,,contractor_bills\SATTI_APTS_C006_RunBill_02.xlsx,contractor_bills,SATTI_APTS
+Project:,SATTI_APTS,,,,,,contractor_bills\SATTI_APTS_C006_RunBill_02.xlsx,contractor_bills,SATTI_APTS
+Contractor:,Qamar Civil Engineers,,,,,,contractor_bills\SATTI_APTS_C006_RunBill_02.xlsx,contractor_bills,SATTI_APTS
+Scope:,Civil Works,,,,,,contractor_bills\SATTI_APTS_C006_RunBill_02.xlsx,contractor_bills,SATTI_APTS
+Contract Value:,3721795.34,,,,,,contractor_bills\SATTI_APTS_C006_RunBill_02.xlsx,contractor_bills,SATTI_APTS
+WORK DONE THIS PERIOD,,,,,,,contractor_bills\SATTI_APTS_C006_RunBill_02.xlsx,contractor_bills,SATTI_APTS
+1,Painting,sft,2229.0,1093.0,2436297.0,As per BOQ,contractor_bills\SATTI_APTS_C006_RunBill_02.xlsx,contractor_bills,SATTI_APTS
+2,Brick Masonry,cft,582.2,1625.0,946075.0,Disputed,contractor_bills\SATTI_APTS_C006_RunBill_02.xlsx,contractor_bills,SATTI_APTS
+3,Door Frame,nos,4694.1,1803.0,8463462.3,,contractor_bills\SATTI_APTS_C006_RunBill_02.xlsx,contractor_bills,SATTI_APTS
+4,RCC M20,cft,991.2,488.0,483705.6,Disputed,contractor_bills\SATTI_APTS_C006_RunBill_02.xlsx,contractor_bills,SATTI_APTS
+5,PCC 1:4:8,cft,4472.5,1893.0,8466442.5,,contractor_bills\SATTI_APTS_C006_RunBill_02.xlsx,contractor_bills,SATTI_APTS
+6,Window Frame,nos,3122.1,160.0,499536.0,Verified,contractor_bills\SATTI_APTS_C006_RunBill_02.xlsx,contractor_bills,SATTI_APTS
+7,Electrical Wiring,point,PKR 509,1399.0,712650.6,,contractor_bills\SATTI_APTS_C006_RunBill_02.xlsx,contractor_bills,SATTI_APTS
+8,Excavation,cft,TBD,784.0,746368.0,As per BOQ,contractor_bills\SATTI_APTS_C006_RunBill_02.xlsx,contractor_bills,SATTI_APTS
+,,,,,573990.82,,contractor_bills\SATTI_APTS_C006_RunBill_02.xlsx,contractor_bills,SATTI_APTS
+,,,,,2220142.4,,contractor_bills\SATTI_APTS_C006_RunBill_02.xlsx,contractor_bills,SATTI_APTS
+,,,,,57399.08,,contractor_bills\SATTI_APTS_C006_RunBill_02.xlsx,contractor_bills,SATTI_APTS
+,,,,,,,contractor_bills\SATTI_APTS_C006_RunBill_02.xlsx,contractor_bills,SATTI_APTS
+Prepared:,,Checked:,,,,,contractor_bills\SATTI_APTS_C006_RunBill_02.xlsx,contractor_bills,SATTI_APTS

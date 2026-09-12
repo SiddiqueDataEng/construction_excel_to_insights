@@ -1,0 +1,19 @@
+row_no,item_of_work,unit,qty,rate,amount,remarks,_source_file,_folder,_project
+Bill No:,RB-SAT-C005-04,,,,,,contractor_bills\SATTI_MALL_C005_RunBill_04.xlsx,contractor_bills,SATTI_MALL
+Date:,09.05.2007,,,,,,contractor_bills\SATTI_MALL_C005_RunBill_04.xlsx,contractor_bills,SATTI_MALL
+Project:,SATTI_MALL,,,,,,contractor_bills\SATTI_MALL_C005_RunBill_04.xlsx,contractor_bills,SATTI_MALL
+Contractor:,Baig Steel Fabricators,,,,,,contractor_bills\SATTI_MALL_C005_RunBill_04.xlsx,contractor_bills,SATTI_MALL
+Scope:,Steel/Metal,,,,,,contractor_bills\SATTI_MALL_C005_RunBill_04.xlsx,contractor_bills,SATTI_MALL
+Contract Value:,TBD,,,,,,contractor_bills\SATTI_MALL_C005_RunBill_04.xlsx,contractor_bills,SATTI_MALL
+WORK DONE THIS PERIOD,,,,,,,contractor_bills\SATTI_MALL_C005_RunBill_04.xlsx,contractor_bills,SATTI_MALL
+1,RCC M20,cft,1018,731.0,744158.0,,contractor_bills\SATTI_MALL_C005_RunBill_04.xlsx,contractor_bills,SATTI_MALL
+2,Brick Masonry,cft,"2,874/-",318.0,,As per BOQ,contractor_bills\SATTI_MALL_C005_RunBill_04.xlsx,contractor_bills,SATTI_MALL
+3,Window Frame,nos,"2,857/-",2325.0,6642292.5,As per BOQ,contractor_bills\SATTI_MALL_C005_RunBill_04.xlsx,contractor_bills,SATTI_MALL
+4,Flooring,sft,3651.5,1488.0,5433432.0,Disputed,contractor_bills\SATTI_MALL_C005_RunBill_04.xlsx,contractor_bills,SATTI_MALL
+5,Excavation,cft,"4,341/-",1303.0,5655801.8,,contractor_bills\SATTI_MALL_C005_RunBill_04.xlsx,contractor_bills,SATTI_MALL
+6,Door Frame,nos,2355.8,566.0,1333382.8,As per BOQ,contractor_bills\SATTI_MALL_C005_RunBill_04.xlsx,contractor_bills,SATTI_MALL
+,,,,,1123051.08,,contractor_bills\SATTI_MALL_C005_RunBill_04.xlsx,contractor_bills,SATTI_MALL
+,,,,,3463466.52,,contractor_bills\SATTI_MALL_C005_RunBill_04.xlsx,contractor_bills,SATTI_MALL
+,,,,,112305.11,,contractor_bills\SATTI_MALL_C005_RunBill_04.xlsx,contractor_bills,SATTI_MALL
+,,,,,,,contractor_bills\SATTI_MALL_C005_RunBill_04.xlsx,contractor_bills,SATTI_MALL
+Prepared:,,Checked:,,,,,contractor_bills\SATTI_MALL_C005_RunBill_04.xlsx,contractor_bills,SATTI_MALL

@@ -1,0 +1,20 @@
+row_no,item_of_work,unit,qty,rate,amount,remarks,_source_file,_folder,_project
+Bill No:,RB-SAT-C008-04,,,,,,contractor_bills\SATTI_PLAZA_C008_RunBill_04.xlsx,contractor_bills,SATTI_PLAZA
+Date:,18.09.2012,,,,,,contractor_bills\SATTI_PLAZA_C008_RunBill_04.xlsx,contractor_bills,SATTI_PLAZA
+Project:,SATTI_PLAZA,,,,,,contractor_bills\SATTI_PLAZA_C008_RunBill_04.xlsx,contractor_bills,SATTI_PLAZA
+Contractor:,Sultan HVAC Services,,,,,,contractor_bills\SATTI_PLAZA_C008_RunBill_04.xlsx,contractor_bills,SATTI_PLAZA
+Scope:,HVAC,,,,,,contractor_bills\SATTI_PLAZA_C008_RunBill_04.xlsx,contractor_bills,SATTI_PLAZA
+Contract Value:,14589197.41,,,,,,contractor_bills\SATTI_PLAZA_C008_RunBill_04.xlsx,contractor_bills,SATTI_PLAZA
+WORK DONE THIS PERIOD,,,,,,,contractor_bills\SATTI_PLAZA_C008_RunBill_04.xlsx,contractor_bills,SATTI_PLAZA
+1,Plastering,sft,3623.7,1478.0,5355828.6,Disputed,contractor_bills\SATTI_PLAZA_C008_RunBill_04.xlsx,contractor_bills,SATTI_PLAZA
+2,Window Frame,nos,3552.8,904.0,3211731.2,,contractor_bills\SATTI_PLAZA_C008_RunBill_04.xlsx,contractor_bills,SATTI_PLAZA
+3,Electrical Wiring,point,725.9,1131.0,820992.9,,contractor_bills\SATTI_PLAZA_C008_RunBill_04.xlsx,contractor_bills,SATTI_PLAZA
+4,Plumbing Fixture,nos,1503.2,1374.0,2065396.8,,contractor_bills\SATTI_PLAZA_C008_RunBill_04.xlsx,contractor_bills,SATTI_PLAZA
+5,Door Frame,nos,4631.9,1889.0,8749659.1,Verified,contractor_bills\SATTI_PLAZA_C008_RunBill_04.xlsx,contractor_bills,SATTI_PLAZA
+6,Painting,sft,3951.6,1997.0,7891345.2,,contractor_bills\SATTI_PLAZA_C008_RunBill_04.xlsx,contractor_bills,SATTI_PLAZA
+7,Flooring,sft,TBD,307.0,1507493.0,,contractor_bills\SATTI_PLAZA_C008_RunBill_04.xlsx,contractor_bills,SATTI_PLAZA
+,,,,,2063477.23,,contractor_bills\SATTI_PLAZA_C008_RunBill_04.xlsx,contractor_bills,SATTI_PLAZA
+,,,,,3487088.59,,contractor_bills\SATTI_PLAZA_C008_RunBill_04.xlsx,contractor_bills,SATTI_PLAZA
+,,,,,206347.72,,contractor_bills\SATTI_PLAZA_C008_RunBill_04.xlsx,contractor_bills,SATTI_PLAZA
+,,,,,1857130.0,,contractor_bills\SATTI_PLAZA_C008_RunBill_04.xlsx,contractor_bills,SATTI_PLAZA
+Prepared:,,Checked:,,,,,contractor_bills\SATTI_PLAZA_C008_RunBill_04.xlsx,contractor_bills,SATTI_PLAZA

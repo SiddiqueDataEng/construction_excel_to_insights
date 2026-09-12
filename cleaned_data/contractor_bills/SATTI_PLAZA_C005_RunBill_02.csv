@@ -1,0 +1,18 @@
+row_no,item_of_work,unit,qty,rate,amount,remarks,_source_file,_folder,_project
+Bill No:,RB-SAT-C005-02,,,,,,contractor_bills\SATTI_PLAZA_C005_RunBill_02.xlsx,contractor_bills,SATTI_PLAZA
+Date:,08-Aug-2011,,,,,,contractor_bills\SATTI_PLAZA_C005_RunBill_02.xlsx,contractor_bills,SATTI_PLAZA
+Project:,SATTI_PLAZA,,,,,,contractor_bills\SATTI_PLAZA_C005_RunBill_02.xlsx,contractor_bills,SATTI_PLAZA
+Contractor:,Baig Steel Fabricators,,,,,,contractor_bills\SATTI_PLAZA_C005_RunBill_02.xlsx,contractor_bills,SATTI_PLAZA
+Scope:,Steel/Metal,,,,,,contractor_bills\SATTI_PLAZA_C005_RunBill_02.xlsx,contractor_bills,SATTI_PLAZA
+Contract Value:,5050549.06,,,,,,contractor_bills\SATTI_PLAZA_C005_RunBill_02.xlsx,contractor_bills,SATTI_PLAZA
+WORK DONE THIS PERIOD,,,,,,,contractor_bills\SATTI_PLAZA_C005_RunBill_02.xlsx,contractor_bills,SATTI_PLAZA
+1,Electrical Wiring,point,4026.2,197.0,793161.0,As per BOQ,contractor_bills\SATTI_PLAZA_C005_RunBill_02.xlsx,contractor_bills,SATTI_PLAZA
+2,Painting,sft,799.9,87.0,69591.0,,contractor_bills\SATTI_PLAZA_C005_RunBill_02.xlsx,contractor_bills,SATTI_PLAZA
+3,Door Frame,nos,375.7,544.0,204380.8,,contractor_bills\SATTI_PLAZA_C005_RunBill_02.xlsx,contractor_bills,SATTI_PLAZA
+4,Window Frame,nos,2664.6,1636.0,4359285.6,As per BOQ,contractor_bills\SATTI_PLAZA_C005_RunBill_02.xlsx,contractor_bills,SATTI_PLAZA
+5,RCC M20,cft,2137.5,2238.0,4783725.0,As per BOQ,contractor_bills\SATTI_PLAZA_C005_RunBill_02.xlsx,contractor_bills,SATTI_PLAZA
+,,,,,613245.67,,contractor_bills\SATTI_PLAZA_C005_RunBill_02.xlsx,contractor_bills,SATTI_PLAZA
+,,,,,978767.09,,contractor_bills\SATTI_PLAZA_C005_RunBill_02.xlsx,contractor_bills,SATTI_PLAZA
+,,,,,61325.0,,contractor_bills\SATTI_PLAZA_C005_RunBill_02.xlsx,contractor_bills,SATTI_PLAZA
+,,,,,551921.1000000001,,contractor_bills\SATTI_PLAZA_C005_RunBill_02.xlsx,contractor_bills,SATTI_PLAZA
+Prepared:,,Checked:,,,,,contractor_bills\SATTI_PLAZA_C005_RunBill_02.xlsx,contractor_bills,SATTI_PLAZA

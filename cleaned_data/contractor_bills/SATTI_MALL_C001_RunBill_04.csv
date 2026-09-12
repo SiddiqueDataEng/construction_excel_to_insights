@@ -1,0 +1,17 @@
+row_no,item_of_work,unit,qty,rate,amount,remarks,_source_file,_folder,_project
+Bill No:,RB-SAT-C001-04,,,,,,contractor_bills\SATTI_MALL_C001_RunBill_04.xlsx,contractor_bills,SATTI_MALL
+Date:,11-30-2007,,,,,,contractor_bills\SATTI_MALL_C001_RunBill_04.xlsx,contractor_bills,SATTI_MALL
+Project:,SATTI_MALL,,,,,,contractor_bills\SATTI_MALL_C001_RunBill_04.xlsx,contractor_bills,SATTI_MALL
+Contractor:,Ahmad & Bros Construction,,,,,,contractor_bills\SATTI_MALL_C001_RunBill_04.xlsx,contractor_bills,SATTI_MALL
+Scope:,Civil Works,,,,,,contractor_bills\SATTI_MALL_C001_RunBill_04.xlsx,contractor_bills,SATTI_MALL
+Contract Value:,13490916.95,,,,,,contractor_bills\SATTI_MALL_C001_RunBill_04.xlsx,contractor_bills,SATTI_MALL
+WORK DONE THIS PERIOD,,,,,,,contractor_bills\SATTI_MALL_C001_RunBill_04.xlsx,contractor_bills,SATTI_MALL
+1,PCC 1:4:8,cft,230.4,1738.0,400435.2,,contractor_bills\SATTI_MALL_C001_RunBill_04.xlsx,contractor_bills,SATTI_MALL
+2,Plastering,sft,2452.9,2481.0,6085644.9,,contractor_bills\SATTI_MALL_C001_RunBill_04.xlsx,contractor_bills,SATTI_MALL
+3,Window Frame,nos,4624.8,730.0,3376104.0,Disputed,contractor_bills\SATTI_MALL_C001_RunBill_04.xlsx,contractor_bills,SATTI_MALL
+4,Brick Masonry,cft,829.8,1860.0,1543428.0,As per BOQ,contractor_bills\SATTI_MALL_C001_RunBill_04.xlsx,contractor_bills,SATTI_MALL
+,,,,,,,contractor_bills\SATTI_MALL_C001_RunBill_04.xlsx,contractor_bills,SATTI_MALL
+,,,,,2184356.22,,contractor_bills\SATTI_MALL_C001_RunBill_04.xlsx,contractor_bills,SATTI_MALL
+,,,,,242813.21,,contractor_bills\SATTI_MALL_C001_RunBill_04.xlsx,contractor_bills,SATTI_MALL
+,,,,,,,contractor_bills\SATTI_MALL_C001_RunBill_04.xlsx,contractor_bills,SATTI_MALL
+Prepared:,,Checked:,,,,,contractor_bills\SATTI_MALL_C001_RunBill_04.xlsx,contractor_bills,SATTI_MALL

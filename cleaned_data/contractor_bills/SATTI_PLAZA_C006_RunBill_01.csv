@@ -1,0 +1,18 @@
+row_no,item_of_work,unit,qty,rate,amount,remarks,_source_file,_folder,_project
+Bill No:,RB-SAT-C006-01,,,,,,contractor_bills\SATTI_PLAZA_C006_RunBill_01.xlsx,contractor_bills,SATTI_PLAZA
+Date:,22-Mar-2014,,,,,,contractor_bills\SATTI_PLAZA_C006_RunBill_01.xlsx,contractor_bills,SATTI_PLAZA
+Project:,SATTI_PLAZA,,,,,,contractor_bills\SATTI_PLAZA_C006_RunBill_01.xlsx,contractor_bills,SATTI_PLAZA
+Contractor:,Qamar Civil Engineers,,,,,,contractor_bills\SATTI_PLAZA_C006_RunBill_01.xlsx,contractor_bills,SATTI_PLAZA
+Scope:,Civil Works,,,,,,contractor_bills\SATTI_PLAZA_C006_RunBill_01.xlsx,contractor_bills,SATTI_PLAZA
+Contract Value:,8254094.8,,,,,,contractor_bills\SATTI_PLAZA_C006_RunBill_01.xlsx,contractor_bills,SATTI_PLAZA
+WORK DONE THIS PERIOD,,,,,,,contractor_bills\SATTI_PLAZA_C006_RunBill_01.xlsx,contractor_bills,SATTI_PLAZA
+1,PCC 1:4:8,cft,"PKR 2,935",912.0,2676355.2,Verified,contractor_bills\SATTI_PLAZA_C006_RunBill_01.xlsx,contractor_bills,SATTI_PLAZA
+2,RCC M20,cft,2819.6,1167.0,3290473.2,,contractor_bills\SATTI_PLAZA_C006_RunBill_01.xlsx,contractor_bills,SATTI_PLAZA
+3,Excavation,cft,4841.2,1187.0,5746504.4,Disputed,contractor_bills\SATTI_PLAZA_C006_RunBill_01.xlsx,contractor_bills,SATTI_PLAZA
+4,Electrical Wiring,point,2866.3,1503.0,4308049.0,As per BOQ,contractor_bills\SATTI_PLAZA_C006_RunBill_01.xlsx,contractor_bills,SATTI_PLAZA
+5,Window Frame,nos,"PKR 1,744",1742.0,3038571.0,Disputed,contractor_bills\SATTI_PLAZA_C006_RunBill_01.xlsx,contractor_bills,SATTI_PLAZA
+,,,,,1087101.38,,contractor_bills\SATTI_PLAZA_C006_RunBill_01.xlsx,contractor_bills,SATTI_PLAZA
+,,,,,2745378.18,,contractor_bills\SATTI_PLAZA_C006_RunBill_01.xlsx,contractor_bills,SATTI_PLAZA
+,,,,,,,contractor_bills\SATTI_PLAZA_C006_RunBill_01.xlsx,contractor_bills,SATTI_PLAZA
+,,,,,978391.2399999999,,contractor_bills\SATTI_PLAZA_C006_RunBill_01.xlsx,contractor_bills,SATTI_PLAZA
+Prepared:,,Checked:,,,,,contractor_bills\SATTI_PLAZA_C006_RunBill_01.xlsx,contractor_bills,SATTI_PLAZA

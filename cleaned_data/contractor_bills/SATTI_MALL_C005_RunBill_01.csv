@@ -1,0 +1,17 @@
+row_no,item_of_work,unit,qty,rate,amount,remarks,_source_file,_folder,_project
+Bill No:,RB-SAT-C005-01,,,,,,contractor_bills\SATTI_MALL_C005_RunBill_01.xlsx,contractor_bills,SATTI_MALL
+Date:,19.01.2008,,,,,,contractor_bills\SATTI_MALL_C005_RunBill_01.xlsx,contractor_bills,SATTI_MALL
+Project:,SATTI_MALL,,,,,,contractor_bills\SATTI_MALL_C005_RunBill_01.xlsx,contractor_bills,SATTI_MALL
+Contractor:,Baig Steel Fabricators,,,,,,contractor_bills\SATTI_MALL_C005_RunBill_01.xlsx,contractor_bills,SATTI_MALL
+Scope:,Steel/Metal,,,,,,contractor_bills\SATTI_MALL_C005_RunBill_01.xlsx,contractor_bills,SATTI_MALL
+Contract Value:,4676473.03,,,,,,contractor_bills\SATTI_MALL_C005_RunBill_01.xlsx,contractor_bills,SATTI_MALL
+WORK DONE THIS PERIOD,,,,,,,contractor_bills\SATTI_MALL_C005_RunBill_01.xlsx,contractor_bills,SATTI_MALL
+1,Painting,sft,PKR 38,883.0,33377.4,,contractor_bills\SATTI_MALL_C005_RunBill_01.xlsx,contractor_bills,SATTI_MALL
+2,Plumbing Fixture,nos,3413.2,746.0,2546247.2,Disputed,contractor_bills\SATTI_MALL_C005_RunBill_01.xlsx,contractor_bills,SATTI_MALL
+3,PCC 1:4:8,cft,4975.6,1252.0,6229451.2,As per BOQ,contractor_bills\SATTI_MALL_C005_RunBill_01.xlsx,contractor_bills,SATTI_MALL
+4,Brick Masonry,cft,4495.4,1983.0,8914378.2,,contractor_bills\SATTI_MALL_C005_RunBill_01.xlsx,contractor_bills,SATTI_MALL
+,,,,,447450.82,,contractor_bills\SATTI_MALL_C005_RunBill_01.xlsx,contractor_bills,SATTI_MALL
+,,,,,1643414.64,,contractor_bills\SATTI_MALL_C005_RunBill_01.xlsx,contractor_bills,SATTI_MALL
+,,,,,44745.08,,contractor_bills\SATTI_MALL_C005_RunBill_01.xlsx,contractor_bills,SATTI_MALL
+,,,,,402705.74,,contractor_bills\SATTI_MALL_C005_RunBill_01.xlsx,contractor_bills,SATTI_MALL
+Prepared:,,Checked:,,,,,contractor_bills\SATTI_MALL_C005_RunBill_01.xlsx,contractor_bills,SATTI_MALL

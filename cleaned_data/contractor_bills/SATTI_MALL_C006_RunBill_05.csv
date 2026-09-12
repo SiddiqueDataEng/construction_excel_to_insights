@@ -1,0 +1,18 @@
+row_no,item_of_work,unit,qty,rate,amount,remarks,_source_file,_folder,_project
+Bill No:,RB-SAT-C006-05,,,,,,contractor_bills\SATTI_MALL_C006_RunBill_05.xlsx,contractor_bills,SATTI_MALL
+Date:,13/06/07,,,,,,contractor_bills\SATTI_MALL_C006_RunBill_05.xlsx,contractor_bills,SATTI_MALL
+Project:,SATTI_MALL,,,,,,contractor_bills\SATTI_MALL_C006_RunBill_05.xlsx,contractor_bills,SATTI_MALL
+Contractor:,Qamar Civil Engineers,,,,,,contractor_bills\SATTI_MALL_C006_RunBill_05.xlsx,contractor_bills,SATTI_MALL
+Scope:,Civil Works,,,,,,contractor_bills\SATTI_MALL_C006_RunBill_05.xlsx,contractor_bills,SATTI_MALL
+Contract Value:,13465372.03,,,,,,contractor_bills\SATTI_MALL_C006_RunBill_05.xlsx,contractor_bills,SATTI_MALL
+WORK DONE THIS PERIOD,,,,,,,contractor_bills\SATTI_MALL_C006_RunBill_05.xlsx,contractor_bills,SATTI_MALL
+1,Brick Masonry,cft,2022.1,1923.0,3888498.3,Disputed,contractor_bills\SATTI_MALL_C006_RunBill_05.xlsx,contractor_bills,SATTI_MALL
+2,Flooring,sft,2956.2,1989.0,5879881.8,As per BOQ,contractor_bills\SATTI_MALL_C006_RunBill_05.xlsx,contractor_bills,SATTI_MALL
+3,PCC 1:4:8,cft,3763.3,1468.0,5524524.4,,contractor_bills\SATTI_MALL_C006_RunBill_05.xlsx,contractor_bills,SATTI_MALL
+4,Plastering,sft,2948.3,612.0,1804360.0,,contractor_bills\SATTI_MALL_C006_RunBill_05.xlsx,contractor_bills,SATTI_MALL
+5,Door Frame,nos,1779.5,158.0,,Verified,contractor_bills\SATTI_MALL_C006_RunBill_05.xlsx,contractor_bills,SATTI_MALL
+,,,,,952487.86,,contractor_bills\SATTI_MALL_C006_RunBill_05.xlsx,contractor_bills,SATTI_MALL
+,,,,,2866506.44,,contractor_bills\SATTI_MALL_C006_RunBill_05.xlsx,contractor_bills,SATTI_MALL
+,,,,,95248.79,,contractor_bills\SATTI_MALL_C006_RunBill_05.xlsx,contractor_bills,SATTI_MALL
+,,,,,857239.07,,contractor_bills\SATTI_MALL_C006_RunBill_05.xlsx,contractor_bills,SATTI_MALL
+Prepared:,,Checked:,,,,,contractor_bills\SATTI_MALL_C006_RunBill_05.xlsx,contractor_bills,SATTI_MALL

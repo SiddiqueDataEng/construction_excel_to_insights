@@ -1,0 +1,18 @@
+row_no,item_of_work,unit,qty,rate,amount,remarks,_source_file,_folder,_project
+Bill No:,RB-SAT-C002-01,,,,,,contractor_bills\SATTI_PLAZA_C002_RunBill_01.xlsx,contractor_bills,SATTI_PLAZA
+Date:,12-06-2013,,,,,,contractor_bills\SATTI_PLAZA_C002_RunBill_01.xlsx,contractor_bills,SATTI_PLAZA
+Project:,SATTI_PLAZA,,,,,,contractor_bills\SATTI_PLAZA_C002_RunBill_01.xlsx,contractor_bills,SATTI_PLAZA
+Contractor:,Iqbal Electrical Contractors,,,,,,contractor_bills\SATTI_PLAZA_C002_RunBill_01.xlsx,contractor_bills,SATTI_PLAZA
+Scope:,Electrical,,,,,,contractor_bills\SATTI_PLAZA_C002_RunBill_01.xlsx,contractor_bills,SATTI_PLAZA
+Contract Value:,7763830.68,,,,,,contractor_bills\SATTI_PLAZA_C002_RunBill_01.xlsx,contractor_bills,SATTI_PLAZA
+WORK DONE THIS PERIOD,,,,,,,contractor_bills\SATTI_PLAZA_C002_RunBill_01.xlsx,contractor_bills,SATTI_PLAZA
+1,Flooring,sft,926.4,,286258.0,As per BOQ,contractor_bills\SATTI_PLAZA_C002_RunBill_01.xlsx,contractor_bills,SATTI_PLAZA
+2,Painting,sft,2867.7,1959.0,5617824.3,,contractor_bills\SATTI_PLAZA_C002_RunBill_01.xlsx,contractor_bills,SATTI_PLAZA
+3,Plastering,sft,"PKR 3,689",128.0,472166.4,,contractor_bills\SATTI_PLAZA_C002_RunBill_01.xlsx,contractor_bills,SATTI_PLAZA
+4,RCC M20,cft,38,1923.0,73074.0,As per BOQ,contractor_bills\SATTI_PLAZA_C002_RunBill_01.xlsx,contractor_bills,SATTI_PLAZA
+5,Brick Masonry,cft,4433.1,336.0,1489521.6,,contractor_bills\SATTI_PLAZA_C002_RunBill_01.xlsx,contractor_bills,SATTI_PLAZA
+,,,,,534120.17,,contractor_bills\SATTI_PLAZA_C002_RunBill_01.xlsx,contractor_bills,SATTI_PLAZA
+,,,,,3773778.65,,contractor_bills\SATTI_PLAZA_C002_RunBill_01.xlsx,contractor_bills,SATTI_PLAZA
+,,,,,53412.02,,contractor_bills\SATTI_PLAZA_C002_RunBill_01.xlsx,contractor_bills,SATTI_PLAZA
+,,,,,480708.15,,contractor_bills\SATTI_PLAZA_C002_RunBill_01.xlsx,contractor_bills,SATTI_PLAZA
+Prepared:,,Checked:,,,,,contractor_bills\SATTI_PLAZA_C002_RunBill_01.xlsx,contractor_bills,SATTI_PLAZA

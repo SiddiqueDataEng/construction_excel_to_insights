@@ -1,0 +1,20 @@
+row_no,item_of_work,unit,qty,rate,amount,remarks,_source_file,_folder,_project
+Bill No:,RB-SAT-C006-03,,,,,,contractor_bills\SATTI_MALL_C006_RunBill_03.xlsx,contractor_bills,SATTI_MALL
+Date:,18.05.2006,,,,,,contractor_bills\SATTI_MALL_C006_RunBill_03.xlsx,contractor_bills,SATTI_MALL
+Project:,SATTI_MALL,,,,,,contractor_bills\SATTI_MALL_C006_RunBill_03.xlsx,contractor_bills,SATTI_MALL
+Contractor:,Qamar Civil Engineers,,,,,,contractor_bills\SATTI_MALL_C006_RunBill_03.xlsx,contractor_bills,SATTI_MALL
+Scope:,Civil Works,,,,,,contractor_bills\SATTI_MALL_C006_RunBill_03.xlsx,contractor_bills,SATTI_MALL
+Contract Value:,8694402.59,,,,,,contractor_bills\SATTI_MALL_C006_RunBill_03.xlsx,contractor_bills,SATTI_MALL
+WORK DONE THIS PERIOD,,,,,,,contractor_bills\SATTI_MALL_C006_RunBill_03.xlsx,contractor_bills,SATTI_MALL
+1,Flooring,sft,1210.3,389.0,470807.0,Verified,contractor_bills\SATTI_MALL_C006_RunBill_03.xlsx,contractor_bills,SATTI_MALL
+2,RCC M20,cft,2133.6,811.0,1730349.6,,contractor_bills\SATTI_MALL_C006_RunBill_03.xlsx,contractor_bills,SATTI_MALL
+3,PCC 1:4:8,cft,2946.7,1683.0,4959296.0,Verified,contractor_bills\SATTI_MALL_C006_RunBill_03.xlsx,contractor_bills,SATTI_MALL
+4,Painting,sft,"2,724/-",2357.0,6420468.0,Verified,contractor_bills\SATTI_MALL_C006_RunBill_03.xlsx,contractor_bills,SATTI_MALL
+5,Plastering,sft,1582.1,1686.0,,Verified,contractor_bills\SATTI_MALL_C006_RunBill_03.xlsx,contractor_bills,SATTI_MALL
+6,Excavation,cft,2514.2,2029.0,5101311.8,Disputed,contractor_bills\SATTI_MALL_C006_RunBill_03.xlsx,contractor_bills,SATTI_MALL
+7,Plumbing Fixture,nos,2650.6,1257.0,3331804.2,Disputed,contractor_bills\SATTI_MALL_C006_RunBill_03.xlsx,contractor_bills,SATTI_MALL
+,,,,,1128131.37,,contractor_bills\SATTI_MALL_C006_RunBill_03.xlsx,contractor_bills,SATTI_MALL
+,,,,,1105998.47,,contractor_bills\SATTI_MALL_C006_RunBill_03.xlsx,contractor_bills,SATTI_MALL
+,,,,,112813.14,,contractor_bills\SATTI_MALL_C006_RunBill_03.xlsx,contractor_bills,SATTI_MALL
+,,,,,1015318.23,,contractor_bills\SATTI_MALL_C006_RunBill_03.xlsx,contractor_bills,SATTI_MALL
+Prepared:,,Checked:,,,,,contractor_bills\SATTI_MALL_C006_RunBill_03.xlsx,contractor_bills,SATTI_MALL

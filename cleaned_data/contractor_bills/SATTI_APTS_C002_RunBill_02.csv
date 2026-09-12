@@ -1,0 +1,19 @@
+row_no,item_of_work,unit,qty,rate,amount,remarks,_source_file,_folder,_project
+Bill No:,RB-SAT-C002-02,,,,,,contractor_bills\SATTI_APTS_C002_RunBill_02.xlsx,contractor_bills,SATTI_APTS
+Date:,03/09/15,,,,,,contractor_bills\SATTI_APTS_C002_RunBill_02.xlsx,contractor_bills,SATTI_APTS
+Project:,SATTI_APTS,,,,,,contractor_bills\SATTI_APTS_C002_RunBill_02.xlsx,contractor_bills,SATTI_APTS
+Contractor:,Iqbal Electrical Contractors,,,,,,contractor_bills\SATTI_APTS_C002_RunBill_02.xlsx,contractor_bills,SATTI_APTS
+Scope:,Electrical,,,,,,contractor_bills\SATTI_APTS_C002_RunBill_02.xlsx,contractor_bills,SATTI_APTS
+Contract Value:,2975578.21,,,,,,contractor_bills\SATTI_APTS_C002_RunBill_02.xlsx,contractor_bills,SATTI_APTS
+WORK DONE THIS PERIOD,,,,,,,contractor_bills\SATTI_APTS_C002_RunBill_02.xlsx,contractor_bills,SATTI_APTS
+1,Excavation,cft,2791.9,267.0,745437.3,,contractor_bills\SATTI_APTS_C002_RunBill_02.xlsx,contractor_bills,SATTI_APTS
+2,Window Frame,nos,PKR 662,1121.0,741877.8,,contractor_bills\SATTI_APTS_C002_RunBill_02.xlsx,contractor_bills,SATTI_APTS
+3,Brick Masonry,cft,3845,2359.0,9070355.0,As per BOQ,contractor_bills\SATTI_APTS_C002_RunBill_02.xlsx,contractor_bills,SATTI_APTS
+4,Door Frame,nos,3929.3,2450.0,9626785.0,Disputed,contractor_bills\SATTI_APTS_C002_RunBill_02.xlsx,contractor_bills,SATTI_APTS
+5,Flooring,sft,205,436.0,89380.0,Verified,contractor_bills\SATTI_APTS_C002_RunBill_02.xlsx,contractor_bills,SATTI_APTS
+6,Painting,sft,,2146.0,,Disputed,contractor_bills\SATTI_APTS_C002_RunBill_02.xlsx,contractor_bills,SATTI_APTS
+,,,,,541931.15,,contractor_bills\SATTI_APTS_C002_RunBill_02.xlsx,contractor_bills,SATTI_APTS
+,,,,,895372.12,,contractor_bills\SATTI_APTS_C002_RunBill_02.xlsx,contractor_bills,SATTI_APTS
+,,,,,54193.12,,contractor_bills\SATTI_APTS_C002_RunBill_02.xlsx,contractor_bills,SATTI_APTS
+,,,,,487738.03,,contractor_bills\SATTI_APTS_C002_RunBill_02.xlsx,contractor_bills,SATTI_APTS
+Prepared:,,Checked:,,,,,contractor_bills\SATTI_APTS_C002_RunBill_02.xlsx,contractor_bills,SATTI_APTS

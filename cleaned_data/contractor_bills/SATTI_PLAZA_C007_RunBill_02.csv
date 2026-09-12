@@ -1,0 +1,21 @@
+row_no,item_of_work,unit,qty,rate,amount,remarks,_source_file,_folder,_project
+Bill No:,RB-SAT-C007-02,,,,,,contractor_bills\SATTI_PLAZA_C007_RunBill_02.xlsx,contractor_bills,SATTI_PLAZA
+Date:,2013/06/26,,,,,,contractor_bills\SATTI_PLAZA_C007_RunBill_02.xlsx,contractor_bills,SATTI_PLAZA
+Project:,SATTI_PLAZA,,,,,,contractor_bills\SATTI_PLAZA_C007_RunBill_02.xlsx,contractor_bills,SATTI_PLAZA
+Contractor:,Bilal Tiles & Flooring,,,,,,contractor_bills\SATTI_PLAZA_C007_RunBill_02.xlsx,contractor_bills,SATTI_PLAZA
+Scope:,Flooring,,,,,,contractor_bills\SATTI_PLAZA_C007_RunBill_02.xlsx,contractor_bills,SATTI_PLAZA
+Contract Value:,11359547.8,,,,,,contractor_bills\SATTI_PLAZA_C007_RunBill_02.xlsx,contractor_bills,SATTI_PLAZA
+WORK DONE THIS PERIOD,,,,,,,contractor_bills\SATTI_PLAZA_C007_RunBill_02.xlsx,contractor_bills,SATTI_PLAZA
+1,PCC 1:4:8,cft,2881.1,1341.0,,,contractor_bills\SATTI_PLAZA_C007_RunBill_02.xlsx,contractor_bills,SATTI_PLAZA
+2,Plumbing Fixture,nos,1104.5,1108.0,1223786.0,,contractor_bills\SATTI_PLAZA_C007_RunBill_02.xlsx,contractor_bills,SATTI_PLAZA
+3,Door Frame,nos,,532.0,928712.4,As per BOQ,contractor_bills\SATTI_PLAZA_C007_RunBill_02.xlsx,contractor_bills,SATTI_PLAZA
+4,Window Frame,nos,29.2,,46661.6,,contractor_bills\SATTI_PLAZA_C007_RunBill_02.xlsx,contractor_bills,SATTI_PLAZA
+5,Electrical Wiring,point,2753.7,55.0,151453.5,,contractor_bills\SATTI_PLAZA_C007_RunBill_02.xlsx,contractor_bills,SATTI_PLAZA
+6,Brick Masonry,cft,"3,894/-",1930.0,7515420.0,Disputed,contractor_bills\SATTI_PLAZA_C007_RunBill_02.xlsx,contractor_bills,SATTI_PLAZA
+7,Plastering,sft,2292.4,1119.0,2565195.6,As per BOQ,contractor_bills\SATTI_PLAZA_C007_RunBill_02.xlsx,contractor_bills,SATTI_PLAZA
+8,RCC M20,cft,2513,2238.0,5624094.0,Disputed,contractor_bills\SATTI_PLAZA_C007_RunBill_02.xlsx,contractor_bills,SATTI_PLAZA
+,,,,,770322.67,,contractor_bills\SATTI_PLAZA_C007_RunBill_02.xlsx,contractor_bills,SATTI_PLAZA
+,,,,,6163117.6,,contractor_bills\SATTI_PLAZA_C007_RunBill_02.xlsx,contractor_bills,SATTI_PLAZA
+,,,,,77032.27,,contractor_bills\SATTI_PLAZA_C007_RunBill_02.xlsx,contractor_bills,SATTI_PLAZA
+,,,,,693290.4,,contractor_bills\SATTI_PLAZA_C007_RunBill_02.xlsx,contractor_bills,SATTI_PLAZA
+Prepared:,,Checked:,,,,,contractor_bills\SATTI_PLAZA_C007_RunBill_02.xlsx,contractor_bills,SATTI_PLAZA

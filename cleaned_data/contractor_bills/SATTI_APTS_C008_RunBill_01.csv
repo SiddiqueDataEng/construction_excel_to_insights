@@ -1,0 +1,20 @@
+row_no,item_of_work,unit,qty,rate,amount,remarks,_source_file,_folder,_project
+Bill No:,RB-SAT-C008-01,,,,,,contractor_bills\SATTI_APTS_C008_RunBill_01.xlsx,contractor_bills,SATTI_APTS
+Date:,31.10.2016,,,,,,contractor_bills\SATTI_APTS_C008_RunBill_01.xlsx,contractor_bills,SATTI_APTS
+Project:,SATTI_APTS,,,,,,contractor_bills\SATTI_APTS_C008_RunBill_01.xlsx,contractor_bills,SATTI_APTS
+Contractor:,Sultan HVAC Services,,,,,,contractor_bills\SATTI_APTS_C008_RunBill_01.xlsx,contractor_bills,SATTI_APTS
+Scope:,HVAC,,,,,,contractor_bills\SATTI_APTS_C008_RunBill_01.xlsx,contractor_bills,SATTI_APTS
+Contract Value:,"PKR 2,853,441",,,,,,contractor_bills\SATTI_APTS_C008_RunBill_01.xlsx,contractor_bills,SATTI_APTS
+WORK DONE THIS PERIOD,,,,,,,contractor_bills\SATTI_APTS_C008_RunBill_01.xlsx,contractor_bills,SATTI_APTS
+1,Painting,sft,3495,1091.0,3813045.0,Disputed,contractor_bills\SATTI_APTS_C008_RunBill_01.xlsx,contractor_bills,SATTI_APTS
+2,RCC M20,cft,"PKR 3,897",732.0,2852311.2,Verified,contractor_bills\SATTI_APTS_C008_RunBill_01.xlsx,contractor_bills,SATTI_APTS
+3,Plastering,sft,4495.3,1390.0,6248467.0,Disputed,contractor_bills\SATTI_APTS_C008_RunBill_01.xlsx,contractor_bills,SATTI_APTS
+4,Excavation,cft,1853.5,,,As per BOQ,contractor_bills\SATTI_APTS_C008_RunBill_01.xlsx,contractor_bills,SATTI_APTS
+5,Electrical Wiring,point,201.8,1038.0,209468.4,Disputed,contractor_bills\SATTI_APTS_C008_RunBill_01.xlsx,contractor_bills,SATTI_APTS
+6,Flooring,sft,377.7,963.0,363725.1,As per BOQ,contractor_bills\SATTI_APTS_C008_RunBill_01.xlsx,contractor_bills,SATTI_APTS
+7,PCC 1:4:8,cft,262,679.0,,Disputed,contractor_bills\SATTI_APTS_C008_RunBill_01.xlsx,contractor_bills,SATTI_APTS
+,,,,,234673.98,,contractor_bills\SATTI_APTS_C008_RunBill_01.xlsx,contractor_bills,SATTI_APTS
+,,,,,1751538.37,,contractor_bills\SATTI_APTS_C008_RunBill_01.xlsx,contractor_bills,SATTI_APTS
+,,,,,23467.4,,contractor_bills\SATTI_APTS_C008_RunBill_01.xlsx,contractor_bills,SATTI_APTS
+,,,,,211206.58,,contractor_bills\SATTI_APTS_C008_RunBill_01.xlsx,contractor_bills,SATTI_APTS
+Prepared:,,Checked:,,,,,contractor_bills\SATTI_APTS_C008_RunBill_01.xlsx,contractor_bills,SATTI_APTS

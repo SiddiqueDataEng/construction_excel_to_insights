@@ -1,0 +1,20 @@
+row_no,item_of_work,unit,qty,rate,amount,remarks,_source_file,_folder,_project
+Bill No:,RB-SAT-C008-01,,,,,,contractor_bills\SATTI_MALL_C008_RunBill_01.xlsx,contractor_bills,SATTI_MALL
+Date:,29/08/2007,,,,,,contractor_bills\SATTI_MALL_C008_RunBill_01.xlsx,contractor_bills,SATTI_MALL
+Project:,SATTI_MALL,,,,,,contractor_bills\SATTI_MALL_C008_RunBill_01.xlsx,contractor_bills,SATTI_MALL
+Contractor:,Sultan HVAC Services,,,,,,contractor_bills\SATTI_MALL_C008_RunBill_01.xlsx,contractor_bills,SATTI_MALL
+Scope:,HVAC,,,,,,contractor_bills\SATTI_MALL_C008_RunBill_01.xlsx,contractor_bills,SATTI_MALL
+Contract Value:,5003935.85,,,,,,contractor_bills\SATTI_MALL_C008_RunBill_01.xlsx,contractor_bills,SATTI_MALL
+WORK DONE THIS PERIOD,,,,,,,contractor_bills\SATTI_MALL_C008_RunBill_01.xlsx,contractor_bills,SATTI_MALL
+1,Door Frame,nos,2893.4,2212.0,6400200.8,Verified,contractor_bills\SATTI_MALL_C008_RunBill_01.xlsx,contractor_bills,SATTI_MALL
+2,Plumbing Fixture,nos,4971.1,,5224626.1,,contractor_bills\SATTI_MALL_C008_RunBill_01.xlsx,contractor_bills,SATTI_MALL
+3,Window Frame,nos,563.4,453.0,255220.2,Disputed,contractor_bills\SATTI_MALL_C008_RunBill_01.xlsx,contractor_bills,SATTI_MALL
+4,RCC M20,cft,2156.1,1756.0,3786111.6,Disputed,contractor_bills\SATTI_MALL_C008_RunBill_01.xlsx,contractor_bills,SATTI_MALL
+5,PCC 1:4:8,cft,4868.8,1607.0,7824161.6,Verified,contractor_bills\SATTI_MALL_C008_RunBill_01.xlsx,contractor_bills,SATTI_MALL
+6,Excavation,cft,3362,1752.0,5890224.0,Verified,contractor_bills\SATTI_MALL_C008_RunBill_01.xlsx,contractor_bills,SATTI_MALL
+7,Flooring,sft,3382.3,1102.0,3727294.6,Verified,contractor_bills\SATTI_MALL_C008_RunBill_01.xlsx,contractor_bills,SATTI_MALL
+,,,,,487387.29,,contractor_bills\SATTI_MALL_C008_RunBill_01.xlsx,contractor_bills,SATTI_MALL
+,,,,,470548.07,,contractor_bills\SATTI_MALL_C008_RunBill_01.xlsx,contractor_bills,SATTI_MALL
+,,,,,48739.0,,contractor_bills\SATTI_MALL_C008_RunBill_01.xlsx,contractor_bills,SATTI_MALL
+,,,,,438648.56,,contractor_bills\SATTI_MALL_C008_RunBill_01.xlsx,contractor_bills,SATTI_MALL
+Prepared:,,Checked:,,,,,contractor_bills\SATTI_MALL_C008_RunBill_01.xlsx,contractor_bills,SATTI_MALL

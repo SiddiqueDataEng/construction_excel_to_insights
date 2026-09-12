@@ -1,0 +1,19 @@
+row_no,item_of_work,unit,qty,rate,amount,remarks,_source_file,_folder,_project
+Bill No:,RB-SAT-C003-02,,,,,,contractor_bills\SATTI_MALL_C003_RunBill_02.xlsx,contractor_bills,SATTI_MALL
+Date:,06-17-2007,,,,,,contractor_bills\SATTI_MALL_C003_RunBill_02.xlsx,contractor_bills,SATTI_MALL
+Project:,SATTI_MALL,,,,,,contractor_bills\SATTI_MALL_C003_RunBill_02.xlsx,contractor_bills,SATTI_MALL
+Contractor:,Rehman Plumbing Works,,,,,,contractor_bills\SATTI_MALL_C003_RunBill_02.xlsx,contractor_bills,SATTI_MALL
+Scope:,Plumbing,,,,,,contractor_bills\SATTI_MALL_C003_RunBill_02.xlsx,contractor_bills,SATTI_MALL
+Contract Value:,11563012.16,,,,,,contractor_bills\SATTI_MALL_C003_RunBill_02.xlsx,contractor_bills,SATTI_MALL
+WORK DONE THIS PERIOD,,,,,,,contractor_bills\SATTI_MALL_C003_RunBill_02.xlsx,contractor_bills,SATTI_MALL
+1,PCC 1:4:8,cft,455,375.0,170625.0,As per BOQ,contractor_bills\SATTI_MALL_C003_RunBill_02.xlsx,contractor_bills,SATTI_MALL
+2,Brick Masonry,cft,4805.5,316.0,1518538.0,As per BOQ,contractor_bills\SATTI_MALL_C003_RunBill_02.xlsx,contractor_bills,SATTI_MALL
+3,Electrical Wiring,point,402.2,450.0,180990.0,,contractor_bills\SATTI_MALL_C003_RunBill_02.xlsx,contractor_bills,SATTI_MALL
+4,Window Frame,nos,1595.6,1196.0,1908337.6,As per BOQ,contractor_bills\SATTI_MALL_C003_RunBill_02.xlsx,contractor_bills,SATTI_MALL
+5,Door Frame,nos,380.9,1686.0,642197.0,As per BOQ,contractor_bills\SATTI_MALL_C003_RunBill_02.xlsx,contractor_bills,SATTI_MALL
+6,Plumbing Fixture,nos,1621.9,395.0,640650.5,,contractor_bills\SATTI_MALL_C003_RunBill_02.xlsx,contractor_bills,SATTI_MALL
+,,,,,803679.26,,contractor_bills\SATTI_MALL_C003_RunBill_02.xlsx,contractor_bills,SATTI_MALL
+,,,,,3331908.0,,contractor_bills\SATTI_MALL_C003_RunBill_02.xlsx,contractor_bills,SATTI_MALL
+,,,,,80367.93,,contractor_bills\SATTI_MALL_C003_RunBill_02.xlsx,contractor_bills,SATTI_MALL
+,,,,,723311.3300000001,,contractor_bills\SATTI_MALL_C003_RunBill_02.xlsx,contractor_bills,SATTI_MALL
+Prepared:,,Checked:,,,,,contractor_bills\SATTI_MALL_C003_RunBill_02.xlsx,contractor_bills,SATTI_MALL

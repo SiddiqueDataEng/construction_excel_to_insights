@@ -1,0 +1,64 @@
+date,description,debit,credit,balance,ref_no,_source_file,_folder,_project
+Account: HBL-0012345678  –  Construction Account,,,,,,bank_statements\BankStatement_HBL_345678.xlsx,bank_statements,SATTI_MALL
+Generated: 09-01-2018,,,,,,bank_statements\BankStatement_HBL_345678.xlsx,bank_statements,SATTI_MALL
+2006-01-12,Advance,912602.17,,2532492.06,REF50116,bank_statements\BankStatement_HBL_345678.xlsx,bank_statements,SATTI_MALL
+2006-01-30,Online Transfer,1876901.0,,655591.43,REF25179,bank_statements\BankStatement_HBL_345678.xlsx,bank_statements,SATTI_MALL
+2006-02-05,Ref PO-PLZ-8399,,1634325.63,2289917.06,REF81211,bank_statements\BankStatement_HBL_345678.xlsx,bank_statements,SATTI_MALL
+2006-02-19,Material Purchase,81713.3,,2208203.76,REF12604,bank_statements\BankStatement_HBL_345678.xlsx,bank_statements,SATTI_MALL
+2006-05-29,Vendor Payment,,1604880.97,3813084.73,REF81246,bank_statements\BankStatement_HBL_345678.xlsx,bank_statements,SATTI_MALL
+2006-06-04,Salary,,1699241.77,5512326.5,REF53054,bank_statements\BankStatement_HBL_345678.xlsx,bank_statements,SATTI_MALL
+2006-08-14,Salary,,1321841.01,6834167.51,REF83863,bank_statements\BankStatement_HBL_345678.xlsx,bank_statements,SATTI_MALL
+2006-09-08,Contractor Bill,,,5841812.66,REF87648,bank_statements\BankStatement_HBL_345678.xlsx,bank_statements,SATTI_MALL
+2007-01-29,Transfer,1417573.75,,4424238.91,REF99499,bank_statements\BankStatement_HBL_345678.xlsx,bank_statements,SATTI_MALL
+2007-06-11,DD Issued,,2124.13,4426363.04,REF24290,bank_statements\BankStatement_HBL_345678.xlsx,bank_statements,SATTI_MALL
+2008-02-18,Utility Bill,,1928556.99,6354920.03,REF88002,bank_statements\BankStatement_HBL_345678.xlsx,bank_statements,SATTI_MALL
+2008-02-25,Cheque Clearance,1830911.16,,4524009.0,REF98030,bank_statements\BankStatement_HBL_345678.xlsx,bank_statements,SATTI_MALL
+2008-03-19,Vendor Payment,1032913.89,,3491094.98,REF61172,bank_statements\BankStatement_HBL_345678.xlsx,bank_statements,SATTI_MALL
+2008-03-26,Online Transfer,,1495654.46,4986749.44,REF87908,bank_statements\BankStatement_HBL_345678.xlsx,bank_statements,SATTI_MALL
+2008-03-28,Vendor Payment,1812819.64,,3173929.8,REF78271,bank_statements\BankStatement_HBL_345678.xlsx,bank_statements,SATTI_MALL
+2008-09-01,Petty Cash,,1763974.42,4937904.22,REF83507,bank_statements\BankStatement_HBL_345678.xlsx,bank_statements,SATTI_MALL
+2008-09-27,Utility Bill,1025546.52,,3912357.7,REF85416,bank_statements\BankStatement_HBL_345678.xlsx,bank_statements,SATTI_MALL
+2008-11-27,Ref PO-APT-240,,103247.96,4015605.66,REF47298,bank_statements\BankStatement_HBL_345678.xlsx,bank_statements,SATTI_MALL
+2008-12-26,Utility Bill,,1699456.79,5715062.45,REF94222,bank_statements\BankStatement_HBL_345678.xlsx,bank_statements,SATTI_MALL
+2009-03-15,Cheque Clearance,,620104.02,6335166.47,REF65842,bank_statements\BankStatement_HBL_345678.xlsx,bank_statements,SATTI_MALL
+2009-08-02,Material Purchase,,1852577.56,8187744.03,REF84454,bank_statements\BankStatement_HBL_345678.xlsx,bank_statements,SATTI_MALL
+2009-08-23,Advance,1873428.84,,6314315.19,REF37433,bank_statements\BankStatement_HBL_345678.xlsx,bank_statements,SATTI_MALL
+2009-08-25,Security Deposit,1909654.7,,4404660.49,REF85012,bank_statements\BankStatement_HBL_345678.xlsx,bank_statements,SATTI_MALL
+2009-10-24,Utility Bill,1710289.01,,2694371.48,REF64609,bank_statements\BankStatement_HBL_345678.xlsx,bank_statements,SATTI_MALL
+2010-05-18,Material Purchase,,145014.68,2839386.16,REF15104,bank_statements\BankStatement_HBL_345678.xlsx,bank_statements,SATTI_MALL
+2010-08-18,Utility Bill,,421821.3,3261207.46,REF60846,bank_statements\BankStatement_HBL_345678.xlsx,bank_statements,SATTI_MALL
+2011-06-27,Ref PO-MALL-5282,,1274005.12,4535213.0,REF76566,bank_statements\BankStatement_HBL_345678.xlsx,bank_statements,SATTI_MALL
+2011-07-31,Security Deposit,314287.67,,4220924.91,REF40971,bank_statements\BankStatement_HBL_345678.xlsx,bank_statements,SATTI_MALL
+2011-09-02,DD Issued,1176149.33,,3044776.0,REF34548,bank_statements\BankStatement_HBL_345678.xlsx,bank_statements,SATTI_MALL
+2011-09-14,Running Bill,,,4968824.17,REF97945,bank_statements\BankStatement_HBL_345678.xlsx,bank_statements,SATTI_MALL
+2011-12-02,Material Purchase,,570202.21,,REF26771,bank_statements\BankStatement_HBL_345678.xlsx,bank_statements,SATTI_MALL
+2012-03-31,Vendor Payment,150598.32,,5388428.06,REF58253,bank_statements\BankStatement_HBL_345678.xlsx,bank_statements,SATTI_MALL
+2012-06-12,Vendor Payment,1977272.41,,3411155.65,REF35501,bank_statements\BankStatement_HBL_345678.xlsx,bank_statements,SATTI_MALL
+2012-07-04,Material Purchase,1874098.62,,1537057.03,REF30986,bank_statements\BankStatement_HBL_345678.xlsx,bank_statements,SATTI_MALL
+2012-08-19,Ref PO-APT-1627,1854415.92,,-317358.89,REF11870,bank_statements\BankStatement_HBL_345678.xlsx,bank_statements,SATTI_MALL
+2012-09-18,Salary,875761.33,,-1193120.22,REF80912,bank_statements\BankStatement_HBL_345678.xlsx,bank_statements,SATTI_MALL
+2013-02-16,Material Purchase,,1265008.52,71888.3,REF42549,bank_statements\BankStatement_HBL_345678.xlsx,bank_statements,SATTI_MALL
+2013-04-11,Online Transfer,,742586.0,814474.08,REF37819,bank_statements\BankStatement_HBL_345678.xlsx,bank_statements,SATTI_MALL
+2013-05-20,Online Transfer,999945.07,,-185470.99,REF38362,bank_statements\BankStatement_HBL_345678.xlsx,bank_statements,SATTI_MALL
+2013-05-26,Security Deposit,820475.0,,-1005946.11,REF63878,bank_statements\BankStatement_HBL_345678.xlsx,bank_statements,SATTI_MALL
+2013-06-06,Online Transfer,1388867.56,,-2394813.67,REF28627,bank_statements\BankStatement_HBL_345678.xlsx,bank_statements,SATTI_MALL
+2013-06-07,Ref PO-MALL-3110,1858332.82,,-4253146.49,REF59089,bank_statements\BankStatement_HBL_345678.xlsx,bank_statements,SATTI_MALL
+2014-01-17,Transfer,,801421.73,-3451724.76,REF18799,bank_statements\BankStatement_HBL_345678.xlsx,bank_statements,SATTI_MALL
+2014-05-10,Online Transfer,,346114.26,-3105610.5,REF14346,bank_statements\BankStatement_HBL_345678.xlsx,bank_statements,SATTI_MALL
+2014-05-21,Salary,1788200.0,,-4893810.02,REF99897,bank_statements\BankStatement_HBL_345678.xlsx,bank_statements,SATTI_MALL
+2014-09-27,Security Deposit,,,-4430619.34,REF95039,bank_statements\BankStatement_HBL_345678.xlsx,bank_statements,SATTI_MALL
+2014-10-08,Cheque Clearance,,,-6130970.95,REF15521,bank_statements\BankStatement_HBL_345678.xlsx,bank_statements,SATTI_MALL
+2015-02-18,Advance,,252720.76,-5878250.19,REF33832,bank_statements\BankStatement_HBL_345678.xlsx,bank_statements,SATTI_MALL
+2015-02-24,Cheque Clearance,572857.76,,-6451107.95,REF31825,bank_statements\BankStatement_HBL_345678.xlsx,bank_statements,SATTI_MALL
+2015-04-06,Salary,,125216.87,-6325891.08,REF13380,bank_statements\BankStatement_HBL_345678.xlsx,bank_statements,SATTI_MALL
+2015-04-29,Vendor Payment,,335654.65,-5990236.43,REF57929,bank_statements\BankStatement_HBL_345678.xlsx,bank_statements,SATTI_MALL
+2015-10-11,Transfer,1481562.64,,-7471799.07,REF12549,bank_statements\BankStatement_HBL_345678.xlsx,bank_statements,SATTI_MALL
+2016-05-31,Security Deposit,,1901664.91,-5570134.16,REF54910,bank_statements\BankStatement_HBL_345678.xlsx,bank_statements,SATTI_MALL
+2016-12-26,Cheque Clearance,906644.09,,-6476778.25,REF11847,bank_statements\BankStatement_HBL_345678.xlsx,bank_statements,SATTI_MALL
+2017-04-15,Running Bill,,1398450.42,-5078327.83,REF16928,bank_statements\BankStatement_HBL_345678.xlsx,bank_statements,SATTI_MALL
+2017-07-26,Online Transfer,1809858.87,,,REF50149,bank_statements\BankStatement_HBL_345678.xlsx,bank_statements,SATTI_MALL
+2018-04-05,Utility Bill,1591335.28,,-8479521.98,REF19332,bank_statements\BankStatement_HBL_345678.xlsx,bank_statements,SATTI_MALL
+2018-04-19,Vendor Payment,,,-7964464.13,REF94603,bank_statements\BankStatement_HBL_345678.xlsx,bank_statements,SATTI_MALL
+2018-05-22,DD Issued,670043.0,,-8634507.18,REF94051,bank_statements\BankStatement_HBL_345678.xlsx,bank_statements,SATTI_MALL
+2018-05-25,Ref PO-APT-6124,944428.14,,-9578935.32,REF35022,bank_statements\BankStatement_HBL_345678.xlsx,bank_statements,SATTI_MALL
+2018-11-09,DD Issued,,1522177.99,-8056757.33,REF98113,bank_statements\BankStatement_HBL_345678.xlsx,bank_statements,SATTI_MALL

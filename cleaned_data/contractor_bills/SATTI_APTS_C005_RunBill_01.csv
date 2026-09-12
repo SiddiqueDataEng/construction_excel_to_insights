@@ -1,0 +1,17 @@
+row_no,item_of_work,unit,qty,rate,amount,remarks,_source_file,_folder,_project
+Bill No:,RB-SAT-C005-01,,,,,,contractor_bills\SATTI_APTS_C005_RunBill_01.xlsx,contractor_bills,SATTI_APTS
+Date:,26/08/17,,,,,,contractor_bills\SATTI_APTS_C005_RunBill_01.xlsx,contractor_bills,SATTI_APTS
+Project:,SATTI_APTS,,,,,,contractor_bills\SATTI_APTS_C005_RunBill_01.xlsx,contractor_bills,SATTI_APTS
+Contractor:,Baig Steel Fabricators,,,,,,contractor_bills\SATTI_APTS_C005_RunBill_01.xlsx,contractor_bills,SATTI_APTS
+Scope:,Steel/Metal,,,,,,contractor_bills\SATTI_APTS_C005_RunBill_01.xlsx,contractor_bills,SATTI_APTS
+Contract Value:,11811098.32,,,,,,contractor_bills\SATTI_APTS_C005_RunBill_01.xlsx,contractor_bills,SATTI_APTS
+WORK DONE THIS PERIOD,,,,,,,contractor_bills\SATTI_APTS_C005_RunBill_01.xlsx,contractor_bills,SATTI_APTS
+1,Electrical Wiring,point,"2,237/-",1772.0,3964318.4,As per BOQ,contractor_bills\SATTI_APTS_C005_RunBill_01.xlsx,contractor_bills,SATTI_APTS
+2,RCC M20,cft,4276.3,721.0,3083212.3,Disputed,contractor_bills\SATTI_APTS_C005_RunBill_01.xlsx,contractor_bills,SATTI_APTS
+3,Plumbing Fixture,nos,523.4,2269.0,1187594.6,Disputed,contractor_bills\SATTI_APTS_C005_RunBill_01.xlsx,contractor_bills,SATTI_APTS
+4,Flooring,sft,1150.6,61.0,70186.6,Verified,contractor_bills\SATTI_APTS_C005_RunBill_01.xlsx,contractor_bills,SATTI_APTS
+,,,,,1286503.45,,contractor_bills\SATTI_APTS_C005_RunBill_01.xlsx,contractor_bills,SATTI_APTS
+,,,,,6212045.0,,contractor_bills\SATTI_APTS_C005_RunBill_01.xlsx,contractor_bills,SATTI_APTS
+,,,,,,,contractor_bills\SATTI_APTS_C005_RunBill_01.xlsx,contractor_bills,SATTI_APTS
+,,,,,1157853.0999999999,,contractor_bills\SATTI_APTS_C005_RunBill_01.xlsx,contractor_bills,SATTI_APTS
+Prepared:,,Checked:,,,,,contractor_bills\SATTI_APTS_C005_RunBill_01.xlsx,contractor_bills,SATTI_APTS

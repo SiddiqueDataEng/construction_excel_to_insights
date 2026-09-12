@@ -1,0 +1,17 @@
+row_no,item_of_work,unit,qty,rate,amount,remarks,_source_file,_folder,_project
+Bill No:,RB-SAT-C004-03,,,,,,contractor_bills\SATTI_APTS_C004_RunBill_03.xlsx,contractor_bills,SATTI_APTS
+Date:,04/06/15,,,,,,contractor_bills\SATTI_APTS_C004_RunBill_03.xlsx,contractor_bills,SATTI_APTS
+Project:,SATTI_APTS,,,,,,contractor_bills\SATTI_APTS_C004_RunBill_03.xlsx,contractor_bills,SATTI_APTS
+Contractor:,Noor Finishing & Interior,,,,,,contractor_bills\SATTI_APTS_C004_RunBill_03.xlsx,contractor_bills,SATTI_APTS
+Scope:,Finishing,,,,,,contractor_bills\SATTI_APTS_C004_RunBill_03.xlsx,contractor_bills,SATTI_APTS
+Contract Value:,2905607.27,,,,,,contractor_bills\SATTI_APTS_C004_RunBill_03.xlsx,contractor_bills,SATTI_APTS
+WORK DONE THIS PERIOD,,,,,,,contractor_bills\SATTI_APTS_C004_RunBill_03.xlsx,contractor_bills,SATTI_APTS
+1,PCC 1:4:8,cft,1425.6,2001.0,2852625.6,,contractor_bills\SATTI_APTS_C004_RunBill_03.xlsx,contractor_bills,SATTI_APTS
+2,Electrical Wiring,point,2776.4,1423.0,,As per BOQ,contractor_bills\SATTI_APTS_C004_RunBill_03.xlsx,contractor_bills,SATTI_APTS
+3,Brick Masonry,cft,819.4,,1746960.8,,contractor_bills\SATTI_APTS_C004_RunBill_03.xlsx,contractor_bills,SATTI_APTS
+4,Painting,sft,143,1433.0,204919.0,As per BOQ,contractor_bills\SATTI_APTS_C004_RunBill_03.xlsx,contractor_bills,SATTI_APTS
+,,,,,539332.29,,contractor_bills\SATTI_APTS_C004_RunBill_03.xlsx,contractor_bills,SATTI_APTS
+,,,,,1569472.66,,contractor_bills\SATTI_APTS_C004_RunBill_03.xlsx,contractor_bills,SATTI_APTS
+,,,,,53933.0,,contractor_bills\SATTI_APTS_C004_RunBill_03.xlsx,contractor_bills,SATTI_APTS
+,,,,,485399.0600000001,,contractor_bills\SATTI_APTS_C004_RunBill_03.xlsx,contractor_bills,SATTI_APTS
+Prepared:,,Checked:,,,,,contractor_bills\SATTI_APTS_C004_RunBill_03.xlsx,contractor_bills,SATTI_APTS

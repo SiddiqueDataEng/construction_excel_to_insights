@@ -1,0 +1,17 @@
+row_no,item_of_work,unit,qty,rate,amount,remarks,_source_file,_folder,_project
+Bill No:,RB-SAT-C007-03,,,,,,contractor_bills\SATTI_MALL_C007_RunBill_03.xlsx,contractor_bills,SATTI_MALL
+Date:,08.06.2007,,,,,,contractor_bills\SATTI_MALL_C007_RunBill_03.xlsx,contractor_bills,SATTI_MALL
+Project:,SATTI_MALL,,,,,,contractor_bills\SATTI_MALL_C007_RunBill_03.xlsx,contractor_bills,SATTI_MALL
+Contractor:,Bilal Tiles & Flooring,,,,,,contractor_bills\SATTI_MALL_C007_RunBill_03.xlsx,contractor_bills,SATTI_MALL
+Scope:,Flooring,,,,,,contractor_bills\SATTI_MALL_C007_RunBill_03.xlsx,contractor_bills,SATTI_MALL
+Contract Value:,9585556.42,,,,,,contractor_bills\SATTI_MALL_C007_RunBill_03.xlsx,contractor_bills,SATTI_MALL
+WORK DONE THIS PERIOD,,,,,,,contractor_bills\SATTI_MALL_C007_RunBill_03.xlsx,contractor_bills,SATTI_MALL
+1,Electrical Wiring,point,4225.6,1964.0,8299078.4,,contractor_bills\SATTI_MALL_C007_RunBill_03.xlsx,contractor_bills,SATTI_MALL
+2,RCC M20,cft,361.2,243.0,87771.6,,contractor_bills\SATTI_MALL_C007_RunBill_03.xlsx,contractor_bills,SATTI_MALL
+3,Plumbing Fixture,nos,2780.6,1017.0,2827870.2,As per BOQ,contractor_bills\SATTI_MALL_C007_RunBill_03.xlsx,contractor_bills,SATTI_MALL
+4,Excavation,cft,2900.6,853.0,2474212.0,,contractor_bills\SATTI_MALL_C007_RunBill_03.xlsx,contractor_bills,SATTI_MALL
+,,,,,1264212.7,,contractor_bills\SATTI_MALL_C007_RunBill_03.xlsx,contractor_bills,SATTI_MALL
+,,,,,6355506.21,,contractor_bills\SATTI_MALL_C007_RunBill_03.xlsx,contractor_bills,SATTI_MALL
+,,,,,126421.27,,contractor_bills\SATTI_MALL_C007_RunBill_03.xlsx,contractor_bills,SATTI_MALL
+,,,,,1137791.43,,contractor_bills\SATTI_MALL_C007_RunBill_03.xlsx,contractor_bills,SATTI_MALL
+Prepared:,,Checked:,,,,,contractor_bills\SATTI_MALL_C007_RunBill_03.xlsx,contractor_bills,SATTI_MALL

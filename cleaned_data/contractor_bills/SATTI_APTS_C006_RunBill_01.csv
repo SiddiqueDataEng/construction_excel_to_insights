@@ -1,0 +1,19 @@
+row_no,item_of_work,unit,qty,rate,amount,remarks,_source_file,_folder,_project
+Bill No:,RB-SAT-C006-01,,,,,,contractor_bills\SATTI_APTS_C006_RunBill_01.xlsx,contractor_bills,SATTI_APTS
+Date:,2016/12/16,,,,,,contractor_bills\SATTI_APTS_C006_RunBill_01.xlsx,contractor_bills,SATTI_APTS
+Project:,SATTI_APTS,,,,,,contractor_bills\SATTI_APTS_C006_RunBill_01.xlsx,contractor_bills,SATTI_APTS
+Contractor:,Qamar Civil Engineers,,,,,,contractor_bills\SATTI_APTS_C006_RunBill_01.xlsx,contractor_bills,SATTI_APTS
+Scope:,Civil Works,,,,,,contractor_bills\SATTI_APTS_C006_RunBill_01.xlsx,contractor_bills,SATTI_APTS
+Contract Value:,10642325.72,,,,,,contractor_bills\SATTI_APTS_C006_RunBill_01.xlsx,contractor_bills,SATTI_APTS
+WORK DONE THIS PERIOD,,,,,,,contractor_bills\SATTI_APTS_C006_RunBill_01.xlsx,contractor_bills,SATTI_APTS
+1,Plumbing Fixture,nos,2766.8,512.0,1416601.6,,contractor_bills\SATTI_APTS_C006_RunBill_01.xlsx,contractor_bills,SATTI_APTS
+2,Flooring,sft,855.9,448.0,383443.2,As per BOQ,contractor_bills\SATTI_APTS_C006_RunBill_01.xlsx,contractor_bills,SATTI_APTS
+3,RCC M20,cft,3942.4,1533.0,6043699.2,Disputed,contractor_bills\SATTI_APTS_C006_RunBill_01.xlsx,contractor_bills,SATTI_APTS
+4,Plastering,sft,2055.4,51.0,104825.4,,contractor_bills\SATTI_APTS_C006_RunBill_01.xlsx,contractor_bills,SATTI_APTS
+5,Brick Masonry,cft,"1,813/-",526.0,953585.4,,contractor_bills\SATTI_APTS_C006_RunBill_01.xlsx,contractor_bills,SATTI_APTS
+6,PCC 1:4:8,cft,3076.5,172.0,529158.0,As per BOQ,contractor_bills\SATTI_APTS_C006_RunBill_01.xlsx,contractor_bills,SATTI_APTS
+,,,,,,,contractor_bills\SATTI_APTS_C006_RunBill_01.xlsx,contractor_bills,SATTI_APTS
+,,,,,,,contractor_bills\SATTI_APTS_C006_RunBill_01.xlsx,contractor_bills,SATTI_APTS
+,,,,,129489.32,,contractor_bills\SATTI_APTS_C006_RunBill_01.xlsx,contractor_bills,SATTI_APTS
+,,,,,1165404.0,,contractor_bills\SATTI_APTS_C006_RunBill_01.xlsx,contractor_bills,SATTI_APTS
+Prepared:,,Checked:,,,,,contractor_bills\SATTI_APTS_C006_RunBill_01.xlsx,contractor_bills,SATTI_APTS

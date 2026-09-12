@@ -1,0 +1,18 @@
+row_no,item_of_work,unit,qty,rate,amount,remarks,_source_file,_folder,_project
+Bill No:,RB-SAT-C004-02,,,,,,contractor_bills\SATTI_PLAZA_C004_RunBill_02.xlsx,contractor_bills,SATTI_PLAZA
+Date:,03-09-2013,,,,,,contractor_bills\SATTI_PLAZA_C004_RunBill_02.xlsx,contractor_bills,SATTI_PLAZA
+Project:,SATTI_PLAZA,,,,,,contractor_bills\SATTI_PLAZA_C004_RunBill_02.xlsx,contractor_bills,SATTI_PLAZA
+Contractor:,Noor Finishing & Interior,,,,,,contractor_bills\SATTI_PLAZA_C004_RunBill_02.xlsx,contractor_bills,SATTI_PLAZA
+Scope:,Finishing,,,,,,contractor_bills\SATTI_PLAZA_C004_RunBill_02.xlsx,contractor_bills,SATTI_PLAZA
+Contract Value:,5590434.18,,,,,,contractor_bills\SATTI_PLAZA_C004_RunBill_02.xlsx,contractor_bills,SATTI_PLAZA
+WORK DONE THIS PERIOD,,,,,,,contractor_bills\SATTI_PLAZA_C004_RunBill_02.xlsx,contractor_bills,SATTI_PLAZA
+1,Electrical Wiring,point,1443.8,2140.0,3089732.0,As per BOQ,contractor_bills\SATTI_PLAZA_C004_RunBill_02.xlsx,contractor_bills,SATTI_PLAZA
+2,Brick Masonry,cft,1135.3,605.0,686856.5,Disputed,contractor_bills\SATTI_PLAZA_C004_RunBill_02.xlsx,contractor_bills,SATTI_PLAZA
+3,Window Frame,nos,4537.9,1401.0,6357597.9,Disputed,contractor_bills\SATTI_PLAZA_C004_RunBill_02.xlsx,contractor_bills,SATTI_PLAZA
+4,RCC M20,cft,,1289.0,789899.2,,contractor_bills\SATTI_PLAZA_C004_RunBill_02.xlsx,contractor_bills,SATTI_PLAZA
+5,Excavation,cft,632.2,1021.0,645476.2,,contractor_bills\SATTI_PLAZA_C004_RunBill_02.xlsx,contractor_bills,SATTI_PLAZA
+,,,,,929883.85,,contractor_bills\SATTI_PLAZA_C004_RunBill_02.xlsx,contractor_bills,SATTI_PLAZA
+,,,,,603332.45,,contractor_bills\SATTI_PLAZA_C004_RunBill_02.xlsx,contractor_bills,SATTI_PLAZA
+,,,,,92988.39,,contractor_bills\SATTI_PLAZA_C004_RunBill_02.xlsx,contractor_bills,SATTI_PLAZA
+,,,,,,,contractor_bills\SATTI_PLAZA_C004_RunBill_02.xlsx,contractor_bills,SATTI_PLAZA
+Prepared:,,Checked:,,,,,contractor_bills\SATTI_PLAZA_C004_RunBill_02.xlsx,contractor_bills,SATTI_PLAZA

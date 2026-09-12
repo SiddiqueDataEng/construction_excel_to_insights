@@ -1,0 +1,19 @@
+row_no,item_of_work,unit,qty,rate,amount,remarks,_source_file,_folder,_project
+Bill No:,RB-SAT-C004-03,,,,,,contractor_bills\SATTI_MALL_C004_RunBill_03.xlsx,contractor_bills,SATTI_MALL
+Date:,20-Nov-2006,,,,,,contractor_bills\SATTI_MALL_C004_RunBill_03.xlsx,contractor_bills,SATTI_MALL
+Project:,SATTI_MALL,,,,,,contractor_bills\SATTI_MALL_C004_RunBill_03.xlsx,contractor_bills,SATTI_MALL
+Contractor:,Noor Finishing & Interior,,,,,,contractor_bills\SATTI_MALL_C004_RunBill_03.xlsx,contractor_bills,SATTI_MALL
+Scope:,Finishing,,,,,,contractor_bills\SATTI_MALL_C004_RunBill_03.xlsx,contractor_bills,SATTI_MALL
+Contract Value:,8062367.59,,,,,,contractor_bills\SATTI_MALL_C004_RunBill_03.xlsx,contractor_bills,SATTI_MALL
+WORK DONE THIS PERIOD,,,,,,,contractor_bills\SATTI_MALL_C004_RunBill_03.xlsx,contractor_bills,SATTI_MALL
+1,Excavation,cft,4013.9,745.0,2990355.5,As per BOQ,contractor_bills\SATTI_MALL_C004_RunBill_03.xlsx,contractor_bills,SATTI_MALL
+2,Plumbing Fixture,nos,3082.4,2373.0,7314535.2,,contractor_bills\SATTI_MALL_C004_RunBill_03.xlsx,contractor_bills,SATTI_MALL
+3,Plastering,sft,"PKR 4,176",1907.0,7964013.4,,contractor_bills\SATTI_MALL_C004_RunBill_03.xlsx,contractor_bills,SATTI_MALL
+4,RCC M20,cft,,903.0,3868181.1,Disputed,contractor_bills\SATTI_MALL_C004_RunBill_03.xlsx,contractor_bills,SATTI_MALL
+5,Painting,sft,4778.2,2167.0,10354359.4,,contractor_bills\SATTI_MALL_C004_RunBill_03.xlsx,contractor_bills,SATTI_MALL
+6,Flooring,sft,1500.3,461.0,691638.3,Verified,contractor_bills\SATTI_MALL_C004_RunBill_03.xlsx,contractor_bills,SATTI_MALL
+,,,,,1106935.21,,contractor_bills\SATTI_MALL_C004_RunBill_03.xlsx,contractor_bills,SATTI_MALL
+,,,,,3977006.95,,contractor_bills\SATTI_MALL_C004_RunBill_03.xlsx,contractor_bills,SATTI_MALL
+,,,,,110693.52,,contractor_bills\SATTI_MALL_C004_RunBill_03.xlsx,contractor_bills,SATTI_MALL
+,,,,,996241.69,,contractor_bills\SATTI_MALL_C004_RunBill_03.xlsx,contractor_bills,SATTI_MALL
+Prepared:,,Checked:,,,,,contractor_bills\SATTI_MALL_C004_RunBill_03.xlsx,contractor_bills,SATTI_MALL

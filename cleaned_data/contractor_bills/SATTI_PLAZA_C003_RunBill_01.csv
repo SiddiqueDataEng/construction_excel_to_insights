@@ -1,0 +1,17 @@
+row_no,item_of_work,unit,qty,rate,amount,remarks,_source_file,_folder,_project
+Bill No:,RB-SAT-C003-01,,,,,,contractor_bills\SATTI_PLAZA_C003_RunBill_01.xlsx,contractor_bills,SATTI_PLAZA
+Date:,25-Jan-2014,,,,,,contractor_bills\SATTI_PLAZA_C003_RunBill_01.xlsx,contractor_bills,SATTI_PLAZA
+Project:,SATTI_PLAZA,,,,,,contractor_bills\SATTI_PLAZA_C003_RunBill_01.xlsx,contractor_bills,SATTI_PLAZA
+Contractor:,Rehman Plumbing Works,,,,,,contractor_bills\SATTI_PLAZA_C003_RunBill_01.xlsx,contractor_bills,SATTI_PLAZA
+Scope:,Plumbing,,,,,,contractor_bills\SATTI_PLAZA_C003_RunBill_01.xlsx,contractor_bills,SATTI_PLAZA
+Contract Value:,1856287.23,,,,,,contractor_bills\SATTI_PLAZA_C003_RunBill_01.xlsx,contractor_bills,SATTI_PLAZA
+WORK DONE THIS PERIOD,,,,,,,contractor_bills\SATTI_PLAZA_C003_RunBill_01.xlsx,contractor_bills,SATTI_PLAZA
+1,Flooring,sft,1896.8,,2921072.0,,contractor_bills\SATTI_PLAZA_C003_RunBill_01.xlsx,contractor_bills,SATTI_PLAZA
+2,PCC 1:4:8,cft,4721.1,121.0,571253.1,Verified,contractor_bills\SATTI_PLAZA_C003_RunBill_01.xlsx,contractor_bills,SATTI_PLAZA
+3,Door Frame,nos,1941.6,447.0,867895.2,,contractor_bills\SATTI_PLAZA_C003_RunBill_01.xlsx,contractor_bills,SATTI_PLAZA
+4,Plastering,sft,79.8,187.0,14922.6,Disputed,contractor_bills\SATTI_PLAZA_C003_RunBill_01.xlsx,contractor_bills,SATTI_PLAZA
+,,,,,105910.89,,contractor_bills\SATTI_PLAZA_C003_RunBill_01.xlsx,contractor_bills,SATTI_PLAZA
+,,,,,435903.77,,contractor_bills\SATTI_PLAZA_C003_RunBill_01.xlsx,contractor_bills,SATTI_PLAZA
+,,,,,10591.09,,contractor_bills\SATTI_PLAZA_C003_RunBill_01.xlsx,contractor_bills,SATTI_PLAZA
+,,,,,95319.8,,contractor_bills\SATTI_PLAZA_C003_RunBill_01.xlsx,contractor_bills,SATTI_PLAZA
+Prepared:,,Checked:,,,,,contractor_bills\SATTI_PLAZA_C003_RunBill_01.xlsx,contractor_bills,SATTI_PLAZA

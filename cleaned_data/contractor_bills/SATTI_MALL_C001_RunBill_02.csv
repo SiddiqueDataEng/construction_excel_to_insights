@@ -1,0 +1,20 @@
+row_no,item_of_work,unit,qty,rate,amount,remarks,_source_file,_folder,_project
+Bill No:,RB-SAT-C001-02,,,,,,contractor_bills\SATTI_MALL_C001_RunBill_02.xlsx,contractor_bills,SATTI_MALL
+Date:,09.01.2007,,,,,,contractor_bills\SATTI_MALL_C001_RunBill_02.xlsx,contractor_bills,SATTI_MALL
+Project:,SATTI_MALL,,,,,,contractor_bills\SATTI_MALL_C001_RunBill_02.xlsx,contractor_bills,SATTI_MALL
+Contractor:,Ahmad & Bros Construction,,,,,,contractor_bills\SATTI_MALL_C001_RunBill_02.xlsx,contractor_bills,SATTI_MALL
+Scope:,Civil Works,,,,,,contractor_bills\SATTI_MALL_C001_RunBill_02.xlsx,contractor_bills,SATTI_MALL
+Contract Value:,1689128.74,,,,,,contractor_bills\SATTI_MALL_C001_RunBill_02.xlsx,contractor_bills,SATTI_MALL
+WORK DONE THIS PERIOD,,,,,,,contractor_bills\SATTI_MALL_C001_RunBill_02.xlsx,contractor_bills,SATTI_MALL
+1,Window Frame,nos,970.4,1343.0,1303247.2,,contractor_bills\SATTI_MALL_C001_RunBill_02.xlsx,contractor_bills,SATTI_MALL
+2,Brick Masonry,cft,1252.7,2148.0,2690799.6,Disputed,contractor_bills\SATTI_MALL_C001_RunBill_02.xlsx,contractor_bills,SATTI_MALL
+3,Excavation,cft,581.9,1497.0,871104.3,,contractor_bills\SATTI_MALL_C001_RunBill_02.xlsx,contractor_bills,SATTI_MALL
+4,Flooring,sft,"PKR 3,358",374.0,1256041.6,,contractor_bills\SATTI_MALL_C001_RunBill_02.xlsx,contractor_bills,SATTI_MALL
+5,PCC 1:4:8,cft,673.5,584.0,393324.0,,contractor_bills\SATTI_MALL_C001_RunBill_02.xlsx,contractor_bills,SATTI_MALL
+6,Plastering,sft,78.7,312.0,24554.4,,contractor_bills\SATTI_MALL_C001_RunBill_02.xlsx,contractor_bills,SATTI_MALL
+7,Electrical Wiring,point,1632.3,1057.0,1725341.1,As per BOQ,contractor_bills\SATTI_MALL_C001_RunBill_02.xlsx,contractor_bills,SATTI_MALL
+,,,,,248762.83,,contractor_bills\SATTI_MALL_C001_RunBill_02.xlsx,contractor_bills,SATTI_MALL
+,,,,,199090.62,,contractor_bills\SATTI_MALL_C001_RunBill_02.xlsx,contractor_bills,SATTI_MALL
+,,,,,,,contractor_bills\SATTI_MALL_C001_RunBill_02.xlsx,contractor_bills,SATTI_MALL
+,,,,,223886.55,,contractor_bills\SATTI_MALL_C001_RunBill_02.xlsx,contractor_bills,SATTI_MALL
+Prepared:,,Checked:,,,,,contractor_bills\SATTI_MALL_C001_RunBill_02.xlsx,contractor_bills,SATTI_MALL

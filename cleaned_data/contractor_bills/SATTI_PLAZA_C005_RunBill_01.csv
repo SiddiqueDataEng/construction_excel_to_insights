@@ -1,0 +1,19 @@
+row_no,item_of_work,unit,qty,rate,amount,remarks,_source_file,_folder,_project
+Bill No:,RB-SAT-C005-01,,,,,,contractor_bills\SATTI_PLAZA_C005_RunBill_01.xlsx,contractor_bills,SATTI_PLAZA
+Date:,"January 04, 2014",,,,,,contractor_bills\SATTI_PLAZA_C005_RunBill_01.xlsx,contractor_bills,SATTI_PLAZA
+Project:,SATTI_PLAZA,,,,,,contractor_bills\SATTI_PLAZA_C005_RunBill_01.xlsx,contractor_bills,SATTI_PLAZA
+Contractor:,Baig Steel Fabricators,,,,,,contractor_bills\SATTI_PLAZA_C005_RunBill_01.xlsx,contractor_bills,SATTI_PLAZA
+Scope:,Steel/Metal,,,,,,contractor_bills\SATTI_PLAZA_C005_RunBill_01.xlsx,contractor_bills,SATTI_PLAZA
+Contract Value:,10160199.3,,,,,,contractor_bills\SATTI_PLAZA_C005_RunBill_01.xlsx,contractor_bills,SATTI_PLAZA
+WORK DONE THIS PERIOD,,,,,,,contractor_bills\SATTI_PLAZA_C005_RunBill_01.xlsx,contractor_bills,SATTI_PLAZA
+1,RCC M20,cft,TBD,1597.0,7911857.4,,contractor_bills\SATTI_PLAZA_C005_RunBill_01.xlsx,contractor_bills,SATTI_PLAZA
+2,Painting,sft,4107.1,1564.0,6423504.4,Disputed,contractor_bills\SATTI_PLAZA_C005_RunBill_01.xlsx,contractor_bills,SATTI_PLAZA
+3,Window Frame,nos,4486.5,1986.0,8910189.0,,contractor_bills\SATTI_PLAZA_C005_RunBill_01.xlsx,contractor_bills,SATTI_PLAZA
+4,Plumbing Fixture,nos,1365.1,1725.0,2354797.5,Disputed,contractor_bills\SATTI_PLAZA_C005_RunBill_01.xlsx,contractor_bills,SATTI_PLAZA
+5,Electrical Wiring,point,1153.3,1419.0,1636532.7,As per BOQ,contractor_bills\SATTI_PLAZA_C005_RunBill_01.xlsx,contractor_bills,SATTI_PLAZA
+6,Flooring,sft,3303.4,588.0,1942399.0,Verified,contractor_bills\SATTI_PLAZA_C005_RunBill_01.xlsx,contractor_bills,SATTI_PLAZA
+,,,,,1170569.47,,contractor_bills\SATTI_PLAZA_C005_RunBill_01.xlsx,contractor_bills,SATTI_PLAZA
+,,,,,5987102.27,,contractor_bills\SATTI_PLAZA_C005_RunBill_01.xlsx,contractor_bills,SATTI_PLAZA
+,,,,,117056.95,,contractor_bills\SATTI_PLAZA_C005_RunBill_01.xlsx,contractor_bills,SATTI_PLAZA
+,,,,,1053512.52,,contractor_bills\SATTI_PLAZA_C005_RunBill_01.xlsx,contractor_bills,SATTI_PLAZA
+Prepared:,,Checked:,,,,,contractor_bills\SATTI_PLAZA_C005_RunBill_01.xlsx,contractor_bills,SATTI_PLAZA

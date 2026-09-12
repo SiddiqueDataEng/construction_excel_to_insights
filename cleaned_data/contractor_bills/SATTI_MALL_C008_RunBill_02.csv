@@ -1,0 +1,21 @@
+row_no,item_of_work,unit,qty,rate,amount,remarks,_source_file,_folder,_project
+Bill No:,RB-SAT-C008-02,,,,,,contractor_bills\SATTI_MALL_C008_RunBill_02.xlsx,contractor_bills,SATTI_MALL
+Date:,15/11/06,,,,,,contractor_bills\SATTI_MALL_C008_RunBill_02.xlsx,contractor_bills,SATTI_MALL
+Project:,SATTI_MALL,,,,,,contractor_bills\SATTI_MALL_C008_RunBill_02.xlsx,contractor_bills,SATTI_MALL
+Contractor:,Sultan HVAC Services,,,,,,contractor_bills\SATTI_MALL_C008_RunBill_02.xlsx,contractor_bills,SATTI_MALL
+Scope:,HVAC,,,,,,contractor_bills\SATTI_MALL_C008_RunBill_02.xlsx,contractor_bills,SATTI_MALL
+Contract Value:,2735375.53,,,,,,contractor_bills\SATTI_MALL_C008_RunBill_02.xlsx,contractor_bills,SATTI_MALL
+WORK DONE THIS PERIOD,,,,,,,contractor_bills\SATTI_MALL_C008_RunBill_02.xlsx,contractor_bills,SATTI_MALL
+1,Window Frame,nos,4008,215.0,861720.0,Verified,contractor_bills\SATTI_MALL_C008_RunBill_02.xlsx,contractor_bills,SATTI_MALL
+2,Flooring,sft,3180.4,131.0,416632.4,,contractor_bills\SATTI_MALL_C008_RunBill_02.xlsx,contractor_bills,SATTI_MALL
+3,RCC M20,cft,732.7,1579.0,1156933.3,,contractor_bills\SATTI_MALL_C008_RunBill_02.xlsx,contractor_bills,SATTI_MALL
+4,PCC 1:4:8,cft,4605,1765.0,8127825.0,Disputed,contractor_bills\SATTI_MALL_C008_RunBill_02.xlsx,contractor_bills,SATTI_MALL
+5,Brick Masonry,cft,"2,531/-",1310.0,3315217.0,Verified,contractor_bills\SATTI_MALL_C008_RunBill_02.xlsx,contractor_bills,SATTI_MALL
+6,Plumbing Fixture,nos,4584.8,2391.0,10962256.8,As per BOQ,contractor_bills\SATTI_MALL_C008_RunBill_02.xlsx,contractor_bills,SATTI_MALL
+7,Excavation,cft,4396.3,1737.0,7636373.1,,contractor_bills\SATTI_MALL_C008_RunBill_02.xlsx,contractor_bills,SATTI_MALL
+8,Plastering,sft,3212.5,1645.0,5284562.5,,contractor_bills\SATTI_MALL_C008_RunBill_02.xlsx,contractor_bills,SATTI_MALL
+,,,,,320360.1,,contractor_bills\SATTI_MALL_C008_RunBill_02.xlsx,contractor_bills,SATTI_MALL
+,,,,,1365082.77,,contractor_bills\SATTI_MALL_C008_RunBill_02.xlsx,contractor_bills,SATTI_MALL
+,,,,,32036.01,,contractor_bills\SATTI_MALL_C008_RunBill_02.xlsx,contractor_bills,SATTI_MALL
+,,,,,288324.09,,contractor_bills\SATTI_MALL_C008_RunBill_02.xlsx,contractor_bills,SATTI_MALL
+Prepared:,,Checked:,,,,,contractor_bills\SATTI_MALL_C008_RunBill_02.xlsx,contractor_bills,SATTI_MALL

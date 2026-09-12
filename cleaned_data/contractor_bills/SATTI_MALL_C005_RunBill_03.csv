@@ -1,0 +1,17 @@
+row_no,item_of_work,unit,qty,rate,amount,remarks,_source_file,_folder,_project
+Bill No:,RB-SAT-C005-03,,,,,,contractor_bills\SATTI_MALL_C005_RunBill_03.xlsx,contractor_bills,SATTI_MALL
+Date:,28-Dec-2006,,,,,,contractor_bills\SATTI_MALL_C005_RunBill_03.xlsx,contractor_bills,SATTI_MALL
+Project:,SATTI_MALL,,,,,,contractor_bills\SATTI_MALL_C005_RunBill_03.xlsx,contractor_bills,SATTI_MALL
+Contractor:,Baig Steel Fabricators,,,,,,contractor_bills\SATTI_MALL_C005_RunBill_03.xlsx,contractor_bills,SATTI_MALL
+Scope:,Steel/Metal,,,,,,contractor_bills\SATTI_MALL_C005_RunBill_03.xlsx,contractor_bills,SATTI_MALL
+Contract Value:,8520477.76,,,,,,contractor_bills\SATTI_MALL_C005_RunBill_03.xlsx,contractor_bills,SATTI_MALL
+WORK DONE THIS PERIOD,,,,,,,contractor_bills\SATTI_MALL_C005_RunBill_03.xlsx,contractor_bills,SATTI_MALL
+1,Electrical Wiring,point,2892.3,2385.0,6898135.5,Disputed,contractor_bills\SATTI_MALL_C005_RunBill_03.xlsx,contractor_bills,SATTI_MALL
+2,Painting,sft,"PKR 4,241",1477.0,6264252.4,As per BOQ,contractor_bills\SATTI_MALL_C005_RunBill_03.xlsx,contractor_bills,SATTI_MALL
+3,Plastering,sft,1240,2258.0,2799920.0,,contractor_bills\SATTI_MALL_C005_RunBill_03.xlsx,contractor_bills,SATTI_MALL
+4,Window Frame,nos,3542.5,2053.0,7272752.5,,contractor_bills\SATTI_MALL_C005_RunBill_03.xlsx,contractor_bills,SATTI_MALL
+,,,,,1572079.13,,contractor_bills\SATTI_MALL_C005_RunBill_03.xlsx,contractor_bills,SATTI_MALL
+,,,,,858106.42,,contractor_bills\SATTI_MALL_C005_RunBill_03.xlsx,contractor_bills,SATTI_MALL
+,,,,,157207.91,,contractor_bills\SATTI_MALL_C005_RunBill_03.xlsx,contractor_bills,SATTI_MALL
+,,,,,1414871.0,,contractor_bills\SATTI_MALL_C005_RunBill_03.xlsx,contractor_bills,SATTI_MALL
+Prepared:,,Checked:,,,,,contractor_bills\SATTI_MALL_C005_RunBill_03.xlsx,contractor_bills,SATTI_MALL

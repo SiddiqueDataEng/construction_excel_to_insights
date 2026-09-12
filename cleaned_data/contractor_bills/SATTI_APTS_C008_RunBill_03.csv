@@ -1,0 +1,17 @@
+row_no,item_of_work,unit,qty,rate,amount,remarks,_source_file,_folder,_project
+Bill No:,RB-SAT-C008-03,,,,,,contractor_bills\SATTI_APTS_C008_RunBill_03.xlsx,contractor_bills,SATTI_APTS
+Date:,03.01.2017,,,,,,contractor_bills\SATTI_APTS_C008_RunBill_03.xlsx,contractor_bills,SATTI_APTS
+Project:,SATTI_APTS,,,,,,contractor_bills\SATTI_APTS_C008_RunBill_03.xlsx,contractor_bills,SATTI_APTS
+Contractor:,Sultan HVAC Services,,,,,,contractor_bills\SATTI_APTS_C008_RunBill_03.xlsx,contractor_bills,SATTI_APTS
+Scope:,HVAC,,,,,,contractor_bills\SATTI_APTS_C008_RunBill_03.xlsx,contractor_bills,SATTI_APTS
+Contract Value:,TBD,,,,,,contractor_bills\SATTI_APTS_C008_RunBill_03.xlsx,contractor_bills,SATTI_APTS
+WORK DONE THIS PERIOD,,,,,,,contractor_bills\SATTI_APTS_C008_RunBill_03.xlsx,contractor_bills,SATTI_APTS
+1,Plumbing Fixture,nos,4397.9,259.0,1139056.1,Disputed,contractor_bills\SATTI_APTS_C008_RunBill_03.xlsx,contractor_bills,SATTI_APTS
+2,Painting,sft,2051.1,2344.0,4807778.4,Verified,contractor_bills\SATTI_APTS_C008_RunBill_03.xlsx,contractor_bills,SATTI_APTS
+3,Flooring,sft,43.6,657.0,28645.2,As per BOQ,contractor_bills\SATTI_APTS_C008_RunBill_03.xlsx,contractor_bills,SATTI_APTS
+4,RCC M20,cft,4822.2,1659.0,8000029.8,,contractor_bills\SATTI_APTS_C008_RunBill_03.xlsx,contractor_bills,SATTI_APTS
+,,,,,691064.08,,contractor_bills\SATTI_APTS_C008_RunBill_03.xlsx,contractor_bills,SATTI_APTS
+,,,,,4720494.11,,contractor_bills\SATTI_APTS_C008_RunBill_03.xlsx,contractor_bills,SATTI_APTS
+,,,,,69106.41,,contractor_bills\SATTI_APTS_C008_RunBill_03.xlsx,contractor_bills,SATTI_APTS
+,,,,,621958.0,,contractor_bills\SATTI_APTS_C008_RunBill_03.xlsx,contractor_bills,SATTI_APTS
+Prepared:,,Checked:,,,,,contractor_bills\SATTI_APTS_C008_RunBill_03.xlsx,contractor_bills,SATTI_APTS

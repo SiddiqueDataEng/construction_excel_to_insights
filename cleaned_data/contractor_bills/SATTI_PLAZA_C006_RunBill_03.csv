@@ -1,0 +1,20 @@
+row_no,item_of_work,unit,qty,rate,amount,remarks,_source_file,_folder,_project
+Bill No:,RB-SAT-C006-03,,,,,,contractor_bills\SATTI_PLAZA_C006_RunBill_03.xlsx,contractor_bills,SATTI_PLAZA
+Date:,24/07/13,,,,,,contractor_bills\SATTI_PLAZA_C006_RunBill_03.xlsx,contractor_bills,SATTI_PLAZA
+Project:,SATTI_PLAZA,,,,,,contractor_bills\SATTI_PLAZA_C006_RunBill_03.xlsx,contractor_bills,SATTI_PLAZA
+Contractor:,Qamar Civil Engineers,,,,,,contractor_bills\SATTI_PLAZA_C006_RunBill_03.xlsx,contractor_bills,SATTI_PLAZA
+Scope:,Civil Works,,,,,,contractor_bills\SATTI_PLAZA_C006_RunBill_03.xlsx,contractor_bills,SATTI_PLAZA
+Contract Value:,5872888.38,,,,,,contractor_bills\SATTI_PLAZA_C006_RunBill_03.xlsx,contractor_bills,SATTI_PLAZA
+WORK DONE THIS PERIOD,,,,,,,contractor_bills\SATTI_PLAZA_C006_RunBill_03.xlsx,contractor_bills,SATTI_PLAZA
+1,Painting,sft,3143.7,2107.0,6623775.9,,contractor_bills\SATTI_PLAZA_C006_RunBill_03.xlsx,contractor_bills,SATTI_PLAZA
+2,Window Frame,nos,3051.3,2364.0,7213273.2,Verified,contractor_bills\SATTI_PLAZA_C006_RunBill_03.xlsx,contractor_bills,SATTI_PLAZA
+3,Flooring,sft,"1,989/-",592.0,1177369.6,,contractor_bills\SATTI_PLAZA_C006_RunBill_03.xlsx,contractor_bills,SATTI_PLAZA
+4,Brick Masonry,cft,1490.2,,745100.0,As per BOQ,contractor_bills\SATTI_PLAZA_C006_RunBill_03.xlsx,contractor_bills,SATTI_PLAZA
+5,RCC M20,cft,1250.8,810.0,1013148.0,,contractor_bills\SATTI_PLAZA_C006_RunBill_03.xlsx,contractor_bills,SATTI_PLAZA
+6,Plastering,sft,1167.6,1154.0,1347410.4,Disputed,contractor_bills\SATTI_PLAZA_C006_RunBill_03.xlsx,contractor_bills,SATTI_PLAZA
+7,Electrical Wiring,point,2706,119.0,322014.0,Verified,contractor_bills\SATTI_PLAZA_C006_RunBill_03.xlsx,contractor_bills,SATTI_PLAZA
+,,,,,809523.44,,contractor_bills\SATTI_PLAZA_C006_RunBill_03.xlsx,contractor_bills,SATTI_PLAZA
+,,,,,1942941.42,,contractor_bills\SATTI_PLAZA_C006_RunBill_03.xlsx,contractor_bills,SATTI_PLAZA
+,,,,,80952.34,,contractor_bills\SATTI_PLAZA_C006_RunBill_03.xlsx,contractor_bills,SATTI_PLAZA
+,,,,,728571.1,,contractor_bills\SATTI_PLAZA_C006_RunBill_03.xlsx,contractor_bills,SATTI_PLAZA
+Prepared:,,Checked:,,,,,contractor_bills\SATTI_PLAZA_C006_RunBill_03.xlsx,contractor_bills,SATTI_PLAZA

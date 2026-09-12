@@ -1,0 +1,17 @@
+row_no,item_of_work,unit,qty,rate,amount,remarks,_source_file,_folder,_project
+Bill No:,RB-SAT-C007-02,,,,,,contractor_bills\SATTI_MALL_C007_RunBill_02.xlsx,contractor_bills,SATTI_MALL
+Date:,01-05-2008,,,,,,contractor_bills\SATTI_MALL_C007_RunBill_02.xlsx,contractor_bills,SATTI_MALL
+Project:,SATTI_MALL,,,,,,contractor_bills\SATTI_MALL_C007_RunBill_02.xlsx,contractor_bills,SATTI_MALL
+Contractor:,Bilal Tiles & Flooring,,,,,,contractor_bills\SATTI_MALL_C007_RunBill_02.xlsx,contractor_bills,SATTI_MALL
+Scope:,Flooring,,,,,,contractor_bills\SATTI_MALL_C007_RunBill_02.xlsx,contractor_bills,SATTI_MALL
+Contract Value:,9781406.58,,,,,,contractor_bills\SATTI_MALL_C007_RunBill_02.xlsx,contractor_bills,SATTI_MALL
+WORK DONE THIS PERIOD,,,,,,,contractor_bills\SATTI_MALL_C007_RunBill_02.xlsx,contractor_bills,SATTI_MALL
+1,Flooring,sft,3488.1,720.0,2511432.0,Disputed,contractor_bills\SATTI_MALL_C007_RunBill_02.xlsx,contractor_bills,SATTI_MALL
+2,Painting,sft,2426.4,2283.0,5539471.2,Verified,contractor_bills\SATTI_MALL_C007_RunBill_02.xlsx,contractor_bills,SATTI_MALL
+3,Excavation,cft,"PKR 2,870",1389.0,3986985.6,,contractor_bills\SATTI_MALL_C007_RunBill_02.xlsx,contractor_bills,SATTI_MALL
+4,Brick Masonry,cft,"2,314/-",1400.0,3239600.0,,contractor_bills\SATTI_MALL_C007_RunBill_02.xlsx,contractor_bills,SATTI_MALL
+,,,,,1693281.49,,contractor_bills\SATTI_MALL_C007_RunBill_02.xlsx,contractor_bills,SATTI_MALL
+,,,,,1117736.72,,contractor_bills\SATTI_MALL_C007_RunBill_02.xlsx,contractor_bills,SATTI_MALL
+,,,,,169328.15,,contractor_bills\SATTI_MALL_C007_RunBill_02.xlsx,contractor_bills,SATTI_MALL
+,,,,,,,contractor_bills\SATTI_MALL_C007_RunBill_02.xlsx,contractor_bills,SATTI_MALL
+Prepared:,,Checked:,,,,,contractor_bills\SATTI_MALL_C007_RunBill_02.xlsx,contractor_bills,SATTI_MALL

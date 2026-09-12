@@ -1,0 +1,18 @@
+row_no,item_of_work,unit,qty,rate,amount,remarks,_source_file,_folder,_project
+Bill No:,RB-SAT-C005-02,,,,,,contractor_bills\SATTI_APTS_C005_RunBill_02.xlsx,contractor_bills,SATTI_APTS
+Date:,22-Feb-2017,,,,,,contractor_bills\SATTI_APTS_C005_RunBill_02.xlsx,contractor_bills,SATTI_APTS
+Project:,SATTI_APTS,,,,,,contractor_bills\SATTI_APTS_C005_RunBill_02.xlsx,contractor_bills,SATTI_APTS
+Contractor:,Baig Steel Fabricators,,,,,,contractor_bills\SATTI_APTS_C005_RunBill_02.xlsx,contractor_bills,SATTI_APTS
+Scope:,Steel/Metal,,,,,,contractor_bills\SATTI_APTS_C005_RunBill_02.xlsx,contractor_bills,SATTI_APTS
+Contract Value:,"10,520,707/-",,,,,,contractor_bills\SATTI_APTS_C005_RunBill_02.xlsx,contractor_bills,SATTI_APTS
+WORK DONE THIS PERIOD,,,,,,,contractor_bills\SATTI_APTS_C005_RunBill_02.xlsx,contractor_bills,SATTI_APTS
+1,RCC M20,cft,4095,1589.0,6506955.0,,contractor_bills\SATTI_APTS_C005_RunBill_02.xlsx,contractor_bills,SATTI_APTS
+2,PCC 1:4:8,cft,3682.4,2424.0,8926137.6,Disputed,contractor_bills\SATTI_APTS_C005_RunBill_02.xlsx,contractor_bills,SATTI_APTS
+3,Window Frame,nos,1917.2,1458.0,2795277.6,,contractor_bills\SATTI_APTS_C005_RunBill_02.xlsx,contractor_bills,SATTI_APTS
+4,Brick Masonry,cft,2795.4,918.0,2566177.0,Verified,contractor_bills\SATTI_APTS_C005_RunBill_02.xlsx,contractor_bills,SATTI_APTS
+5,Painting,sft,2719.1,760.0,2066516.0,,contractor_bills\SATTI_APTS_C005_RunBill_02.xlsx,contractor_bills,SATTI_APTS
+,,,,,1085672.36,,contractor_bills\SATTI_APTS_C005_RunBill_02.xlsx,contractor_bills,SATTI_APTS
+,,,,,6333906.32,,contractor_bills\SATTI_APTS_C005_RunBill_02.xlsx,contractor_bills,SATTI_APTS
+,,,,,,,contractor_bills\SATTI_APTS_C005_RunBill_02.xlsx,contractor_bills,SATTI_APTS
+,,,,,977105.1200000001,,contractor_bills\SATTI_APTS_C005_RunBill_02.xlsx,contractor_bills,SATTI_APTS
+Prepared:,,Checked:,,,,,contractor_bills\SATTI_APTS_C005_RunBill_02.xlsx,contractor_bills,SATTI_APTS

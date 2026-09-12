@@ -1,0 +1,17 @@
+row_no,item_of_work,unit,qty,rate,amount,remarks,_source_file,_folder,_project
+Bill No:,RB-SAT-C002-06,,,,,,contractor_bills\SATTI_APTS_C002_RunBill_06.xlsx,contractor_bills,SATTI_APTS
+Date:,12-Aug-2015,,,,,,contractor_bills\SATTI_APTS_C002_RunBill_06.xlsx,contractor_bills,SATTI_APTS
+Project:,SATTI_APTS,,,,,,contractor_bills\SATTI_APTS_C002_RunBill_06.xlsx,contractor_bills,SATTI_APTS
+Contractor:,Iqbal Electrical Contractors,,,,,,contractor_bills\SATTI_APTS_C002_RunBill_06.xlsx,contractor_bills,SATTI_APTS
+Scope:,Electrical,,,,,,contractor_bills\SATTI_APTS_C002_RunBill_06.xlsx,contractor_bills,SATTI_APTS
+Contract Value:,"PKR 10,104,676",,,,,,contractor_bills\SATTI_APTS_C002_RunBill_06.xlsx,contractor_bills,SATTI_APTS
+WORK DONE THIS PERIOD,,,,,,,contractor_bills\SATTI_APTS_C002_RunBill_06.xlsx,contractor_bills,SATTI_APTS
+1,RCC M20,cft,4218.9,,6459135.9,As per BOQ,contractor_bills\SATTI_APTS_C002_RunBill_06.xlsx,contractor_bills,SATTI_APTS
+2,PCC 1:4:8,cft,2004.4,1743.0,3493669.0,,contractor_bills\SATTI_APTS_C002_RunBill_06.xlsx,contractor_bills,SATTI_APTS
+3,Painting,sft,TBD,1258.0,4471183.6,Disputed,contractor_bills\SATTI_APTS_C002_RunBill_06.xlsx,contractor_bills,SATTI_APTS
+4,Flooring,sft,4287.3,1101.0,4720317.3,Verified,contractor_bills\SATTI_APTS_C002_RunBill_06.xlsx,contractor_bills,SATTI_APTS
+,,,,,1473936.7,,contractor_bills\SATTI_APTS_C002_RunBill_06.xlsx,contractor_bills,SATTI_APTS
+,,,,,4089632.94,,contractor_bills\SATTI_APTS_C002_RunBill_06.xlsx,contractor_bills,SATTI_APTS
+,,,,,147393.67,,contractor_bills\SATTI_APTS_C002_RunBill_06.xlsx,contractor_bills,SATTI_APTS
+,,,,,1326543.03,,contractor_bills\SATTI_APTS_C002_RunBill_06.xlsx,contractor_bills,SATTI_APTS
+Prepared:,,Checked:,,,,,contractor_bills\SATTI_APTS_C002_RunBill_06.xlsx,contractor_bills,SATTI_APTS

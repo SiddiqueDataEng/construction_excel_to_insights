@@ -1,0 +1,19 @@
+row_no,item_of_work,unit,qty,rate,amount,remarks,_source_file,_folder,_project
+Bill No:,RB-SAT-C008-05,,,,,,contractor_bills\SATTI_MALL_C008_RunBill_05.xlsx,contractor_bills,SATTI_MALL
+Date:,18-Mar-2007,,,,,,contractor_bills\SATTI_MALL_C008_RunBill_05.xlsx,contractor_bills,SATTI_MALL
+Project:,SATTI_MALL,,,,,,contractor_bills\SATTI_MALL_C008_RunBill_05.xlsx,contractor_bills,SATTI_MALL
+Contractor:,Sultan HVAC Services,,,,,,contractor_bills\SATTI_MALL_C008_RunBill_05.xlsx,contractor_bills,SATTI_MALL
+Scope:,HVAC,,,,,,contractor_bills\SATTI_MALL_C008_RunBill_05.xlsx,contractor_bills,SATTI_MALL
+Contract Value:,14586973.65,,,,,,contractor_bills\SATTI_MALL_C008_RunBill_05.xlsx,contractor_bills,SATTI_MALL
+WORK DONE THIS PERIOD,,,,,,,contractor_bills\SATTI_MALL_C008_RunBill_05.xlsx,contractor_bills,SATTI_MALL
+1,Window Frame,nos,4409.4,2288.0,10088707.2,As per BOQ,contractor_bills\SATTI_MALL_C008_RunBill_05.xlsx,contractor_bills,SATTI_MALL
+2,Electrical Wiring,point,2772.2,1718.0,4762640.0,Disputed,contractor_bills\SATTI_MALL_C008_RunBill_05.xlsx,contractor_bills,SATTI_MALL
+3,PCC 1:4:8,cft,640.8,2120.0,1358496.0,,contractor_bills\SATTI_MALL_C008_RunBill_05.xlsx,contractor_bills,SATTI_MALL
+4,Door Frame,nos,100/-,1849.0,185084.9,Verified,contractor_bills\SATTI_MALL_C008_RunBill_05.xlsx,contractor_bills,SATTI_MALL
+5,Excavation,cft,4753.7,1175.0,5585597.5,Disputed,contractor_bills\SATTI_MALL_C008_RunBill_05.xlsx,contractor_bills,SATTI_MALL
+6,Painting,sft,2520.5,2303.0,5804711.5,Verified,contractor_bills\SATTI_MALL_C008_RunBill_05.xlsx,contractor_bills,SATTI_MALL
+,,,,,1794179.0,,contractor_bills\SATTI_MALL_C008_RunBill_05.xlsx,contractor_bills,SATTI_MALL
+,,,,,1202622.83,,contractor_bills\SATTI_MALL_C008_RunBill_05.xlsx,contractor_bills,SATTI_MALL
+,,,,,179417.86,,contractor_bills\SATTI_MALL_C008_RunBill_05.xlsx,contractor_bills,SATTI_MALL
+,,,,,1614760.71,,contractor_bills\SATTI_MALL_C008_RunBill_05.xlsx,contractor_bills,SATTI_MALL
+Prepared:,,Checked:,,,,,contractor_bills\SATTI_MALL_C008_RunBill_05.xlsx,contractor_bills,SATTI_MALL
