@@ -60,8 +60,6 @@ st.markdown("""
 [data-testid="stAppViewContainer"] main,
 [data-testid="stAppViewContainer"] .block-container { color: #172033 !important; }
 [data-testid="stAppViewContainer"] main .stMarkdown,
-[data-testid="stAppViewContainer"] main .stMarkdown p,
-[data-testid="stAppViewContainer"] main .stMarkdown span,
 [data-testid="stAppViewContainer"] main h1,
 [data-testid="stAppViewContainer"] main h2,
 [data-testid="stAppViewContainer"] main h3,
@@ -70,16 +68,40 @@ st.markdown("""
 [data-testid="stAppViewContainer"] main [data-testid="stWidgetLabel"] p {
     color: #172033 !important;
 }
-[data-testid="stAppViewContainer"] main [data-baseweb="tab"] {
+[data-testid="stAppViewContainer"] main [data-baseweb="tab"],
+[data-testid="stAppViewContainer"] main [data-baseweb="tab"] * {
     color: #526173 !important;
 }
-[data-testid="stAppViewContainer"] main [aria-selected="true"][data-baseweb="tab"] {
+[data-testid="stAppViewContainer"] main [aria-selected="true"][data-baseweb="tab"],
+[data-testid="stAppViewContainer"] main [aria-selected="true"][data-baseweb="tab"] * {
     color: #12355B !important;
 }
 [data-testid="stAppViewContainer"] main input,
-[data-testid="stAppViewContainer"] main textarea {
+[data-testid="stAppViewContainer"] main textarea,
+[data-testid="stAppViewContainer"] main [data-testid="stNumberInput"] input,
+[data-testid="stAppViewContainer"] main [data-testid="stNumberInput"] [data-baseweb="input"] {
     color: #172033 !important;
     background: #FFFFFF !important;
+    border-color: #9AAABD !important;
+}
+[data-testid="stAppViewContainer"] main [data-testid="stNumberInput"] button {
+    color: #12355B !important;
+    background: #E8EEF5 !important;
+    border-color: #9AAABD !important;
+}
+[data-testid="stAppViewContainer"] main [data-testid="stNumberInput"] label,
+[data-testid="stAppViewContainer"] main [data-testid="stSlider"] label,
+[data-testid="stAppViewContainer"] main [data-testid="stWidgetLabel"] p {
+    color: #172033 !important;
+    font-weight: 600 !important;
+}
+[data-testid="stAppViewContainer"] main [data-testid="stAlert"] {
+    color: #172033 !important;
+    background: #E8F2FB !important;
+    border: 1px solid #A8C7E3 !important;
+}
+[data-testid="stAppViewContainer"] main [data-testid="stAlert"] p {
+    color: #172033 !important;
 }
 [data-testid="stSidebar"]          { background: #12355B; }
 [data-testid="stSidebar"] * { color: #ffffff !important; }
