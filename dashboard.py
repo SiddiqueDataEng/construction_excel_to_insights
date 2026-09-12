@@ -24,16 +24,18 @@ st.set_page_config(
 )
 
 # ── Colour scheme ──────────────────────────────────────────────────────────────
-BRAND      = "#1F3864"
-ACCENT     = "#2E75B6"
-GREEN      = "#00B050"
-AMBER      = "#FF8C00"
-RED_C      = "#C00000"
-LIGHT_BG   = "#F4F7FB"
+BRAND      = "#12355B"
+ACCENT     = "#007C83"
+GREEN      = "#16803C"
+AMBER      = "#B45309"
+RED_C      = "#B42318"
+TEXT       = "#172033"
+MUTED      = "#526173"
+LIGHT_BG   = "#F5F7FA"
 PROJ_COLORS = {
-    "SATTI_MALL":  "#1F3864",
-    "SATTI_PLAZA": "#2E75B6",
-    "SATTI_APTS":  "#00B050",
+    "SATTI_MALL":  "#12355B",
+    "SATTI_PLAZA": "#007C83",
+    "SATTI_APTS":  "#16803C",
 }
 PROJECT_LABELS = {
     "SATTI_MALL":  "Satti Mall (2006–08)",
@@ -45,42 +47,80 @@ ANALYST_DIR = "analysis_output"
 # ── Custom CSS ─────────────────────────────────────────────────────────────────
 st.markdown("""
 <style>
-/* Main background */
-[data-testid="stAppViewContainer"] { background: #F4F7FB; }
-[data-testid="stSidebar"]          { background: #1F3864; }
+/* Main background and base text */
+[data-testid="stAppViewContainer"] {
+    background: #F5F7FA;
+    --text-color: #172033;
+    --secondary-text-color: #526173;
+    --background-color: #F5F7FA;
+    --secondary-background-color: #FFFFFF;
+    --primary-color: #007C83;
+}
+[data-testid="stAppViewContainer"] .main,
+[data-testid="stAppViewContainer"] main,
+[data-testid="stAppViewContainer"] .block-container { color: #172033 !important; }
+[data-testid="stAppViewContainer"] main .stMarkdown,
+[data-testid="stAppViewContainer"] main .stMarkdown p,
+[data-testid="stAppViewContainer"] main .stMarkdown span,
+[data-testid="stAppViewContainer"] main h1,
+[data-testid="stAppViewContainer"] main h2,
+[data-testid="stAppViewContainer"] main h3,
+[data-testid="stAppViewContainer"] main label,
+[data-testid="stAppViewContainer"] main [data-testid="stWidgetLabel"],
+[data-testid="stAppViewContainer"] main [data-testid="stWidgetLabel"] p {
+    color: #172033 !important;
+}
+[data-testid="stAppViewContainer"] main [data-baseweb="tab"] {
+    color: #526173 !important;
+}
+[data-testid="stAppViewContainer"] main [aria-selected="true"][data-baseweb="tab"] {
+    color: #12355B !important;
+}
+[data-testid="stAppViewContainer"] main input,
+[data-testid="stAppViewContainer"] main textarea {
+    color: #172033 !important;
+    background: #FFFFFF !important;
+}
+[data-testid="stSidebar"]          { background: #12355B; }
 [data-testid="stSidebar"] * { color: #ffffff !important; }
 [data-testid="stSidebar"] .stSelectbox label,
-[data-testid="stSidebar"] .stMultiSelect label { color: #c5d8f0 !important; }
+[data-testid="stSidebar"] .stMultiSelect label { color: #D9E7F5 !important; }
+[data-testid="stSidebar"] [data-baseweb="select"] > div { background: #1B4772; border-color: #76A8CF; }
+[data-testid="stSidebar"] [data-baseweb="select"] input { color: #ffffff !important; }
+[data-testid="stSidebar"] [data-baseweb="tag"] { background: #007C83; }
+[data-testid="stSidebar"] button { border-color: #76A8CF; }
 
 /* KPI cards */
 .kpi-card {
     background: white;
     border-radius: 12px;
     padding: 18px 20px 14px 20px;
-    box-shadow: 0 2px 8px rgba(31,56,100,0.10);
-    border-left: 5px solid #2E75B6;
+    box-shadow: 0 2px 8px rgba(18,53,91,0.12);
+    border: 1px solid #D6DEE8;
+    border-left: 5px solid #007C83;
     margin-bottom: 2px;
 }
-.kpi-card.red   { border-left-color: #C00000; }
-.kpi-card.green { border-left-color: #00B050; }
-.kpi-card.amber { border-left-color: #FF8C00; }
-.kpi-label  { font-size: 12px; color: #6B7280; font-weight: 600; text-transform: uppercase; letter-spacing: .5px; }
-.kpi-value  { font-size: 26px; color: #1F3864; font-weight: 800; line-height: 1.2; }
-.kpi-delta  { font-size: 12px; color: #6B7280; margin-top: 2px; }
+.kpi-card.red   { border-left-color: #B42318; }
+.kpi-card.green { border-left-color: #16803C; }
+.kpi-card.amber { border-left-color: #B45309; }
+.kpi-label  { font-size: 12px; color: #526173; font-weight: 700; text-transform: uppercase; letter-spacing: .5px; }
+.kpi-value  { font-size: 26px; color: #12355B; font-weight: 800; line-height: 1.2; }
+.kpi-delta  { font-size: 12px; color: #526173; margin-top: 2px; }
 
 /* Alert boxes */
-.alert-red   { background:#FEE2E2; border-left:4px solid #C00000; padding:10px 14px; border-radius:6px; color:#7F1D1D; font-size:13px; margin-bottom:6px;}
-.alert-amber { background:#FEF3C7; border-left:4px solid #FF8C00; padding:10px 14px; border-radius:6px; color:#78350F; font-size:13px; margin-bottom:6px;}
-.alert-green { background:#D1FAE5; border-left:4px solid #00B050; padding:10px 14px; border-radius:6px; color:#064E3B; font-size:13px; margin-bottom:6px;}
+.alert-red   { background:#FDECEC; border:1px solid #F3B5B1; border-left:4px solid #B42318; padding:10px 14px; border-radius:6px; color:#7A271A; font-size:13px; margin-bottom:6px;}
+.alert-amber { background:#FFF4E5; border:1px solid #F2C78F; border-left:4px solid #B45309; padding:10px 14px; border-radius:6px; color:#713B12; font-size:13px; margin-bottom:6px;}
+.alert-green { background:#EAF6EE; border:1px solid #A8D5B5; border-left:4px solid #16803C; padding:10px 14px; border-radius:6px; color:#14532D; font-size:13px; margin-bottom:6px;}
 
 /* Section headers */
 .section-header {
-    font-size: 17px; font-weight: 700; color: #1F3864;
-    border-bottom: 2px solid #2E75B6; padding-bottom: 4px;
+    font-size: 17px; font-weight: 700; color: #12355B;
+    border-bottom: 2px solid #007C83; padding-bottom: 4px;
     margin-top: 10px; margin-bottom: 12px;
 }
 /* Tables */
 .dataframe { font-size: 12px !important; }
+[data-testid="stDataFrame"] { border: 1px solid #D6DEE8; }
 </style>
 """, unsafe_allow_html=True)
 
@@ -199,16 +239,27 @@ def section(title):
 
 def chart_layout(fig, title="", height=380):
     fig.update_layout(
-        title=dict(text=title, font=dict(size=14, color=BRAND), x=0),
+        title=dict(text=title, font=dict(size=14, color=TEXT), x=0),
         height=height,
         paper_bgcolor="white",
         plot_bgcolor="white",
-        font=dict(family="Segoe UI, Arial", size=12),
+        font=dict(family="Segoe UI, Arial", size=12, color=TEXT),
         margin=dict(l=10, r=10, t=40, b=10),
-        legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1),
+        legend=dict(
+            orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1,
+            font=dict(color=TEXT, size=11),
+            bgcolor="rgba(255,255,255,0.92)",
+        ),
+        hoverlabel=dict(bgcolor=BRAND, font=dict(color="white", size=12)),
     )
-    fig.update_xaxes(showgrid=False, zeroline=False)
-    fig.update_yaxes(showgrid=True, gridcolor="#EEEEEE", zeroline=False)
+    fig.update_xaxes(
+        showgrid=False, zeroline=False,
+        tickfont=dict(color=MUTED), title_font=dict(color=TEXT),
+    )
+    fig.update_yaxes(
+        showgrid=True, gridcolor="#DCE3EB", zeroline=False,
+        tickfont=dict(color=MUTED), title_font=dict(color=TEXT),
+    )
     return fig
 
 # ══════════════════════════════════════════════════════════════════════════════
@@ -248,7 +299,7 @@ with st.sidebar:
         selected_projects = ALL_PROJECTS
 
     st.markdown("---")
-    st.markdown('<div style="font-size:11px; color:#94a3b8; margin-top:8px;">'
+    st.markdown('<div style="font-size:11px; color:#D9E7F5; margin-top:8px;">'
                 '📊 Data: 405 raw Excel files<br>'
                 '🔁 Pipeline: Clean → Match → Analyze<br>'
                 '🧠 Fuzzy matching: rapidfuzz<br>'
@@ -275,7 +326,7 @@ if page == "🏠 Overview":
         <h1 style='color:white;margin:0;font-size:28px;'>
             🏗️ Satti Group – Construction Analytics Dashboard
         </h1>
-        <p style='color:#c5d8f0;margin:6px 0 0 0;font-size:14px;'>
+        <p style='color:#D9E7F5;margin:6px 0 0 0;font-size:14px;'>
             Satti Mall (2006–08) &nbsp;|&nbsp; Satti Plaza (2011–14)
             &nbsp;|&nbsp; Satti Apartments (2015–18)
             &nbsp;&nbsp;·&nbsp;&nbsp; 100+ Residential & Commercial Units
