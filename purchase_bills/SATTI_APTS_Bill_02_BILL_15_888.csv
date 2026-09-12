@@ -1,9 +1,0 @@
-row_no,item_code,description,unit,rate,amount,_source_file,_folder,_project
-Invoice #,BILL/15/888,Vendor:,Super Steel & Iron Works,,,purchase_bills\SATTI_APTS_Bill_02_BILL_15_888.xlsx,purchase_bills,SATTI_APTS
-Project,SATTI_APTS,Date:,11-28-2017,,,purchase_bills\SATTI_APTS_Bill_02_BILL_15_888.xlsx,purchase_bills,SATTI_APTS
-1,"G.I.PIPE 2""",GalvPipe-2,24.4,,7320.0,purchase_bills\SATTI_APTS_Bill_02_BILL_15_888.xlsx,purchase_bills,SATTI_APTS
-2,GENSET-25,25KVA Genset,87.4,891410.0,77909234.0,purchase_bills\SATTI_APTS_Bill_02_BILL_15_888.xlsx,purchase_bills,SATTI_APTS
-3,CBL-ARM-95,AC-95sq,252.8,768.0,194150.4,purchase_bills\SATTI_APTS_Bill_02_BILL_15_888.xlsx,purchase_bills,SATTI_APTS
-,,,,,78143710.0,purchase_bills\SATTI_APTS_Bill_02_BILL_15_888.xlsx,purchase_bills,SATTI_APTS
-,,,,,,purchase_bills\SATTI_APTS_Bill_02_BILL_15_888.xlsx,purchase_bills,SATTI_APTS
-Prepared by:,,,,,,purchase_bills\SATTI_APTS_Bill_02_BILL_15_888.xlsx,purchase_bills,SATTI_APTS

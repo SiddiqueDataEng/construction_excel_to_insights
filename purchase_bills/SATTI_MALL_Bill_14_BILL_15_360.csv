@@ -1,9 +1,0 @@
-row_no,item_code,description,unit,rate,amount,_source_file,_folder,_project
-Invoice #,BILL/15/360,Vendor:,Karachi Sanitary Depot,,,purchase_bills\SATTI_MALL_Bill_14_BILL_15_360.xlsx,purchase_bills,SATTI_MALL
-Project,SATTI_MALL,Date:,05.12.2006,,,purchase_bills\SATTI_MALL_Bill_14_BILL_15_360.xlsx,purchase_bills,SATTI_MALL
-1,COPWIRE3,CopWire3,98.4,53.0,5215.2,purchase_bills\SATTI_MALL_Bill_14_BILL_15_360.xlsx,purchase_bills,SATTI_MALL
-2,PIP-GI1,"G.I.Pipe 1""",PKR 321,157.0,50381.3,purchase_bills\SATTI_MALL_Bill_14_BILL_15_360.xlsx,purchase_bills,SATTI_MALL
-3,GENERATOR 25KVA,25KVA Genset,185.9,1002138.0,186297454.0,purchase_bills\SATTI_MALL_Bill_14_BILL_15_360.xlsx,purchase_bills,SATTI_MALL
-,,,,,186353050.7,purchase_bills\SATTI_MALL_Bill_14_BILL_15_360.xlsx,purchase_bills,SATTI_MALL
-,,,,,,purchase_bills\SATTI_MALL_Bill_14_BILL_15_360.xlsx,purchase_bills,SATTI_MALL
-Prepared by:,ASIF,,,,,purchase_bills\SATTI_MALL_Bill_14_BILL_15_360.xlsx,purchase_bills,SATTI_MALL
