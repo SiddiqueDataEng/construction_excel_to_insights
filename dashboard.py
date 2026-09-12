@@ -81,7 +81,8 @@ st.markdown("""
 [data-testid="stAppViewContainer"] main [data-testid="stTabs"] [data-baseweb="tab"] *,
 [data-testid="stAppViewContainer"] main [data-testid="stTabs"] [role="tab"],
 [data-testid="stAppViewContainer"] main [data-testid="stTabs"] [role="tab"] * {
-    color: #526173 !important;
+    color: #12355B !important;
+    font-weight: 700 !important;
     opacity: 1 !important;
 }
 [data-testid="stAppViewContainer"] main [data-testid="stTabs"] [aria-selected="true"],
@@ -90,7 +91,7 @@ st.markdown("""
     font-weight: 800 !important;
 }
 [data-testid="stAppViewContainer"] main [data-testid="stTabs"] [data-baseweb="tab-highlight"] {
-    background-color: #007C83 !important;
+    background-color: #12355B !important;
 }
 [data-testid="stAppViewContainer"] main input,
 [data-testid="stAppViewContainer"] main textarea,
