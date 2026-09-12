@@ -140,6 +140,14 @@ st.markdown("""
 /* Tables */
 .dataframe { font-size: 12px !important; }
 [data-testid="stDataFrame"] { border: 1px solid #D6DEE8; }
+.estimator-label {
+    color: #172033 !important;
+    font-size: 13px;
+    font-weight: 700;
+    line-height: 1.25;
+    min-height: 34px;
+    margin: 8px 0 5px 0;
+}
 </style>
 """, unsafe_allow_html=True)
 
@@ -255,6 +263,9 @@ def alert(msg, level="red"):
 
 def section(title):
     st.markdown(f'<div class="section-header">{title}</div>', unsafe_allow_html=True)
+
+def estimator_label(text):
+    st.markdown(f'<div class="estimator-label">{text}</div>', unsafe_allow_html=True)
 
 def chart_layout(fig, title="", height=380):
     fig.update_layout(
@@ -1297,10 +1308,11 @@ elif page == "🔮 Cost Estimator":
                 min_rate = min_rate if pd.notna(min_rate) else std_rate
 
                 with cols[j]:
+                    estimator_label(f"{name} ({unit}) @ PKR {std_rate:,}")
                     qty = st.number_input(
-                        f"{name[:22]}\n({unit}) @ PKR {std_rate:,}",
+                        f"Quantity for {name}",
                         min_value=0.0, value=0.0, step=10.0,
-                        key=f"mat_{code}"
+                        key=f"mat_{code}", label_visibility="collapsed"
                     )
                     est_rows.append({
                         "Code": code, "Material": name, "Unit": unit,
@@ -1366,16 +1378,19 @@ elif page == "🔮 Cost Estimator":
             hist_avg = {}
 
         st.markdown("Enter workers and duration (days):")
-        duration_days = st.slider("Project Duration (days)", 30, 1200, 365, step=15)
+        estimator_label("Project Duration (days)")
+        duration_days = st.slider("Project Duration (days)", 30, 1200, 365, step=15,
+                      label_visibility="collapsed")
 
         lab_rows = []
         cols_l   = st.columns(5)
         for i, (trade, daily_rate) in enumerate(labour_rates.items()):
             hist = hist_avg.get(trade, daily_rate)
             with cols_l[i % 5]:
-                n = st.number_input(f"{trade}\nPKR {daily_rate}/day",
+                estimator_label(f"{trade} - PKR {daily_rate}/day")
+                n = st.number_input(f"Workers: {trade}",
                                     min_value=0, value=0, step=1,
-                                    key=f"lab_{trade}")
+                                    key=f"lab_{trade}", label_visibility="collapsed")
                 lab_rows.append({
                     "Trade": trade, "Count": n,
                     "Daily Rate": daily_rate,
@@ -1415,13 +1430,21 @@ elif page == "🔮 Cost Estimator":
 
         col_b1, col_b2 = st.columns(2)
         with col_b1:
-            proj_name   = st.text_input("Project Name", "New Satti Tower")
-            total_area  = st.number_input("Total Built-up Area (sft)", 1000, 500000, 50000, step=500)
-            floors      = st.number_input("Number of Floors", 1, 30, 5)
+            estimator_label("Project Name")
+            proj_name   = st.text_input("Project Name", "New Satti Tower", label_visibility="collapsed")
+            estimator_label("Total Built-up Area (sft)")
+            total_area  = st.number_input("Total Built-up Area (sft)", 1000, 500000, 50000,
+                                          step=500, label_visibility="collapsed")
+            estimator_label("Number of Floors")
+            floors      = st.number_input("Number of Floors", 1, 30, 5, label_visibility="collapsed")
         with col_b2:
-            proj_type   = st.selectbox("Project Type", ["Residential","Commercial","Mixed-Use"])
-            contingency = st.slider("Contingency %", 0, 25, 10)
-            overhead    = st.slider("Site Overhead %", 0, 20, 8)
+            estimator_label("Project Type")
+            proj_type   = st.selectbox("Project Type", ["Residential","Commercial","Mixed-Use"],
+                                       label_visibility="collapsed")
+            estimator_label("Contingency %")
+            contingency = st.slider("Contingency %", 0, 25, 10, label_visibility="collapsed")
+            estimator_label("Site Overhead %")
+            overhead    = st.slider("Site Overhead %", 0, 20, 8, label_visibility="collapsed")
 
         # Rough cost per sft benchmarks from historical data
         benchmarks = {
